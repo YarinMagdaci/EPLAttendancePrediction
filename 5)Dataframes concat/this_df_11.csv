@@ -1,0 +1,381 @@
+,team_1,team_2,team_1_rating,team_2_rating,capacity,stadium,month,derby,current_season,year,city,temprature,precipitation,attendance
+0,Burnley,AFC Bournemouth,7.0,12.0,21944.0,Turf Moor,may,0.0,2017/18,2017,Burnley,10.0,79.3,20720.0
+1,Crystal Palace,West Bromwich Albion,11.0,20.0,25486.0,Selhurst Park,may,0.0,2017/18,2017,London,14.0,52.1,25357.0
+2,Huddersfield Town,Arsenal,16.0,6.0,24500.0,John Smith's Stadium,may,0.0,2017/18,2017,Huddersfield,10.0,26.0,24122.0
+3,Liverpool,Brighton and Hove Albion,4.0,15.0,54074.0,Anfield,may,0.0,2017/18,2017,Liverpool,12.0,53.6,50752.0
+4,Manchester United,Watford,2.0,14.0,75643.0,Old Trafford,may,0.0,2017/18,2017,Manchester,12.0,21.2,75049.0
+5,Newcastle United,Chelsea,10.0,5.0,52305.0,St. James' Park,may,0.0,2017/18,2017,Newcastle,9.0,116.4,52294.0
+6,Southampton,Manchester City,17.0,1.0,32384.0,St. Mary's Stadium,may,0.0,2017/18,2017,Southampton,13.0,16.5,31882.0
+7,Swansea City,Stoke City,18.0,19.0,20937.0,Liberty Stadium,may,0.0,2017/18,2017,Swansea,12.0,80.3,20673.0
+8,Tottenham Hotspur,Leicester City,3.0,9.0,90000.0,Wembley Stadium,may,0.0,2017/18,2017,London,14.0,52.1,77841.0
+9,West Ham United,Everton,13.0,8.0,80000.0,London Stadium,may,0.0,2017/18,2017,London,14.0,52.1,56926.0
+10,West Ham United,Manchester United,15.0,2.0,80000.0,London Stadium,may,0.0,2017/18,2017,London,14.0,52.1,56902.0
+11,Chelsea,Huddersfield Town,5.0,16.0,40834.0,Stamford Bridge,may,0.0,2017/18,2017,London,14.0,52.1,38910.0
+12,Leicester City,Arsenal,9.0,6.0,32261.0,King Power Stadium,may,0.0,2017/18,2017,Leicester,12.0,24.0,32095.0
+13,Manchester City,Brighton and Hove Albion,1.0,14.0,53400.0,Etihad Stadium,may,0.0,2017/18,2017,Manchester,12.0,21.2,54013.0
+14,Tottenham Hotspur,Newcastle United,3.0,10.0,90000.0,Wembley Stadium,may,0.0,2017/18,2017,London,14.0,52.1,54923.0
+15,Swansea City,Southampton,18.0,17.0,20937.0,Liberty Stadium,may,0.0,2017/18,2017,Swansea,12.0,80.3,20858.0
+16,Manchester City,Huddersfield Town,1.0,16.0,53400.0,Etihad Stadium,may,0.0,2017/18,2017,Manchester,12.0,21.2,54350.0
+17,Arsenal,Burnley,6.0,7.0,60704.0,Emirates Stadium,may,0.0,2017/18,2017,London,14.0,52.1,59540.0
+18,Chelsea,Liverpool,5.0,4.0,40834.0,Stamford Bridge,may,0.0,2017/18,2017,London,14.0,52.1,41314.0
+19,Stoke City,Crystal Palace,20.0,11.0,30089.0,bet365 Stadium,may,0.0,2017/18,2017,Stoke,12.0,21.2,29687.0
+20,AFC Bournemouth,Swansea City,12.0,18.0,11329.0,Vitality Stadium,may,0.0,2017/18,2017,Bournemouth,11.0,26.2,10820.0
+21,Leicester City,West Ham United,9.0,15.0,32261.0,King Power Stadium,may,0.0,2017/18,2017,Leicester,12.0,24.0,32013.0
+22,Watford,Newcastle United,13.0,10.0,22200.0,Vicarage Road,may,0.0,2017/18,2017,Watford,13.0,28.6,20375.0
+23,West Bromwich Albion,Tottenham Hotspur,19.0,3.0,26445.0,The Hawthorns,may,0.0,2017/18,2017,West Bromwich,12.0,26.6,23685.0
+24,Everton,Southampton,8.0,17.0,39414.0,Goodison Park,may,0.0,2017/18,2017,Liverpool,12.0,53.6,38225.0
+25,Brighton and Hove Albion,Manchester United,14.0,2.0,30666.0,Amex Stadium,may,0.0,2017/18,2017,Falmer,12.0,22.9,30611.0
+26,Tottenham Hotspur,Watford,4.0,13.0,90000.0,Wembley Stadium,apr,0.0,2017/18,2017,London,11.0,30.6,52675.0
+27,West Ham United,Manchester City,15.0,1.0,80000.0,London Stadium,apr,0.0,2017/18,2017,London,11.0,30.6,56904.0
+28,Manchester United,Arsenal,2.0,6.0,75643.0,Old Trafford,apr,0.0,2017/18,2017,Manchester,9.0,27.0,75035.0
+29,Liverpool,Stoke City,3.0,19.0,54074.0,Anfield,apr,0.0,2017/18,2017,Liverpool,10.0,36.7,53255.0
+30,Burnley,Brighton and Hove Albion,7.0,14.0,21944.0,Turf Moor,apr,0.0,2017/18,2017,Burnley,8.0,50.0,19459.0
+31,Crystal Palace,Leicester City,11.0,9.0,25486.0,Selhurst Park,apr,0.0,2017/18,2017,London,11.0,30.6,25750.0
+32,Huddersfield Town,Everton,16.0,8.0,24500.0,John Smith's Stadium,apr,0.0,2017/18,2017,Huddersfield,7.0,25.8,24121.0
+33,Newcastle United,West Bromwich Albion,10.0,20.0,52305.0,St. James' Park,apr,0.0,2017/18,2017,Newcastle,7.0,70.0,52283.0
+34,Southampton,AFC Bournemouth,18.0,12.0,32384.0,St. Mary's Stadium,apr,0.0,2017/18,2017,Southampton,9.0,19.2,31778.0
+35,Swansea City,Chelsea,17.0,5.0,20937.0,Liberty Stadium,apr,0.0,2017/18,2017,Swansea,10.0,39.8,20900.0
+36,Everton,Newcastle United,8.0,10.0,39414.0,Goodison Park,apr,0.0,2017/18,2017,Liverpool,10.0,36.7,39061.0
+37,Arsenal,West Ham United,6.0,15.0,60704.0,Emirates Stadium,apr,1.0,2017/18,2017,London,11.0,30.6,59422.0
+38,Stoke City,Burnley,19.0,7.0,30089.0,bet365 Stadium,apr,0.0,2017/18,2017,Stoke,9.0,27.0,29532.0
+39,Manchester City,Swansea City,1.0,17.0,53400.0,Etihad Stadium,apr,0.0,2017/18,2017,Manchester,9.0,27.0,54387.0
+40,West Bromwich Albion,Liverpool,20.0,3.0,26445.0,The Hawthorns,apr,0.0,2017/18,2017,West Bromwich,8.0,23.8,24520.0
+41,Watford,Crystal Palace,12.0,14.0,22200.0,Vicarage Road,apr,0.0,2017/18,2017,Watford,10.0,28.8,20401.0
+42,Burnley,Chelsea,7.0,5.0,21944.0,Turf Moor,apr,0.0,2017/18,2017,Burnley,8.0,50.0,21264.0
+43,Leicester City,Southampton,8.0,18.0,32261.0,King Power Stadium,apr,0.0,2017/18,2017,Leicester,9.0,26.4,31160.0
+44,AFC Bournemouth,Manchester United,11.0,2.0,11329.0,Vitality Stadium,apr,0.0,2017/18,2017,Bournemouth,8.0,35.5,10952.0
+45,Brighton and Hove Albion,Tottenham Hotspur,13.0,4.0,30666.0,Amex Stadium,apr,0.0,2017/18,2017,Falmer,9.0,25.4,30440.0
+46,West Ham United,Stoke City,14.0,19.0,80000.0,London Stadium,apr,0.0,2017/18,2017,London,11.0,30.6,56795.0
+47,Newcastle United,Arsenal,10.0,6.0,52305.0,St. James' Park,apr,0.0,2017/18,2017,Newcastle,7.0,70.0,52210.0
+48,Manchester United,West Bromwich Albion,2.0,20.0,75643.0,Old Trafford,apr,0.0,2017/18,2017,Manchester,9.0,27.0,75095.0
+49,Southampton,Chelsea,18.0,5.0,32384.0,St. Mary's Stadium,apr,0.0,2017/18,2017,Southampton,9.0,19.2,31764.0
+50,Burnley,Leicester City,7.0,8.0,21944.0,Turf Moor,apr,0.0,2017/18,2017,Burnley,8.0,50.0,21727.0
+51,Crystal Palace,Brighton and Hove Albion,16.0,13.0,25486.0,Selhurst Park,apr,0.0,2017/18,2017,London,11.0,30.6,24656.0
+52,Huddersfield Town,Watford,15.0,12.0,24500.0,John Smith's Stadium,apr,0.0,2017/18,2017,Huddersfield,7.0,25.8,23961.0
+53,Swansea City,Everton,17.0,9.0,20937.0,Liberty Stadium,apr,0.0,2017/18,2017,Swansea,10.0,39.8,20933.0
+54,Liverpool,AFC Bournemouth,3.0,11.0,54074.0,Anfield,apr,0.0,2017/18,2017,Liverpool,10.0,36.7,52959.0
+55,Tottenham Hotspur,Manchester City,4.0,1.0,90000.0,Wembley Stadium,apr,0.0,2017/18,2017,London,11.0,30.6,80811.0
+56,Arsenal,Southampton,6.0,18.0,60704.0,Emirates Stadium,apr,0.0,2017/18,2017,London,11.0,30.6,59374.0
+57,Chelsea,West Ham United,5.0,14.0,40834.0,Stamford Bridge,apr,1.0,2017/18,2017,London,11.0,30.6,41324.0
+58,Everton,Liverpool,9.0,3.0,39414.0,Goodison Park,apr,1.0,2017/18,2017,Liverpool,10.0,36.7,39220.0
+59,AFC Bournemouth,Crystal Palace,11.0,17.0,11329.0,Vitality Stadium,apr,0.0,2017/18,2017,Bournemouth,8.0,35.5,10730.0
+60,Brighton and Hove Albion,Huddersfield Town,13.0,16.0,30666.0,Amex Stadium,apr,0.0,2017/18,2017,Falmer,9.0,25.4,30501.0
+61,Leicester City,Newcastle United,8.0,10.0,32261.0,King Power Stadium,apr,0.0,2017/18,2017,Leicester,9.0,26.4,32066.0
+62,Stoke City,Tottenham Hotspur,19.0,4.0,30089.0,bet365 Stadium,apr,0.0,2017/18,2017,Stoke,9.0,27.0,29515.0
+63,Watford,Burnley,12.0,7.0,22200.0,Vicarage Road,apr,0.0,2017/18,2017,Watford,10.0,28.8,20044.0
+64,West Bromwich Albion,Swansea City,20.0,15.0,26445.0,The Hawthorns,apr,0.0,2017/18,2017,West Bromwich,8.0,23.8,23297.0
+65,Manchester City,Manchester United,1.0,2.0,53400.0,Etihad Stadium,apr,1.0,2017/18,2017,Manchester,9.0,27.0,54259.0
+66,Arsenal,Stoke City,6.0,19.0,60704.0,Emirates Stadium,apr,0.0,2017/18,2017,London,11.0,30.6,59371.0
+67,Chelsea,Tottenham Hotspur,5.0,4.0,40834.0,Stamford Bridge,apr,1.0,2017/18,2017,London,11.0,30.6,41364.0
+68,Crystal Palace,Liverpool,17.0,3.0,25486.0,Selhurst Park,mar,0.0,2017/18,2017,London,8.0,29.8,25807.0
+69,Brighton and Hove Albion,Leicester City,13.0,8.0,30666.0,Amex Stadium,mar,0.0,2017/18,2017,Falmer,7.0,25.2,30629.0
+70,Manchester United,Swansea City,2.0,15.0,75643.0,Old Trafford,mar,0.0,2017/18,2017,Manchester,6.0,25.0,75038.0
+71,Newcastle United,Huddersfield Town,12.0,16.0,52305.0,St. James' Park,mar,0.0,2017/18,2017,Newcastle,4.0,106.4,52261.0
+72,Watford,AFC Bournemouth,11.0,10.0,22200.0,Vicarage Road,mar,0.0,2017/18,2017,Watford,7.0,23.9,20393.0
+73,West Bromwich Albion,Burnley,20.0,7.0,26445.0,The Hawthorns,mar,0.0,2017/18,2017,West Bromwich,6.0,19.6,23455.0
+74,West Ham United,Southampton,14.0,18.0,80000.0,London Stadium,mar,0.0,2017/18,2017,London,8.0,29.8,56882.0
+75,Everton,Manchester City,9.0,1.0,39414.0,Goodison Park,mar,0.0,2017/18,2017,Liverpool,7.0,40.4,39221.0
+76,AFC Bournemouth,West Bromwich Albion,10.0,20.0,11329.0,Vitality Stadium,mar,0.0,2017/18,2017,Bournemouth,6.0,31.4,10242.0
+77,Huddersfield Town,Crystal Palace,15.0,16.0,24500.0,John Smith's Stadium,mar,0.0,2017/18,2017,Huddersfield,5.0,27.5,23980.0
+78,Stoke City,Everton,19.0,9.0,30089.0,bet365 Stadium,mar,0.0,2017/18,2017,Stoke,6.0,25.0,30022.0
+79,Liverpool,Watford,3.0,11.0,54074.0,Anfield,mar,0.0,2017/18,2017,Liverpool,7.0,40.4,53287.0
+80,Stoke City,Manchester City,19.0,1.0,30089.0,bet365 Stadium,mar,0.0,2017/18,2017,Stoke,6.0,25.0,29138.0
+81,Arsenal,Watford,6.0,10.0,60704.0,Emirates Stadium,mar,0.0,2017/18,2017,London,8.0,29.8,59131.0
+82,AFC Bournemouth,Tottenham Hotspur,12.0,3.0,11329.0,Vitality Stadium,mar,0.0,2017/18,2017,Bournemouth,6.0,31.4,10623.0
+83,Manchester United,Liverpool,2.0,4.0,75643.0,Old Trafford,mar,0.0,2017/18,2017,Manchester,6.0,25.0,74855.0
+84,Everton,Brighton and Hove Albion,9.0,11.0,39414.0,Goodison Park,mar,0.0,2017/18,2017,Liverpool,7.0,40.4,39199.0
+85,Huddersfield Town,Swansea City,15.0,14.0,24500.0,John Smith's Stadium,mar,0.0,2017/18,2017,Huddersfield,5.0,27.5,23567.0
+86,Newcastle United,Southampton,13.0,17.0,52305.0,St. James' Park,mar,0.0,2017/18,2017,Newcastle,4.0,106.4,52246.0
+87,West Bromwich Albion,Leicester City,20.0,8.0,26445.0,The Hawthorns,mar,0.0,2017/18,2017,West Bromwich,6.0,19.6,23558.0
+88,West Ham United,Burnley,16.0,7.0,80000.0,London Stadium,mar,0.0,2017/18,2017,London,8.0,29.8,56904.0
+89,Chelsea,Crystal Palace,5.0,18.0,40834.0,Stamford Bridge,mar,1.0,2017/18,2017,London,8.0,29.8,40800.0
+90,Crystal Palace,Manchester United,18.0,2.0,25486.0,Selhurst Park,mar,0.0,2017/18,2017,London,8.0,29.8,25840.0
+91,Brighton and Hove Albion,Arsenal,10.0,6.0,30666.0,Amex Stadium,mar,0.0,2017/18,2017,Falmer,7.0,25.2,30620.0
+92,Manchester City,Chelsea,1.0,5.0,53400.0,Etihad Stadium,mar,0.0,2017/18,2017,Manchester,6.0,25.0,54328.0
+93,Burnley,Everton,7.0,11.0,21944.0,Turf Moor,mar,0.0,2017/18,2017,Burnley,5.0,69.0,20802.0
+94,Leicester City,AFC Bournemouth,8.0,12.0,32261.0,King Power Stadium,mar,0.0,2017/18,2017,Leicester,6.0,21.3,31384.0
+95,Southampton,Stoke City,17.0,19.0,32384.0,St. Mary's Stadium,mar,0.0,2017/18,2017,Southampton,8.0,17.2,30335.0
+96,Swansea City,West Ham United,13.0,14.0,20937.0,Liberty Stadium,mar,0.0,2017/18,2017,Swansea,7.0,62.2,20829.0
+97,Tottenham Hotspur,Huddersfield Town,4.0,15.0,90000.0,Wembley Stadium,mar,0.0,2017/18,2017,London,8.0,29.8,68311.0
+98,Watford,West Bromwich Albion,9.0,20.0,22200.0,Vicarage Road,mar,0.0,2017/18,2017,Watford,7.0,23.9,20022.0
+99,Liverpool,Newcastle United,3.0,16.0,54074.0,Anfield,mar,0.0,2017/18,2017,Liverpool,7.0,40.4,53287.0
+100,Arsenal,Manchester City,6.0,1.0,60704.0,Emirates Stadium,mar,0.0,2017/18,2017,London,8.0,29.8,58420.0
+101,Crystal Palace,Tottenham Hotspur,17.0,4.0,25486.0,Selhurst Park,feb,1.0,2017/18,2017,London,6.0,47.9,25287.0
+102,Manchester United,Chelsea,2.0,5.0,75643.0,Old Trafford,feb,0.0,2017/18,2017,Manchester,5.0,28.4,75060.0
+103,Leicester City,Stoke City,8.0,19.0,32261.0,King Power Stadium,feb,0.0,2017/18,2017,Leicester,5.0,23.3,31769.0
+104,AFC Bournemouth,Newcastle United,11.0,15.0,11329.0,Vitality Stadium,feb,0.0,2017/18,2017,Bournemouth,5.0,41.9,10808.0
+105,Brighton and Hove Albion,Swansea City,12.0,18.0,30666.0,Amex Stadium,feb,0.0,2017/18,2017,Falmer,6.0,30.4,30523.0
+106,Burnley,Southampton,7.0,16.0,21944.0,Turf Moor,feb,0.0,2017/18,2017,Burnley,3.0,75.9,20982.0
+107,Liverpool,West Ham United,3.0,13.0,54074.0,Anfield,feb,0.0,2017/18,2017,Liverpool,6.0,40.6,53256.0
+108,West Bromwich Albion,Huddersfield Town,20.0,14.0,26445.0,The Hawthorns,feb,0.0,2017/18,2017,West Bromwich,5.0,23.4,25920.0
+109,Watford,Everton,10.0,9.0,22200.0,Vicarage Road,feb,0.0,2017/18,2017,Watford,5.0,27.8,20430.0
+110,Chelsea,West Bromwich Albion,4.0,20.0,40834.0,Stamford Bridge,feb,0.0,2017/18,2017,London,6.0,47.9,41071.0
+111,Huddersfield Town,AFC Bournemouth,17.0,10.0,24500.0,John Smith's Stadium,feb,0.0,2017/18,2017,Huddersfield,4.0,29.4,23823.0
+112,Newcastle United,Manchester United,13.0,2.0,52305.0,St. James' Park,feb,0.0,2017/18,2017,Newcastle,3.0,122.8,52309.0
+113,Southampton,Liverpool,18.0,3.0,32384.0,St. Mary's Stadium,feb,0.0,2017/18,2017,Southampton,6.0,23.8,31915.0
+114,Tottenham Hotspur,Arsenal,5.0,6.0,90000.0,Wembley Stadium,feb,1.0,2017/18,2017,London,6.0,47.9,83222.0
+115,Everton,Crystal Palace,9.0,15.0,39414.0,Goodison Park,feb,0.0,2017/18,2017,Liverpool,6.0,40.6,39139.0
+116,Stoke City,Brighton and Hove Albion,19.0,14.0,30089.0,bet365 Stadium,feb,0.0,2017/18,2017,Stoke,5.0,28.4,29876.0
+117,Swansea City,Burnley,16.0,7.0,20937.0,Liberty Stadium,feb,0.0,2017/18,2017,Swansea,6.0,70.1,20179.0
+118,West Ham United,Watford,12.0,11.0,80000.0,London Stadium,feb,0.0,2017/18,2017,London,6.0,47.9,56197.0
+119,Manchester City,Leicester City,1.0,8.0,53400.0,Etihad Stadium,feb,0.0,2017/18,2017,Manchester,5.0,28.4,54416.0
+120,Watford,Chelsea,11.0,4.0,22200.0,Vicarage Road,feb,0.0,2017/18,2017,Watford,5.0,27.8,20157.0
+121,Crystal Palace,Newcastle United,14.0,16.0,25486.0,Selhurst Park,feb,0.0,2017/18,2017,London,6.0,47.9,25746.0
+122,Liverpool,Tottenham Hotspur,3.0,5.0,54074.0,Anfield,feb,0.0,2017/18,2017,Liverpool,6.0,40.6,53213.0
+123,Burnley,Manchester City,7.0,1.0,21944.0,Turf Moor,feb,0.0,2017/18,2017,Burnley,3.0,75.9,21658.0
+124,AFC Bournemouth,Stoke City,9.0,18.0,11329.0,Vitality Stadium,feb,0.0,2017/18,2017,Bournemouth,5.0,41.9,10614.0
+125,Brighton and Hove Albion,West Ham United,13.0,12.0,30666.0,Amex Stadium,feb,0.0,2017/18,2017,Falmer,6.0,30.4,30589.0
+126,Leicester City,Swansea City,8.0,17.0,32261.0,King Power Stadium,feb,0.0,2017/18,2017,Leicester,5.0,23.3,31179.0
+127,Manchester United,Huddersfield Town,2.0,19.0,75643.0,Old Trafford,feb,0.0,2017/18,2017,Manchester,5.0,28.4,74742.0
+128,West Bromwich Albion,Southampton,20.0,15.0,26445.0,The Hawthorns,feb,0.0,2017/18,2017,West Bromwich,5.0,23.4,25911.0
+129,Arsenal,Everton,6.0,10.0,60704.0,Emirates Stadium,feb,0.0,2017/18,2017,London,6.0,47.9,59306.0
+130,Chelsea,AFC Bournemouth,4.0,10.0,40834.0,Stamford Bridge,jan,0.0,2017/18,2017,London,6.0,52.9,41464.0
+131,Everton,Leicester City,9.0,8.0,39414.0,Goodison Park,jan,0.0,2017/18,2017,Liverpool,5.0,58.3,38390.0
+132,Newcastle United,Burnley,14.0,7.0,52305.0,St. James' Park,jan,0.0,2017/18,2017,Newcastle,3.0,190.9,50174.0
+133,Southampton,Brighton and Hove Albion,18.0,15.0,32384.0,St. Mary's Stadium,jan,0.0,2017/18,2017,Southampton,6.0,35.7,30034.0
+134,Manchester City,West Bromwich Albion,1.0,20.0,53400.0,Etihad Stadium,jan,0.0,2017/18,2017,Manchester,5.0,32.4,53241.0
+135,Stoke City,Watford,16.0,11.0,30089.0,bet365 Stadium,jan,0.0,2017/18,2017,Stoke,5.0,32.4,27458.0
+136,Tottenham Hotspur,Manchester United,5.0,2.0,90000.0,Wembley Stadium,jan,0.0,2017/18,2017,London,6.0,52.9,81978.0
+137,Swansea City,Arsenal,19.0,6.0,20937.0,Liberty Stadium,jan,0.0,2017/18,2017,Swansea,6.0,99.2,20819.0
+138,West Ham United,Crystal Palace,12.0,13.0,80000.0,London Stadium,jan,1.0,2017/18,2017,London,6.0,52.9,56911.0
+139,Huddersfield Town,Liverpool,17.0,3.0,24500.0,John Smith's Stadium,jan,0.0,2017/18,2017,Huddersfield,4.0,39.1,24121.0
+140,Swansea City,Liverpool,20.0,4.0,20937.0,Liberty Stadium,jan,0.0,2017/18,2017,Swansea,6.0,99.2,20886.0
+141,Southampton,Tottenham Hotspur,18.0,5.0,32384.0,St. Mary's Stadium,jan,0.0,2017/18,2017,Southampton,6.0,35.7,31361.0
+142,Brighton and Hove Albion,Chelsea,16.0,3.0,30666.0,Amex Stadium,jan,0.0,2017/18,2017,Falmer,6.0,44.0,30600.0
+143,Arsenal,Crystal Palace,6.0,13.0,60704.0,Emirates Stadium,jan,1.0,2017/18,2017,London,6.0,52.9,59386.0
+144,Burnley,Manchester United,8.0,2.0,21944.0,Turf Moor,jan,0.0,2017/18,2017,Burnley,3.0,114.5,21841.0
+145,Everton,West Bromwich Albion,9.0,19.0,39414.0,Goodison Park,jan,0.0,2017/18,2017,Liverpool,5.0,58.3,39061.0
+146,Leicester City,Watford,7.0,10.0,32261.0,King Power Stadium,jan,0.0,2017/18,2017,Leicester,4.0,32.3,31891.0
+147,Stoke City,Huddersfield Town,17.0,14.0,30089.0,bet365 Stadium,jan,0.0,2017/18,2017,Stoke,5.0,32.4,29785.0
+148,West Ham United,AFC Bournemouth,11.0,12.0,80000.0,London Stadium,jan,0.0,2017/18,2017,London,6.0,52.9,56948.0
+149,Manchester City,Newcastle United,1.0,15.0,53400.0,Etihad Stadium,jan,0.0,2017/18,2017,Manchester,5.0,32.4,54452.0
+150,Manchester United,Stoke City,2.0,18.0,75643.0,Old Trafford,jan,0.0,2017/18,2017,Manchester,5.0,32.4,74726.0
+151,AFC Bournemouth,Arsenal,13.0,6.0,11329.0,Vitality Stadium,jan,0.0,2017/18,2017,Bournemouth,5.0,56.5,10836.0
+152,Liverpool,Manchester City,3.0,1.0,54074.0,Anfield,jan,0.0,2017/18,2017,Liverpool,5.0,58.3,53285.0
+153,Chelsea,Leicester City,4.0,8.0,40834.0,Stamford Bridge,jan,0.0,2017/18,2017,London,6.0,52.9,41552.0
+154,Crystal Palace,Burnley,12.0,7.0,25486.0,Selhurst Park,jan,0.0,2017/18,2017,London,6.0,52.9,24696.0
+155,Huddersfield Town,West Ham United,14.0,11.0,24500.0,John Smith's Stadium,jan,0.0,2017/18,2017,Huddersfield,4.0,39.1,24105.0
+156,Newcastle United,Swansea City,15.0,20.0,52305.0,St. James' Park,jan,0.0,2017/18,2017,Newcastle,3.0,190.9,51444.0
+157,Watford,Southampton,10.0,17.0,22200.0,Vicarage Road,jan,0.0,2017/18,2017,Watford,5.0,35.0,20018.0
+158,West Bromwich Albion,Brighton and Hove Albion,19.0,16.0,26445.0,The Hawthorns,jan,0.0,2017/18,2017,West Bromwich,4.0,34.7,25240.0
+159,Tottenham Hotspur,Everton,5.0,9.0,90000.0,Wembley Stadium,jan,0.0,2017/18,2017,London,6.0,52.9,76251.0
+160,Tottenham Hotspur,West Ham United,5.0,15.0,90000.0,Wembley Stadium,jan,1.0,2017/18,2017,London,6.0,52.9,50034.0
+161,Arsenal,Chelsea,6.0,3.0,60704.0,Emirates Stadium,jan,1.0,2017/18,2017,London,6.0,52.9,59379.0
+162,Southampton,Crystal Palace,17.0,14.0,32384.0,St. Mary's Stadium,jan,0.0,2017/18,2017,Southampton,6.0,35.7,28411.0
+163,Swansea City,Tottenham Hotspur,20.0,5.0,20937.0,Liberty Stadium,jan,0.0,2017/18,2017,Swansea,6.0,99.2,20615.0
+164,West Ham United,West Bromwich Albion,15.0,19.0,80000.0,London Stadium,jan,0.0,2017/18,2017,London,6.0,52.9,56888.0
+165,Manchester City,Watford,1.0,10.0,53400.0,Etihad Stadium,jan,0.0,2017/18,2017,Manchester,5.0,32.4,53556.0
+166,Brighton and Hove Albion,AFC Bournemouth,12.0,16.0,30666.0,Amex Stadium,jan,0.0,2017/18,2017,Falmer,6.0,44.0,30152.0
+167,Burnley,Liverpool,7.0,4.0,21944.0,Turf Moor,jan,0.0,2017/18,2017,Burnley,3.0,114.5,21756.0
+168,Leicester City,Huddersfield Town,8.0,11.0,32261.0,King Power Stadium,jan,0.0,2017/18,2017,Leicester,4.0,32.3,31748.0
+169,Stoke City,Newcastle United,18.0,13.0,30089.0,bet365 Stadium,jan,0.0,2017/18,2017,Stoke,5.0,32.4,28471.0
+170,Everton,Manchester United,9.0,2.0,39414.0,Goodison Park,jan,0.0,2017/18,2017,Liverpool,5.0,58.3,39188.0
+171,Crystal Palace,Manchester City,17.0,1.0,25486.0,Selhurst Park,dec,0.0,2017/18,2017,London,6.0,65.1,25804.0
+172,West Bromwich Albion,Arsenal,19.0,5.0,26445.0,The Hawthorns,dec,0.0,2017/18,2017,West Bromwich,5.0,27.9,26223.0
+173,AFC Bournemouth,Everton,14.0,9.0,11329.0,Vitality Stadium,dec,0.0,2017/18,2017,Bournemouth,5.0,53.1,10497.0
+174,Chelsea,Stoke City,2.0,15.0,40834.0,Stamford Bridge,dec,0.0,2017/18,2017,London,6.0,65.1,41433.0
+175,Huddersfield Town,Burnley,11.0,7.0,24500.0,John Smith's Stadium,dec,0.0,2017/18,2017,Huddersfield,4.0,43.8,24095.0
+176,Liverpool,Leicester City,4.0,8.0,54074.0,Anfield,dec,0.0,2017/18,2017,Liverpool,6.0,72.8,53226.0
+177,Newcastle United,Brighton and Hove Albion,16.0,12.0,52305.0,St. James' Park,dec,0.0,2017/18,2017,Newcastle,4.0,230.3,52209.0
+178,Watford,Swansea City,10.0,20.0,22200.0,Vicarage Road,dec,0.0,2017/18,2017,Watford,6.0,36.0,20002.0
+179,Manchester United,Southampton,3.0,13.0,75643.0,Old Trafford,dec,0.0,2017/18,2017,Manchester,5.0,37.4,75051.0
+180,Crystal Palace,Arsenal,16.0,6.0,25486.0,Selhurst Park,dec,1.0,2017/18,2017,London,6.0,65.1,25762.0
+181,Newcastle United,Manchester City,15.0,1.0,52305.0,St. James' Park,dec,0.0,2017/18,2017,Newcastle,4.0,230.3,52311.0
+182,Tottenham Hotspur,Southampton,5.0,14.0,90000.0,Wembley Stadium,dec,0.0,2017/18,2017,London,6.0,65.1,57297.0
+183,AFC Bournemouth,West Ham United,18.0,17.0,11329.0,Vitality Stadium,dec,0.0,2017/18,2017,Bournemouth,5.0,53.1,10596.0
+184,Chelsea,Brighton and Hove Albion,3.0,12.0,40834.0,Stamford Bridge,dec,0.0,2017/18,2017,London,6.0,65.1,41568.0
+185,Huddersfield Town,Stoke City,11.0,13.0,24500.0,John Smith's Stadium,dec,0.0,2017/18,2017,Huddersfield,4.0,43.8,24047.0
+186,Manchester United,Burnley,2.0,7.0,75643.0,Old Trafford,dec,0.0,2017/18,2017,Manchester,5.0,37.4,75046.0
+187,Watford,Leicester City,10.0,8.0,22200.0,Vicarage Road,dec,0.0,2017/18,2017,Watford,6.0,36.0,20308.0
+188,West Bromwich Albion,Everton,19.0,9.0,26445.0,The Hawthorns,dec,0.0,2017/18,2017,West Bromwich,5.0,27.9,25364.0
+189,Liverpool,Swansea City,4.0,20.0,54074.0,Anfield,dec,0.0,2017/18,2017,Liverpool,6.0,72.8,52850.0
+190,Everton,Chelsea,9.0,3.0,39414.0,Goodison Park,dec,0.0,2017/18,2017,Liverpool,6.0,72.8,39191.0
+191,Brighton and Hove Albion,Watford,12.0,10.0,30666.0,Amex Stadium,dec,0.0,2017/18,2017,Falmer,6.0,43.1,30473.0
+192,Manchester City,AFC Bournemouth,1.0,18.0,53400.0,Etihad Stadium,dec,0.0,2017/18,2017,Manchester,5.0,37.4,54270.0
+193,Southampton,Huddersfield Town,13.0,11.0,32384.0,St. Mary's Stadium,dec,0.0,2017/18,2017,Southampton,6.0,31.4,29675.0
+194,Stoke City,West Bromwich Albion,14.0,19.0,30089.0,bet365 Stadium,dec,0.0,2017/18,2017,Stoke,5.0,37.4,29057.0
+195,Swansea City,Crystal Palace,20.0,16.0,20937.0,Liberty Stadium,dec,0.0,2017/18,2017,Swansea,7.0,113.7,20354.0
+196,West Ham United,Newcastle United,17.0,15.0,80000.0,London Stadium,dec,0.0,2017/18,2017,London,6.0,65.1,56955.0
+197,Burnley,Tottenham Hotspur,7.0,5.0,21944.0,Turf Moor,dec,0.0,2017/18,2017,Burnley,4.0,135.9,21650.0
+198,Leicester City,Manchester United,8.0,2.0,32261.0,King Power Stadium,dec,0.0,2017/18,2017,Leicester,5.0,29.5,32202.0
+199,Arsenal,Liverpool,6.0,4.0,60704.0,Emirates Stadium,dec,0.0,2017/18,2017,London,6.0,65.1,59409.0
+200,Everton,Swansea City,9.0,20.0,39414.0,Goodison Park,dec,0.0,2017/18,2017,Liverpool,6.0,72.8,37580.0
+201,West Bromwich Albion,Manchester United,19.0,2.0,26445.0,The Hawthorns,dec,0.0,2017/18,2017,West Bromwich,5.0,27.9,24782.0
+202,AFC Bournemouth,Liverpool,16.0,4.0,11329.0,Vitality Stadium,dec,0.0,2017/18,2017,Bournemouth,5.0,53.1,10780.0
+203,Leicester City,Crystal Palace,8.0,14.0,32261.0,King Power Stadium,dec,0.0,2017/18,2017,Leicester,5.0,29.5,31081.0
+204,Arsenal,Newcastle United,5.0,18.0,60704.0,Emirates Stadium,dec,0.0,2017/18,2017,London,6.0,65.1,59379.0
+205,Brighton and Hove Albion,Burnley,13.0,6.0,30666.0,Amex Stadium,dec,0.0,2017/18,2017,Falmer,6.0,43.1,29921.0
+206,Chelsea,Southampton,3.0,12.0,40834.0,Stamford Bridge,dec,0.0,2017/18,2017,London,6.0,65.1,41562.0
+207,Watford,Huddersfield Town,10.0,11.0,22200.0,Vicarage Road,dec,0.0,2017/18,2017,Watford,6.0,36.0,20026.0
+208,Stoke City,West Ham United,17.0,15.0,30089.0,bet365 Stadium,dec,0.0,2017/18,2017,Stoke,5.0,37.4,29265.0
+209,Manchester City,Tottenham Hotspur,1.0,7.0,53400.0,Etihad Stadium,dec,0.0,2017/18,2017,Manchester,5.0,37.4,54214.0
+210,Newcastle United,Everton,16.0,10.0,52305.0,St. James' Park,dec,0.0,2017/18,2017,Newcastle,4.0,230.3,51042.0
+211,Southampton,Leicester City,11.0,8.0,32384.0,St. Mary's Stadium,dec,0.0,2017/18,2017,Southampton,6.0,31.4,27714.0
+212,Swansea City,Manchester City,20.0,1.0,20937.0,Liberty Stadium,dec,0.0,2017/18,2017,Swansea,7.0,113.7,20870.0
+213,Liverpool,West Bromwich Albion,5.0,17.0,54074.0,Anfield,dec,0.0,2017/18,2017,Liverpool,6.0,72.8,53243.0
+214,Manchester United,AFC Bournemouth,2.0,14.0,75643.0,Old Trafford,dec,0.0,2017/18,2017,Manchester,5.0,37.4,74798.0
+215,Tottenham Hotspur,Brighton and Hove Albion,4.0,13.0,90000.0,Wembley Stadium,dec,0.0,2017/18,2017,London,6.0,65.1,55124.0
+216,West Ham United,Arsenal,19.0,7.0,80000.0,London Stadium,dec,1.0,2017/18,2017,London,6.0,65.1,56921.0
+217,Burnley,Stoke City,6.0,15.0,21944.0,Turf Moor,dec,0.0,2017/18,2017,Burnley,4.0,135.9,19909.0
+218,Crystal Palace,Watford,18.0,9.0,25486.0,Selhurst Park,dec,0.0,2017/18,2017,London,6.0,65.1,23566.0
+219,Huddersfield Town,Chelsea,12.0,3.0,24500.0,John Smith's Stadium,dec,0.0,2017/18,2017,Huddersfield,4.0,43.8,24169.0
+220,Southampton,Arsenal,11.0,5.0,32384.0,St. Mary's Stadium,dec,0.0,2017/18,2017,Southampton,6.0,31.4,31643.0
+221,Liverpool,Everton,4.0,10.0,54074.0,Anfield,dec,1.0,2017/18,2017,Liverpool,6.0,72.8,53082.0
+222,Manchester United,Manchester City,2.0,1.0,75643.0,Old Trafford,dec,1.0,2017/18,2017,Manchester,5.0,37.4,74847.0
+223,West Ham United,Chelsea,18.0,3.0,80000.0,London Stadium,dec,1.0,2017/18,2017,London,6.0,65.1,56953.0
+224,Burnley,Watford,7.0,9.0,21944.0,Turf Moor,dec,0.0,2017/18,2017,Burnley,4.0,135.9,19479.0
+225,Crystal Palace,AFC Bournemouth,20.0,14.0,25486.0,Selhurst Park,dec,0.0,2017/18,2017,London,6.0,65.1,24823.0
+226,Huddersfield Town,Brighton and Hove Albion,12.0,13.0,24500.0,John Smith's Stadium,dec,0.0,2017/18,2017,Huddersfield,4.0,43.8,24018.0
+227,Swansea City,West Bromwich Albion,19.0,17.0,20937.0,Liberty Stadium,dec,0.0,2017/18,2017,Swansea,7.0,113.7,19580.0
+228,Tottenham Hotspur,Stoke City,6.0,15.0,90000.0,Wembley Stadium,dec,0.0,2017/18,2017,London,6.0,65.1,62202.0
+229,Newcastle United,Leicester City,16.0,8.0,52305.0,St. James' Park,dec,0.0,2017/18,2017,Newcastle,4.0,230.3,52117.0
+230,AFC Bournemouth,Southampton,14.0,11.0,11329.0,Vitality Stadium,dec,0.0,2017/18,2017,Bournemouth,5.0,53.1,10764.0
+231,Manchester City,West Ham United,1.0,19.0,53400.0,Etihad Stadium,dec,0.0,2017/18,2017,Manchester,5.0,37.4,54203.0
+232,Chelsea,Newcastle United,3.0,15.0,40834.0,Stamford Bridge,dec,0.0,2017/18,2017,London,6.0,65.1,41538.0
+233,Brighton and Hove Albion,Liverpool,12.0,4.0,30666.0,Amex Stadium,dec,0.0,2017/18,2017,Falmer,6.0,43.1,30634.0
+234,Everton,Huddersfield Town,10.0,16.0,39414.0,Goodison Park,dec,0.0,2017/18,2017,Liverpool,6.0,72.8,39167.0
+235,Leicester City,Burnley,9.0,7.0,32261.0,King Power Stadium,dec,0.0,2017/18,2017,Leicester,5.0,29.5,30714.0
+236,Stoke City,Swansea City,13.0,20.0,30089.0,bet365 Stadium,dec,0.0,2017/18,2017,Stoke,5.0,37.4,28261.0
+237,Watford,Tottenham Hotspur,8.0,6.0,22200.0,Vicarage Road,dec,0.0,2017/18,2017,Watford,6.0,36.0,20278.0
+238,West Bromwich Albion,Crystal Palace,17.0,18.0,26445.0,The Hawthorns,dec,0.0,2017/18,2017,West Bromwich,5.0,27.9,23531.0
+239,Arsenal,Manchester United,5.0,2.0,60704.0,Emirates Stadium,dec,0.0,2017/18,2017,London,6.0,65.1,59547.0
+240,AFC Bournemouth,Burnley,15.0,6.0,11329.0,Vitality Stadium,nov,0.0,2017/18,2017,Bournemouth,7.0,62.9,10302.0
+241,Arsenal,Huddersfield Town,4.0,14.0,60704.0,Emirates Stadium,nov,0.0,2017/18,2017,London,9.0,72.0,59285.0
+242,Chelsea,Swansea City,3.0,19.0,40834.0,Stamford Bridge,nov,0.0,2017/18,2017,London,9.0,72.0,41365.0
+243,Everton,West Ham United,13.0,18.0,39414.0,Goodison Park,nov,0.0,2017/18,2017,Liverpool,8.0,67.8,38242.0
+244,Manchester City,Southampton,1.0,11.0,53400.0,Etihad Stadium,nov,0.0,2017/18,2017,Manchester,7.0,35.8,53407.0
+245,Stoke City,Liverpool,16.0,5.0,30089.0,bet365 Stadium,nov,0.0,2017/18,2017,Stoke,7.0,35.8,29423.0
+246,Brighton and Hove Albion,Crystal Palace,10.0,20.0,30666.0,Amex Stadium,nov,0.0,2017/18,2017,Falmer,9.0,42.5,29889.0
+247,Leicester City,Tottenham Hotspur,9.0,7.0,32261.0,King Power Stadium,nov,0.0,2017/18,2017,Leicester,7.0,29.9,31950.0
+248,Watford,Manchester United,8.0,2.0,22200.0,Vicarage Road,nov,0.0,2017/18,2017,Watford,8.0,37.0,20552.0
+249,West Bromwich Albion,Newcastle United,17.0,12.0,26445.0,The Hawthorns,nov,0.0,2017/18,2017,West Bromwich,7.0,31.5,25534.0
+250,Southampton,Everton,10.0,16.0,32384.0,St. Mary's Stadium,nov,0.0,2017/18,2017,Southampton,8.0,28.4,30461.0
+251,Burnley,Arsenal,7.0,4.0,21944.0,Turf Moor,nov,0.0,2017/18,2017,Burnley,6.0,126.3,21722.0
+252,Huddersfield Town,Manchester City,11.0,1.0,24500.0,John Smith's Stadium,nov,0.0,2017/18,2017,Huddersfield,6.0,43.0,24121.0
+253,Crystal Palace,Stoke City,20.0,15.0,25486.0,Selhurst Park,nov,0.0,2017/18,2017,London,9.0,72.0,23723.0
+254,Manchester United,Brighton and Hove Albion,2.0,9.0,75643.0,Old Trafford,nov,0.0,2017/18,2017,Manchester,7.0,35.8,75018.0
+255,Newcastle United,Watford,14.0,8.0,52305.0,St. James' Park,nov,0.0,2017/18,2017,Newcastle,6.0,202.8,52188.0
+256,Swansea City,AFC Bournemouth,19.0,13.0,20937.0,Liberty Stadium,nov,0.0,2017/18,2017,Swansea,10.0,125.4,20228.0
+257,Tottenham Hotspur,West Bromwich Albion,5.0,17.0,90000.0,Wembley Stadium,nov,0.0,2017/18,2017,London,9.0,72.0,65905.0
+258,Liverpool,Chelsea,6.0,3.0,54074.0,Anfield,nov,0.0,2017/18,2017,Liverpool,8.0,67.8,53225.0
+259,West Ham United,Leicester City,18.0,12.0,80000.0,London Stadium,nov,0.0,2017/18,2017,London,9.0,72.0,56897.0
+260,Brighton and Hove Albion,Stoke City,9.0,15.0,30666.0,Amex Stadium,nov,0.0,2017/18,2017,Falmer,9.0,42.5,29676.0
+261,Watford,West Ham United,8.0,18.0,22200.0,Vicarage Road,nov,0.0,2017/18,2017,Watford,8.0,37.0,20018.0
+262,Arsenal,Tottenham Hotspur,6.0,4.0,60704.0,Emirates Stadium,nov,1.0,2017/18,2017,London,9.0,72.0,59530.0
+263,AFC Bournemouth,Huddersfield Town,13.0,10.0,11329.0,Vitality Stadium,nov,0.0,2017/18,2017,Bournemouth,7.0,62.9,10879.0
+264,Burnley,Swansea City,7.0,19.0,21944.0,Turf Moor,nov,0.0,2017/18,2017,Burnley,6.0,126.3,18895.0
+265,Crystal Palace,Everton,20.0,16.0,25486.0,Selhurst Park,nov,0.0,2017/18,2017,London,9.0,72.0,25526.0
+266,Leicester City,Manchester City,12.0,1.0,32261.0,King Power Stadium,nov,0.0,2017/18,2017,Leicester,7.0,29.9,31908.0
+267,Liverpool,Southampton,5.0,14.0,54074.0,Anfield,nov,0.0,2017/18,2017,Liverpool,8.0,67.8,53256.0
+268,West Bromwich Albion,Chelsea,17.0,3.0,26445.0,The Hawthorns,nov,0.0,2017/18,2017,West Bromwich,7.0,31.5,23592.0
+269,Manchester United,Newcastle United,2.0,11.0,75643.0,Old Trafford,nov,0.0,2017/18,2017,Manchester,7.0,35.8,75035.0
+270,Tottenham Hotspur,Crystal Palace,3.0,20.0,90000.0,Wembley Stadium,nov,1.0,2017/18,2017,London,9.0,72.0,65270.0
+271,Manchester City,Arsenal,1.0,6.0,53400.0,Etihad Stadium,nov,0.0,2017/18,2017,Manchester,7.0,35.8,54286.0
+272,Chelsea,Manchester United,4.0,2.0,40834.0,Stamford Bridge,nov,0.0,2017/18,2017,London,9.0,72.0,41615.0
+273,Everton,Watford,15.0,9.0,39414.0,Goodison Park,nov,0.0,2017/18,2017,Liverpool,8.0,67.8,38609.0
+274,Stoke City,Leicester City,14.0,12.0,30089.0,bet365 Stadium,nov,0.0,2017/18,2017,Stoke,7.0,35.8,29602.0
+275,Huddersfield Town,West Bromwich Albion,10.0,16.0,24500.0,John Smith's Stadium,nov,0.0,2017/18,2017,Huddersfield,6.0,43.0,24169.0
+276,Newcastle United,AFC Bournemouth,11.0,17.0,52305.0,St. James' Park,nov,0.0,2017/18,2017,Newcastle,6.0,202.8,52237.0
+277,Southampton,Burnley,13.0,7.0,32384.0,St. Mary's Stadium,nov,0.0,2017/18,2017,Southampton,8.0,28.4,30491.0
+278,Swansea City,Brighton and Hove Albion,19.0,8.0,20937.0,Liberty Stadium,nov,0.0,2017/18,2017,Swansea,10.0,125.4,20822.0
+279,West Ham United,Liverpool,18.0,5.0,80000.0,London Stadium,nov,0.0,2017/18,2017,London,9.0,72.0,56961.0
+280,Burnley,Newcastle United,7.0,9.0,21944.0,Turf Moor,oct,0.0,2017/18,2017,Burnley,10.0,99.3,21031.0
+281,Brighton and Hove Albion,Southampton,12.0,10.0,30666.0,Amex Stadium,oct,0.0,2017/18,2017,Falmer,12.0,45.4,30564.0
+282,Leicester City,Everton,11.0,18.0,32261.0,King Power Stadium,oct,0.0,2017/18,2017,Leicester,11.0,36.5,31891.0
+283,Manchester United,Tottenham Hotspur,2.0,3.0,75643.0,Old Trafford,oct,0.0,2017/18,2017,Manchester,11.0,46.1,75034.0
+284,Arsenal,Swansea City,5.0,17.0,60704.0,Emirates Stadium,oct,0.0,2017/18,2017,London,13.0,61.5,59493.0
+285,Crystal Palace,West Ham United,20.0,16.0,25486.0,Selhurst Park,oct,1.0,2017/18,2017,London,13.0,61.5,25242.0
+286,Liverpool,Huddersfield Town,6.0,13.0,54074.0,Anfield,oct,0.0,2017/18,2017,Liverpool,12.0,58.2,53268.0
+287,Watford,Stoke City,8.0,14.0,22200.0,Vicarage Road,oct,0.0,2017/18,2017,Watford,12.0,42.0,20087.0
+288,West Bromwich Albion,Manchester City,15.0,1.0,26445.0,The Hawthorns,oct,0.0,2017/18,2017,West Bromwich,11.0,31.9,24003.0
+289,AFC Bournemouth,Chelsea,19.0,4.0,11329.0,Vitality Stadium,oct,0.0,2017/18,2017,Bournemouth,11.0,62.5,10998.0
+290,Everton,Arsenal,18.0,5.0,39414.0,Goodison Park,oct,0.0,2017/18,2017,Liverpool,12.0,58.2,39189.0
+291,Tottenham Hotspur,Liverpool,3.0,9.0,90000.0,Wembley Stadium,oct,0.0,2017/18,2017,London,13.0,61.5,80827.0
+292,Chelsea,Watford,4.0,6.0,40834.0,Stamford Bridge,oct,0.0,2017/18,2017,London,13.0,61.5,41467.0
+293,Huddersfield Town,Manchester United,11.0,2.0,24500.0,John Smith's Stadium,oct,0.0,2017/18,2017,Huddersfield,9.0,40.4,24169.0
+294,Manchester City,Burnley,1.0,8.0,53400.0,Etihad Stadium,oct,0.0,2017/18,2017,Manchester,11.0,46.1,54118.0
+295,Newcastle United,Crystal Palace,7.0,20.0,52305.0,St. James' Park,oct,0.0,2017/18,2017,Newcastle,9.0,161.3,52251.0
+296,Stoke City,AFC Bournemouth,17.0,19.0,30089.0,bet365 Stadium,oct,0.0,2017/18,2017,Stoke,11.0,46.1,29500.0
+297,Swansea City,Leicester City,15.0,14.0,20937.0,Liberty Stadium,oct,0.0,2017/18,2017,Swansea,13.0,103.1,20521.0
+298,Southampton,West Bromwich Albion,10.0,13.0,32384.0,St. Mary's Stadium,oct,0.0,2017/18,2017,Southampton,12.0,29.2,29947.0
+299,West Ham United,Brighton and Hove Albion,16.0,12.0,80000.0,London Stadium,oct,0.0,2017/18,2017,London,13.0,61.5,56977.0
+300,Leicester City,West Bromwich Albion,18.0,10.0,32261.0,King Power Stadium,oct,0.0,2017/18,2017,Leicester,11.0,36.5,30203.0
+301,Brighton and Hove Albion,Everton,14.0,16.0,30666.0,Amex Stadium,oct,0.0,2017/18,2017,Falmer,12.0,45.4,30565.0
+302,Southampton,Newcastle United,11.0,9.0,32384.0,St. Mary's Stadium,oct,0.0,2017/18,2017,Southampton,12.0,29.2,31437.0
+303,Liverpool,Manchester United,8.0,2.0,54074.0,Anfield,oct,0.0,2017/18,2017,Liverpool,12.0,58.2,52912.0
+304,Burnley,West Ham United,7.0,15.0,21944.0,Turf Moor,oct,0.0,2017/18,2017,Burnley,10.0,99.3,20945.0
+305,Crystal Palace,Chelsea,20.0,5.0,25486.0,Selhurst Park,oct,1.0,2017/18,2017,London,13.0,61.5,25480.0
+306,Manchester City,Stoke City,1.0,17.0,53400.0,Etihad Stadium,oct,0.0,2017/18,2017,Manchester,11.0,46.1,54128.0
+307,Swansea City,Huddersfield Town,13.0,12.0,20937.0,Liberty Stadium,oct,0.0,2017/18,2017,Swansea,13.0,103.1,20657.0
+308,Tottenham Hotspur,AFC Bournemouth,3.0,19.0,90000.0,Wembley Stadium,oct,0.0,2017/18,2017,London,13.0,61.5,73502.0
+309,Watford,Arsenal,4.0,6.0,22200.0,Vicarage Road,oct,0.0,2017/18,2017,Watford,12.0,42.0,20384.0
+310,Arsenal,Brighton and Hove Albion,5.0,14.0,60704.0,Emirates Stadium,oct,0.0,2017/18,2017,London,13.0,61.5,59378.0
+311,Everton,Burnley,16.0,6.0,39414.0,Goodison Park,oct,0.0,2017/18,2017,Liverpool,12.0,58.2,38448.0
+312,Newcastle United,Liverpool,9.0,7.0,52305.0,St. James' Park,oct,0.0,2017/18,2017,Newcastle,9.0,161.3,52303.0
+313,Huddersfield Town,Tottenham Hotspur,11.0,3.0,24500.0,John Smith's Stadium,sep,0.0,2017/18,2017,Huddersfield,12.0,21.5,24169.0
+314,AFC Bournemouth,Leicester City,19.0,17.0,11329.0,Vitality Stadium,sep,0.0,2017/18,2017,Bournemouth,14.0,32.2,10444.0
+315,Manchester United,Crystal Palace,2.0,20.0,75643.0,Old Trafford,sep,0.0,2017/18,2017,Manchester,14.0,26.5,75118.0
+316,Stoke City,Southampton,13.0,12.0,30089.0,bet365 Stadium,sep,0.0,2017/18,2017,Stoke,14.0,26.5,29285.0
+317,West Bromwich Albion,Watford,10.0,8.0,26445.0,The Hawthorns,sep,0.0,2017/18,2017,West Bromwich,14.0,17.8,24606.0
+318,West Ham United,Swansea City,15.0,18.0,80000.0,London Stadium,sep,0.0,2017/18,2017,London,16.0,41.2,56922.0
+319,Chelsea,Manchester City,4.0,1.0,40834.0,Stamford Bridge,sep,0.0,2017/18,2017,London,16.0,41.2,41530.0
+320,Arsenal,West Bromwich Albion,7.0,12.0,60704.0,Emirates Stadium,sep,0.0,2017/18,2017,London,16.0,41.2,59134.0
+321,Brighton and Hove Albion,Newcastle United,13.0,10.0,30666.0,Amex Stadium,sep,0.0,2017/18,2017,Falmer,15.0,23.2,30468.0
+322,West Ham United,Tottenham Hotspur,18.0,4.0,80000.0,London Stadium,sep,1.0,2017/18,2017,London,16.0,41.2,56988.0
+323,Burnley,Huddersfield Town,9.0,8.0,21944.0,Turf Moor,sep,0.0,2017/18,2017,Burnley,13.0,66.3,20759.0
+324,Everton,AFC Bournemouth,14.0,19.0,39414.0,Goodison Park,sep,0.0,2017/18,2017,Liverpool,15.0,49.0,38133.0
+325,Manchester City,Crystal Palace,1.0,20.0,53400.0,Etihad Stadium,sep,0.0,2017/18,2017,Manchester,14.0,26.5,53526.0
+326,Southampton,Manchester United,11.0,2.0,32384.0,St. Mary's Stadium,sep,0.0,2017/18,2017,Southampton,15.0,15.7,31930.0
+327,Stoke City,Chelsea,16.0,3.0,30089.0,bet365 Stadium,sep,0.0,2017/18,2017,Stoke,14.0,26.5,29661.0
+328,Swansea City,Watford,15.0,6.0,20937.0,Liberty Stadium,sep,0.0,2017/18,2017,Swansea,15.0,58.2,20372.0
+329,Leicester City,Liverpool,17.0,5.0,32261.0,King Power Stadium,sep,0.0,2017/18,2017,Leicester,14.0,21.4,32004.0
+330,Chelsea,Arsenal,3.0,12.0,40834.0,Stamford Bridge,sep,1.0,2017/18,2017,London,16.0,41.2,41478.0
+331,Manchester United,Everton,2.0,18.0,75643.0,Old Trafford,sep,0.0,2017/18,2017,Manchester,14.0,26.5,75042.0
+332,Crystal Palace,Southampton,20.0,9.0,25486.0,Selhurst Park,sep,0.0,2017/18,2017,London,16.0,41.2,24199.0
+333,Huddersfield Town,Leicester City,6.0,15.0,24500.0,John Smith's Stadium,sep,0.0,2017/18,2017,Huddersfield,12.0,21.5,24169.0
+334,Liverpool,Burnley,8.0,7.0,54074.0,Anfield,sep,0.0,2017/18,2017,Liverpool,15.0,49.0,53231.0
+335,Newcastle United,Stoke City,4.0,13.0,52305.0,St. James' Park,sep,0.0,2017/18,2017,Newcastle,12.0,101.9,51795.0
+336,Watford,Manchester City,11.0,1.0,22200.0,Vicarage Road,sep,0.0,2017/18,2017,Watford,15.0,26.1,20305.0
+337,West Bromwich Albion,West Ham United,10.0,17.0,26445.0,The Hawthorns,sep,0.0,2017/18,2017,West Bromwich,14.0,17.8,24942.0
+338,Tottenham Hotspur,Swansea City,5.0,14.0,90000.0,Wembley Stadium,sep,0.0,2017/18,2017,London,16.0,41.2,65366.0
+339,AFC Bournemouth,Brighton and Hove Albion,19.0,16.0,11329.0,Vitality Stadium,sep,0.0,2017/18,2017,Bournemouth,14.0,32.2,10369.0
+340,West Ham United,Huddersfield Town,18.0,6.0,80000.0,London Stadium,sep,0.0,2017/18,2017,London,16.0,41.2,56977.0
+341,Burnley,Crystal Palace,7.0,20.0,21944.0,Turf Moor,sep,0.0,2017/18,2017,Burnley,13.0,66.3,18862.0
+342,Swansea City,Newcastle United,15.0,10.0,20937.0,Liberty Stadium,sep,0.0,2017/18,2017,Swansea,15.0,58.2,20872.0
+343,Manchester City,Liverpool,2.0,8.0,53400.0,Etihad Stadium,sep,0.0,2017/18,2017,Manchester,14.0,26.5,54172.0
+344,Arsenal,AFC Bournemouth,11.0,19.0,60704.0,Emirates Stadium,sep,0.0,2017/18,2017,London,16.0,41.2,59262.0
+345,Brighton and Hove Albion,West Bromwich Albion,14.0,9.0,30666.0,Amex Stadium,sep,0.0,2017/18,2017,Falmer,15.0,23.2,30381.0
+346,Everton,Tottenham Hotspur,16.0,5.0,39414.0,Goodison Park,sep,0.0,2017/18,2017,Liverpool,15.0,49.0,38835.0
+347,Leicester City,Chelsea,17.0,3.0,32261.0,King Power Stadium,sep,0.0,2017/18,2017,Leicester,14.0,21.4,31923.0
+348,Southampton,Watford,13.0,4.0,32384.0,St. Mary's Stadium,sep,0.0,2017/18,2017,Southampton,15.0,15.7,31435.0
+349,Stoke City,Manchester United,12.0,1.0,30089.0,bet365 Stadium,sep,0.0,2017/18,2017,Stoke,14.0,26.5,29320.0
+350,Chelsea,Everton,6.0,12.0,40834.0,Stamford Bridge,aug,0.0,2017/18,2017,London,18.0,57.5,41382.0
+351,West Bromwich Albion,Stoke City,5.0,11.0,26445.0,The Hawthorns,aug,0.0,2017/18,2017,West Bromwich,16.0,27.0,22704.0
+352,Liverpool,Arsenal,2.0,16.0,54074.0,Anfield,aug,0.0,2017/18,2017,Liverpool,16.0,66.6,53206.0
+353,Tottenham Hotspur,Burnley,9.0,10.0,90000.0,Wembley Stadium,aug,0.0,2017/18,2017,London,18.0,57.5,67862.0
+354,AFC Bournemouth,Manchester City,18.0,4.0,11329.0,Vitality Stadium,aug,0.0,2017/18,2017,Bournemouth,16.0,29.8,10419.0
+355,Crystal Palace,Swansea City,19.0,13.0,25486.0,Selhurst Park,aug,0.0,2017/18,2017,London,18.0,57.5,23477.0
+356,Huddersfield Town,Southampton,3.0,8.0,24500.0,John Smith's Stadium,aug,0.0,2017/18,2017,Huddersfield,15.0,31.8,23548.0
+357,Newcastle United,West Ham United,14.0,20.0,52305.0,St. James' Park,aug,0.0,2017/18,2017,Newcastle,13.0,104.9,52093.0
+358,Watford,Brighton and Hove Albion,7.0,17.0,22200.0,Vicarage Road,aug,0.0,2017/18,2017,Watford,18.0,31.0,20181.0
+359,Manchester United,Leicester City,1.0,15.0,75643.0,Old Trafford,aug,0.0,2017/18,2017,Manchester,16.0,31.4,75021.0
+360,Manchester City,Everton,5.0,8.0,53400.0,Etihad Stadium,aug,0.0,2017/18,2017,Manchester,16.0,31.4,54009.0
+361,Huddersfield Town,Newcastle United,2.0,17.0,24500.0,John Smith's Stadium,aug,0.0,2017/18,2017,Huddersfield,15.0,31.8,24128.0
+362,Tottenham Hotspur,Chelsea,10.0,12.0,90000.0,Wembley Stadium,aug,1.0,2017/18,2017,London,18.0,57.5,73587.0
+363,Swansea City,Manchester United,15.0,1.0,20937.0,Liberty Stadium,aug,0.0,2017/18,2017,Swansea,16.0,95.2,20862.0
+364,AFC Bournemouth,Watford,16.0,4.0,11329.0,Vitality Stadium,aug,0.0,2017/18,2017,Bournemouth,16.0,29.8,10501.0
+365,Burnley,West Bromwich Albion,13.0,3.0,21944.0,Turf Moor,aug,0.0,2017/18,2017,Burnley,15.0,99.0,19619.0
+366,Leicester City,Brighton and Hove Albion,9.0,18.0,32261.0,King Power Stadium,aug,0.0,2017/18,2017,Leicester,16.0,24.1,31902.0
+367,Liverpool,Crystal Palace,6.0,19.0,54074.0,Anfield,aug,0.0,2017/18,2017,Liverpool,16.0,66.6,53138.0
+368,Southampton,West Ham United,7.0,20.0,32384.0,St. Mary's Stadium,aug,0.0,2017/18,2017,Southampton,17.0,10.9,31424.0
+369,Stoke City,Arsenal,14.0,11.0,30089.0,bet365 Stadium,aug,0.0,2017/18,2017,Stoke,16.0,31.4,29459.0
+370,Newcastle United,Tottenham Hotspur,18.0,4.0,52305.0,St. James' Park,aug,0.0,2017/18,2017,Newcastle,13.0,104.9,52077.0
+371,Manchester United,West Ham United,1.0,20.0,75643.0,Old Trafford,aug,0.0,2017/18,2017,Manchester,16.0,31.4,74928.0
+372,Watford,Liverpool,10.0,9.0,22200.0,Vicarage Road,aug,0.0,2017/18,2017,Watford,18.0,31.0,20407.0
+373,Chelsea,Burnley,14.0,6.0,40834.0,Stamford Bridge,aug,0.0,2017/18,2017,London,18.0,57.5,41616.0
+374,Crystal Palace,Huddersfield Town,19.0,2.0,25486.0,Selhurst Park,aug,0.0,2017/18,2017,London,18.0,57.5,25448.0
+375,Everton,Stoke City,7.0,16.0,39414.0,Goodison Park,aug,0.0,2017/18,2017,Liverpool,16.0,66.6,39045.0
+376,Southampton,Swansea City,11.0,12.0,32384.0,St. Mary's Stadium,aug,0.0,2017/18,2017,Southampton,17.0,10.9,31447.0
+377,West Bromwich Albion,AFC Bournemouth,8.0,15.0,26445.0,The Hawthorns,aug,0.0,2017/18,2017,West Bromwich,16.0,27.0,25011.0
+378,Brighton and Hove Albion,Manchester City,17.0,3.0,30666.0,Amex Stadium,aug,0.0,2017/18,2017,Falmer,17.0,24.0,30415.0
+379,Arsenal,Leicester City,5.0,13.0,60704.0,Emirates Stadium,aug,0.0,2017/18,2017,London,18.0,57.5,59387.0
