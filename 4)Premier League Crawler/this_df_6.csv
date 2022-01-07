@@ -1,0 +1,761 @@
+,team_1,team_2,team_1_rating,team_2_rating,capacity,stadium,month,derby,current_season,year,city,temprature,precipitation,attendance
+0,Birmingham City,Blackburn Rovers,19.0,7.0,29409.0,St. Andrew's Trillion Trophy Stadium,may,0.0,2007/08,2007,Birmingham,12.0,26.6,
+1,Chelsea,Bolton Wanderers,2.0,16.0,40834.0,Stamford Bridge,may,0.0,2007/08,2007,London,14.0,52.1,
+2,Derby County,Reading,20.0,18.0,33597.0,Pride Park Stadium,may,0.0,2007/08,2007,Derby,12.0,24.0,33087
+3,Everton,Newcastle United,5.0,12.0,39414.0,Goodison Park,may,0.0,2007/08,2007,Liverpool,12.0,53.6,
+4,Middlesbrough,Manchester City,13.0,9.0,33746.0,Riverside Stadium,may,0.0,2007/08,2007,Middlesbrough,11.0,19.9,
+5,Portsmouth,Fulham,8.0,17.0,20978.0,Fratton Park,may,0.0,2007/08,2007,Portsmouth,13.0,16.5,
+6,Sunderland,Arsenal,15.0,3.0,48707.0,Stadium of Light,may,0.0,2007/08,2007,Sunderland,10.0,23.0,
+7,Tottenham Hotspur,Liverpool,11.0,4.0,36284.0,White Hart Lane,may,0.0,2007/08,2007,London,14.0,52.1,
+8,West Ham United,Aston Villa,10.0,6.0,35345.0,Boleyn Ground,may,0.0,2007/08,2007,London,14.0,52.1,
+9,Wigan Athletic,Manchester United,14.0,1.0,25138.0,DW Stadium,may,0.0,2007/08,2007,Wigan,12.0,53.6,
+10,Newcastle United,Chelsea,12.0,2.0,52305.0,Sports Direct Arena,may,0.0,2007/08,2007,Newcastle,9.0,116.4,
+11,Arsenal,Everton,3.0,5.0,60704.0,Emirates Stadium,may,0.0,2007/08,2007,London,14.0,52.1,
+12,Liverpool,Manchester City,4.0,9.0,54074.0,Anfield,may,0.0,2007/08,2007,Liverpool,12.0,53.6,
+13,Manchester United,West Ham United,1.0,10.0,75643.0,Old Trafford,may,0.0,2007/08,2007,Manchester,12.0,21.2,
+14,Aston Villa,Wigan Athletic,6.0,13.0,42749.0,Villa Park,may,0.0,2007/08,2007,Birmingham,12.0,26.6,
+15,Blackburn Rovers,Derby County,7.0,20.0,31367.0,Ewood Park,may,0.0,2007/08,2007,Blackburn,12.0,32.0,
+16,Fulham,Birmingham City,17.0,19.0,25700.0,Craven Cottage,may,0.0,2007/08,2007,London,14.0,52.1,
+17,Middlesbrough,Portsmouth,14.0,8.0,33746.0,Riverside Stadium,may,0.0,2007/08,2007,Middlesbrough,11.0,19.9,
+18,Reading,Tottenham Hotspur,18.0,11.0,24161.0,Madejski Stadium,may,0.0,2007/08,2007,Reading,12.0,32.5,
+19,Bolton Wanderers,Sunderland,16.0,15.0,28723.0,University of Bolton Stadium,may,0.0,2007/08,2007,Bolton,12.0,21.2,
+20,Derby County,Arsenal,20.0,3.0,33597.0,Pride Park Stadium,apr,0.0,2007/08,2007,Derby,9.0,26.4,
+21,Portsmouth,Blackburn Rovers,7.0,8.0,20978.0,Fratton Park,apr,0.0,2007/08,2007,Portsmouth,9.0,19.2,
+22,Everton,Aston Villa,5.0,6.0,39414.0,Goodison Park,apr,0.0,2007/08,2007,Liverpool,10.0,36.7,
+23,Chelsea,Manchester United,2.0,1.0,40834.0,Stamford Bridge,apr,0.0,2007/08,2007,London,11.0,30.6,
+24,Birmingham City,Liverpool,18.0,4.0,29409.0,St. Andrew's Trillion Trophy Stadium,apr,0.0,2007/08,2007,Birmingham,8.0,23.8,
+25,Manchester City,Fulham,9.0,19.0,53400.0,Etihad Stadium,apr,0.0,2007/08,2007,Manchester,9.0,27.0,
+26,Sunderland,Middlesbrough,13.0,15.0,48707.0,Stadium of Light,apr,0.0,2007/08,2007,Sunderland,7.0,23.1,
+27,Tottenham Hotspur,Bolton Wanderers,11.0,16.0,36284.0,White Hart Lane,apr,0.0,2007/08,2007,London,11.0,30.6,
+28,West Ham United,Newcastle United,10.0,12.0,35345.0,Boleyn Ground,apr,0.0,2007/08,2007,London,11.0,30.6,
+29,Wigan Athletic,Reading,14.0,17.0,25138.0,DW Stadium,apr,0.0,2007/08,2007,Wigan,10.0,36.7,
+30,Aston Villa,Birmingham City,6.0,18.0,42749.0,Villa Park,apr,1.0,2007/08,2007,Birmingham,8.0,23.8,
+31,Newcastle United,Sunderland,12.0,15.0,52305.0,Sports Direct Arena,apr,0.0,2007/08,2007,Newcastle,7.0,70.0,
+32,Manchester City,Portsmouth,8.0,7.0,53400.0,Etihad Stadium,apr,0.0,2007/08,2007,Manchester,9.0,27.0,
+33,Arsenal,Reading,3.0,17.0,60704.0,Emirates Stadium,apr,0.0,2007/08,2007,London,11.0,30.6,
+34,Fulham,Liverpool,19.0,4.0,25700.0,Craven Cottage,apr,0.0,2007/08,2007,London,11.0,30.6,
+35,Middlesbrough,Bolton Wanderers,14.0,16.0,33746.0,Riverside Stadium,apr,0.0,2007/08,2007,Middlesbrough,8.0,22.4,
+36,West Ham United,Derby County,10.0,20.0,35345.0,Boleyn Ground,apr,0.0,2007/08,2007,London,11.0,30.6,
+37,Wigan Athletic,Tottenham Hotspur,13.0,11.0,25138.0,DW Stadium,apr,0.0,2007/08,2007,Wigan,10.0,36.7,
+38,Blackburn Rovers,Manchester United,9.0,1.0,31367.0,Ewood Park,apr,0.0,2007/08,2007,Blackburn,9.0,26.4,
+39,Everton,Chelsea,5.0,2.0,39414.0,Goodison Park,apr,0.0,2007/08,2007,Liverpool,10.0,36.7,
+40,Chelsea,Wigan Athletic,2.0,15.0,40834.0,Stamford Bridge,apr,0.0,2007/08,2007,London,11.0,30.6,
+41,Liverpool,Blackburn Rovers,4.0,9.0,54074.0,Anfield,apr,0.0,2007/08,2007,Liverpool,10.0,36.7,
+42,Manchester United,Arsenal,1.0,3.0,75643.0,Old Trafford,apr,0.0,2007/08,2007,Manchester,9.0,27.0,
+43,Birmingham City,Everton,17.0,5.0,29409.0,St. Andrew's Trillion Trophy Stadium,apr,0.0,2007/08,2007,Birmingham,8.0,23.8,
+44,Bolton Wanderers,West Ham United,18.0,10.0,28723.0,University of Bolton Stadium,apr,0.0,2007/08,2007,Bolton,9.0,27.0,
+45,Derby County,Aston Villa,20.0,7.0,33597.0,Pride Park Stadium,apr,0.0,2007/08,2007,Derby,9.0,26.4,33006
+46,Reading,Fulham,16.0,19.0,24161.0,Madejski Stadium,apr,0.0,2007/08,2007,Reading,9.0,30.5,
+47,Sunderland,Manchester City,14.0,8.0,48707.0,Stadium of Light,apr,0.0,2007/08,2007,Sunderland,7.0,23.1,
+48,Tottenham Hotspur,Middlesbrough,11.0,13.0,36284.0,White Hart Lane,apr,0.0,2007/08,2007,London,11.0,30.6,
+49,Portsmouth,Newcastle United,6.0,12.0,20978.0,Fratton Park,apr,0.0,2007/08,2007,Portsmouth,9.0,19.2,
+50,West Ham United,Portsmouth,10.0,6.0,35345.0,Boleyn Ground,apr,0.0,2007/08,2007,London,11.0,30.6,
+51,Middlesbrough,Manchester United,14.0,1.0,33746.0,Riverside Stadium,apr,0.0,2007/08,2007,Middlesbrough,8.0,22.4,
+52,Everton,Derby County,5.0,20.0,39414.0,Goodison Park,apr,0.0,2007/08,2007,Liverpool,10.0,36.7,
+53,Arsenal,Liverpool,3.0,4.0,60704.0,Emirates Stadium,apr,0.0,2007/08,2007,London,11.0,30.6,
+54,Aston Villa,Bolton Wanderers,7.0,18.0,42749.0,Villa Park,apr,0.0,2007/08,2007,Birmingham,8.0,23.8,
+55,Blackburn Rovers,Tottenham Hotspur,8.0,11.0,31367.0,Ewood Park,apr,0.0,2007/08,2007,Blackburn,9.0,26.4,
+56,Fulham,Sunderland,19.0,13.0,25700.0,Craven Cottage,apr,0.0,2007/08,2007,London,11.0,30.6,
+57,Manchester City,Chelsea,9.0,2.0,53400.0,Etihad Stadium,apr,0.0,2007/08,2007,Manchester,9.0,27.0,
+58,Newcastle United,Reading,12.0,16.0,52305.0,Sports Direct Arena,apr,0.0,2007/08,2007,Newcastle,7.0,70.0,
+59,Wigan Athletic,Birmingham City,15.0,17.0,25138.0,DW Stadium,apr,0.0,2007/08,2007,Wigan,10.0,36.7,
+60,Chelsea,Middlesbrough,2.0,13.0,40834.0,Stamford Bridge,mar,0.0,2007/08,2007,London,8.0,29.8,
+61,Tottenham Hotspur,Newcastle United,11.0,12.0,36284.0,White Hart Lane,mar,0.0,2007/08,2007,London,8.0,29.8,
+62,Liverpool,Everton,4.0,5.0,54074.0,Anfield,mar,1.0,2007/08,2007,Liverpool,7.0,40.4,
+63,Birmingham City,Manchester City,17.0,9.0,29409.0,St. Andrew's Trillion Trophy Stadium,mar,0.0,2007/08,2007,Birmingham,6.0,19.6,
+64,Bolton Wanderers,Arsenal,18.0,3.0,28723.0,University of Bolton Stadium,mar,0.0,2007/08,2007,Bolton,6.0,25.0,
+65,Derby County,Fulham,20.0,19.0,33597.0,Pride Park Stadium,mar,0.0,2007/08,2007,Derby,6.0,21.3,
+66,Portsmouth,Wigan Athletic,6.0,16.0,20978.0,Fratton Park,mar,0.0,2007/08,2007,Portsmouth,8.0,17.2,
+67,Reading,Blackburn Rovers,15.0,7.0,24161.0,Madejski Stadium,mar,0.0,2007/08,2007,Reading,7.0,22.9,
+68,Sunderland,West Ham United,14.0,10.0,48707.0,Stadium of Light,mar,0.0,2007/08,2007,Sunderland,6.0,18.5,
+69,Manchester United,Aston Villa,1.0,8.0,75643.0,Old Trafford,mar,0.0,2007/08,2007,Manchester,6.0,25.0,
+70,Manchester United,Liverpool,1.0,4.0,75643.0,Old Trafford,mar,0.0,2007/08,2007,Manchester,6.0,25.0,
+71,Chelsea,Arsenal,2.0,3.0,40834.0,Stamford Bridge,mar,1.0,2007/08,2007,London,8.0,29.8,
+72,Tottenham Hotspur,Portsmouth,11.0,6.0,36284.0,White Hart Lane,mar,0.0,2007/08,2007,London,8.0,29.8,
+73,Aston Villa,Sunderland,7.0,16.0,42749.0,Villa Park,mar,0.0,2007/08,2007,Birmingham,6.0,19.6,
+74,Blackburn Rovers,Wigan Athletic,8.0,14.0,31367.0,Ewood Park,mar,0.0,2007/08,2007,Blackburn,7.0,25.2,
+75,Bolton Wanderers,Manchester City,18.0,9.0,28723.0,University of Bolton Stadium,mar,0.0,2007/08,2007,Bolton,6.0,25.0,
+76,Middlesbrough,Derby County,12.0,20.0,33746.0,Riverside Stadium,mar,0.0,2007/08,2007,Middlesbrough,6.0,18.4,
+77,Newcastle United,Fulham,13.0,19.0,52305.0,Sports Direct Arena,mar,0.0,2007/08,2007,Newcastle,4.0,106.4,
+78,Reading,Birmingham City,15.0,17.0,24161.0,Madejski Stadium,mar,0.0,2007/08,2007,Reading,7.0,22.9,
+79,Everton,West Ham United,5.0,10.0,39414.0,Goodison Park,mar,0.0,2007/08,2007,Liverpool,7.0,40.4,
+80,Manchester United,Bolton Wanderers,1.0,18.0,75643.0,Old Trafford,mar,0.0,2007/08,2007,Manchester,6.0,25.0,
+81,Tottenham Hotspur,Chelsea,11.0,3.0,36284.0,White Hart Lane,mar,1.0,2007/08,2007,London,8.0,29.8,
+82,Birmingham City,Newcastle United,16.0,14.0,29409.0,St. Andrew's Trillion Trophy Stadium,mar,0.0,2007/08,2007,Birmingham,6.0,19.6,
+83,Fulham,Everton,19.0,5.0,25700.0,Craven Cottage,mar,0.0,2007/08,2007,London,8.0,29.8,
+84,Wigan Athletic,Bolton Wanderers,12.0,18.0,25138.0,DW Stadium,mar,0.0,2007/08,2007,Wigan,7.0,40.4,
+85,Manchester City,Tottenham Hotspur,8.0,11.0,53400.0,Etihad Stadium,mar,0.0,2007/08,2007,Manchester,6.0,25.0,
+86,Derby County,Manchester United,20.0,1.0,33597.0,Pride Park Stadium,mar,0.0,2007/08,2007,Derby,6.0,21.3,
+87,Liverpool,Reading,4.0,15.0,54074.0,Anfield,mar,0.0,2007/08,2007,Liverpool,7.0,40.4,
+88,Portsmouth,Aston Villa,6.0,7.0,20978.0,Fratton Park,mar,0.0,2007/08,2007,Portsmouth,8.0,17.2,
+89,Sunderland,Chelsea,17.0,3.0,48707.0,Stadium of Light,mar,0.0,2007/08,2007,Sunderland,6.0,18.5,
+90,West Ham United,Blackburn Rovers,10.0,9.0,35345.0,Boleyn Ground,mar,0.0,2007/08,2007,London,8.0,29.8,
+91,Arsenal,Middlesbrough,2.0,13.0,60704.0,Emirates Stadium,mar,0.0,2007/08,2007,London,8.0,29.8,
+92,Aston Villa,Middlesbrough,6.0,12.0,42749.0,Villa Park,mar,0.0,2007/08,2007,Birmingham,6.0,19.6,
+93,Portsmouth,Birmingham City,7.0,17.0,20978.0,Fratton Park,mar,0.0,2007/08,2007,Portsmouth,8.0,17.2,
+94,Chelsea,Derby County,3.0,20.0,40834.0,Stamford Bridge,mar,0.0,2007/08,2007,London,8.0,29.8,
+95,Sunderland,Everton,16.0,5.0,48707.0,Stadium of Light,mar,0.0,2007/08,2007,Sunderland,6.0,18.5,
+96,Tottenham Hotspur,West Ham United,11.0,10.0,36284.0,White Hart Lane,mar,1.0,2007/08,2007,London,8.0,29.8,
+97,Wigan Athletic,Arsenal,13.0,1.0,25138.0,DW Stadium,mar,0.0,2007/08,2007,Wigan,7.0,40.4,
+98,Blackburn Rovers,Fulham,7.0,19.0,31367.0,Ewood Park,mar,0.0,2007/08,2007,Blackburn,7.0,25.2,
+99,Liverpool,Newcastle United,4.0,15.0,54074.0,Anfield,mar,0.0,2007/08,2007,Liverpool,7.0,40.4,
+100,Reading,Manchester City,14.0,8.0,24161.0,Madejski Stadium,mar,0.0,2007/08,2007,Reading,7.0,22.9,
+101,Liverpool,West Ham United,4.0,10.0,54074.0,Anfield,mar,0.0,2007/08,2007,Liverpool,7.0,40.4,
+102,Bolton Wanderers,Liverpool,17.0,4.0,28723.0,University of Bolton Stadium,mar,0.0,2007/08,2007,Bolton,6.0,25.0,
+103,Everton,Portsmouth,5.0,9.0,39414.0,Goodison Park,mar,0.0,2007/08,2007,Liverpool,7.0,40.4,
+104,Arsenal,Aston Villa,1.0,6.0,60704.0,Emirates Stadium,mar,0.0,2007/08,2007,London,8.0,29.8,
+105,Birmingham City,Tottenham Hotspur,16.0,11.0,29409.0,St. Andrew's Trillion Trophy Stadium,mar,0.0,2007/08,2007,Birmingham,6.0,19.6,
+106,Derby County,Sunderland,20.0,15.0,33597.0,Pride Park Stadium,mar,0.0,2007/08,2007,Derby,6.0,21.3,
+107,Fulham,Manchester United,19.0,2.0,25700.0,Craven Cottage,mar,0.0,2007/08,2007,London,8.0,29.8,
+108,Middlesbrough,Reading,12.0,18.0,33746.0,Riverside Stadium,mar,0.0,2007/08,2007,Middlesbrough,6.0,18.4,
+109,Newcastle United,Blackburn Rovers,13.0,7.0,52305.0,Sports Direct Arena,mar,0.0,2007/08,2007,Newcastle,4.0,106.4,
+110,West Ham United,Chelsea,10.0,3.0,35345.0,Boleyn Ground,mar,1.0,2007/08,2007,London,8.0,29.8,
+111,Manchester City,Wigan Athletic,8.0,14.0,53400.0,Etihad Stadium,mar,0.0,2007/08,2007,Manchester,6.0,25.0,
+112,Manchester City,Everton,8.0,4.0,53400.0,Etihad Stadium,feb,0.0,2007/08,2007,Manchester,5.0,28.4,
+113,Reading,Aston Villa,18.0,6.0,24161.0,Madejski Stadium,feb,0.0,2007/08,2007,Reading,5.0,27.2,
+114,Blackburn Rovers,Bolton Wanderers,9.0,16.0,31367.0,Ewood Park,feb,0.0,2007/08,2007,Blackburn,5.0,28.7,
+115,Fulham,West Ham United,19.0,10.0,25700.0,Craven Cottage,feb,1.0,2007/08,2007,London,6.0,47.9,
+116,Liverpool,Middlesbrough,5.0,12.0,54074.0,Anfield,feb,0.0,2007/08,2007,Liverpool,6.0,40.6,
+117,Portsmouth,Sunderland,7.0,15.0,20978.0,Fratton Park,feb,0.0,2007/08,2007,Portsmouth,6.0,23.8,
+118,Wigan Athletic,Derby County,14.0,20.0,25138.0,DW Stadium,feb,0.0,2007/08,2007,Wigan,6.0,40.6,
+119,Newcastle United,Manchester United,13.0,2.0,52305.0,Sports Direct Arena,feb,0.0,2007/08,2007,Newcastle,3.0,122.8,
+120,Birmingham City,Arsenal,17.0,1.0,29409.0,St. Andrew's Trillion Trophy Stadium,feb,0.0,2007/08,2007,Birmingham,5.0,23.4,
+121,Arsenal,Blackburn Rovers,1.0,9.0,60704.0,Emirates Stadium,feb,0.0,2007/08,2007,London,6.0,47.9,
+122,Manchester United,Manchester City,2.0,7.0,75643.0,Old Trafford,feb,1.0,2007/08,2007,Manchester,5.0,28.4,
+123,Chelsea,Liverpool,3.0,5.0,40834.0,Stamford Bridge,feb,0.0,2007/08,2007,London,6.0,47.9,
+124,Aston Villa,Newcastle United,6.0,13.0,42749.0,Villa Park,feb,0.0,2007/08,2007,Birmingham,5.0,23.4,
+125,Bolton Wanderers,Portsmouth,15.0,8.0,28723.0,University of Bolton Stadium,feb,0.0,2007/08,2007,Bolton,5.0,28.4,
+126,Derby County,Tottenham Hotspur,20.0,11.0,33597.0,Pride Park Stadium,feb,0.0,2007/08,2007,Derby,5.0,23.3,
+127,Everton,Reading,4.0,18.0,39414.0,Goodison Park,feb,0.0,2007/08,2007,Liverpool,6.0,40.6,
+128,Middlesbrough,Fulham,12.0,19.0,33746.0,Riverside Stadium,feb,0.0,2007/08,2007,Middlesbrough,5.0,21.8,
+129,Sunderland,Wigan Athletic,14.0,16.0,48707.0,Stadium of Light,feb,0.0,2007/08,2007,Sunderland,4.0,17.8,
+130,West Ham United,Birmingham City,10.0,17.0,35345.0,Boleyn Ground,feb,0.0,2007/08,2007,London,6.0,47.9,
+131,Newcastle United,Middlesbrough,12.0,13.0,52305.0,Sports Direct Arena,feb,0.0,2007/08,2007,Newcastle,3.0,122.8,
+132,Fulham,Aston Villa,19.0,6.0,25700.0,Craven Cottage,feb,0.0,2007/08,2007,London,6.0,47.9,
+133,Manchester City,Arsenal,7.0,1.0,53400.0,Etihad Stadium,feb,0.0,2007/08,2007,Manchester,5.0,28.4,
+134,Birmingham City,Derby County,18.0,20.0,29409.0,St. Andrew's Trillion Trophy Stadium,feb,0.0,2007/08,2007,Birmingham,5.0,23.4,
+135,Blackburn Rovers,Everton,8.0,4.0,31367.0,Ewood Park,feb,0.0,2007/08,2007,Blackburn,5.0,28.7,
+136,Portsmouth,Chelsea,9.0,3.0,20978.0,Fratton Park,feb,0.0,2007/08,2007,Portsmouth,6.0,23.8,
+137,Reading,Bolton Wanderers,17.0,14.0,24161.0,Madejski Stadium,feb,0.0,2007/08,2007,Reading,5.0,27.2,
+138,Tottenham Hotspur,Manchester United,11.0,2.0,36284.0,White Hart Lane,feb,0.0,2007/08,2007,London,6.0,47.9,
+139,Wigan Athletic,West Ham United,15.0,10.0,25138.0,DW Stadium,feb,0.0,2007/08,2007,Wigan,6.0,40.6,
+140,Liverpool,Sunderland,5.0,16.0,54074.0,Anfield,feb,0.0,2007/08,2007,Liverpool,6.0,40.6,
+141,Chelsea,Reading,3.0,16.0,40834.0,Stamford Bridge,jan,0.0,2007/08,2007,London,6.0,52.9,
+142,Derby County,Manchester City,20.0,6.0,33597.0,Pride Park Stadium,jan,0.0,2007/08,2007,Derby,4.0,32.3,
+143,West Ham United,Liverpool,10.0,7.0,35345.0,Boleyn Ground,jan,0.0,2007/08,2007,London,6.0,52.9,
+144,Everton,Tottenham Hotspur,4.0,11.0,39414.0,Goodison Park,jan,0.0,2007/08,2007,Liverpool,5.0,58.3,
+145,Manchester United,Portsmouth,1.0,9.0,75643.0,Old Trafford,jan,0.0,2007/08,2007,Manchester,5.0,32.4,
+146,Arsenal,Newcastle United,2.0,12.0,60704.0,Emirates Stadium,jan,0.0,2007/08,2007,London,6.0,52.9,
+147,Bolton Wanderers,Fulham,15.0,19.0,28723.0,University of Bolton Stadium,jan,0.0,2007/08,2007,Bolton,5.0,32.4,
+148,Middlesbrough,Wigan Athletic,13.0,18.0,33746.0,Riverside Stadium,jan,0.0,2007/08,2007,Middlesbrough,4.0,29.4,
+149,Sunderland,Birmingham City,14.0,17.0,48707.0,Stadium of Light,jan,0.0,2007/08,2007,Sunderland,4.0,20.8,
+150,Aston Villa,Blackburn Rovers,5.0,8.0,42749.0,Villa Park,jan,0.0,2007/08,2007,Birmingham,4.0,34.7,
+151,Liverpool,Aston Villa,6.0,5.0,54074.0,Anfield,jan,0.0,2007/08,2007,Liverpool,5.0,58.3,
+152,Wigan Athletic,Everton,17.0,4.0,25138.0,DW Stadium,jan,0.0,2007/08,2007,Wigan,5.0,58.3,
+153,Manchester City,West Ham United,7.0,10.0,53400.0,Etihad Stadium,jan,0.0,2007/08,2007,Manchester,5.0,32.4,
+154,Birmingham City,Chelsea,16.0,3.0,29409.0,St. Andrew's Trillion Trophy Stadium,jan,0.0,2007/08,2007,Birmingham,4.0,34.7,
+155,Blackburn Rovers,Middlesbrough,8.0,13.0,31367.0,Ewood Park,jan,0.0,2007/08,2007,Blackburn,5.0,32.5,
+156,Fulham,Arsenal,19.0,2.0,25700.0,Craven Cottage,jan,1.0,2007/08,2007,London,6.0,52.9,
+157,Portsmouth,Derby County,9.0,20.0,20978.0,Fratton Park,jan,0.0,2007/08,2007,Portsmouth,6.0,35.7,
+158,Reading,Manchester United,14.0,1.0,24161.0,Madejski Stadium,jan,0.0,2007/08,2007,Reading,5.0,39.4,
+159,Newcastle United,Bolton Wanderers,12.0,15.0,52305.0,Sports Direct Arena,jan,0.0,2007/08,2007,Newcastle,3.0,190.9,
+160,Tottenham Hotspur,Sunderland,11.0,18.0,36284.0,White Hart Lane,jan,0.0,2007/08,2007,London,6.0,52.9,
+161,Sunderland,Portsmouth,18.0,9.0,48707.0,Stadium of Light,jan,0.0,2007/08,2007,Sunderland,4.0,20.8,
+162,Bolton Wanderers,Blackburn Rovers,15.0,8.0,28723.0,University of Bolton Stadium,jan,0.0,2007/08,2007,Bolton,5.0,32.4,
+163,Arsenal,Birmingham City,2.0,16.0,60704.0,Emirates Stadium,jan,0.0,2007/08,2007,London,6.0,52.9,
+164,Aston Villa,Reading,6.0,13.0,42749.0,Villa Park,jan,0.0,2007/08,2007,Birmingham,4.0,34.7,
+165,Chelsea,Tottenham Hotspur,3.0,12.0,40834.0,Stamford Bridge,jan,1.0,2007/08,2007,London,6.0,52.9,
+166,Derby County,Wigan Athletic,20.0,17.0,33597.0,Pride Park Stadium,jan,0.0,2007/08,2007,Derby,4.0,32.3,
+167,Everton,Manchester City,5.0,7.0,39414.0,Goodison Park,jan,0.0,2007/08,2007,Liverpool,5.0,58.3,
+168,Middlesbrough,Liverpool,14.0,4.0,33746.0,Riverside Stadium,jan,0.0,2007/08,2007,Middlesbrough,4.0,29.4,
+169,West Ham United,Fulham,10.0,19.0,35345.0,Boleyn Ground,jan,1.0,2007/08,2007,London,6.0,52.9,
+170,Manchester United,Newcastle United,1.0,11.0,75643.0,Old Trafford,jan,0.0,2007/08,2007,Manchester,5.0,32.4,75965
+171,Newcastle United,Manchester City,11.0,4.0,52305.0,Sports Direct Arena,jan,0.0,2007/08,2007,Newcastle,3.0,190.9,
+172,Blackburn Rovers,Sunderland,9.0,18.0,31367.0,Ewood Park,jan,0.0,2007/08,2007,Blackburn,5.0,32.5,23212
+173,Bolton Wanderers,Derby County,14.0,20.0,28723.0,University of Bolton Stadium,jan,0.0,2007/08,2007,Bolton,5.0,32.4,
+174,Liverpool,Wigan Athletic,5.0,17.0,54074.0,Anfield,jan,0.0,2007/08,2007,Liverpool,5.0,58.3,
+175,Fulham,Chelsea,19.0,3.0,25700.0,Craven Cottage,jan,1.0,2007/08,2007,London,6.0,52.9,
+176,Arsenal,West Ham United,1.0,10.0,60704.0,Emirates Stadium,jan,1.0,2007/08,2007,London,6.0,52.9,
+177,Manchester United,Birmingham City,2.0,16.0,75643.0,Old Trafford,jan,0.0,2007/08,2007,Manchester,5.0,32.4,
+178,Middlesbrough,Everton,15.0,6.0,33746.0,Riverside Stadium,jan,0.0,2007/08,2007,Middlesbrough,4.0,29.4,
+179,Reading,Portsmouth,13.0,8.0,24161.0,Madejski Stadium,jan,0.0,2007/08,2007,Reading,5.0,39.4,24084
+180,Aston Villa,Tottenham Hotspur,7.0,12.0,42749.0,Villa Park,jan,0.0,2007/08,2007,Birmingham,4.0,34.7,
+181,Derby County,Blackburn Rovers,20.0,9.0,33597.0,Pride Park Stadium,dec,0.0,2007/08,2007,Derby,5.0,29.5,
+182,Manchester City,Liverpool,5.0,4.0,53400.0,Etihad Stadium,dec,0.0,2007/08,2007,Manchester,5.0,37.4,
+183,Birmingham City,Fulham,15.0,19.0,29409.0,St. Andrew's Trillion Trophy Stadium,dec,0.0,2007/08,2007,Birmingham,5.0,27.9,
+184,Chelsea,Newcastle United,3.0,11.0,40834.0,Stamford Bridge,dec,0.0,2007/08,2007,London,6.0,65.1,
+185,Portsmouth,Middlesbrough,8.0,14.0,20978.0,Fratton Park,dec,0.0,2007/08,2007,Portsmouth,6.0,31.4,
+186,Sunderland,Bolton Wanderers,17.0,16.0,48707.0,Stadium of Light,dec,0.0,2007/08,2007,Sunderland,4.0,22.9,
+187,Tottenham Hotspur,Reading,12.0,13.0,36284.0,White Hart Lane,dec,0.0,2007/08,2007,London,6.0,65.1,
+188,West Ham United,Manchester United,10.0,2.0,35345.0,Boleyn Ground,dec,0.0,2007/08,2007,London,6.0,65.1,
+189,Wigan Athletic,Aston Villa,18.0,7.0,25138.0,DW Stadium,dec,0.0,2007/08,2007,Wigan,6.0,72.8,
+190,Everton,Arsenal,6.0,1.0,39414.0,Goodison Park,dec,0.0,2007/08,2007,Liverpool,6.0,72.8,
+191,Manchester City,Blackburn Rovers,5.0,9.0,53400.0,Etihad Stadium,dec,0.0,2007/08,2007,Manchester,5.0,37.4,
+192,Chelsea,Aston Villa,3.0,8.0,40834.0,Stamford Bridge,dec,0.0,2007/08,2007,London,6.0,65.1,
+193,Tottenham Hotspur,Fulham,13.0,18.0,36284.0,White Hart Lane,dec,1.0,2007/08,2007,London,6.0,65.1,
+194,Birmingham City,Middlesbrough,14.0,16.0,29409.0,St. Andrew's Trillion Trophy Stadium,dec,0.0,2007/08,2007,Birmingham,5.0,27.9,
+195,Derby County,Liverpool,20.0,4.0,33597.0,Pride Park Stadium,dec,0.0,2007/08,2007,Derby,5.0,29.5,
+196,Everton,Bolton Wanderers,6.0,15.0,39414.0,Goodison Park,dec,0.0,2007/08,2007,Liverpool,6.0,72.8,
+197,Sunderland,Manchester United,19.0,1.0,48707.0,Stadium of Light,dec,0.0,2007/08,2007,Sunderland,4.0,22.9,
+198,Wigan Athletic,Newcastle United,17.0,11.0,25138.0,DW Stadium,dec,0.0,2007/08,2007,Wigan,6.0,72.8,
+199,Portsmouth,Arsenal,7.0,2.0,20978.0,Fratton Park,dec,0.0,2007/08,2007,Portsmouth,6.0,31.4,
+200,West Ham United,Reading,10.0,12.0,35345.0,Boleyn Ground,dec,0.0,2007/08,2007,London,6.0,65.1,
+201,Manchester United,Everton,2.0,6.0,75643.0,Old Trafford,dec,0.0,2007/08,2007,Manchester,5.0,37.4,
+202,Newcastle United,Derby County,9.0,20.0,52305.0,Sports Direct Arena,dec,0.0,2007/08,2007,Newcastle,4.0,230.3,
+203,Blackburn Rovers,Chelsea,10.0,3.0,31367.0,Ewood Park,dec,0.0,2007/08,2007,Blackburn,6.0,45.0,
+204,Arsenal,Tottenham Hotspur,1.0,13.0,60704.0,Emirates Stadium,dec,1.0,2007/08,2007,London,6.0,65.1,
+205,Aston Villa,Manchester City,8.0,4.0,42749.0,Villa Park,dec,0.0,2007/08,2007,Birmingham,5.0,27.9,
+206,Bolton Wanderers,Birmingham City,14.0,16.0,28723.0,University of Bolton Stadium,dec,0.0,2007/08,2007,Bolton,5.0,37.4,
+207,Fulham,Wigan Athletic,17.0,19.0,25700.0,Craven Cottage,dec,0.0,2007/08,2007,London,6.0,65.1,
+208,Liverpool,Portsmouth,5.0,7.0,54074.0,Anfield,dec,0.0,2007/08,2007,Liverpool,6.0,72.8,
+209,Middlesbrough,West Ham United,15.0,11.0,33746.0,Riverside Stadium,dec,0.0,2007/08,2007,Middlesbrough,5.0,28.7,
+210,Reading,Sunderland,12.0,18.0,24161.0,Madejski Stadium,dec,0.0,2007/08,2007,Reading,5.0,37.8,
+211,Liverpool,Manchester United,5.0,2.0,54074.0,Anfield,dec,0.0,2007/08,2007,Liverpool,6.0,72.8,
+212,Arsenal,Chelsea,1.0,3.0,60704.0,Emirates Stadium,dec,1.0,2007/08,2007,London,6.0,65.1,
+213,Birmingham City,Reading,15.0,13.0,29409.0,St. Andrew's Trillion Trophy Stadium,dec,0.0,2007/08,2007,Birmingham,5.0,27.9,
+214,Derby County,Middlesbrough,20.0,14.0,33597.0,Pride Park Stadium,dec,0.0,2007/08,2007,Derby,5.0,29.5,
+215,Manchester City,Bolton Wanderers,4.0,16.0,53400.0,Etihad Stadium,dec,0.0,2007/08,2007,Manchester,5.0,37.4,
+216,Portsmouth,Tottenham Hotspur,7.0,12.0,20978.0,Fratton Park,dec,0.0,2007/08,2007,Portsmouth,6.0,31.4,
+217,Sunderland,Aston Villa,17.0,8.0,48707.0,Stadium of Light,dec,0.0,2007/08,2007,Sunderland,4.0,22.9,
+218,West Ham United,Everton,11.0,6.0,35345.0,Boleyn Ground,dec,0.0,2007/08,2007,London,6.0,65.1,
+219,Wigan Athletic,Blackburn Rovers,19.0,9.0,25138.0,DW Stadium,dec,0.0,2007/08,2007,Wigan,6.0,72.8,
+220,Fulham,Newcastle United,18.0,10.0,25700.0,Craven Cottage,dec,0.0,2007/08,2007,London,6.0,65.1,
+221,Middlesbrough,Arsenal,16.0,1.0,33746.0,Riverside Stadium,dec,0.0,2007/08,2007,Middlesbrough,5.0,28.7,
+222,Bolton Wanderers,Wigan Athletic,14.0,19.0,28723.0,University of Bolton Stadium,dec,0.0,2007/08,2007,Bolton,5.0,37.4,
+223,Tottenham Hotspur,Manchester City,13.0,6.0,36284.0,White Hart Lane,dec,0.0,2007/08,2007,London,6.0,65.1,
+224,Blackburn Rovers,West Ham United,9.0,10.0,31367.0,Ewood Park,dec,0.0,2007/08,2007,Blackburn,6.0,45.0,
+225,Aston Villa,Portsmouth,8.0,5.0,42749.0,Villa Park,dec,0.0,2007/08,2007,Birmingham,5.0,27.9,
+226,Chelsea,Sunderland,3.0,18.0,40834.0,Stamford Bridge,dec,0.0,2007/08,2007,London,6.0,65.1,
+227,Everton,Fulham,7.0,17.0,39414.0,Goodison Park,dec,0.0,2007/08,2007,Liverpool,6.0,72.8,
+228,Manchester United,Derby County,2.0,20.0,75643.0,Old Trafford,dec,0.0,2007/08,2007,Manchester,5.0,37.4,
+229,Newcastle United,Birmingham City,11.0,15.0,52305.0,Sports Direct Arena,dec,0.0,2007/08,2007,Newcastle,4.0,230.3,
+230,Reading,Liverpool,12.0,4.0,24161.0,Madejski Stadium,dec,0.0,2007/08,2007,Reading,5.0,37.8,
+231,Newcastle United,Arsenal,11.0,1.0,52305.0,Sports Direct Arena,dec,0.0,2007/08,2007,Newcastle,4.0,230.3,
+232,Manchester United,Fulham,2.0,14.0,75643.0,Old Trafford,dec,0.0,2007/08,2007,Manchester,5.0,37.4,
+233,Liverpool,Bolton Wanderers,4.0,17.0,54074.0,Anfield,dec,0.0,2007/08,2007,Liverpool,6.0,72.8,
+234,Tottenham Hotspur,Birmingham City,16.0,12.0,36284.0,White Hart Lane,dec,0.0,2007/08,2007,London,6.0,65.1,
+235,Blackburn Rovers,Newcastle United,8.0,11.0,31367.0,Ewood Park,dec,0.0,2007/08,2007,Blackburn,6.0,45.0,
+236,Portsmouth,Everton,6.0,9.0,20978.0,Fratton Park,dec,0.0,2007/08,2007,Portsmouth,6.0,31.4,
+237,Reading,Middlesbrough,13.0,18.0,24161.0,Madejski Stadium,dec,0.0,2007/08,2007,Reading,5.0,37.8,
+238,Sunderland,Derby County,15.0,20.0,48707.0,Stadium of Light,dec,0.0,2007/08,2007,Sunderland,4.0,22.9,
+239,Aston Villa,Arsenal,7.0,1.0,42749.0,Villa Park,dec,0.0,2007/08,2007,Birmingham,5.0,27.9,
+240,Chelsea,West Ham United,3.0,10.0,40834.0,Stamford Bridge,dec,1.0,2007/08,2007,London,6.0,65.1,
+241,Wigan Athletic,Manchester City,19.0,5.0,25138.0,DW Stadium,dec,0.0,2007/08,2007,Wigan,6.0,72.8,
+242,Blackburn Rovers,Aston Villa,9.0,6.0,31367.0,Ewood Park,nov,0.0,2007/08,2007,Blackburn,8.0,43.7,
+243,West Ham United,Tottenham Hotspur,10.0,14.0,35345.0,Boleyn Ground,nov,1.0,2007/08,2007,London,9.0,72.0,
+244,Fulham,Blackburn Rovers,12.0,9.0,25700.0,Craven Cottage,nov,0.0,2007/08,2007,London,9.0,72.0,
+245,Newcastle United,Liverpool,11.0,5.0,52305.0,Sports Direct Arena,nov,0.0,2007/08,2007,Newcastle,6.0,202.8,
+246,Arsenal,Wigan Athletic,1.0,19.0,60704.0,Emirates Stadium,nov,0.0,2007/08,2007,London,9.0,72.0,
+247,Birmingham City,Portsmouth,16.0,7.0,29409.0,St. Andrew's Trillion Trophy Stadium,nov,0.0,2007/08,2007,Birmingham,7.0,31.5,
+248,Bolton Wanderers,Manchester United,15.0,2.0,28723.0,University of Bolton Stadium,nov,0.0,2007/08,2007,Bolton,7.0,35.8,
+249,Everton,Sunderland,8.0,18.0,39414.0,Goodison Park,nov,0.0,2007/08,2007,Liverpool,8.0,67.8,
+250,Manchester City,Reading,3.0,13.0,53400.0,Etihad Stadium,nov,0.0,2007/08,2007,Manchester,7.0,35.8,
+251,Middlesbrough,Aston Villa,17.0,6.0,33746.0,Riverside Stadium,nov,0.0,2007/08,2007,Middlesbrough,7.0,29.1,
+252,Derby County,Chelsea,20.0,4.0,33597.0,Pride Park Stadium,nov,0.0,2007/08,2007,Derby,7.0,29.9,
+253,Reading,Arsenal,12.0,1.0,24161.0,Madejski Stadium,nov,0.0,2007/08,2007,Reading,7.0,42.6,
+254,Birmingham City,Aston Villa,15.0,8.0,29409.0,St. Andrew's Trillion Trophy Stadium,nov,1.0,2007/08,2007,Birmingham,7.0,31.5,
+255,Chelsea,Everton,4.0,9.0,40834.0,Stamford Bridge,nov,0.0,2007/08,2007,London,9.0,72.0,
+256,Bolton Wanderers,Middlesbrough,18.0,17.0,28723.0,University of Bolton Stadium,nov,0.0,2007/08,2007,Bolton,7.0,35.8,
+257,Manchester United,Blackburn Rovers,2.0,7.0,75643.0,Old Trafford,nov,0.0,2007/08,2007,Manchester,7.0,35.8,
+258,Tottenham Hotspur,Wigan Athletic,14.0,19.0,36284.0,White Hart Lane,nov,0.0,2007/08,2007,London,9.0,72.0,
+259,Portsmouth,Manchester City,6.0,3.0,20978.0,Fratton Park,nov,0.0,2007/08,2007,Portsmouth,8.0,28.4,
+260,Sunderland,Newcastle United,16.0,11.0,48707.0,Stadium of Light,nov,0.0,2007/08,2007,Sunderland,6.0,26.6,
+261,Derby County,West Ham United,20.0,10.0,33597.0,Pride Park Stadium,nov,0.0,2007/08,2007,Derby,7.0,29.9,32440
+262,Liverpool,Fulham,5.0,13.0,54074.0,Anfield,nov,0.0,2007/08,2007,Liverpool,8.0,67.8,
+263,Manchester City,Sunderland,3.0,15.0,53400.0,Etihad Stadium,nov,0.0,2007/08,2007,Manchester,7.0,35.8,
+264,West Ham United,Bolton Wanderers,11.0,19.0,35345.0,Boleyn Ground,nov,0.0,2007/08,2007,London,9.0,72.0,
+265,Arsenal,Manchester United,1.0,2.0,60704.0,Emirates Stadium,nov,0.0,2007/08,2007,London,9.0,72.0,
+266,Aston Villa,Derby County,9.0,20.0,42749.0,Villa Park,nov,0.0,2007/08,2007,Birmingham,7.0,31.5,
+267,Everton,Birmingham City,8.0,14.0,39414.0,Goodison Park,nov,0.0,2007/08,2007,Liverpool,8.0,67.8,
+268,Fulham,Reading,13.0,12.0,25700.0,Craven Cottage,nov,0.0,2007/08,2007,London,9.0,72.0,
+269,Middlesbrough,Tottenham Hotspur,16.0,17.0,33746.0,Riverside Stadium,nov,0.0,2007/08,2007,Middlesbrough,7.0,29.1,
+270,Newcastle United,Portsmouth,10.0,5.0,52305.0,Sports Direct Arena,nov,0.0,2007/08,2007,Newcastle,6.0,202.8,
+271,Wigan Athletic,Chelsea,18.0,4.0,25138.0,DW Stadium,nov,0.0,2007/08,2007,Wigan,8.0,67.8,
+272,Blackburn Rovers,Liverpool,6.0,7.0,31367.0,Ewood Park,nov,0.0,2007/08,2007,Blackburn,8.0,43.7,
+273,Bolton Wanderers,Aston Villa,19.0,10.0,28723.0,University of Bolton Stadium,oct,0.0,2007/08,2007,Bolton,11.0,46.1,
+274,Derby County,Everton,20.0,9.0,33597.0,Pride Park Stadium,oct,0.0,2007/08,2007,Derby,11.0,36.5,
+275,Tottenham Hotspur,Blackburn Rovers,18.0,5.0,36284.0,White Hart Lane,oct,0.0,2007/08,2007,London,13.0,61.5,
+276,Liverpool,Arsenal,6.0,1.0,54074.0,Anfield,oct,0.0,2007/08,2007,Liverpool,12.0,58.2,
+277,Birmingham City,Wigan Athletic,13.0,16.0,29409.0,St. Andrew's Trillion Trophy Stadium,oct,0.0,2007/08,2007,Birmingham,11.0,31.9,
+278,Chelsea,Manchester City,4.0,3.0,40834.0,Stamford Bridge,oct,0.0,2007/08,2007,London,13.0,61.5,41814
+279,Portsmouth,West Ham United,7.0,11.0,20978.0,Fratton Park,oct,0.0,2007/08,2007,Portsmouth,12.0,29.2,
+280,Manchester United,Middlesbrough,2.0,17.0,75643.0,Old Trafford,oct,0.0,2007/08,2007,Manchester,11.0,46.1,
+281,Reading,Newcastle United,12.0,8.0,24161.0,Madejski Stadium,oct,0.0,2007/08,2007,Reading,11.0,43.2,
+282,Sunderland,Fulham,15.0,14.0,48707.0,Stadium of Light,oct,0.0,2007/08,2007,Sunderland,10.0,33.2,
+283,Newcastle United,Tottenham Hotspur,8.0,18.0,52305.0,Sports Direct Arena,oct,0.0,2007/08,2007,Newcastle,9.0,161.3,
+284,West Ham United,Sunderland,10.0,16.0,35345.0,Boleyn Ground,oct,0.0,2007/08,2007,London,13.0,61.5,
+285,Everton,Liverpool,11.0,4.0,39414.0,Goodison Park,oct,1.0,2007/08,2007,Liverpool,12.0,58.2,
+286,Arsenal,Bolton Wanderers,1.0,20.0,60704.0,Emirates Stadium,oct,0.0,2007/08,2007,London,13.0,61.5,
+287,Blackburn Rovers,Reading,6.0,12.0,31367.0,Ewood Park,oct,0.0,2007/08,2007,Blackburn,11.0,54.6,
+288,Fulham,Derby County,13.0,19.0,25700.0,Craven Cottage,oct,0.0,2007/08,2007,London,13.0,61.5,
+289,Manchester City,Birmingham City,3.0,14.0,53400.0,Etihad Stadium,oct,0.0,2007/08,2007,Manchester,11.0,46.1,
+290,Middlesbrough,Chelsea,17.0,7.0,33746.0,Riverside Stadium,oct,0.0,2007/08,2007,Middlesbrough,10.0,32.0,
+291,Wigan Athletic,Portsmouth,15.0,5.0,25138.0,DW Stadium,oct,0.0,2007/08,2007,Wigan,12.0,58.2,
+292,Aston Villa,Manchester United,9.0,2.0,42749.0,Villa Park,oct,0.0,2007/08,2007,Birmingham,11.0,31.9,
+293,Arsenal,Sunderland,1.0,16.0,60704.0,Emirates Stadium,oct,0.0,2007/08,2007,London,13.0,61.5,
+294,Reading,Derby County,12.0,20.0,24161.0,Madejski Stadium,oct,0.0,2007/08,2007,Reading,11.0,43.2,
+295,Blackburn Rovers,Birmingham City,6.0,13.0,31367.0,Ewood Park,oct,0.0,2007/08,2007,Blackburn,11.0,54.6,
+296,Bolton Wanderers,Chelsea,19.0,7.0,28723.0,University of Bolton Stadium,oct,0.0,2007/08,2007,Bolton,11.0,46.1,
+297,Liverpool,Tottenham Hotspur,4.0,17.0,54074.0,Anfield,oct,0.0,2007/08,2007,Liverpool,12.0,58.2,
+298,Manchester City,Middlesbrough,3.0,15.0,53400.0,Etihad Stadium,oct,0.0,2007/08,2007,Manchester,11.0,46.1,
+299,Newcastle United,Everton,9.0,10.0,52305.0,Sports Direct Arena,oct,0.0,2007/08,2007,Newcastle,9.0,161.3,
+300,Fulham,Portsmouth,18.0,5.0,25700.0,Craven Cottage,oct,0.0,2007/08,2007,London,13.0,61.5,
+301,Manchester United,Wigan Athletic,2.0,14.0,75643.0,Old Trafford,oct,0.0,2007/08,2007,Manchester,11.0,46.1,75300
+302,Aston Villa,West Ham United,8.0,11.0,42749.0,Villa Park,oct,0.0,2007/08,2007,Birmingham,11.0,31.9,
+303,Tottenham Hotspur,Aston Villa,18.0,9.0,36284.0,White Hart Lane,oct,0.0,2007/08,2007,London,13.0,61.5,
+304,Everton,Middlesbrough,5.0,14.0,39414.0,Goodison Park,sep,0.0,2007/08,2007,Liverpool,15.0,49.0,
+305,Manchester City,Newcastle United,3.0,10.0,53400.0,Etihad Stadium,sep,0.0,2007/08,2007,Manchester,14.0,26.5,
+306,Chelsea,Fulham,8.0,16.0,40834.0,Stamford Bridge,sep,1.0,2007/08,2007,London,16.0,41.2,
+307,Derby County,Bolton Wanderers,20.0,19.0,33597.0,Pride Park Stadium,sep,0.0,2007/08,2007,Derby,14.0,21.4,
+308,Portsmouth,Reading,6.0,17.0,20978.0,Fratton Park,sep,0.0,2007/08,2007,Portsmouth,15.0,15.7,
+309,Sunderland,Blackburn Rovers,15.0,7.0,48707.0,Stadium of Light,sep,0.0,2007/08,2007,Sunderland,13.0,19.0,
+310,West Ham United,Arsenal,11.0,1.0,35345.0,Boleyn Ground,sep,1.0,2007/08,2007,London,16.0,41.2,
+311,Wigan Athletic,Liverpool,12.0,4.0,25138.0,DW Stadium,sep,0.0,2007/08,2007,Wigan,15.0,49.0,
+312,Birmingham City,Manchester United,13.0,2.0,29409.0,St. Andrew's Trillion Trophy Stadium,sep,0.0,2007/08,2007,Birmingham,14.0,17.8,
+313,Newcastle United,West Ham United,5.0,7.0,52305.0,Sports Direct Arena,sep,0.0,2007/08,2007,Newcastle,12.0,101.9,
+314,Aston Villa,Everton,8.0,9.0,42749.0,Villa Park,sep,0.0,2007/08,2007,Birmingham,14.0,17.8,
+315,Blackburn Rovers,Portsmouth,10.0,11.0,31367.0,Ewood Park,sep,0.0,2007/08,2007,Blackburn,14.0,30.9,
+316,Bolton Wanderers,Tottenham Hotspur,19.0,18.0,28723.0,University of Bolton Stadium,sep,0.0,2007/08,2007,Bolton,14.0,26.5,
+317,Manchester United,Chelsea,2.0,6.0,75643.0,Old Trafford,sep,0.0,2007/08,2007,Manchester,14.0,26.5,
+318,Arsenal,Derby County,1.0,20.0,60704.0,Emirates Stadium,sep,0.0,2007/08,2007,London,16.0,41.2,
+319,Fulham,Manchester City,17.0,3.0,25700.0,Craven Cottage,sep,0.0,2007/08,2007,London,16.0,41.2,
+320,Liverpool,Birmingham City,4.0,14.0,54074.0,Anfield,sep,0.0,2007/08,2007,Liverpool,15.0,49.0,
+321,Middlesbrough,Sunderland,13.0,15.0,33746.0,Riverside Stadium,sep,0.0,2007/08,2007,Middlesbrough,14.0,18.7,
+322,Reading,Wigan Athletic,16.0,12.0,24161.0,Madejski Stadium,sep,0.0,2007/08,2007,Reading,14.0,24.7,
+323,Derby County,Newcastle United,19.0,10.0,33597.0,Pride Park Stadium,sep,0.0,2007/08,2007,Derby,14.0,21.4,
+324,Manchester City,Aston Villa,2.0,11.0,53400.0,Etihad Stadium,sep,0.0,2007/08,2007,Manchester,14.0,26.5,
+325,Everton,Manchester United,7.0,4.0,39414.0,Goodison Park,sep,0.0,2007/08,2007,Liverpool,15.0,49.0,
+326,Portsmouth,Liverpool,15.0,3.0,20978.0,Fratton Park,sep,0.0,2007/08,2007,Portsmouth,15.0,15.7,
+327,Tottenham Hotspur,Arsenal,17.0,1.0,36284.0,White Hart Lane,sep,1.0,2007/08,2007,London,16.0,41.2,
+328,Birmingham City,Bolton Wanderers,12.0,20.0,29409.0,St. Andrew's Trillion Trophy Stadium,sep,0.0,2007/08,2007,Birmingham,14.0,17.8,
+329,Sunderland,Reading,14.0,18.0,48707.0,Stadium of Light,sep,0.0,2007/08,2007,Sunderland,13.0,19.0,
+330,West Ham United,Middlesbrough,6.0,13.0,35345.0,Boleyn Ground,sep,0.0,2007/08,2007,London,16.0,41.2,
+331,Wigan Athletic,Fulham,9.0,16.0,25138.0,DW Stadium,sep,0.0,2007/08,2007,Wigan,15.0,49.0,
+332,Chelsea,Blackburn Rovers,5.0,8.0,40834.0,Stamford Bridge,sep,0.0,2007/08,2007,London,16.0,41.2,
+333,Arsenal,Portsmouth,2.0,13.0,60704.0,Emirates Stadium,sep,0.0,2007/08,2007,London,16.0,41.2,
+334,Blackburn Rovers,Manchester City,7.0,5.0,31367.0,Ewood Park,sep,0.0,2007/08,2007,Blackburn,14.0,30.9,
+335,Aston Villa,Chelsea,10.0,4.0,42749.0,Villa Park,sep,0.0,2007/08,2007,Birmingham,14.0,17.8,
+336,Bolton Wanderers,Everton,19.0,3.0,28723.0,University of Bolton Stadium,sep,0.0,2007/08,2007,Bolton,14.0,26.5,
+337,Fulham,Tottenham Hotspur,15.0,14.0,25700.0,Craven Cottage,sep,1.0,2007/08,2007,London,16.0,41.2,
+338,Liverpool,Derby County,1.0,20.0,54074.0,Anfield,sep,0.0,2007/08,2007,Liverpool,15.0,49.0,
+339,Middlesbrough,Birmingham City,12.0,16.0,33746.0,Riverside Stadium,sep,0.0,2007/08,2007,Middlesbrough,14.0,18.7,
+340,Newcastle United,Wigan Athletic,6.0,9.0,52305.0,Sports Direct Arena,sep,0.0,2007/08,2007,Newcastle,12.0,101.9,
+341,Reading,West Ham United,18.0,11.0,24161.0,Madejski Stadium,sep,0.0,2007/08,2007,Reading,14.0,24.7,
+342,Manchester United,Sunderland,8.0,17.0,75643.0,Old Trafford,sep,0.0,2007/08,2007,Manchester,14.0,26.5,
+343,Middlesbrough,Newcastle United,13.0,7.0,33746.0,Riverside Stadium,aug,0.0,2007/08,2007,Middlesbrough,16.0,24.6,
+344,Manchester United,Tottenham Hotspur,10.0,17.0,75643.0,Old Trafford,aug,0.0,2007/08,2007,Manchester,16.0,31.4,
+345,Sunderland,Liverpool,16.0,4.0,48707.0,Stadium of Light,aug,0.0,2007/08,2007,Sunderland,15.0,31.6,
+346,Arsenal,Manchester City,6.0,2.0,60704.0,Emirates Stadium,aug,0.0,2007/08,2007,London,18.0,57.5,
+347,Aston Villa,Fulham,11.0,19.0,42749.0,Villa Park,aug,0.0,2007/08,2007,Birmingham,16.0,27.0,
+348,Bolton Wanderers,Reading,18.0,15.0,28723.0,University of Bolton Stadium,aug,0.0,2007/08,2007,Bolton,16.0,31.4,
+349,Chelsea,Portsmouth,1.0,8.0,40834.0,Stamford Bridge,aug,0.0,2007/08,2007,London,18.0,57.5,
+350,Derby County,Birmingham City,20.0,12.0,33597.0,Pride Park Stadium,aug,0.0,2007/08,2007,Derby,16.0,24.1,
+351,West Ham United,Wigan Athletic,14.0,3.0,35345.0,Boleyn Ground,aug,0.0,2007/08,2007,London,18.0,57.5,
+352,Everton,Blackburn Rovers,5.0,9.0,39414.0,Goodison Park,aug,0.0,2007/08,2007,Liverpool,16.0,66.6,
+353,Manchester City,Manchester United,1.0,16.0,53400.0,Etihad Stadium,aug,1.0,2007/08,2007,Manchester,16.0,31.4,
+354,Blackburn Rovers,Arsenal,8.0,7.0,31367.0,Ewood Park,aug,0.0,2007/08,2007,Blackburn,16.0,35.9,
+355,Liverpool,Chelsea,9.0,2.0,54074.0,Anfield,aug,0.0,2007/08,2007,Liverpool,16.0,66.6,
+356,Birmingham City,West Ham United,18.0,15.0,29409.0,St. Andrew's Trillion Trophy Stadium,aug,0.0,2007/08,2007,Birmingham,16.0,27.0,
+357,Fulham,Middlesbrough,13.0,14.0,25700.0,Craven Cottage,aug,0.0,2007/08,2007,London,18.0,57.5,20340
+358,Reading,Everton,10.0,4.0,24161.0,Madejski Stadium,aug,0.0,2007/08,2007,Reading,17.0,29.7,
+359,Newcastle United,Aston Villa,6.0,17.0,52305.0,Sports Direct Arena,aug,0.0,2007/08,2007,Newcastle,13.0,104.9,
+360,Portsmouth,Bolton Wanderers,5.0,20.0,20978.0,Fratton Park,aug,0.0,2007/08,2007,Portsmouth,17.0,10.9,
+361,Tottenham Hotspur,Derby County,12.0,19.0,36284.0,White Hart Lane,aug,0.0,2007/08,2007,London,18.0,57.5,
+362,Wigan Athletic,Sunderland,3.0,11.0,25138.0,DW Stadium,aug,0.0,2007/08,2007,Wigan,16.0,66.6,
+363,Birmingham City,Sunderland,13.0,4.0,29409.0,St. Andrew's Trillion Trophy Stadium,aug,0.0,2007/08,2007,Birmingham,16.0,27.0,
+364,Fulham,Bolton Wanderers,9.0,19.0,25700.0,Craven Cottage,aug,0.0,2007/08,2007,London,18.0,57.5,
+365,Manchester City,Derby County,2.0,14.0,53400.0,Etihad Stadium,aug,0.0,2007/08,2007,Manchester,16.0,31.4,
+366,Portsmouth,Manchester United,11.0,12.0,20978.0,Fratton Park,aug,0.0,2007/08,2007,Portsmouth,17.0,10.9,
+367,Reading,Chelsea,15.0,3.0,24161.0,Madejski Stadium,aug,0.0,2007/08,2007,Reading,17.0,29.7,24031
+368,Wigan Athletic,Middlesbrough,10.0,17.0,25138.0,DW Stadium,aug,0.0,2007/08,2007,Wigan,16.0,66.6,
+369,Tottenham Hotspur,Everton,20.0,1.0,36284.0,White Hart Lane,aug,0.0,2007/08,2007,London,18.0,57.5,
+370,Arsenal,Fulham,4.0,15.0,60704.0,Emirates Stadium,aug,1.0,2007/08,2007,London,18.0,57.5,
+371,Chelsea,Birmingham City,3.0,13.0,40834.0,Stamford Bridge,aug,0.0,2007/08,2007,London,18.0,57.5,
+372,Manchester United,Reading,11.0,12.0,75643.0,Old Trafford,aug,0.0,2007/08,2007,Manchester,16.0,31.4,
+373,Sunderland,Tottenham Hotspur,8.0,18.0,48707.0,Stadium of Light,aug,0.0,2007/08,2007,Sunderland,15.0,31.6,
+374,Bolton Wanderers,Newcastle United,19.0,1.0,28723.0,University of Bolton Stadium,aug,0.0,2007/08,2007,Bolton,16.0,31.4,
+375,Derby County,Portsmouth,9.0,10.0,33597.0,Pride Park Stadium,aug,0.0,2007/08,2007,Derby,16.0,24.1,
+376,Everton,Wigan Athletic,6.0,17.0,39414.0,Goodison Park,aug,0.0,2007/08,2007,Liverpool,16.0,66.6,
+377,Middlesbrough,Blackburn Rovers,16.0,5.0,33746.0,Riverside Stadium,aug,0.0,2007/08,2007,Middlesbrough,16.0,24.6,
+378,West Ham United,Manchester City,20.0,2.0,35345.0,Boleyn Ground,aug,0.0,2007/08,2007,London,18.0,57.5,
+379,Aston Villa,Liverpool,14.0,7.0,42749.0,Villa Park,aug,0.0,2007/08,2007,Birmingham,16.0,27.0,
+380,Arsenal,Stoke City,4.0,12.0,60704.0,Emirates Stadium,may,0.0,2008/09,2008,London,14.0,52.1,60082
+381,Aston Villa,Newcastle United,6.0,18.0,42749.0,Villa Park,may,0.0,2008/09,2008,Birmingham,12.0,26.6,42585
+382,Blackburn Rovers,West Bromwich Albion,15.0,20.0,31367.0,Ewood Park,may,0.0,2008/09,2008,Blackburn,12.0,32.0,28389
+383,Fulham,Everton,7.0,5.0,25700.0,Craven Cottage,may,0.0,2008/09,2008,London,14.0,52.1,25497
+384,Hull City,Manchester United,17.0,1.0,25586.0,KCOM Stadium,may,0.0,2008/09,2008,Hull,11.0,7.7,24945
+385,Liverpool,Tottenham Hotspur,2.0,8.0,54074.0,Anfield,may,0.0,2008/09,2008,Liverpool,12.0,53.6,43937
+386,Manchester City,Bolton Wanderers,10.0,13.0,53400.0,Etihad Stadium,may,0.0,2008/09,2008,Manchester,12.0,21.2,47202
+387,Sunderland,Chelsea,16.0,3.0,48707.0,Stadium of Light,may,0.0,2008/09,2008,Sunderland,10.0,23.0,42468
+388,West Ham United,Middlesbrough,9.0,19.0,35345.0,Boleyn Ground,may,0.0,2008/09,2008,London,14.0,52.1,34007
+389,Wigan Athletic,Portsmouth,11.0,14.0,25138.0,DW Stadium,may,0.0,2008/09,2008,Wigan,12.0,53.6,17696
+390,Portsmouth,Sunderland,14.0,16.0,20978.0,Fratton Park,may,0.0,2008/09,2008,Portsmouth,13.0,16.5,20398
+391,West Bromwich Albion,Liverpool,20.0,2.0,26445.0,The Hawthorns,may,0.0,2008/09,2008,West Bromwich,12.0,26.6,26138
+392,Chelsea,Blackburn Rovers,3.0,15.0,40834.0,Stamford Bridge,may,0.0,2008/09,2008,London,14.0,52.1,
+393,Manchester United,Arsenal,1.0,4.0,75643.0,Old Trafford,may,0.0,2008/09,2008,Manchester,12.0,21.2,75468
+394,Bolton Wanderers,Hull City,13.0,17.0,28723.0,University of Bolton Stadium,may,0.0,2008/09,2008,Bolton,12.0,21.2,25085
+395,Everton,West Ham United,5.0,9.0,39414.0,Goodison Park,may,0.0,2008/09,2008,Liverpool,12.0,53.6,38501
+396,Middlesbrough,Aston Villa,19.0,6.0,33746.0,Riverside Stadium,may,0.0,2008/09,2008,Middlesbrough,11.0,19.9,27261
+397,Newcastle United,Fulham,18.0,7.0,52305.0,Sports Direct Arena,may,0.0,2008/09,2008,Newcastle,9.0,116.4,52114
+398,Stoke City,Wigan Athletic,11.0,12.0,30089.0,bet365 Stadium,may,0.0,2008/09,2008,Stoke,12.0,21.2,25641
+399,Tottenham Hotspur,Manchester City,8.0,10.0,36284.0,White Hart Lane,may,0.0,2008/09,2008,London,14.0,52.1,36000
+400,Wigan Athletic,Manchester United,11.0,1.0,25138.0,DW Stadium,may,0.0,2008/09,2008,Wigan,12.0,53.6,21286
+401,Newcastle United,Middlesbrough,17.0,19.0,52305.0,Sports Direct Arena,may,0.0,2008/09,2008,Newcastle,9.0,116.4,51252
+402,Manchester United,Manchester City,1.0,10.0,75643.0,Old Trafford,may,1.0,2008/09,2008,Manchester,12.0,21.2,75464
+403,Arsenal,Chelsea,4.0,3.0,60704.0,Emirates Stadium,may,1.0,2008/09,2008,London,14.0,52.1,60075
+404,Blackburn Rovers,Portsmouth,14.0,15.0,31367.0,Ewood Park,may,0.0,2008/09,2008,Blackburn,12.0,32.0,24234
+405,Bolton Wanderers,Sunderland,13.0,16.0,28723.0,University of Bolton Stadium,may,0.0,2008/09,2008,Bolton,12.0,21.2,24005
+406,Everton,Tottenham Hotspur,6.0,8.0,39414.0,Goodison Park,may,0.0,2008/09,2008,Liverpool,12.0,53.6,36646
+407,Fulham,Aston Villa,7.0,5.0,25700.0,Craven Cottage,may,0.0,2008/09,2008,London,14.0,52.1,25660
+408,Hull City,Stoke City,18.0,12.0,25586.0,KCOM Stadium,may,0.0,2008/09,2008,Hull,11.0,7.7,24932
+409,West Bromwich Albion,Wigan Athletic,20.0,11.0,26445.0,The Hawthorns,may,0.0,2008/09,2008,West Bromwich,12.0,26.6,24741
+410,West Ham United,Liverpool,9.0,2.0,35345.0,Boleyn Ground,may,0.0,2008/09,2008,London,14.0,52.1,34951
+411,Aston Villa,Hull City,5.0,17.0,42749.0,Villa Park,may,0.0,2008/09,2008,Birmingham,12.0,26.6,39607
+412,Liverpool,Newcastle United,2.0,18.0,54074.0,Anfield,may,0.0,2008/09,2008,Liverpool,12.0,53.6,44121
+413,Sunderland,Everton,16.0,6.0,48707.0,Stadium of Light,may,0.0,2008/09,2008,Sunderland,10.0,23.0,41313
+414,Chelsea,Fulham,3.0,9.0,40834.0,Stamford Bridge,may,1.0,2008/09,2008,London,14.0,52.1,41801
+415,Manchester City,Blackburn Rovers,8.0,15.0,53400.0,Etihad Stadium,may,0.0,2008/09,2008,Manchester,12.0,21.2,43967
+416,Portsmouth,Arsenal,14.0,4.0,20978.0,Fratton Park,may,0.0,2008/09,2008,Portsmouth,13.0,16.5,20418
+417,Stoke City,West Ham United,13.0,7.0,30089.0,bet365 Stadium,may,0.0,2008/09,2008,Stoke,12.0,21.2,27500
+418,Tottenham Hotspur,West Bromwich Albion,10.0,20.0,36284.0,White Hart Lane,may,0.0,2008/09,2008,London,14.0,52.1,35836
+419,Wigan Athletic,Bolton Wanderers,11.0,12.0,25138.0,DW Stadium,may,0.0,2008/09,2008,Wigan,12.0,53.6,18655
+420,Middlesbrough,Manchester United,19.0,1.0,33746.0,Riverside Stadium,may,0.0,2008/09,2008,Middlesbrough,11.0,19.9,33767
+421,Newcastle United,Portsmouth,18.0,14.0,52305.0,Sports Direct Arena,apr,0.0,2008/09,2008,Newcastle,7.0,70.0,
+422,Arsenal,Middlesbrough,4.0,19.0,60704.0,Emirates Stadium,apr,0.0,2008/09,2008,London,11.0,30.6,60089
+423,Blackburn Rovers,Wigan Athletic,15.0,11.0,31367.0,Ewood Park,apr,0.0,2008/09,2008,Blackburn,9.0,26.4,25019
+424,Bolton Wanderers,Aston Villa,13.0,5.0,28723.0,University of Bolton Stadium,apr,0.0,2008/09,2008,Bolton,9.0,27.0,21709
+425,Everton,Manchester City,6.0,9.0,39414.0,Goodison Park,apr,0.0,2008/09,2008,Liverpool,10.0,36.7,37791
+426,Fulham,Stoke City,7.0,12.0,25700.0,Craven Cottage,apr,0.0,2008/09,2008,London,11.0,30.6,24997
+427,Hull City,Liverpool,17.0,2.0,25586.0,KCOM Stadium,apr,0.0,2008/09,2008,Hull,9.0,13.3,24942
+428,West Bromwich Albion,Sunderland,20.0,16.0,26445.0,The Hawthorns,apr,0.0,2008/09,2008,West Bromwich,8.0,23.8,26256
+429,West Ham United,Chelsea,8.0,3.0,35345.0,Boleyn Ground,apr,1.0,2008/09,2008,London,11.0,30.6,34749
+430,Manchester United,Tottenham Hotspur,1.0,10.0,75643.0,Old Trafford,apr,0.0,2008/09,2008,Manchester,9.0,27.0,75458
+431,Chelsea,Everton,3.0,6.0,40834.0,Stamford Bridge,apr,0.0,2008/09,2008,London,11.0,30.6,41556
+432,Manchester United,Portsmouth,1.0,14.0,75643.0,Old Trafford,apr,0.0,2008/09,2008,Manchester,9.0,27.0,74895
+433,Liverpool,Arsenal,2.0,4.0,54074.0,Anfield,apr,0.0,2008/09,2008,Liverpool,10.0,36.7,44424
+434,Tottenham Hotspur,Newcastle United,9.0,19.0,36284.0,White Hart Lane,apr,0.0,2008/09,2008,London,11.0,30.6,
+435,Manchester City,West Bromwich Albion,10.0,20.0,53400.0,Etihad Stadium,apr,0.0,2008/09,2008,Manchester,9.0,27.0,
+436,Aston Villa,West Ham United,5.0,7.0,42749.0,Villa Park,apr,0.0,2008/09,2008,Birmingham,8.0,23.8,39534
+437,Middlesbrough,Fulham,18.0,8.0,33746.0,Riverside Stadium,apr,0.0,2008/09,2008,Middlesbrough,8.0,22.4,30389
+438,Portsmouth,Bolton Wanderers,14.0,13.0,20978.0,Fratton Park,apr,0.0,2008/09,2008,Portsmouth,9.0,19.2,20158
+439,Stoke City,Blackburn Rovers,12.0,17.0,30089.0,bet365 Stadium,apr,0.0,2008/09,2008,Stoke,9.0,27.0,27500
+440,Sunderland,Hull City,15.0,16.0,48707.0,Stadium of Light,apr,0.0,2008/09,2008,Sunderland,7.0,23.1,42855
+441,Aston Villa,Everton,5.0,6.0,42749.0,Villa Park,apr,0.0,2008/09,2008,Birmingham,8.0,23.8,40188
+442,Manchester City,Fulham,11.0,8.0,53400.0,Etihad Stadium,apr,0.0,2008/09,2008,Manchester,9.0,27.0,39841
+443,Liverpool,Blackburn Rovers,2.0,16.0,54074.0,Anfield,apr,0.0,2008/09,2008,Liverpool,10.0,36.7,43466
+444,Chelsea,Bolton Wanderers,3.0,12.0,40834.0,Stamford Bridge,apr,0.0,2008/09,2008,London,11.0,30.6,41096
+445,Middlesbrough,Hull City,19.0,15.0,33746.0,Riverside Stadium,apr,0.0,2008/09,2008,Middlesbrough,8.0,22.4,32255
+446,Portsmouth,West Bromwich Albion,14.0,20.0,20978.0,Fratton Park,apr,0.0,2008/09,2008,Portsmouth,9.0,19.2,20376
+447,Sunderland,Manchester United,17.0,1.0,48707.0,Stadium of Light,apr,0.0,2008/09,2008,Sunderland,7.0,23.1,45408
+448,Tottenham Hotspur,West Ham United,9.0,7.0,36284.0,White Hart Lane,apr,1.0,2008/09,2008,London,11.0,30.6,35969
+449,Wigan Athletic,Arsenal,10.0,4.0,25138.0,DW Stadium,apr,0.0,2008/09,2008,Wigan,10.0,36.7,22954
+450,Stoke City,Newcastle United,13.0,18.0,30089.0,bet365 Stadium,apr,0.0,2008/09,2008,Stoke,9.0,27.0,27500
+451,Everton,Wigan Athletic,6.0,8.0,39414.0,Goodison Park,apr,0.0,2008/09,2008,Liverpool,10.0,36.7,34427
+452,Manchester United,Aston Villa,1.0,5.0,75643.0,Old Trafford,apr,0.0,2008/09,2008,Manchester,9.0,27.0,75409
+453,Arsenal,Manchester City,4.0,10.0,60704.0,Emirates Stadium,apr,0.0,2008/09,2008,London,11.0,30.6,60097
+454,Bolton Wanderers,Middlesbrough,12.0,19.0,28723.0,University of Bolton Stadium,apr,0.0,2008/09,2008,Bolton,9.0,27.0,20819
+455,Hull City,Portsmouth,15.0,16.0,25586.0,KCOM Stadium,apr,0.0,2008/09,2008,Hull,9.0,13.3,24802
+456,Newcastle United,Chelsea,18.0,3.0,52305.0,Sports Direct Arena,apr,0.0,2008/09,2008,Newcastle,7.0,70.0,52112
+457,West Bromwich Albion,Stoke City,20.0,13.0,26445.0,The Hawthorns,apr,0.0,2008/09,2008,West Bromwich,8.0,23.8,26277
+458,West Ham United,Sunderland,7.0,17.0,35345.0,Boleyn Ground,apr,0.0,2008/09,2008,London,11.0,30.6,34761
+459,Fulham,Liverpool,9.0,2.0,25700.0,Craven Cottage,apr,0.0,2008/09,2008,London,11.0,30.6,25661
+460,Blackburn Rovers,Tottenham Hotspur,14.0,11.0,31367.0,Ewood Park,apr,0.0,2008/09,2008,Blackburn,9.0,26.4,21891
+461,Wigan Athletic,Hull City,7.0,13.0,25138.0,DW Stadium,mar,0.0,2008/09,2008,Wigan,7.0,40.4,17689
+462,Manchester City,Sunderland,10.0,14.0,53400.0,Etihad Stadium,mar,0.0,2008/09,2008,Manchester,6.0,25.0,43017
+463,Liverpool,Aston Villa,2.0,5.0,54074.0,Anfield,mar,0.0,2008/09,2008,Liverpool,7.0,40.4,44131
+464,Portsmouth,Everton,15.0,6.0,20978.0,Fratton Park,mar,0.0,2008/09,2008,Portsmouth,8.0,17.2,20388
+465,Blackburn Rovers,West Ham United,17.0,8.0,31367.0,Ewood Park,mar,0.0,2008/09,2008,Blackburn,7.0,25.2,21672
+466,Fulham,Manchester United,9.0,1.0,25700.0,Craven Cottage,mar,0.0,2008/09,2008,London,8.0,29.8,25652
+467,Stoke City,Middlesbrough,16.0,19.0,30089.0,bet365 Stadium,mar,0.0,2008/09,2008,Stoke,6.0,25.0,26442
+468,Tottenham Hotspur,Chelsea,11.0,3.0,36284.0,White Hart Lane,mar,1.0,2008/09,2008,London,8.0,29.8,36034
+469,West Bromwich Albion,Bolton Wanderers,20.0,12.0,26445.0,The Hawthorns,mar,0.0,2008/09,2008,West Bromwich,6.0,19.6,25530
+470,Newcastle United,Arsenal,18.0,4.0,52305.0,Sports Direct Arena,mar,0.0,2008/09,2008,Newcastle,4.0,106.4,49972
+471,West Ham United,West Bromwich Albion,7.0,20.0,35345.0,Boleyn Ground,mar,0.0,2008/09,2008,London,8.0,29.8,40842
+472,Chelsea,Manchester City,2.0,10.0,40834.0,Stamford Bridge,mar,0.0,2008/09,2008,London,8.0,29.8,41810
+473,Aston Villa,Tottenham Hotspur,5.0,11.0,42749.0,Villa Park,mar,0.0,2008/09,2008,Birmingham,6.0,19.6,41205
+474,Manchester United,Liverpool,1.0,3.0,75643.0,Old Trafford,mar,0.0,2008/09,2008,Manchester,6.0,25.0,75569
+475,Arsenal,Blackburn Rovers,4.0,15.0,60704.0,Emirates Stadium,mar,0.0,2008/09,2008,London,8.0,29.8,60091
+476,Bolton Wanderers,Fulham,12.0,9.0,28723.0,University of Bolton Stadium,mar,0.0,2008/09,2008,Bolton,6.0,25.0,22117
+477,Everton,Stoke City,6.0,18.0,39414.0,Goodison Park,mar,0.0,2008/09,2008,Liverpool,7.0,40.4,36396
+478,Hull City,Newcastle United,13.0,16.0,25586.0,KCOM Stadium,mar,0.0,2008/09,2008,Hull,7.0,12.0,24914
+479,Middlesbrough,Portsmouth,19.0,17.0,33746.0,Riverside Stadium,mar,0.0,2008/09,2008,Middlesbrough,6.0,18.4,24281
+480,Sunderland,Wigan Athletic,14.0,8.0,48707.0,Stadium of Light,mar,0.0,2008/09,2008,Sunderland,6.0,18.5,39266
+481,Fulham,Blackburn Rovers,10.0,15.0,25700.0,Craven Cottage,mar,0.0,2008/09,2008,London,8.0,29.8,
+482,Sunderland,Tottenham Hotspur,13.0,12.0,48707.0,Stadium of Light,mar,0.0,2008/09,2008,Sunderland,6.0,18.5,37894
+483,Manchester City,Aston Villa,8.0,4.0,53400.0,Etihad Stadium,mar,0.0,2008/09,2008,Manchester,6.0,25.0,40137
+484,Newcastle United,Manchester United,17.0,1.0,52305.0,Sports Direct Arena,mar,0.0,2008/09,2008,Newcastle,4.0,106.4,51636
+485,Stoke City,Bolton Wanderers,16.0,11.0,30089.0,bet365 Stadium,mar,0.0,2008/09,2008,Stoke,6.0,25.0,26319
+486,Wigan Athletic,West Ham United,9.0,7.0,25138.0,DW Stadium,mar,0.0,2008/09,2008,Wigan,7.0,40.4,14169
+487,Blackburn Rovers,Everton,15.0,6.0,31367.0,Ewood Park,mar,0.0,2008/09,2008,Blackburn,7.0,25.2,21445
+488,Fulham,Hull City,10.0,14.0,25700.0,Craven Cottage,mar,0.0,2008/09,2008,London,8.0,29.8,23051
+489,Tottenham Hotspur,Middlesbrough,12.0,19.0,36284.0,White Hart Lane,mar,0.0,2008/09,2008,London,8.0,29.8,35761
+490,Portsmouth,Chelsea,18.0,2.0,20978.0,Fratton Park,mar,0.0,2008/09,2008,Portsmouth,8.0,17.2,
+491,West Bromwich Albion,Arsenal,20.0,5.0,26445.0,The Hawthorns,mar,0.0,2008/09,2008,West Bromwich,6.0,19.6,
+492,Liverpool,Sunderland,3.0,13.0,54074.0,Anfield,mar,0.0,2008/09,2008,Liverpool,7.0,40.4,
+493,Hull City,Blackburn Rovers,13.0,17.0,25586.0,KCOM Stadium,mar,0.0,2008/09,2008,Hull,7.0,12.0,24612
+494,West Ham United,Manchester City,7.0,11.0,35345.0,Boleyn Ground,mar,0.0,2008/09,2008,London,8.0,29.8,34562
+495,Bolton Wanderers,Newcastle United,10.0,15.0,28723.0,University of Bolton Stadium,mar,0.0,2008/09,2008,Bolton,6.0,25.0,20763
+496,Aston Villa,Stoke City,4.0,19.0,42749.0,Villa Park,mar,0.0,2008/09,2008,Birmingham,6.0,19.6,39641
+497,Arsenal,Fulham,5.0,9.0,60704.0,Emirates Stadium,feb,1.0,2008/09,2008,London,6.0,47.9,60102
+498,Chelsea,Wigan Athletic,2.0,8.0,40834.0,Stamford Bridge,feb,0.0,2008/09,2008,London,6.0,47.9,40714
+499,Middlesbrough,Liverpool,18.0,3.0,33746.0,Riverside Stadium,feb,0.0,2008/09,2008,Middlesbrough,5.0,21.8,33724
+500,Everton,West Bromwich Albion,6.0,20.0,39414.0,Goodison Park,feb,0.0,2008/09,2008,Liverpool,6.0,40.6,33898
+501,Hull City,Tottenham Hotspur,13.0,14.0,25586.0,KCOM Stadium,feb,0.0,2008/09,2008,Hull,5.0,12.0,
+502,Fulham,West Bromwich Albion,8.0,20.0,25700.0,Craven Cottage,feb,0.0,2008/09,2008,London,6.0,47.9,22394
+503,Liverpool,Manchester City,2.0,10.0,54074.0,Anfield,feb,0.0,2008/09,2008,Liverpool,6.0,40.6,44259
+504,Newcastle United,Everton,15.0,6.0,52305.0,Sports Direct Arena,feb,0.0,2008/09,2008,Newcastle,3.0,122.8,47683
+505,Aston Villa,Chelsea,4.0,3.0,42749.0,Villa Park,feb,0.0,2008/09,2008,Birmingham,5.0,23.4,42585
+506,Arsenal,Sunderland,5.0,11.0,60704.0,Emirates Stadium,feb,0.0,2008/09,2008,London,6.0,47.9,60104
+507,Bolton Wanderers,West Ham United,12.0,9.0,28723.0,University of Bolton Stadium,feb,0.0,2008/09,2008,Bolton,5.0,28.4,21245
+508,Middlesbrough,Wigan Athletic,19.0,7.0,33746.0,Riverside Stadium,feb,0.0,2008/09,2008,Middlesbrough,5.0,21.8,24020
+509,Stoke City,Portsmouth,17.0,16.0,30089.0,bet365 Stadium,feb,0.0,2008/09,2008,Stoke,5.0,28.4,
+510,Manchester United,Blackburn Rovers,1.0,18.0,75643.0,Old Trafford,feb,0.0,2008/09,2008,Manchester,5.0,28.4,75000
+511,Manchester United,Fulham,1.0,10.0,75643.0,Old Trafford,feb,0.0,2008/09,2008,Manchester,5.0,28.4,75437
+512,Portsmouth,Manchester City,15.0,9.0,20978.0,Fratton Park,feb,0.0,2008/09,2008,Portsmouth,6.0,23.8,20018
+513,Tottenham Hotspur,Arsenal,16.0,5.0,36284.0,White Hart Lane,feb,1.0,2008/09,2008,London,6.0,47.9,36021
+514,West Ham United,Manchester United,8.0,1.0,35345.0,Boleyn Ground,feb,0.0,2008/09,2008,London,6.0,47.9,34958
+515,Manchester City,Middlesbrough,9.0,19.0,53400.0,Etihad Stadium,feb,0.0,2008/09,2008,Manchester,5.0,28.4,40588
+516,Blackburn Rovers,Aston Villa,18.0,3.0,31367.0,Ewood Park,feb,0.0,2008/09,2008,Blackburn,5.0,28.7,24267
+517,Chelsea,Hull City,4.0,12.0,40834.0,Stamford Bridge,feb,0.0,2008/09,2008,London,6.0,47.9,41802
+518,Everton,Bolton Wanderers,6.0,14.0,39414.0,Goodison Park,feb,0.0,2008/09,2008,Liverpool,6.0,40.6,33791
+519,Sunderland,Stoke City,11.0,17.0,48707.0,Stadium of Light,feb,0.0,2008/09,2008,Sunderland,4.0,17.8,38350
+520,West Bromwich Albion,Newcastle United,20.0,13.0,26445.0,The Hawthorns,feb,0.0,2008/09,2008,West Bromwich,5.0,23.4,25817
+521,Wigan Athletic,Fulham,7.0,10.0,25138.0,DW Stadium,feb,0.0,2008/09,2008,Wigan,6.0,40.6,16504
+522,Portsmouth,Liverpool,15.0,2.0,20978.0,Fratton Park,feb,0.0,2008/09,2008,Portsmouth,6.0,23.8,20524
+523,Newcastle United,Sunderland,15.0,13.0,52305.0,Sports Direct Arena,feb,0.0,2008/09,2008,Newcastle,3.0,122.8,52084
+524,Liverpool,Chelsea,2.0,3.0,54074.0,Anfield,feb,0.0,2008/09,2008,Liverpool,6.0,40.6,44174
+525,Stoke City,Manchester City,17.0,10.0,30089.0,bet365 Stadium,jan,0.0,2008/09,2008,Stoke,5.0,32.4,27236
+526,Arsenal,West Ham United,5.0,8.0,60704.0,Emirates Stadium,jan,1.0,2008/09,2008,London,6.0,52.9,60109
+527,Aston Villa,Wigan Athletic,4.0,7.0,42749.0,Villa Park,jan,0.0,2008/09,2008,Birmingham,4.0,34.7,41766
+528,Bolton Wanderers,Tottenham Hotspur,12.0,14.0,28723.0,University of Bolton Stadium,jan,0.0,2008/09,2008,Bolton,5.0,32.4,21575
+529,Fulham,Portsmouth,9.0,16.0,25700.0,Craven Cottage,jan,0.0,2008/09,2008,London,6.0,52.9,23722
+530,Hull City,West Bromwich Albion,11.0,20.0,25586.0,KCOM Stadium,jan,0.0,2008/09,2008,Hull,4.0,17.4,24879
+531,Middlesbrough,Blackburn Rovers,19.0,18.0,33746.0,Riverside Stadium,jan,0.0,2008/09,2008,Middlesbrough,4.0,29.4,24303
+532,Manchester United,Everton,1.0,6.0,75643.0,Old Trafford,jan,0.0,2008/09,2008,Manchester,5.0,32.4,75399
+533,Chelsea,Middlesbrough,2.0,18.0,40834.0,Stamford Bridge,jan,0.0,2008/09,2008,London,6.0,52.9,40280
+534,Manchester City,Newcastle United,9.0,16.0,53400.0,Etihad Stadium,jan,0.0,2008/09,2008,Manchester,5.0,32.4,42280
+535,Wigan Athletic,Liverpool,7.0,3.0,25138.0,DW Stadium,jan,0.0,2008/09,2008,Wigan,5.0,58.3,21237
+536,Blackburn Rovers,Bolton Wanderers,17.0,14.0,31367.0,Ewood Park,jan,0.0,2008/09,2008,Blackburn,5.0,32.5,25205
+537,Everton,Arsenal,6.0,5.0,39414.0,Goodison Park,jan,0.0,2008/09,2008,Liverpool,5.0,58.3,37097
+538,West Ham United,Hull City,8.0,10.0,35345.0,Boleyn Ground,jan,0.0,2008/09,2008,London,6.0,52.9,34340
+539,Portsmouth,Aston Villa,15.0,4.0,20978.0,Fratton Park,jan,0.0,2008/09,2008,Portsmouth,6.0,35.7,19073
+540,Sunderland,Fulham,12.0,11.0,48707.0,Stadium of Light,jan,0.0,2008/09,2008,Sunderland,4.0,20.8,36539
+541,West Bromwich Albion,Manchester United,20.0,1.0,26445.0,The Hawthorns,jan,0.0,2008/09,2008,West Bromwich,4.0,34.7,26105
+542,Tottenham Hotspur,Stoke City,13.0,19.0,36284.0,White Hart Lane,jan,0.0,2008/09,2008,London,6.0,52.9,36072
+543,Liverpool,Everton,2.0,6.0,54074.0,Anfield,jan,1.0,2008/09,2008,Liverpool,5.0,58.3,44382
+544,West Ham United,Fulham,8.0,10.0,35345.0,Boleyn Ground,jan,1.0,2008/09,2008,London,6.0,52.9,31818
+545,Tottenham Hotspur,Portsmouth,16.0,12.0,36284.0,White Hart Lane,jan,0.0,2008/09,2008,London,6.0,52.9,36011
+546,Blackburn Rovers,Newcastle United,17.0,14.0,31367.0,Ewood Park,jan,0.0,2008/09,2008,Blackburn,5.0,32.5,25583
+547,Bolton Wanderers,Manchester United,13.0,1.0,28723.0,University of Bolton Stadium,jan,0.0,2008/09,2008,Bolton,5.0,32.4,26021
+548,Chelsea,Stoke City,3.0,19.0,40834.0,Stamford Bridge,jan,0.0,2008/09,2008,London,6.0,52.9,41788
+549,Manchester City,Wigan Athletic,11.0,7.0,53400.0,Etihad Stadium,jan,0.0,2008/09,2008,Manchester,5.0,32.4,41262
+550,Sunderland,Aston Villa,15.0,4.0,48707.0,Stadium of Light,jan,0.0,2008/09,2008,Sunderland,4.0,20.8,40350
+551,West Bromwich Albion,Middlesbrough,20.0,18.0,26445.0,The Hawthorns,jan,0.0,2008/09,2008,West Bromwich,4.0,34.7,25557
+552,Hull City,Arsenal,9.0,5.0,25586.0,KCOM Stadium,jan,0.0,2008/09,2008,Hull,4.0,17.4,24924
+553,Manchester United,Wigan Athletic,2.0,7.0,75643.0,Old Trafford,jan,0.0,2008/09,2008,Manchester,5.0,32.4,73917
+554,Wigan Athletic,Tottenham Hotspur,7.0,18.0,25138.0,DW Stadium,jan,0.0,2008/09,2008,Wigan,5.0,58.3,17500
+555,Manchester United,Chelsea,2.0,3.0,75643.0,Old Trafford,jan,0.0,2008/09,2008,Manchester,5.0,32.4,75455
+556,Aston Villa,West Bromwich Albion,4.0,20.0,42749.0,Villa Park,jan,0.0,2008/09,2008,Birmingham,4.0,34.7,41757
+557,Arsenal,Bolton Wanderers,5.0,12.0,60704.0,Emirates Stadium,jan,0.0,2008/09,2008,London,6.0,52.9,60068
+558,Everton,Hull City,6.0,8.0,39414.0,Goodison Park,jan,0.0,2008/09,2008,Liverpool,5.0,58.3,37527
+559,Middlesbrough,Sunderland,16.0,13.0,33746.0,Riverside Stadium,jan,0.0,2008/09,2008,Middlesbrough,4.0,29.4,29310
+560,Newcastle United,West Ham United,11.0,10.0,52305.0,Sports Direct Arena,jan,0.0,2008/09,2008,Newcastle,3.0,190.9,47571
+561,Stoke City,Liverpool,17.0,1.0,30089.0,bet365 Stadium,jan,0.0,2008/09,2008,Stoke,5.0,32.4,27500
+562,Hull City,Aston Villa,8.0,4.0,25586.0,KCOM Stadium,dec,0.0,2008/09,2008,Hull,5.0,18.6,24727
+563,Manchester United,Middlesbrough,3.0,17.0,75643.0,Old Trafford,dec,0.0,2008/09,2008,Manchester,5.0,37.4,75294
+564,Newcastle United,Liverpool,14.0,1.0,52305.0,Sports Direct Arena,dec,0.0,2008/09,2008,Newcastle,4.0,230.3,52114
+565,Arsenal,Portsmouth,5.0,12.0,60704.0,Emirates Stadium,dec,0.0,2008/09,2008,London,6.0,65.1,60092
+566,Bolton Wanderers,Wigan Athletic,11.0,7.0,28723.0,University of Bolton Stadium,dec,0.0,2008/09,2008,Bolton,5.0,37.4,23726
+567,Everton,Sunderland,6.0,15.0,39414.0,Goodison Park,dec,0.0,2008/09,2008,Liverpool,6.0,72.8,39146
+568,Fulham,Chelsea,9.0,2.0,25700.0,Craven Cottage,dec,1.0,2008/09,2008,London,6.0,65.1,25462
+569,West Bromwich Albion,Tottenham Hotspur,20.0,16.0,26445.0,The Hawthorns,dec,0.0,2008/09,2008,West Bromwich,5.0,27.9,26344
+570,West Ham United,Stoke City,10.0,18.0,35345.0,Boleyn Ground,dec,0.0,2008/09,2008,London,6.0,65.1,34477
+571,Blackburn Rovers,Manchester City,19.0,13.0,31367.0,Ewood Park,dec,0.0,2008/09,2008,Blackburn,6.0,45.0,25200
+572,Chelsea,West Bromwich Albion,2.0,20.0,40834.0,Stamford Bridge,dec,0.0,2008/09,2008,London,6.0,65.1,43417
+573,Portsmouth,West Ham United,11.0,13.0,20978.0,Fratton Park,dec,0.0,2008/09,2008,Portsmouth,6.0,31.4,20102
+574,Liverpool,Bolton Wanderers,1.0,10.0,54074.0,Anfield,dec,0.0,2008/09,2008,Liverpool,6.0,72.8,43548
+575,Manchester City,Hull City,15.0,7.0,53400.0,Etihad Stadium,dec,0.0,2008/09,2008,Manchester,5.0,37.4,45196
+576,Middlesbrough,Everton,17.0,6.0,33746.0,Riverside Stadium,dec,0.0,2008/09,2008,Middlesbrough,5.0,28.7,30253
+577,Sunderland,Blackburn Rovers,14.0,19.0,48707.0,Stadium of Light,dec,0.0,2008/09,2008,Sunderland,4.0,22.9,44680
+578,Wigan Athletic,Newcastle United,9.0,12.0,25138.0,DW Stadium,dec,0.0,2008/09,2008,Wigan,6.0,72.8,20266
+579,Aston Villa,Arsenal,4.0,5.0,42749.0,Villa Park,dec,0.0,2008/09,2008,Birmingham,5.0,27.9,42585
+580,Stoke City,Manchester United,18.0,3.0,30089.0,bet365 Stadium,dec,0.0,2008/09,2008,Stoke,5.0,37.4,27500
+581,Tottenham Hotspur,Fulham,16.0,8.0,36284.0,White Hart Lane,dec,1.0,2008/09,2008,London,6.0,65.1,35866
+582,Everton,Chelsea,7.0,2.0,39414.0,Goodison Park,dec,0.0,2008/09,2008,Liverpool,6.0,72.8,35655
+583,West Bromwich Albion,Manchester City,20.0,18.0,26445.0,The Hawthorns,dec,0.0,2008/09,2008,West Bromwich,5.0,27.9,25010
+584,Newcastle United,Tottenham Hotspur,12.0,16.0,52305.0,Sports Direct Arena,dec,0.0,2008/09,2008,Newcastle,4.0,230.3,47982
+585,Arsenal,Liverpool,5.0,1.0,60704.0,Emirates Stadium,dec,0.0,2008/09,2008,London,6.0,65.1,60094
+586,Blackburn Rovers,Stoke City,19.0,15.0,31367.0,Ewood Park,dec,0.0,2008/09,2008,Blackburn,6.0,45.0,23004
+587,Bolton Wanderers,Portsmouth,9.0,10.0,28723.0,University of Bolton Stadium,dec,0.0,2008/09,2008,Bolton,5.0,37.4,19884
+588,Fulham,Middlesbrough,8.0,14.0,25700.0,Craven Cottage,dec,0.0,2008/09,2008,London,6.0,65.1,23722
+589,Hull City,Sunderland,6.0,13.0,25586.0,KCOM Stadium,dec,0.0,2008/09,2008,Hull,5.0,18.6,24917
+590,West Ham United,Aston Villa,17.0,3.0,35345.0,Boleyn Ground,dec,0.0,2008/09,2008,London,6.0,65.1,31353
+591,Portsmouth,Newcastle United,8.0,14.0,20978.0,Fratton Park,dec,0.0,2008/09,2008,Portsmouth,6.0,31.4,
+592,Chelsea,West Ham United,2.0,16.0,40834.0,Stamford Bridge,dec,1.0,2008/09,2008,London,6.0,65.1,
+593,Middlesbrough,Arsenal,12.0,5.0,33746.0,Riverside Stadium,dec,0.0,2008/09,2008,Middlesbrough,5.0,28.7,27320
+594,Aston Villa,Bolton Wanderers,4.0,11.0,42749.0,Villa Park,dec,0.0,2008/09,2008,Birmingham,5.0,27.9,35134
+595,Liverpool,Hull City,1.0,6.0,54074.0,Anfield,dec,0.0,2008/09,2008,Liverpool,6.0,72.8,43835
+596,Manchester City,Everton,17.0,7.0,53400.0,Etihad Stadium,dec,0.0,2008/09,2008,Manchester,5.0,37.4,41344
+597,Stoke City,Fulham,13.0,10.0,30089.0,bet365 Stadium,dec,0.0,2008/09,2008,Stoke,5.0,37.4,25287
+598,Sunderland,West Bromwich Albion,18.0,20.0,48707.0,Stadium of Light,dec,0.0,2008/09,2008,Sunderland,4.0,22.9,36280
+599,Wigan Athletic,Blackburn Rovers,9.0,19.0,25138.0,DW Stadium,dec,0.0,2008/09,2008,Wigan,6.0,72.8,18003
+600,Tottenham Hotspur,Manchester United,15.0,3.0,36284.0,White Hart Lane,dec,0.0,2008/09,2008,London,6.0,65.1,35882
+601,West Ham United,Tottenham Hotspur,16.0,15.0,35345.0,Boleyn Ground,dec,1.0,2008/09,2008,London,6.0,65.1,34277
+602,West Bromwich Albion,Portsmouth,20.0,7.0,26445.0,The Hawthorns,dec,0.0,2008/09,2008,West Bromwich,5.0,27.9,24964
+603,Everton,Aston Villa,8.0,5.0,39414.0,Goodison Park,dec,0.0,2008/09,2008,Liverpool,6.0,72.8,
+604,Fulham,Manchester City,9.0,14.0,25700.0,Craven Cottage,dec,0.0,2008/09,2008,London,6.0,65.1,24012
+605,Arsenal,Wigan Athletic,4.0,11.0,60704.0,Emirates Stadium,dec,0.0,2008/09,2008,London,6.0,65.1,59317
+606,Blackburn Rovers,Liverpool,19.0,1.0,31367.0,Ewood Park,dec,0.0,2008/09,2008,Blackburn,6.0,45.0,26920
+607,Bolton Wanderers,Chelsea,10.0,2.0,28723.0,University of Bolton Stadium,dec,0.0,2008/09,2008,Bolton,5.0,37.4,22023
+608,Hull City,Middlesbrough,6.0,12.0,25586.0,KCOM Stadium,dec,0.0,2008/09,2008,Hull,5.0,18.6,24912
+609,Newcastle United,Stoke City,17.0,13.0,52305.0,Sports Direct Arena,dec,0.0,2008/09,2008,Newcastle,4.0,230.3,47422
+610,Manchester United,Sunderland,3.0,18.0,75643.0,Old Trafford,dec,0.0,2008/09,2008,Manchester,5.0,37.4,75400
+611,Liverpool,West Ham United,1.0,13.0,54074.0,Anfield,dec,0.0,2008/09,2008,Liverpool,6.0,72.8,
+612,Manchester City,Manchester United,15.0,3.0,53400.0,Etihad Stadium,nov,1.0,2008/09,2008,Manchester,7.0,35.8,47320
+613,Portsmouth,Blackburn Rovers,8.0,19.0,20978.0,Fratton Park,nov,0.0,2008/09,2008,Portsmouth,8.0,28.4,18063
+614,Tottenham Hotspur,Everton,16.0,7.0,36284.0,White Hart Lane,nov,0.0,2008/09,2008,London,9.0,72.0,
+615,Chelsea,Arsenal,2.0,4.0,40834.0,Stamford Bridge,nov,1.0,2008/09,2008,London,9.0,72.0,41775
+616,Aston Villa,Fulham,5.0,10.0,42749.0,Villa Park,nov,0.0,2008/09,2008,Birmingham,7.0,31.5,
+617,Middlesbrough,Newcastle United,12.0,17.0,33746.0,Riverside Stadium,nov,0.0,2008/09,2008,Middlesbrough,7.0,29.1,
+618,Stoke City,Hull City,14.0,6.0,30089.0,bet365 Stadium,nov,0.0,2008/09,2008,Stoke,7.0,35.8,
+619,Sunderland,Bolton Wanderers,18.0,9.0,48707.0,Stadium of Light,nov,0.0,2008/09,2008,Sunderland,6.0,26.6,
+620,Wigan Athletic,West Bromwich Albion,11.0,20.0,25138.0,DW Stadium,nov,0.0,2008/09,2008,Wigan,8.0,67.8,
+621,Wigan Athletic,Everton,15.0,7.0,25138.0,DW Stadium,nov,0.0,2008/09,2008,Wigan,8.0,67.8,18399
+622,Tottenham Hotspur,Blackburn Rovers,16.0,19.0,36284.0,White Hart Lane,nov,0.0,2008/09,2008,London,9.0,72.0,
+623,Sunderland,West Ham United,17.0,13.0,48707.0,Stadium of Light,nov,0.0,2008/09,2008,Sunderland,6.0,26.6,
+624,Chelsea,Newcastle United,1.0,18.0,40834.0,Stamford Bridge,nov,0.0,2008/09,2008,London,9.0,72.0,
+625,Liverpool,Fulham,2.0,9.0,54074.0,Anfield,nov,0.0,2008/09,2008,Liverpool,8.0,67.8,44066
+626,Manchester City,Arsenal,11.0,5.0,53400.0,Etihad Stadium,nov,0.0,2008/09,2008,Manchester,7.0,35.8,
+627,Middlesbrough,Bolton Wanderers,10.0,12.0,33746.0,Riverside Stadium,nov,0.0,2008/09,2008,Middlesbrough,7.0,29.1,
+628,Portsmouth,Hull City,8.0,6.0,20978.0,Fratton Park,nov,0.0,2008/09,2008,Portsmouth,8.0,28.4,
+629,Stoke City,West Bromwich Albion,14.0,20.0,30089.0,bet365 Stadium,nov,0.0,2008/09,2008,Stoke,7.0,35.8,
+630,Aston Villa,Manchester United,4.0,3.0,42749.0,Villa Park,nov,0.0,2008/09,2008,Birmingham,7.0,31.5,
+631,Everton,Middlesbrough,7.0,8.0,39414.0,Goodison Park,nov,0.0,2008/09,2008,Liverpool,8.0,67.8,
+632,Hull City,Manchester City,6.0,12.0,25586.0,KCOM Stadium,nov,0.0,2008/09,2008,Hull,7.0,18.0,
+633,Bolton Wanderers,Liverpool,13.0,2.0,28723.0,University of Bolton Stadium,nov,0.0,2008/09,2008,Bolton,7.0,35.8,
+634,Arsenal,Aston Villa,4.0,5.0,60704.0,Emirates Stadium,nov,0.0,2008/09,2008,London,9.0,72.0,
+635,Blackburn Rovers,Sunderland,18.0,11.0,31367.0,Ewood Park,nov,0.0,2008/09,2008,Blackburn,8.0,43.7,21798
+636,Fulham,Tottenham Hotspur,10.0,19.0,25700.0,Craven Cottage,nov,1.0,2008/09,2008,London,9.0,72.0,
+637,Manchester United,Stoke City,3.0,15.0,75643.0,Old Trafford,nov,0.0,2008/09,2008,Manchester,7.0,35.8,
+638,Newcastle United,Wigan Athletic,17.0,16.0,52305.0,Sports Direct Arena,nov,0.0,2008/09,2008,Newcastle,6.0,202.8,
+639,West Ham United,Portsmouth,14.0,9.0,35345.0,Boleyn Ground,nov,0.0,2008/09,2008,London,9.0,72.0,
+640,West Bromwich Albion,Chelsea,20.0,1.0,26445.0,The Hawthorns,nov,0.0,2008/09,2008,West Bromwich,7.0,31.5,
+641,Blackburn Rovers,Chelsea,15.0,1.0,31367.0,Ewood Park,nov,0.0,2008/09,2008,Blackburn,8.0,43.7,20672
+642,Aston Villa,Middlesbrough,5.0,8.0,42749.0,Villa Park,nov,0.0,2008/09,2008,Birmingham,7.0,31.5,
+643,Manchester City,Tottenham Hotspur,13.0,16.0,53400.0,Etihad Stadium,nov,0.0,2008/09,2008,Manchester,7.0,35.8,
+644,Fulham,Newcastle United,10.0,18.0,25700.0,Craven Cottage,nov,0.0,2008/09,2008,London,9.0,72.0,
+645,Arsenal,Manchester United,3.0,4.0,60704.0,Emirates Stadium,nov,0.0,2008/09,2008,London,9.0,72.0,
+646,Wigan Athletic,Stoke City,17.0,12.0,25138.0,DW Stadium,nov,0.0,2008/09,2008,Wigan,8.0,67.8,
+647,Hull City,Bolton Wanderers,6.0,11.0,25586.0,KCOM Stadium,nov,0.0,2008/09,2008,Hull,7.0,18.0,
+648,Sunderland,Portsmouth,19.0,9.0,48707.0,Stadium of Light,nov,0.0,2008/09,2008,Sunderland,6.0,26.6,
+649,West Ham United,Everton,14.0,7.0,35345.0,Boleyn Ground,nov,0.0,2008/09,2008,London,9.0,72.0,33961
+650,Liverpool,West Bromwich Albion,2.0,20.0,54074.0,Anfield,nov,0.0,2008/09,2008,Liverpool,8.0,67.8,
+651,Newcastle United,Aston Villa,14.0,5.0,52305.0,Sports Direct Arena,nov,0.0,2008/09,2008,Newcastle,6.0,202.8,
+652,Bolton Wanderers,Manchester City,18.0,10.0,28723.0,University of Bolton Stadium,nov,0.0,2008/09,2008,Bolton,7.0,35.8,
+653,Chelsea,Sunderland,1.0,15.0,40834.0,Stamford Bridge,nov,0.0,2008/09,2008,London,9.0,72.0,
+654,Manchester United,Hull City,3.0,6.0,75643.0,Old Trafford,nov,0.0,2008/09,2008,Manchester,7.0,35.8,
+655,Middlesbrough,West Ham United,8.0,11.0,33746.0,Riverside Stadium,nov,0.0,2008/09,2008,Middlesbrough,7.0,29.1,25164
+656,Portsmouth,Wigan Athletic,9.0,17.0,20978.0,Fratton Park,nov,0.0,2008/09,2008,Portsmouth,8.0,28.4,
+657,Stoke City,Arsenal,12.0,4.0,30089.0,bet365 Stadium,nov,0.0,2008/09,2008,Stoke,7.0,35.8,26731
+658,West Bromwich Albion,Blackburn Rovers,19.0,13.0,26445.0,The Hawthorns,nov,0.0,2008/09,2008,West Bromwich,7.0,31.5,
+659,Tottenham Hotspur,Liverpool,20.0,2.0,36284.0,White Hart Lane,nov,0.0,2008/09,2008,London,9.0,72.0,
+660,Everton,Fulham,7.0,16.0,39414.0,Goodison Park,nov,0.0,2008/09,2008,Liverpool,8.0,67.8,31278
+661,Aston Villa,Blackburn Rovers,4.0,13.0,42749.0,Villa Park,oct,0.0,2008/09,2008,Birmingham,11.0,31.9,
+662,Fulham,Wigan Athletic,14.0,18.0,25700.0,Craven Cottage,oct,0.0,2008/09,2008,London,13.0,61.5,
+663,Hull City,Chelsea,5.0,2.0,25586.0,KCOM Stadium,oct,0.0,2008/09,2008,Hull,11.0,15.6,
+664,Stoke City,Sunderland,15.0,10.0,30089.0,bet365 Stadium,oct,0.0,2008/09,2008,Stoke,11.0,46.1,
+665,Arsenal,Tottenham Hotspur,3.0,20.0,60704.0,Emirates Stadium,oct,1.0,2008/09,2008,London,13.0,61.5,
+666,Bolton Wanderers,Everton,19.0,12.0,28723.0,University of Bolton Stadium,oct,0.0,2008/09,2008,Bolton,11.0,46.1,24467
+667,Liverpool,Portsmouth,1.0,7.0,54074.0,Anfield,oct,0.0,2008/09,2008,Liverpool,12.0,58.2,
+668,Manchester United,West Ham United,6.0,11.0,75643.0,Old Trafford,oct,0.0,2008/09,2008,Manchester,11.0,46.1,75397
+669,Middlesbrough,Manchester City,9.0,8.0,33746.0,Riverside Stadium,oct,0.0,2008/09,2008,Middlesbrough,10.0,32.0,
+670,Newcastle United,West Bromwich Albion,17.0,16.0,52305.0,Sports Direct Arena,oct,0.0,2008/09,2008,Newcastle,9.0,161.3,
+671,Chelsea,Liverpool,2.0,1.0,40834.0,Stamford Bridge,oct,0.0,2008/09,2008,London,13.0,61.5,
+672,Manchester City,Stoke City,8.0,18.0,53400.0,Etihad Stadium,oct,0.0,2008/09,2008,Manchester,11.0,46.1,44624
+673,Tottenham Hotspur,Bolton Wanderers,20.0,17.0,36284.0,White Hart Lane,oct,0.0,2008/09,2008,London,13.0,61.5,
+674,Wigan Athletic,Aston Villa,15.0,5.0,25138.0,DW Stadium,oct,0.0,2008/09,2008,Wigan,12.0,58.2,
+675,West Ham United,Arsenal,10.0,4.0,35345.0,Boleyn Ground,oct,1.0,2008/09,2008,London,13.0,61.5,
+676,Portsmouth,Fulham,7.0,16.0,20978.0,Fratton Park,oct,0.0,2008/09,2008,Portsmouth,12.0,29.2,
+677,Everton,Manchester United,14.0,6.0,39414.0,Goodison Park,oct,0.0,2008/09,2008,Liverpool,12.0,58.2,
+678,Sunderland,Newcastle United,9.0,19.0,48707.0,Stadium of Light,oct,0.0,2008/09,2008,Sunderland,10.0,33.2,
+679,West Bromwich Albion,Hull City,13.0,3.0,26445.0,The Hawthorns,oct,0.0,2008/09,2008,West Bromwich,11.0,31.9,
+680,Blackburn Rovers,Middlesbrough,11.0,12.0,31367.0,Ewood Park,oct,0.0,2008/09,2008,Blackburn,11.0,54.6,17606
+681,Newcastle United,Manchester City,19.0,10.0,52305.0,Sports Direct Arena,oct,0.0,2008/09,2008,Newcastle,9.0,161.3,
+682,Hull City,West Ham United,3.0,8.0,25586.0,KCOM Stadium,oct,0.0,2008/09,2008,Hull,11.0,15.6,
+683,Stoke City,Tottenham Hotspur,18.0,20.0,30089.0,bet365 Stadium,oct,0.0,2008/09,2008,Stoke,11.0,46.1,
+684,Middlesbrough,Chelsea,13.0,1.0,33746.0,Riverside Stadium,oct,0.0,2008/09,2008,Middlesbrough,10.0,32.0,
+685,Arsenal,Everton,4.0,16.0,60704.0,Emirates Stadium,oct,0.0,2008/09,2008,London,13.0,61.5,
+686,Aston Villa,Portsmouth,6.0,7.0,42749.0,Villa Park,oct,0.0,2008/09,2008,Birmingham,11.0,31.9,
+687,Bolton Wanderers,Blackburn Rovers,15.0,9.0,28723.0,University of Bolton Stadium,oct,0.0,2008/09,2008,Bolton,11.0,46.1,26450
+688,Fulham,Sunderland,17.0,12.0,25700.0,Craven Cottage,oct,0.0,2008/09,2008,London,13.0,61.5,
+689,Liverpool,Wigan Athletic,2.0,14.0,54074.0,Anfield,oct,0.0,2008/09,2008,Liverpool,12.0,58.2,
+690,Manchester United,West Bromwich Albion,5.0,11.0,75643.0,Old Trafford,oct,0.0,2008/09,2008,Manchester,11.0,46.1,75451
+691,West Ham United,Bolton Wanderers,6.0,16.0,35345.0,Boleyn Ground,oct,0.0,2008/09,2008,London,13.0,61.5,
+692,Chelsea,Aston Villa,1.0,5.0,40834.0,Stamford Bridge,oct,0.0,2008/09,2008,London,13.0,61.5,
+693,Manchester City,Liverpool,11.0,2.0,53400.0,Etihad Stadium,oct,0.0,2008/09,2008,Manchester,11.0,46.1,
+694,Portsmouth,Stoke City,7.0,19.0,20978.0,Fratton Park,oct,0.0,2008/09,2008,Portsmouth,12.0,29.2,
+695,Tottenham Hotspur,Hull City,20.0,3.0,36284.0,White Hart Lane,oct,0.0,2008/09,2008,London,13.0,61.5,
+696,Everton,Newcastle United,15.0,18.0,39414.0,Goodison Park,oct,0.0,2008/09,2008,Liverpool,12.0,58.2,
+697,Sunderland,Arsenal,14.0,4.0,48707.0,Stadium of Light,oct,0.0,2008/09,2008,Sunderland,10.0,33.2,
+698,West Bromwich Albion,Fulham,9.0,17.0,26445.0,The Hawthorns,oct,0.0,2008/09,2008,West Bromwich,11.0,31.9,
+699,Blackburn Rovers,Manchester United,10.0,8.0,31367.0,Ewood Park,oct,0.0,2008/09,2008,Blackburn,11.0,54.6,
+700,Wigan Athletic,Middlesbrough,13.0,12.0,25138.0,DW Stadium,oct,0.0,2008/09,2008,Wigan,12.0,58.2,
+701,Portsmouth,Tottenham Hotspur,9.0,20.0,20978.0,Fratton Park,sep,0.0,2008/09,2008,Portsmouth,15.0,15.7,
+702,Wigan Athletic,Manchester City,10.0,8.0,25138.0,DW Stadium,sep,0.0,2008/09,2008,Wigan,15.0,49.0,
+703,Everton,Liverpool,14.0,2.0,39414.0,Goodison Park,sep,1.0,2008/09,2008,Liverpool,15.0,49.0,
+704,Aston Villa,Sunderland,3.0,13.0,42749.0,Villa Park,sep,0.0,2008/09,2008,Birmingham,14.0,17.8,
+705,Fulham,West Ham United,15.0,5.0,25700.0,Craven Cottage,sep,1.0,2008/09,2008,London,16.0,41.2,
+706,Manchester United,Bolton Wanderers,11.0,17.0,75643.0,Old Trafford,sep,0.0,2008/09,2008,Manchester,14.0,26.5,
+707,Middlesbrough,West Bromwich Albion,16.0,12.0,33746.0,Riverside Stadium,sep,0.0,2008/09,2008,Middlesbrough,14.0,18.7,
+708,Newcastle United,Blackburn Rovers,19.0,7.0,52305.0,Sports Direct Arena,sep,0.0,2008/09,2008,Newcastle,12.0,101.9,
+709,Stoke City,Chelsea,18.0,1.0,30089.0,bet365 Stadium,sep,0.0,2008/09,2008,Stoke,14.0,26.5,
+710,Arsenal,Hull City,4.0,6.0,60704.0,Emirates Stadium,sep,0.0,2008/09,2008,London,16.0,41.2,
+711,West Bromwich Albion,Aston Villa,17.0,4.0,26445.0,The Hawthorns,sep,0.0,2008/09,2008,West Bromwich,14.0,17.8,
+712,Chelsea,Manchester United,2.0,15.0,40834.0,Stamford Bridge,sep,0.0,2008/09,2008,London,16.0,41.2,
+713,Hull City,Everton,7.0,9.0,25586.0,KCOM Stadium,sep,0.0,2008/09,2008,Hull,14.0,10.0,
+714,Manchester City,Portsmouth,5.0,13.0,53400.0,Etihad Stadium,sep,0.0,2008/09,2008,Manchester,14.0,26.5,
+715,Tottenham Hotspur,Wigan Athletic,20.0,14.0,36284.0,White Hart Lane,sep,0.0,2008/09,2008,London,16.0,41.2,
+716,Sunderland,Middlesbrough,8.0,12.0,48707.0,Stadium of Light,sep,0.0,2008/09,2008,Sunderland,13.0,19.0,
+717,Blackburn Rovers,Fulham,10.0,11.0,31367.0,Ewood Park,sep,0.0,2008/09,2008,Blackburn,14.0,30.9,
+718,Liverpool,Stoke City,3.0,18.0,54074.0,Anfield,sep,0.0,2008/09,2008,Liverpool,15.0,49.0,
+719,West Ham United,Newcastle United,6.0,19.0,35345.0,Boleyn Ground,sep,0.0,2008/09,2008,London,16.0,41.2,
+720,Bolton Wanderers,Arsenal,16.0,1.0,28723.0,University of Bolton Stadium,sep,0.0,2008/09,2008,Bolton,14.0,26.5,
+721,Tottenham Hotspur,Aston Villa,20.0,4.0,36284.0,White Hart Lane,sep,0.0,2008/09,2008,London,16.0,41.2,
+722,Stoke City,Everton,19.0,11.0,30089.0,bet365 Stadium,sep,0.0,2008/09,2008,Stoke,14.0,26.5,
+723,Liverpool,Manchester United,2.0,14.0,54074.0,Anfield,sep,0.0,2008/09,2008,Liverpool,15.0,49.0,
+724,Blackburn Rovers,Arsenal,18.0,3.0,31367.0,Ewood Park,sep,0.0,2008/09,2008,Blackburn,14.0,30.9,
+725,Fulham,Bolton Wanderers,7.0,13.0,25700.0,Craven Cottage,sep,0.0,2008/09,2008,London,16.0,41.2,
+726,Newcastle United,Hull City,16.0,5.0,52305.0,Sports Direct Arena,sep,0.0,2008/09,2008,Newcastle,12.0,101.9,
+727,Portsmouth,Middlesbrough,10.0,9.0,20978.0,Fratton Park,sep,0.0,2008/09,2008,Portsmouth,15.0,15.7,
+728,West Bromwich Albion,West Ham United,15.0,8.0,26445.0,The Hawthorns,sep,0.0,2008/09,2008,West Bromwich,14.0,17.8,
+729,Wigan Athletic,Sunderland,12.0,17.0,25138.0,DW Stadium,sep,0.0,2008/09,2008,Wigan,15.0,49.0,
+730,Manchester City,Chelsea,6.0,1.0,53400.0,Etihad Stadium,sep,0.0,2008/09,2008,Manchester,14.0,26.5,
+731,Chelsea,Tottenham Hotspur,1.0,19.0,40834.0,Stamford Bridge,aug,1.0,2008/09,2008,London,18.0,57.5,
+732,Sunderland,Manchester City,18.0,3.0,48707.0,Stadium of Light,aug,0.0,2008/09,2008,Sunderland,15.0,31.6,
+733,Aston Villa,Liverpool,7.0,2.0,42749.0,Villa Park,aug,0.0,2008/09,2008,Birmingham,16.0,27.0,
+734,Bolton Wanderers,West Bromwich Albion,8.0,20.0,28723.0,University of Bolton Stadium,aug,0.0,2008/09,2008,Bolton,16.0,31.4,
+735,Everton,Portsmouth,17.0,16.0,39414.0,Goodison Park,aug,0.0,2008/09,2008,Liverpool,16.0,66.6,
+736,Hull City,Wigan Athletic,12.0,13.0,25586.0,KCOM Stadium,aug,0.0,2008/09,2008,Hull,17.0,14.3,
+737,Middlesbrough,Stoke City,6.0,15.0,33746.0,Riverside Stadium,aug,0.0,2008/09,2008,Middlesbrough,16.0,24.6,
+738,West Ham United,Blackburn Rovers,5.0,10.0,35345.0,Boleyn Ground,aug,0.0,2008/09,2008,London,18.0,57.5,
+739,Arsenal,Newcastle United,4.0,11.0,60704.0,Emirates Stadium,aug,0.0,2008/09,2008,London,18.0,57.5,
+740,Portsmouth,Manchester United,20.0,5.0,20978.0,Fratton Park,aug,0.0,2008/09,2008,Portsmouth,17.0,10.9,
+741,Wigan Athletic,Chelsea,19.0,1.0,25138.0,DW Stadium,aug,0.0,2008/09,2008,Wigan,16.0,66.6,
+742,Manchester City,West Ham United,8.0,16.0,53400.0,Etihad Stadium,aug,0.0,2008/09,2008,Manchester,16.0,31.4,
+743,Blackburn Rovers,Hull City,3.0,4.0,31367.0,Ewood Park,aug,0.0,2008/09,2008,Blackburn,16.0,35.9,
+744,Liverpool,Middlesbrough,2.0,11.0,54074.0,Anfield,aug,0.0,2008/09,2008,Liverpool,16.0,66.6,
+745,Newcastle United,Bolton Wanderers,6.0,9.0,52305.0,Sports Direct Arena,aug,0.0,2008/09,2008,Newcastle,13.0,104.9,
+746,Stoke City,Aston Villa,15.0,7.0,30089.0,bet365 Stadium,aug,0.0,2008/09,2008,Stoke,16.0,31.4,
+747,Tottenham Hotspur,Sunderland,17.0,13.0,36284.0,White Hart Lane,aug,0.0,2008/09,2008,London,18.0,57.5,
+748,West Bromwich Albion,Everton,18.0,10.0,26445.0,The Hawthorns,aug,0.0,2008/09,2008,West Bromwich,16.0,27.0,
+749,Fulham,Arsenal,12.0,14.0,25700.0,Craven Cottage,aug,1.0,2008/09,2008,London,18.0,57.5,
+750,Chelsea,Portsmouth,1.0,20.0,40834.0,Stamford Bridge,aug,0.0,2008/09,2008,London,18.0,57.5,
+751,Aston Villa,Manchester City,2.0,18.0,42749.0,Villa Park,aug,0.0,2008/09,2008,Birmingham,16.0,27.0,
+752,Manchester United,Newcastle United,10.0,11.0,75643.0,Old Trafford,aug,0.0,2008/09,2008,Manchester,16.0,31.4,
+753,Arsenal,West Bromwich Albion,8.0,17.0,60704.0,Emirates Stadium,aug,0.0,2008/09,2008,London,18.0,57.5,
+754,Bolton Wanderers,Stoke City,3.0,19.0,28723.0,University of Bolton Stadium,aug,0.0,2008/09,2008,Bolton,16.0,31.4,
+755,Everton,Blackburn Rovers,12.0,4.0,39414.0,Goodison Park,aug,0.0,2008/09,2008,Liverpool,16.0,66.6,
+756,Hull City,Fulham,5.0,13.0,25586.0,KCOM Stadium,aug,0.0,2008/09,2008,Hull,17.0,14.3,
+757,Middlesbrough,Tottenham Hotspur,6.0,14.0,33746.0,Riverside Stadium,aug,0.0,2008/09,2008,Middlesbrough,16.0,24.6,
+758,West Ham United,Wigan Athletic,7.0,15.0,35345.0,Boleyn Ground,aug,0.0,2008/09,2008,London,18.0,57.5,
+759,Sunderland,Liverpool,16.0,9.0,48707.0,Stadium of Light,aug,0.0,2008/09,2008,Sunderland,15.0,31.6,

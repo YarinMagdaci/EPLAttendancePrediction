@@ -1,0 +1,761 @@
+,team_1,team_2,team_1_rating,team_2_rating,capacity,stadium,month,derby,current_season,year,city,temprature,precipitation,attendance
+0,Arsenal,Fulham,3.0,12.0,60704.0,Emirates Stadium,may,1.0,2009/10,2009,London,14.0,52.1,60039.0
+1,Aston Villa,Blackburn Rovers,6.0,10.0,42749.0,Villa Park,may,0.0,2009/10,2009,Birmingham,12.0,26.6,41799.0
+2,Bolton Wanderers,Birmingham City,14.0,9.0,28723.0,Macron Stadium,may,0.0,2009/10,2009,Bolton,12.0,21.2,22863.0
+3,Burnley,Tottenham Hotspur,18.0,4.0,21944.0,Turf Moor,may,0.0,2009/10,2009,Burnley,10.0,79.3,21161.0
+4,Chelsea,Wigan Athletic,1.0,16.0,40834.0,Stamford Bridge,may,0.0,2009/10,2009,London,14.0,52.1,41383.0
+5,Everton,Portsmouth,8.0,20.0,39414.0,Goodison Park,may,0.0,2009/10,2009,Liverpool,12.0,53.6,38730.0
+6,Hull City,Liverpool,19.0,7.0,25586.0,KCOM Stadium,may,0.0,2009/10,2009,Hull,11.0,7.7,25030.0
+7,Manchester United,Stoke City,2.0,11.0,75643.0,Old Trafford,may,0.0,2009/10,2009,Manchester,12.0,21.2,75316.0
+8,West Ham United,Manchester City,17.0,5.0,35345.0,Boleyn Ground,may,0.0,2009/10,2009,London,14.0,52.1,34989.0
+9,Wolverhampton Wanderers,Sunderland,15.0,13.0,32050.0,Molineux Stadium,may,0.0,2009/10,2009,Wolverhampton,12.0,38.6,28971.0
+10,Fulham,Stoke City,12.0,10.0,25700.0,Craven Cottage,may,0.0,2009/10,2009,London,14.0,52.1,20831.0
+11,Manchester City,Tottenham Hotspur,5.0,4.0,53400.0,Etihad Stadium,may,0.0,2009/10,2009,Manchester,12.0,21.2,47370.0
+12,Wigan Athletic,Hull City,15.0,18.0,25138.0,DW Stadium,may,0.0,2009/10,2009,Wigan,12.0,53.6,20242.0
+13,Blackburn Rovers,Arsenal,11.0,3.0,31367.0,Ewood Park,may,0.0,2009/10,2009,Blackburn,12.0,32.0,26138.0
+14,Liverpool,Chelsea,7.0,1.0,54074.0,Anfield,may,0.0,2009/10,2009,Liverpool,12.0,53.6,44375.0
+15,Fulham,West Ham United,12.0,17.0,25700.0,Craven Cottage,may,1.0,2009/10,2009,London,14.0,52.1,24201.0
+16,Sunderland,Manchester United,13.0,2.0,48707.0,Stadium of Light,may,0.0,2009/10,2009,Sunderland,10.0,23.0,47641.0
+17,Birmingham City,Burnley,9.0,19.0,30079.0,St Andrews,may,0.0,2009/10,2009,Birmingham,12.0,26.6,24578.0
+18,Manchester City,Aston Villa,5.0,6.0,53400.0,Etihad Stadium,may,0.0,2009/10,2009,Manchester,12.0,21.2,47102.0
+19,Portsmouth,Wolverhampton Wanderers,20.0,16.0,20978.0,Fratton Park,may,0.0,2009/10,2009,Portsmouth,13.0,16.5,19213.0
+20,Stoke City,Everton,10.0,8.0,30089.0,Britannia Stadium,may,0.0,2009/10,2009,Stoke,12.0,21.2,27579.0
+21,Tottenham Hotspur,Bolton Wanderers,4.0,14.0,36284.0,White Hart Lane,may,0.0,2009/10,2009,London,14.0,52.1,35852.0
+22,Aston Villa,Birmingham City,5.0,9.0,42749.0,Villa Park,apr,1.0,2009/10,2009,Birmingham,8.0,23.8,42788.0
+23,Burnley,Liverpool,19.0,7.0,21944.0,Turf Moor,apr,0.0,2009/10,2009,Burnley,8.0,50.0,21553.0
+24,Everton,Fulham,8.0,12.0,39414.0,Goodison Park,apr,0.0,2009/10,2009,Liverpool,10.0,36.7,35578.0
+25,Chelsea,Stoke City,1.0,13.0,40834.0,Stamford Bridge,apr,0.0,2009/10,2009,London,11.0,30.6,41013.0
+26,Manchester United,Tottenham Hotspur,2.0,4.0,75643.0,Old Trafford,apr,0.0,2009/10,2009,Manchester,9.0,27.0,75268.0
+27,Bolton Wanderers,Portsmouth,14.0,20.0,28723.0,Macron Stadium,apr,0.0,2009/10,2009,Bolton,9.0,27.0,20526.0
+28,Hull City,Sunderland,18.0,10.0,25586.0,KCOM Stadium,apr,0.0,2009/10,2009,Hull,9.0,13.3,25012.0
+29,West Ham United,Wigan Athletic,17.0,16.0,35345.0,Boleyn Ground,apr,0.0,2009/10,2009,London,11.0,30.6,33057.0
+30,Wolverhampton Wanderers,Blackburn Rovers,15.0,11.0,32050.0,Molineux Stadium,apr,0.0,2009/10,2009,Wolverhampton,9.0,33.9,28967.0
+31,Arsenal,Manchester City,3.0,6.0,60704.0,Emirates Stadium,apr,0.0,2009/10,2009,London,11.0,30.6,60086.0
+32,Hull City,Aston Villa,18.0,6.0,25586.0,KCOM Stadium,apr,0.0,2009/10,2009,Hull,9.0,13.3,23842.0
+33,Liverpool,West Ham United,7.0,17.0,54074.0,Anfield,apr,0.0,2009/10,2009,Liverpool,10.0,36.7,37697.0
+34,Wigan Athletic,Arsenal,15.0,3.0,25138.0,DW Stadium,apr,0.0,2009/10,2009,Wigan,10.0,36.7,22113.0
+35,Portsmouth,Aston Villa,20.0,6.0,20978.0,Fratton Park,apr,0.0,2009/10,2009,Portsmouth,9.0,19.2,16523.0
+36,Birmingham City,Hull City,9.0,18.0,30079.0,St Andrews,apr,0.0,2009/10,2009,Birmingham,8.0,23.8,26669.0
+37,Blackburn Rovers,Everton,12.0,8.0,31367.0,Ewood Park,apr,0.0,2009/10,2009,Blackburn,9.0,26.4,27022.0
+38,Fulham,Wolverhampton Wanderers,10.0,16.0,25700.0,Craven Cottage,apr,0.0,2009/10,2009,London,11.0,30.6,25597.0
+39,Tottenham Hotspur,Chelsea,4.0,1.0,36284.0,White Hart Lane,apr,1.0,2009/10,2009,London,11.0,30.6,35814.0
+40,Manchester City,Manchester United,5.0,2.0,53400.0,Etihad Stadium,apr,1.0,2009/10,2009,Manchester,9.0,27.0,47019.0
+41,Stoke City,Bolton Wanderers,11.0,14.0,30089.0,Britannia Stadium,apr,0.0,2009/10,2009,Stoke,9.0,27.0,27250.0
+42,Sunderland,Burnley,13.0,19.0,48707.0,Stadium of Light,apr,0.0,2009/10,2009,Sunderland,7.0,23.1,41341.0
+43,Aston Villa,Everton,7.0,8.0,42749.0,Villa Park,apr,0.0,2009/10,2009,Birmingham,8.0,23.8,38729.0
+44,Wigan Athletic,Portsmouth,16.0,20.0,25138.0,DW Stadium,apr,0.0,2009/10,2009,Wigan,10.0,36.7,14323.0
+45,Tottenham Hotspur,Arsenal,5.0,3.0,36284.0,White Hart Lane,apr,1.0,2009/10,2009,London,11.0,30.6,36041.0
+46,Chelsea,Bolton Wanderers,1.0,15.0,40834.0,Stamford Bridge,apr,0.0,2009/10,2009,London,11.0,30.6,40539.0
+47,Wolverhampton Wanderers,Stoke City,14.0,10.0,32050.0,Molineux Stadium,apr,0.0,2009/10,2009,Wolverhampton,9.0,33.9,28455.0
+48,Blackburn Rovers,Manchester United,11.0,2.0,31367.0,Ewood Park,apr,0.0,2009/10,2009,Blackburn,9.0,26.4,29912.0
+49,Liverpool,Fulham,6.0,12.0,54074.0,Anfield,apr,0.0,2009/10,2009,Liverpool,10.0,36.7,42331.0
+50,Manchester City,Birmingham City,4.0,9.0,53400.0,Etihad Stadium,apr,0.0,2009/10,2009,Manchester,9.0,27.0,45209.0
+51,Hull City,Burnley,19.0,18.0,25586.0,KCOM Stadium,apr,0.0,2009/10,2009,Hull,9.0,13.3,24369.0
+52,West Ham United,Sunderland,16.0,13.0,35345.0,Boleyn Ground,apr,0.0,2009/10,2009,London,11.0,30.6,34685.0
+53,Birmingham City,Liverpool,9.0,6.0,30079.0,St Andrews,apr,0.0,2009/10,2009,Birmingham,8.0,23.8,27909.0
+54,Fulham,Wigan Athletic,12.0,16.0,25700.0,Craven Cottage,apr,0.0,2009/10,2009,London,11.0,30.6,22730.0
+55,Everton,West Ham United,8.0,17.0,39414.0,Goodison Park,apr,0.0,2009/10,2009,Liverpool,10.0,36.7,37451.0
+56,Manchester United,Chelsea,2.0,1.0,75643.0,Old Trafford,apr,0.0,2009/10,2009,Manchester,9.0,27.0,75217.0
+57,Arsenal,Wolverhampton Wanderers,3.0,14.0,60704.0,Emirates Stadium,apr,0.0,2009/10,2009,London,11.0,30.6,60067.0
+58,Bolton Wanderers,Aston Villa,15.0,7.0,28723.0,Macron Stadium,apr,0.0,2009/10,2009,Bolton,9.0,27.0,21111.0
+59,Portsmouth,Blackburn Rovers,20.0,11.0,20978.0,Fratton Park,apr,0.0,2009/10,2009,Portsmouth,9.0,19.2,16207.0
+60,Stoke City,Hull City,10.0,18.0,30089.0,Britannia Stadium,apr,0.0,2009/10,2009,Stoke,9.0,27.0,27604.0
+61,Sunderland,Tottenham Hotspur,13.0,5.0,48707.0,Stadium of Light,apr,0.0,2009/10,2009,Sunderland,7.0,23.1,43184.0
+62,Burnley,Manchester City,19.0,4.0,21944.0,Turf Moor,apr,0.0,2009/10,2009,Burnley,8.0,50.0,21330.0
+63,Manchester City,Wigan Athletic,5.0,16.0,53400.0,Etihad Stadium,mar,0.0,2009/10,2009,Manchester,6.0,25.0,43534.0
+64,Burnley,Blackburn Rovers,19.0,10.0,21944.0,Turf Moor,mar,0.0,2009/10,2009,Burnley,5.0,69.0,21546.0
+65,Liverpool,Sunderland,6.0,13.0,54074.0,Anfield,mar,0.0,2009/10,2009,Liverpool,7.0,40.4,43121.0
+66,Birmingham City,Arsenal,9.0,3.0,30079.0,St Andrews,mar,0.0,2009/10,2009,Birmingham,6.0,19.6,27039.0
+67,Chelsea,Aston Villa,2.0,7.0,40834.0,Stamford Bridge,mar,0.0,2009/10,2009,London,8.0,29.8,41825.0
+68,Hull City,Fulham,18.0,12.0,25586.0,KCOM Stadium,mar,0.0,2009/10,2009,Hull,7.0,12.0,24361.0
+69,Tottenham Hotspur,Portsmouth,4.0,20.0,36284.0,White Hart Lane,mar,0.0,2009/10,2009,London,8.0,29.8,35870.0
+70,West Ham United,Stoke City,17.0,11.0,35345.0,Boleyn Ground,mar,0.0,2009/10,2009,London,8.0,29.8,34564.0
+71,Wolverhampton Wanderers,Everton,14.0,8.0,32050.0,Molineux Stadium,mar,0.0,2009/10,2009,Wolverhampton,6.0,36.9,28995.0
+72,Bolton Wanderers,Manchester United,15.0,1.0,28723.0,Macron Stadium,mar,0.0,2009/10,2009,Bolton,6.0,25.0,25370.0
+73,Aston Villa,Sunderland,7.0,13.0,42749.0,Villa Park,mar,0.0,2009/10,2009,Birmingham,6.0,19.6,37473.0
+74,Manchester City,Everton,5.0,8.0,53400.0,Etihad Stadium,mar,0.0,2009/10,2009,Manchester,6.0,25.0,45708.0
+75,Portsmouth,Chelsea,20.0,2.0,20978.0,Fratton Park,mar,0.0,2009/10,2009,Portsmouth,8.0,17.2,18753.0
+76,Blackburn Rovers,Birmingham City,11.0,9.0,31367.0,Ewood Park,mar,0.0,2009/10,2009,Blackburn,7.0,25.2,23856.0
+77,West Ham United,Wolverhampton Wanderers,17.0,15.0,35345.0,Boleyn Ground,mar,0.0,2009/10,2009,London,8.0,29.8,33988.0
+78,Fulham,Manchester City,10.0,5.0,25700.0,Craven Cottage,mar,0.0,2009/10,2009,London,8.0,29.8,25359.0
+79,Blackburn Rovers,Chelsea,12.0,3.0,31367.0,Ewood Park,mar,0.0,2009/10,2009,Blackburn,7.0,25.2,25554.0
+80,Manchester United,Liverpool,1.0,6.0,75643.0,Old Trafford,mar,0.0,2009/10,2009,Manchester,6.0,25.0,75216.0
+81,Aston Villa,Wolverhampton Wanderers,7.0,16.0,42749.0,Villa Park,mar,0.0,2009/10,2009,Birmingham,6.0,19.6,37562.0
+82,Everton,Bolton Wanderers,8.0,14.0,39414.0,Goodison Park,mar,0.0,2009/10,2009,Liverpool,7.0,40.4,36503.0
+83,Portsmouth,Hull City,20.0,19.0,20978.0,Fratton Park,mar,0.0,2009/10,2009,Portsmouth,8.0,17.2,16513.0
+84,Stoke City,Tottenham Hotspur,11.0,4.0,30089.0,Britannia Stadium,mar,0.0,2009/10,2009,Stoke,6.0,25.0,27575.0
+85,Sunderland,Birmingham City,13.0,9.0,48707.0,Stadium of Light,mar,0.0,2009/10,2009,Sunderland,6.0,18.5,37962.0
+86,Wigan Athletic,Burnley,15.0,18.0,25138.0,DW Stadium,mar,0.0,2009/10,2009,Wigan,7.0,40.4,18498.0
+87,Arsenal,West Ham United,2.0,17.0,60704.0,Emirates Stadium,mar,1.0,2009/10,2009,London,8.0,29.8,60077.0
+88,Wigan Athletic,Aston Villa,15.0,7.0,25138.0,DW Stadium,mar,0.0,2009/10,2009,Wigan,7.0,40.4,16186.0
+89,Liverpool,Portsmouth,5.0,20.0,54074.0,Anfield,mar,0.0,2009/10,2009,Liverpool,7.0,40.4,40316.0
+90,Manchester United,Fulham,1.0,10.0,75643.0,Old Trafford,mar,0.0,2009/10,2009,Manchester,6.0,25.0,75207.0
+91,Sunderland,Manchester City,14.0,6.0,48707.0,Stadium of Light,mar,0.0,2009/10,2009,Sunderland,6.0,18.5,41398.0
+92,Tottenham Hotspur,Blackburn Rovers,4.0,12.0,36284.0,White Hart Lane,mar,0.0,2009/10,2009,London,8.0,29.8,35474.0
+93,Birmingham City,Everton,8.0,9.0,30079.0,St Andrews,mar,0.0,2009/10,2009,Birmingham,6.0,19.6,24579.0
+94,Bolton Wanderers,Wigan Athletic,13.0,15.0,28723.0,Macron Stadium,mar,0.0,2009/10,2009,Bolton,6.0,25.0,20053.0
+95,Burnley,Wolverhampton Wanderers,18.0,17.0,21944.0,Turf Moor,mar,0.0,2009/10,2009,Burnley,5.0,69.0,21217.0
+96,Chelsea,West Ham United,2.0,16.0,40834.0,Stamford Bridge,mar,1.0,2009/10,2009,London,8.0,29.8,41755.0
+97,Stoke City,Aston Villa,11.0,7.0,30089.0,Britannia Stadium,mar,0.0,2009/10,2009,Stoke,6.0,25.0,27598.0
+98,Hull City,Arsenal,19.0,3.0,25586.0,KCOM Stadium,mar,0.0,2009/10,2009,Hull,7.0,12.0,25023.0
+99,Burnley,Stoke City,18.0,11.0,21944.0,Turf Moor,mar,0.0,2009/10,2009,Burnley,5.0,69.0,
+100,Portsmouth,Birmingham City,20.0,8.0,20978.0,Fratton Park,mar,0.0,2009/10,2009,Portsmouth,8.0,17.2,18465
+101,Sunderland,Bolton Wanderers,13.0,14.0,48707.0,Stadium of Light,mar,0.0,2009/10,2009,Sunderland,6.0,18.5,36087
+102,Wigan Athletic,Liverpool,15.0,6.0,25138.0,DW Stadium,mar,0.0,2009/10,2009,Wigan,7.0,40.4,17427
+103,Everton,Hull City,9.0,19.0,39414.0,Goodison Park,mar,0.0,2009/10,2009,Liverpool,7.0,40.4,34682
+104,Arsenal,Burnley,3.0,18.0,60704.0,Emirates Stadium,mar,0.0,2009/10,2009,London,8.0,29.8,60043
+105,West Ham United,Bolton Wanderers,16.0,14.0,35345.0,Boleyn Ground,mar,0.0,2009/10,2009,London,8.0,29.8,33824
+106,Wolverhampton Wanderers,Manchester United,17.0,1.0,32050.0,Molineux Stadium,mar,0.0,2009/10,2009,Wolverhampton,6.0,36.9,28883
+107,Tottenham Hotspur,Everton,4.0,10.0,36284.0,White Hart Lane,feb,0.0,2009/10,2009,London,6.0,47.9,35912
+108,Liverpool,Blackburn Rovers,6.0,12.0,54074.0,Anfield,feb,0.0,2009/10,2009,Liverpool,6.0,40.6,42795
+109,Sunderland,Fulham,14.0,9.0,48707.0,Stadium of Light,feb,0.0,2009/10,2009,Sunderland,4.0,17.8,40192
+110,Chelsea,Manchester City,1.0,5.0,40834.0,Stamford Bridge,feb,0.0,2009/10,2009,London,6.0,47.9,41814
+111,Birmingham City,Wigan Athletic,8.0,16.0,30079.0,St Andrews,feb,0.0,2009/10,2009,Birmingham,5.0,23.4,25921
+112,Bolton Wanderers,Wolverhampton Wanderers,15.0,17.0,28723.0,Macron Stadium,feb,0.0,2009/10,2009,Bolton,5.0,28.4,21261
+113,Burnley,Portsmouth,19.0,20.0,21944.0,Turf Moor,feb,0.0,2009/10,2009,Burnley,3.0,75.9,19714
+114,Stoke City,Arsenal,11.0,3.0,30089.0,Britannia Stadium,feb,0.0,2009/10,2009,Stoke,5.0,28.4,27011
+115,Manchester United,West Ham United,2.0,13.0,75643.0,Old Trafford,feb,0.0,2009/10,2009,Manchester,5.0,28.4,73797
+116,Aston Villa,Burnley,7.0,19.0,42749.0,Villa Park,feb,0.0,2009/10,2009,Birmingham,5.0,23.4,38709
+117,Fulham,Birmingham City,9.0,10.0,25700.0,Craven Cottage,feb,0.0,2009/10,2009,London,6.0,47.9,21758
+118,Manchester City,Liverpool,5.0,6.0,53400.0,Etihad Stadium,feb,0.0,2009/10,2009,Manchester,5.0,28.4,47203
+119,Wigan Athletic,Tottenham Hotspur,15.0,4.0,25138.0,DW Stadium,feb,0.0,2009/10,2009,Wigan,6.0,40.6,16165
+120,Blackburn Rovers,Bolton Wanderers,12.0,18.0,31367.0,Ewood Park,feb,0.0,2009/10,2009,Blackburn,5.0,28.7,23888
+121,Everton,Manchester United,8.0,2.0,39414.0,Goodison Park,feb,0.0,2009/10,2009,Liverpool,6.0,40.6,39448
+122,Arsenal,Sunderland,3.0,14.0,60704.0,Emirates Stadium,feb,0.0,2009/10,2009,London,6.0,47.9,60083
+123,West Ham United,Hull City,13.0,17.0,35345.0,Boleyn Ground,feb,0.0,2009/10,2009,London,6.0,47.9,33971
+124,Wolverhampton Wanderers,Chelsea,16.0,1.0,32050.0,Molineux Stadium,feb,0.0,2009/10,2009,Wolverhampton,5.0,29.8,28978
+125,Portsmouth,Stoke City,20.0,11.0,20978.0,Fratton Park,feb,0.0,2009/10,2009,Portsmouth,6.0,23.8,17208
+126,Wigan Athletic,Bolton Wanderers,14.0,18.0,25138.0,DW Stadium,feb,0.0,2009/10,2009,Wigan,6.0,40.6,18089
+127,Stoke City,Manchester City,11.0,4.0,30089.0,Britannia Stadium,feb,0.0,2009/10,2009,Stoke,5.0,28.4,26778
+128,Arsenal,Liverpool,3.0,5.0,60704.0,Emirates Stadium,feb,0.0,2009/10,2009,London,6.0,47.9,60045
+129,Aston Villa,Manchester United,7.0,2.0,42749.0,Villa Park,feb,0.0,2009/10,2009,Birmingham,5.0,23.4,42788
+130,West Ham United,Birmingham City,15.0,8.0,35345.0,Boleyn Ground,feb,0.0,2009/10,2009,London,6.0,47.9,34458
+131,Wolverhampton Wanderers,Tottenham Hotspur,16.0,6.0,32050.0,Molineux Stadium,feb,0.0,2009/10,2009,Wolverhampton,5.0,29.8,27992
+132,Blackburn Rovers,Hull City,12.0,17.0,31367.0,Ewood Park,feb,0.0,2009/10,2009,Blackburn,5.0,28.7,23518
+133,Everton,Chelsea,9.0,1.0,39414.0,Goodison Park,feb,0.0,2009/10,2009,Liverpool,6.0,40.6,36411
+134,Manchester City,Bolton Wanderers,4.0,18.0,53400.0,Etihad Stadium,feb,0.0,2009/10,2009,Manchester,5.0,28.4,42016
+135,Portsmouth,Sunderland,20.0,13.0,20978.0,Fratton Park,feb,0.0,2009/10,2009,Portsmouth,6.0,23.8,16242
+136,Wigan Athletic,Stoke City,14.0,11.0,25138.0,DW Stadium,feb,0.0,2009/10,2009,Wigan,6.0,40.6,16033
+137,Fulham,Burnley,10.0,19.0,25700.0,Craven Cottage,feb,0.0,2009/10,2009,London,6.0,47.9,23005
+138,Birmingham City,Wolverhampton Wanderers,8.0,19.0,30079.0,St Andrews,feb,0.0,2009/10,2009,Birmingham,5.0,23.4,24165
+139,Chelsea,Arsenal,1.0,3.0,40834.0,Stamford Bridge,feb,1.0,2009/10,2009,London,6.0,47.9,41794
+140,Liverpool,Everton,4.0,9.0,54074.0,Anfield,feb,1.0,2009/10,2009,Liverpool,6.0,40.6,44316
+141,Bolton Wanderers,Fulham,17.0,10.0,28723.0,Macron Stadium,feb,0.0,2009/10,2009,Bolton,5.0,28.4,22289
+142,Burnley,West Ham United,15.0,18.0,21944.0,Turf Moor,feb,0.0,2009/10,2009,Burnley,3.0,75.9,21001
+143,Hull City,Manchester City,14.0,6.0,25586.0,KCOM Stadium,feb,0.0,2009/10,2009,Hull,5.0,12.0,24959
+144,Manchester United,Portsmouth,2.0,20.0,75643.0,Old Trafford,feb,0.0,2009/10,2009,Manchester,5.0,28.4,74684
+145,Stoke City,Blackburn Rovers,11.0,12.0,30089.0,Britannia Stadium,feb,0.0,2009/10,2009,Stoke,5.0,28.4,27386
+146,Sunderland,Wigan Athletic,13.0,16.0,48707.0,Stadium of Light,feb,0.0,2009/10,2009,Sunderland,4.0,17.8,38350
+147,Tottenham Hotspur,Aston Villa,5.0,7.0,36284.0,White Hart Lane,feb,0.0,2009/10,2009,London,6.0,47.9,35899
+148,Fulham,Portsmouth,10.0,20.0,25700.0,Craven Cottage,feb,0.0,2009/10,2009,London,6.0,47.9,21934
+149,Hull City,Chelsea,18.0,1.0,25586.0,KCOM Stadium,feb,0.0,2009/10,2009,Hull,5.0,12.0,
+150,Sunderland,Stoke City,13.0,12.0,48707.0,Stadium of Light,feb,0.0,2009/10,2009,Sunderland,4.0,17.8,35078
+151,Manchester City,Portsmouth,6.0,20.0,53400.0,Etihad Stadium,jan,0.0,2009/10,2009,Manchester,5.0,32.4,44015
+152,Arsenal,Manchester United,3.0,2.0,60704.0,Emirates Stadium,jan,0.0,2009/10,2009,London,6.0,52.9,60091
+153,Birmingham City,Tottenham Hotspur,8.0,4.0,30079.0,St Andrews,jan,0.0,2009/10,2009,Birmingham,4.0,34.7,27238
+154,Fulham,Aston Villa,10.0,7.0,25700.0,Craven Cottage,jan,0.0,2009/10,2009,London,6.0,52.9,25408
+155,Hull City,Wolverhampton Wanderers,18.0,17.0,25586.0,KCOM Stadium,jan,0.0,2009/10,2009,Hull,4.0,17.4,24957
+156,Liverpool,Bolton Wanderers,5.0,16.0,54074.0,Anfield,jan,0.0,2009/10,2009,Liverpool,5.0,58.3,43413
+157,West Ham United,Blackburn Rovers,15.0,11.0,35345.0,Boleyn Ground,jan,0.0,2009/10,2009,London,6.0,52.9,33093
+158,Wigan Athletic,Everton,14.0,9.0,25138.0,DW Stadium,jan,0.0,2009/10,2009,Wigan,5.0,58.3,16869
+159,Burnley,Chelsea,19.0,1.0,21944.0,Turf Moor,jan,0.0,2009/10,2009,Burnley,3.0,114.5,21131
+160,Aston Villa,Arsenal,7.0,3.0,42749.0,Villa Park,jan,0.0,2009/10,2009,Birmingham,4.0,34.7,39601
+161,Chelsea,Birmingham City,1.0,8.0,40834.0,Stamford Bridge,jan,0.0,2009/10,2009,London,6.0,52.9,41293
+162,Blackburn Rovers,Wigan Athletic,11.0,14.0,31367.0,Ewood Park,jan,0.0,2009/10,2009,Blackburn,5.0,32.5,22190
+163,Everton,Sunderland,9.0,13.0,39414.0,Goodison Park,jan,0.0,2009/10,2009,Liverpool,5.0,58.3,32163
+164,Portsmouth,West Ham United,20.0,16.0,20978.0,Fratton Park,jan,0.0,2009/10,2009,Portsmouth,6.0,35.7,18322
+165,Wolverhampton Wanderers,Liverpool,17.0,5.0,32050.0,Molineux Stadium,jan,0.0,2009/10,2009,Wolverhampton,4.0,46.8,28763
+166,Bolton Wanderers,Burnley,15.0,18.0,28723.0,Macron Stadium,jan,0.0,2009/10,2009,Bolton,5.0,32.4,23986
+167,Tottenham Hotspur,Fulham,4.0,10.0,36284.0,White Hart Lane,jan,1.0,2009/10,2009,London,6.0,52.9,35467
+168,Manchester United,Hull City,1.0,18.0,75643.0,Old Trafford,jan,0.0,2009/10,2009,Manchester,5.0,32.4,73933
+169,Arsenal,Bolton Wanderers,2.0,19.0,60704.0,Emirates Stadium,jan,0.0,2009/10,2009,London,6.0,52.9,59084
+170,Liverpool,Tottenham Hotspur,6.0,4.0,54074.0,Anfield,jan,0.0,2009/10,2009,Liverpool,5.0,58.3,42016
+171,Aston Villa,West Ham United,7.0,16.0,42749.0,Villa Park,jan,0.0,2009/10,2009,Birmingham,4.0,34.7,35646
+172,Blackburn Rovers,Fulham,12.0,9.0,31367.0,Ewood Park,jan,0.0,2009/10,2009,Blackburn,5.0,32.5,21287
+173,Bolton Wanderers,Arsenal,19.0,2.0,28723.0,Macron Stadium,jan,0.0,2009/10,2009,Bolton,5.0,32.4,23893
+174,Stoke City,Liverpool,11.0,6.0,30089.0,Britannia Stadium,jan,0.0,2009/10,2009,Stoke,5.0,32.4,27247
+175,Chelsea,Sunderland,3.0,13.0,40834.0,Stamford Bridge,jan,0.0,2009/10,2009,London,6.0,52.9,41776
+176,Manchester United,Burnley,1.0,15.0,75643.0,Old Trafford,jan,0.0,2009/10,2009,Manchester,5.0,32.4,75120
+177,Tottenham Hotspur,Hull City,4.0,18.0,36284.0,White Hart Lane,jan,0.0,2009/10,2009,London,6.0,52.9,35729
+178,Wolverhampton Wanderers,Wigan Athletic,17.0,14.0,32050.0,Molineux Stadium,jan,0.0,2009/10,2009,Wolverhampton,4.0,46.8,27604
+179,Everton,Manchester City,10.0,5.0,39414.0,Goodison Park,jan,0.0,2009/10,2009,Liverpool,5.0,58.3,37378
+180,Manchester City,Blackburn Rovers,4.0,13.0,53400.0,Etihad Stadium,jan,0.0,2009/10,2009,Manchester,5.0,32.4,40292
+181,Arsenal,Everton,3.0,12.0,60704.0,Emirates Stadium,jan,0.0,2009/10,2009,London,6.0,52.9,60053
+182,Birmingham City,Manchester United,8.0,2.0,30079.0,St Andrews,jan,0.0,2009/10,2009,Birmingham,4.0,34.7,28907
+183,Stoke City,Fulham,10.0,9.0,30089.0,Britannia Stadium,jan,0.0,2009/10,2009,Stoke,5.0,32.4,
+184,Portsmouth,Arsenal,20.0,3.0,20978.0,Fratton Park,dec,0.0,2009/10,2009,Portsmouth,6.0,31.4,20404
+185,Manchester United,Wigan Athletic,2.0,16.0,75643.0,Old Trafford,dec,0.0,2009/10,2009,Manchester,5.0,37.4,74560
+186,Aston Villa,Liverpool,6.0,7.0,42749.0,Villa Park,dec,0.0,2009/10,2009,Birmingham,5.0,27.9,42788
+187,Bolton Wanderers,Hull City,18.0,19.0,28723.0,Macron Stadium,dec,0.0,2009/10,2009,Bolton,5.0,37.4,20696
+188,Tottenham Hotspur,West Ham United,5.0,17.0,36284.0,White Hart Lane,dec,1.0,2009/10,2009,London,6.0,65.1,35994
+189,Blackburn Rovers,Sunderland,13.0,11.0,31367.0,Ewood Park,dec,0.0,2009/10,2009,Blackburn,6.0,45.0,25656
+190,Chelsea,Fulham,1.0,9.0,40834.0,Stamford Bridge,dec,1.0,2009/10,2009,London,6.0,65.1,41805
+191,Everton,Burnley,12.0,14.0,39414.0,Goodison Park,dec,0.0,2009/10,2009,Liverpool,6.0,72.8,39419
+192,Stoke City,Birmingham City,10.0,8.0,30089.0,Britannia Stadium,dec,0.0,2009/10,2009,Stoke,5.0,37.4,27211
+193,Wolverhampton Wanderers,Manchester City,15.0,4.0,32050.0,Molineux Stadium,dec,0.0,2009/10,2009,Wolverhampton,5.0,54.2,28957
+194,Arsenal,Aston Villa,3.0,6.0,60704.0,Emirates Stadium,dec,0.0,2009/10,2009,London,6.0,65.1,60056
+195,Hull City,Manchester United,19.0,2.0,25586.0,KCOM Stadium,dec,0.0,2009/10,2009,Hull,5.0,18.6,24627
+196,Manchester City,Stoke City,4.0,10.0,53400.0,Etihad Stadium,dec,0.0,2009/10,2009,Manchester,5.0,37.4,47325
+197,Sunderland,Everton,11.0,12.0,48707.0,Stadium of Light,dec,0.0,2009/10,2009,Sunderland,4.0,22.9,46990
+198,Wigan Athletic,Blackburn Rovers,16.0,13.0,25138.0,DW Stadium,dec,0.0,2009/10,2009,Wigan,6.0,72.8,20243
+199,Liverpool,Wolverhampton Wanderers,7.0,15.0,54074.0,Anfield,dec,0.0,2009/10,2009,Liverpool,6.0,72.8,41956
+200,Birmingham City,Chelsea,8.0,1.0,30079.0,St Andrews,dec,0.0,2009/10,2009,Birmingham,5.0,27.9,28958
+201,Fulham,Tottenham Hotspur,9.0,5.0,25700.0,Craven Cottage,dec,1.0,2009/10,2009,London,6.0,65.1,25679
+202,West Ham United,Portsmouth,17.0,20.0,35345.0,Boleyn Ground,dec,0.0,2009/10,2009,London,6.0,65.1,33686
+203,Burnley,Bolton Wanderers,14.0,18.0,21944.0,Turf Moor,dec,0.0,2009/10,2009,Burnley,4.0,135.9,21761
+204,Wolverhampton Wanderers,Burnley,12.0,14.0,32050.0,Molineux Stadium,dec,0.0,2009/10,2009,Wolverhampton,5.0,54.2,27410
+205,Everton,Birmingham City,15.0,7.0,39414.0,Goodison Park,dec,0.0,2009/10,2009,Liverpool,6.0,72.8,33660
+206,West Ham United,Chelsea,19.0,1.0,35345.0,Boleyn Ground,dec,1.0,2009/10,2009,London,6.0,65.1,33388
+207,Portsmouth,Liverpool,20.0,8.0,20978.0,Fratton Park,dec,0.0,2009/10,2009,Portsmouth,6.0,31.4,20534
+208,Aston Villa,Stoke City,4.0,11.0,42749.0,Villa Park,dec,0.0,2009/10,2009,Birmingham,5.0,27.9,35852
+209,Blackburn Rovers,Tottenham Hotspur,13.0,5.0,31367.0,Ewood Park,dec,0.0,2009/10,2009,Blackburn,6.0,45.0,26490
+210,Fulham,Manchester United,9.0,2.0,25700.0,Craven Cottage,dec,0.0,2009/10,2009,London,6.0,65.1,25700
+211,Manchester City,Sunderland,6.0,10.0,53400.0,Etihad Stadium,dec,0.0,2009/10,2009,Manchester,5.0,37.4,44735
+212,Arsenal,Hull City,3.0,17.0,60704.0,Emirates Stadium,dec,0.0,2009/10,2009,London,6.0,65.1,60006
+213,Burnley,Arsenal,13.0,3.0,21944.0,Turf Moor,dec,0.0,2009/10,2009,Burnley,4.0,135.9,21309
+214,Chelsea,Portsmouth,1.0,20.0,40834.0,Stamford Bridge,dec,0.0,2009/10,2009,London,6.0,65.1,40137
+215,Liverpool,Wigan Athletic,6.0,14.0,54074.0,Anfield,dec,0.0,2009/10,2009,Liverpool,6.0,72.8,41116
+216,Tottenham Hotspur,Manchester City,5.0,8.0,36284.0,White Hart Lane,dec,0.0,2009/10,2009,London,6.0,65.1,35891
+217,Sunderland,Aston Villa,10.0,4.0,48707.0,Stadium of Light,dec,0.0,2009/10,2009,Sunderland,4.0,22.9,34821
+218,Birmingham City,Blackburn Rovers,7.0,12.0,30079.0,St Andrews,dec,0.0,2009/10,2009,Birmingham,5.0,27.9,23187
+219,Bolton Wanderers,West Ham United,17.0,19.0,28723.0,Macron Stadium,dec,0.0,2009/10,2009,Bolton,5.0,37.4,17849
+220,Manchester United,Wolverhampton Wanderers,2.0,18.0,75643.0,Old Trafford,dec,0.0,2009/10,2009,Manchester,5.0,37.4,73709
+221,Liverpool,Arsenal,7.0,3.0,54074.0,Anfield,dec,0.0,2009/10,2009,Liverpool,6.0,72.8,43853
+222,Stoke City,Wigan Athletic,11.0,14.0,30089.0,Britannia Stadium,dec,0.0,2009/10,2009,Stoke,5.0,37.4,26728
+223,Birmingham City,West Ham United,8.0,18.0,30079.0,St Andrews,dec,0.0,2009/10,2009,Birmingham,5.0,27.9,28203
+224,Bolton Wanderers,Manchester City,19.0,6.0,28723.0,Macron Stadium,dec,0.0,2009/10,2009,Bolton,5.0,37.4,22735
+225,Burnley,Fulham,13.0,9.0,21944.0,Turf Moor,dec,0.0,2009/10,2009,Burnley,4.0,135.9,18397
+226,Chelsea,Everton,1.0,15.0,40834.0,Stamford Bridge,dec,0.0,2009/10,2009,London,6.0,65.1,41579
+227,Hull City,Blackburn Rovers,16.0,12.0,25586.0,KCOM Stadium,dec,0.0,2009/10,2009,Hull,5.0,18.6,24124
+228,Sunderland,Portsmouth,10.0,20.0,48707.0,Stadium of Light,dec,0.0,2009/10,2009,Sunderland,4.0,22.9,37578
+229,Tottenham Hotspur,Wolverhampton Wanderers,5.0,17.0,36284.0,White Hart Lane,dec,0.0,2009/10,2009,London,6.0,65.1,36012
+230,Manchester United,Aston Villa,2.0,4.0,75643.0,Old Trafford,dec,0.0,2009/10,2009,Manchester,5.0,37.4,75130
+231,Fulham,Sunderland,8.0,10.0,25700.0,Craven Cottage,dec,0.0,2009/10,2009,London,6.0,65.1,23168
+232,Everton,Tottenham Hotspur,15.0,4.0,39414.0,Goodison Park,dec,0.0,2009/10,2009,Liverpool,6.0,72.8,34003
+233,Arsenal,Stoke City,3.0,11.0,60704.0,Emirates Stadium,dec,0.0,2009/10,2009,London,6.0,65.1,60048
+234,Aston Villa,Hull City,5.0,16.0,42749.0,Villa Park,dec,0.0,2009/10,2009,Birmingham,5.0,27.9,39748
+235,Blackburn Rovers,Liverpool,12.0,7.0,31367.0,Ewood Park,dec,0.0,2009/10,2009,Blackburn,6.0,45.0,29660
+236,West Ham United,Manchester United,17.0,2.0,35345.0,Boleyn Ground,dec,0.0,2009/10,2009,London,6.0,65.1,34980
+237,Wigan Athletic,Birmingham City,14.0,9.0,25138.0,DW Stadium,dec,0.0,2009/10,2009,Wigan,6.0,72.8,18797
+238,Wolverhampton Wanderers,Bolton Wanderers,18.0,19.0,32050.0,Molineux Stadium,dec,0.0,2009/10,2009,Wolverhampton,5.0,54.2,27362
+239,Manchester City,Chelsea,6.0,1.0,53400.0,Etihad Stadium,dec,0.0,2009/10,2009,Manchester,5.0,37.4,47348
+240,Portsmouth,Burnley,20.0,13.0,20978.0,Fratton Park,dec,0.0,2009/10,2009,Portsmouth,6.0,31.4,17822
+241,Wolverhampton Wanderers,Birmingham City,19.0,11.0,32050.0,Molineux Stadium,nov,0.0,2009/10,2009,Wolverhampton,8.0,51.1,26668
+242,Everton,Liverpool,16.0,5.0,39414.0,Goodison Park,nov,1.0,2009/10,2009,Liverpool,8.0,67.8,39652
+243,Arsenal,Chelsea,4.0,1.0,60704.0,Emirates Stadium,nov,1.0,2009/10,2009,London,9.0,72.0,60067
+244,Blackburn Rovers,Stoke City,13.0,9.0,31367.0,Ewood Park,nov,0.0,2009/10,2009,Blackburn,8.0,43.7,25143
+245,Fulham,Bolton Wanderers,10.0,18.0,25700.0,Craven Cottage,nov,0.0,2009/10,2009,London,9.0,72.0,23554
+246,Manchester City,Hull City,7.0,15.0,53400.0,Etihad Stadium,nov,0.0,2009/10,2009,Manchester,7.0,35.8,46382
+247,Portsmouth,Manchester United,20.0,2.0,20978.0,Fratton Park,nov,0.0,2009/10,2009,Portsmouth,8.0,28.4,20482
+248,West Ham United,Burnley,17.0,12.0,35345.0,Boleyn Ground,nov,0.0,2009/10,2009,London,9.0,72.0,34003
+249,Wigan Athletic,Sunderland,14.0,8.0,25138.0,DW Stadium,nov,0.0,2009/10,2009,Wigan,8.0,67.8,20447
+250,Aston Villa,Tottenham Hotspur,6.0,3.0,42749.0,Villa Park,nov,0.0,2009/10,2009,Birmingham,7.0,31.5,39866
+251,Hull City,Everton,15.0,14.0,25586.0,KCOM Stadium,nov,0.0,2009/10,2009,Hull,7.0,18.0,24685
+252,Fulham,Blackburn Rovers,10.0,12.0,25700.0,Craven Cottage,nov,0.0,2009/10,2009,London,9.0,72.0,21414
+253,Bolton Wanderers,Blackburn Rovers,18.0,12.0,28723.0,Macron Stadium,nov,0.0,2009/10,2009,Bolton,7.0,35.8,21777
+254,Tottenham Hotspur,Wigan Athletic,4.0,16.0,36284.0,White Hart Lane,nov,0.0,2009/10,2009,London,9.0,72.0,35650
+255,Stoke City,Portsmouth,9.0,20.0,30089.0,Britannia Stadium,nov,0.0,2009/10,2009,Stoke,7.0,35.8,27069
+256,Liverpool,Manchester City,7.0,6.0,54074.0,Anfield,nov,0.0,2009/10,2009,Liverpool,8.0,67.8,44164
+257,Birmingham City,Fulham,13.0,10.0,30079.0,St Andrews,nov,0.0,2009/10,2009,Birmingham,7.0,31.5,23659
+258,Burnley,Aston Villa,11.0,5.0,21944.0,Turf Moor,nov,0.0,2009/10,2009,Burnley,6.0,126.3,21178
+259,Chelsea,Wolverhampton Wanderers,1.0,19.0,40834.0,Stamford Bridge,nov,0.0,2009/10,2009,London,9.0,72.0,41786
+260,Hull City,West Ham United,15.0,17.0,25586.0,KCOM Stadium,nov,0.0,2009/10,2009,Hull,7.0,18.0,24909
+261,Sunderland,Arsenal,8.0,3.0,48707.0,Stadium of Light,nov,0.0,2009/10,2009,Sunderland,6.0,26.6,44918
+262,Manchester United,Everton,2.0,14.0,75643.0,Old Trafford,nov,0.0,2009/10,2009,Manchester,7.0,35.8,75169
+263,Liverpool,Birmingham City,7.0,15.0,54074.0,Anfield,nov,0.0,2009/10,2009,Liverpool,8.0,67.8,42560
+264,Hull City,Stoke City,17.0,9.0,25586.0,KCOM Stadium,nov,0.0,2009/10,2009,Hull,7.0,18.0,24516
+265,West Ham United,Everton,18.0,12.0,35345.0,Boleyn Ground,nov,0.0,2009/10,2009,London,9.0,72.0,32466
+266,Wigan Athletic,Fulham,13.0,11.0,25138.0,DW Stadium,nov,0.0,2009/10,2009,Wigan,8.0,67.8,16172
+267,Chelsea,Manchester United,1.0,3.0,40834.0,Stamford Bridge,nov,0.0,2009/10,2009,London,9.0,72.0,41836
+268,Aston Villa,Bolton Wanderers,5.0,16.0,42749.0,Villa Park,nov,0.0,2009/10,2009,Birmingham,7.0,31.5,38101
+269,Blackburn Rovers,Portsmouth,14.0,20.0,31367.0,Ewood Park,nov,0.0,2009/10,2009,Blackburn,8.0,43.7,23110
+270,Manchester City,Burnley,6.0,10.0,53400.0,Etihad Stadium,nov,0.0,2009/10,2009,Manchester,7.0,35.8,47205
+271,Tottenham Hotspur,Sunderland,4.0,8.0,36284.0,White Hart Lane,nov,0.0,2009/10,2009,London,9.0,72.0,35955
+272,Wolverhampton Wanderers,Arsenal,19.0,2.0,32050.0,Molineux Stadium,nov,0.0,2009/10,2009,Wolverhampton,8.0,51.1,28937
+273,West Ham United,Aston Villa,16.0,7.0,35345.0,Boleyn Ground,nov,0.0,2009/10,2009,London,9.0,72.0,30024
+274,Birmingham City,Manchester City,14.0,4.0,30079.0,St Andrews,nov,0.0,2009/10,2009,Birmingham,7.0,31.5,21462
+275,Bolton Wanderers,Chelsea,15.0,1.0,28723.0,Macron Stadium,oct,0.0,2009/10,2009,Bolton,11.0,46.1,22680
+276,Burnley,Hull City,10.0,19.0,21944.0,Turf Moor,oct,0.0,2009/10,2009,Burnley,10.0,99.3,20219
+277,Everton,Aston Villa,13.0,7.0,39414.0,Goodison Park,oct,0.0,2009/10,2009,Liverpool,12.0,58.2,36648
+278,Fulham,Liverpool,11.0,6.0,25700.0,Craven Cottage,oct,0.0,2009/10,2009,London,13.0,61.5,25700
+279,Manchester United,Blackburn Rovers,2.0,18.0,75643.0,Old Trafford,oct,0.0,2009/10,2009,Manchester,11.0,46.1,74658
+280,Arsenal,Tottenham Hotspur,3.0,5.0,60704.0,Emirates Stadium,oct,1.0,2009/10,2009,London,13.0,61.5,60103
+281,Portsmouth,Wigan Athletic,20.0,12.0,20978.0,Fratton Park,oct,0.0,2009/10,2009,Portsmouth,12.0,29.2,18212
+282,Stoke City,Wolverhampton Wanderers,9.0,17.0,30089.0,Britannia Stadium,oct,0.0,2009/10,2009,Stoke,11.0,46.1,27500
+283,Sunderland,West Ham United,8.0,16.0,48707.0,Stadium of Light,oct,0.0,2009/10,2009,Sunderland,10.0,33.2,39033
+284,Bolton Wanderers,Everton,12.0,14.0,28723.0,Macron Stadium,oct,0.0,2009/10,2009,Bolton,11.0,46.1,21547
+285,Liverpool,Manchester United,5.0,2.0,54074.0,Anfield,oct,0.0,2009/10,2009,Liverpool,12.0,58.2,44188
+286,Manchester City,Fulham,6.0,13.0,53400.0,Etihad Stadium,oct,0.0,2009/10,2009,Manchester,11.0,46.1,44906
+287,West Ham United,Arsenal,19.0,3.0,35345.0,Boleyn Ground,oct,1.0,2009/10,2009,London,13.0,61.5,34442
+288,Wolverhampton Wanderers,Aston Villa,17.0,7.0,32050.0,Molineux Stadium,oct,0.0,2009/10,2009,Wolverhampton,11.0,43.4,28734
+289,Birmingham City,Sunderland,15.0,8.0,30079.0,St Andrews,oct,0.0,2009/10,2009,Birmingham,11.0,31.9,21723
+290,Burnley,Wigan Athletic,11.0,10.0,21944.0,Turf Moor,oct,0.0,2009/10,2009,Burnley,10.0,99.3,19430
+291,Hull City,Portsmouth,18.0,20.0,25586.0,KCOM Stadium,oct,0.0,2009/10,2009,Hull,11.0,15.6,23720
+292,Tottenham Hotspur,Stoke City,4.0,9.0,36284.0,White Hart Lane,oct,0.0,2009/10,2009,London,13.0,61.5,36031
+293,Chelsea,Blackburn Rovers,1.0,16.0,40834.0,Stamford Bridge,oct,0.0,2009/10,2009,London,13.0,61.5,40836
+294,Fulham,Hull City,12.0,18.0,25700.0,Craven Cottage,oct,0.0,2009/10,2009,London,13.0,61.5,22943
+295,Blackburn Rovers,Burnley,13.0,10.0,31367.0,Ewood Park,oct,0.0,2009/10,2009,Blackburn,11.0,54.6,26689
+296,Wigan Athletic,Manchester City,14.0,5.0,25138.0,DW Stadium,oct,0.0,2009/10,2009,Wigan,12.0,58.2,20005
+297,Aston Villa,Chelsea,6.0,2.0,42749.0,Villa Park,oct,0.0,2009/10,2009,Birmingham,11.0,31.9,39047
+298,Arsenal,Birmingham City,4.0,17.0,60704.0,Emirates Stadium,oct,0.0,2009/10,2009,London,13.0,61.5,
+299,Everton,Wolverhampton Wanderers,11.0,16.0,39414.0,Goodison Park,oct,0.0,2009/10,2009,Liverpool,12.0,58.2,
+300,Manchester United,Bolton Wanderers,1.0,15.0,75643.0,Old Trafford,oct,0.0,2009/10,2009,Manchester,11.0,46.1,75103
+301,Portsmouth,Tottenham Hotspur,20.0,3.0,20978.0,Fratton Park,oct,0.0,2009/10,2009,Portsmouth,12.0,29.2,20821
+302,Stoke City,West Ham United,9.0,19.0,30089.0,Britannia Stadium,oct,0.0,2009/10,2009,Stoke,11.0,46.1,
+303,Sunderland,Liverpool,7.0,8.0,48707.0,Stadium of Light,oct,0.0,2009/10,2009,Sunderland,10.0,33.2,47327
+304,Aston Villa,Manchester City,7.0,4.0,42749.0,Villa Park,oct,0.0,2009/10,2009,Birmingham,11.0,31.9,37924
+305,Arsenal,Blackburn Rovers,5.0,16.0,60704.0,Emirates Stadium,oct,0.0,2009/10,2009,London,13.0,61.5,59431
+306,Everton,Stoke City,10.0,11.0,39414.0,Goodison Park,oct,0.0,2009/10,2009,Liverpool,12.0,58.2,36753
+307,West Ham United,Fulham,19.0,15.0,35345.0,Boleyn Ground,oct,1.0,2009/10,2009,London,13.0,61.5,32612
+308,Chelsea,Liverpool,1.0,6.0,40834.0,Stamford Bridge,oct,0.0,2009/10,2009,London,13.0,61.5,41732
+309,Bolton Wanderers,Tottenham Hotspur,13.0,3.0,28723.0,Macron Stadium,oct,0.0,2009/10,2009,Bolton,11.0,46.1,21305
+310,Burnley,Birmingham City,9.0,14.0,21944.0,Turf Moor,oct,0.0,2009/10,2009,Burnley,10.0,99.3,20102
+311,Hull City,Wigan Athletic,18.0,12.0,25586.0,KCOM Stadium,oct,0.0,2009/10,2009,Hull,11.0,15.6,22822
+312,Wolverhampton Wanderers,Portsmouth,17.0,20.0,32050.0,Molineux Stadium,oct,0.0,2009/10,2009,Wolverhampton,11.0,43.4,29023
+313,Manchester United,Sunderland,2.0,8.0,75643.0,Old Trafford,oct,0.0,2009/10,2009,Manchester,11.0,46.1,75114
+314,Manchester City,West Ham United,5.0,18.0,53400.0,Etihad Stadium,sep,0.0,2009/10,2009,Manchester,14.0,26.5,42745
+315,Sunderland,Wolverhampton Wanderers,8.0,16.0,48707.0,Stadium of Light,sep,0.0,2009/10,2009,Sunderland,13.0,19.0,
+316,Birmingham City,Bolton Wanderers,14.0,13.0,30079.0,St Andrews,sep,0.0,2009/10,2009,Birmingham,14.0,17.8,28671
+317,Blackburn Rovers,Aston Villa,15.0,7.0,31367.0,Ewood Park,sep,0.0,2009/10,2009,Blackburn,14.0,30.9,25172
+318,Liverpool,Hull City,3.0,19.0,54074.0,Anfield,sep,0.0,2009/10,2009,Liverpool,15.0,49.0,44392
+319,Fulham,Arsenal,17.0,6.0,25700.0,Craven Cottage,sep,1.0,2009/10,2009,London,16.0,41.2,25700
+320,Portsmouth,Everton,20.0,9.0,20978.0,Fratton Park,sep,0.0,2009/10,2009,Portsmouth,15.0,15.7,18116
+321,Stoke City,Manchester United,12.0,1.0,30089.0,Britannia Stadium,sep,0.0,2009/10,2009,Stoke,14.0,26.5,27500
+322,Tottenham Hotspur,Burnley,4.0,11.0,36284.0,White Hart Lane,sep,0.0,2009/10,2009,London,16.0,41.2,35462
+323,Wigan Athletic,Chelsea,10.0,2.0,25138.0,DW Stadium,sep,0.0,2009/10,2009,Wigan,15.0,49.0,18542
+324,Manchester United,Manchester City,2.0,4.0,75643.0,Old Trafford,sep,1.0,2009/10,2009,Manchester,14.0,26.5,75066
+325,Wolverhampton Wanderers,Fulham,12.0,14.0,32050.0,Molineux Stadium,sep,0.0,2009/10,2009,Wolverhampton,14.0,45.0,27670
+326,Everton,Blackburn Rovers,13.0,18.0,39414.0,Goodison Park,sep,0.0,2009/10,2009,Liverpool,15.0,49.0,35546
+327,Chelsea,Tottenham Hotspur,1.0,6.0,40834.0,Stamford Bridge,sep,1.0,2009/10,2009,London,16.0,41.2,41623
+328,Burnley,Sunderland,9.0,8.0,21944.0,Turf Moor,sep,0.0,2009/10,2009,Burnley,13.0,66.3,20196
+329,Arsenal,Wigan Athletic,7.0,15.0,60704.0,Emirates Stadium,sep,0.0,2009/10,2009,London,16.0,41.2,59103
+330,Aston Villa,Portsmouth,5.0,20.0,42749.0,Villa Park,sep,0.0,2009/10,2009,Birmingham,14.0,17.8,35979
+331,Bolton Wanderers,Stoke City,17.0,10.0,28723.0,Macron Stadium,sep,0.0,2009/10,2009,Bolton,14.0,26.5,20265
+332,Hull City,Birmingham City,19.0,11.0,25586.0,KCOM Stadium,sep,0.0,2009/10,2009,Hull,14.0,10.0,23759
+333,West Ham United,Liverpool,16.0,3.0,35345.0,Boleyn Ground,sep,0.0,2009/10,2009,London,16.0,41.2,34658
+334,Birmingham City,Aston Villa,15.0,6.0,30079.0,St Andrews,sep,1.0,2009/10,2009,Birmingham,14.0,17.8,25196
+335,Fulham,Everton,10.0,19.0,25700.0,Craven Cottage,sep,0.0,2009/10,2009,London,16.0,41.2,24191
+336,Blackburn Rovers,Wolverhampton Wanderers,14.0,16.0,31367.0,Ewood Park,sep,0.0,2009/10,2009,Blackburn,14.0,30.9,24845
+337,Liverpool,Burnley,5.0,12.0,54074.0,Anfield,sep,0.0,2009/10,2009,Liverpool,15.0,49.0,43817
+338,Manchester City,Arsenal,3.0,9.0,53400.0,Etihad Stadium,sep,0.0,2009/10,2009,Manchester,14.0,26.5,47339
+339,Portsmouth,Bolton Wanderers,20.0,18.0,20978.0,Fratton Park,sep,0.0,2009/10,2009,Portsmouth,15.0,15.7,17564
+340,Stoke City,Chelsea,8.0,1.0,30089.0,Britannia Stadium,sep,0.0,2009/10,2009,Stoke,14.0,26.5,27440
+341,Sunderland,Hull City,7.0,17.0,48707.0,Stadium of Light,sep,0.0,2009/10,2009,Sunderland,13.0,19.0,38997
+342,Wigan Athletic,West Ham United,11.0,13.0,25138.0,DW Stadium,sep,0.0,2009/10,2009,Wigan,15.0,49.0,17142
+343,Tottenham Hotspur,Manchester United,4.0,2.0,36284.0,White Hart Lane,sep,0.0,2009/10,2009,London,16.0,41.2,35785
+344,Portsmouth,Manchester City,20.0,4.0,20978.0,Fratton Park,aug,0.0,2009/10,2009,Portsmouth,17.0,10.9,17826
+345,Everton,Wigan Athletic,16.0,17.0,39414.0,Goodison Park,aug,0.0,2009/10,2009,Liverpool,16.0,66.6,35122
+346,Aston Villa,Fulham,8.0,15.0,42749.0,Villa Park,aug,0.0,2009/10,2009,Birmingham,16.0,27.0,32917
+347,Chelsea,Burnley,1.0,10.0,40834.0,Stamford Bridge,aug,0.0,2009/10,2009,London,18.0,57.5,40906
+348,Blackburn Rovers,West Ham United,18.0,11.0,31367.0,Ewood Park,aug,0.0,2009/10,2009,Blackburn,16.0,35.9,23421
+349,Bolton Wanderers,Liverpool,19.0,7.0,28723.0,Macron Stadium,aug,0.0,2009/10,2009,Bolton,16.0,31.4,23284
+350,Stoke City,Sunderland,5.0,9.0,30089.0,Britannia Stadium,aug,0.0,2009/10,2009,Stoke,16.0,31.4,27091
+351,Tottenham Hotspur,Birmingham City,2.0,12.0,36284.0,White Hart Lane,aug,0.0,2009/10,2009,London,18.0,57.5,35318
+352,Wolverhampton Wanderers,Hull City,13.0,14.0,32050.0,Molineux Stadium,aug,0.0,2009/10,2009,Wolverhampton,16.0,54.5,27906
+353,Manchester United,Arsenal,3.0,6.0,75643.0,Old Trafford,aug,0.0,2009/10,2009,Manchester,16.0,31.4,75095
+354,Liverpool,Aston Villa,10.0,12.0,54074.0,Anfield,aug,0.0,2009/10,2009,Liverpool,16.0,66.6,43667
+355,West Ham United,Tottenham Hotspur,11.0,1.0,35345.0,Boleyn Ground,aug,1.0,2009/10,2009,London,18.0,57.5,33095
+356,Burnley,Everton,7.0,20.0,21944.0,Turf Moor,aug,0.0,2009/10,2009,Burnley,15.0,99.0,19983
+357,Fulham,Chelsea,13.0,2.0,25700.0,Craven Cottage,aug,1.0,2009/10,2009,London,18.0,57.5,25404
+358,Arsenal,Portsmouth,3.0,19.0,60704.0,Emirates Stadium,aug,0.0,2009/10,2009,London,18.0,57.5,60049
+359,Birmingham City,Stoke City,8.0,9.0,30079.0,St Andrews,aug,0.0,2009/10,2009,Birmingham,16.0,27.0,21694
+360,Hull City,Bolton Wanderers,15.0,17.0,25586.0,KCOM Stadium,aug,0.0,2009/10,2009,Hull,17.0,14.3,22999
+361,Manchester City,Wolverhampton Wanderers,5.0,14.0,53400.0,Etihad Stadium,aug,0.0,2009/10,2009,Manchester,16.0,31.4,47287
+362,Sunderland,Blackburn Rovers,6.0,18.0,48707.0,Stadium of Light,aug,0.0,2009/10,2009,Sunderland,15.0,31.6,37106
+363,Wigan Athletic,Manchester United,16.0,4.0,25138.0,DW Stadium,aug,0.0,2009/10,2009,Wigan,16.0,66.6,18164
+364,Birmingham City,Portsmouth,9.0,18.0,30079.0,St Andrews,aug,0.0,2009/10,2009,Birmingham,16.0,27.0,19922
+365,Burnley,Manchester United,12.0,10.0,21944.0,Turf Moor,aug,0.0,2009/10,2009,Burnley,15.0,99.0,20872
+366,Hull City,Tottenham Hotspur,19.0,1.0,25586.0,KCOM Stadium,aug,0.0,2009/10,2009,Hull,17.0,14.3,24735
+367,Liverpool,Stoke City,4.0,14.0,54074.0,Anfield,aug,0.0,2009/10,2009,Liverpool,16.0,66.6,44318
+368,Sunderland,Chelsea,11.0,2.0,48707.0,Stadium of Light,aug,0.0,2009/10,2009,Sunderland,15.0,31.6,41179
+369,Wigan Athletic,Wolverhampton Wanderers,7.0,13.0,25138.0,DW Stadium,aug,0.0,2009/10,2009,Wigan,16.0,66.6,16661
+370,Manchester United,Birmingham City,9.0,13.0,75643.0,Old Trafford,aug,0.0,2009/10,2009,Manchester,16.0,31.4,75062
+371,Tottenham Hotspur,Liverpool,7.0,12.0,36284.0,White Hart Lane,aug,0.0,2009/10,2009,London,18.0,57.5,35935
+372,Chelsea,Hull City,6.0,11.0,40834.0,Stamford Bridge,aug,0.0,2009/10,2009,London,18.0,57.5,41597
+373,Aston Villa,Wigan Athletic,16.0,5.0,42749.0,Villa Park,aug,0.0,2009/10,2009,Birmingham,16.0,27.0,35578
+374,Blackburn Rovers,Manchester City,17.0,2.0,31367.0,Ewood Park,aug,0.0,2009/10,2009,Blackburn,16.0,35.9,29584
+375,Bolton Wanderers,Sunderland,14.0,10.0,28723.0,Macron Stadium,aug,0.0,2009/10,2009,Bolton,16.0,31.4,22247
+376,Portsmouth,Fulham,15.0,8.0,20978.0,Fratton Park,aug,0.0,2009/10,2009,Portsmouth,17.0,10.9,17510
+377,Stoke City,Burnley,3.0,18.0,30089.0,Britannia Stadium,aug,0.0,2009/10,2009,Stoke,16.0,31.4,27385
+378,Wolverhampton Wanderers,West Ham United,19.0,4.0,32050.0,Molineux Stadium,aug,0.0,2009/10,2009,Wolverhampton,16.0,54.5,28674
+379,Everton,Arsenal,20.0,1.0,39414.0,Goodison Park,aug,0.0,2009/10,2009,Liverpool,16.0,66.6,39309
+380,Aston Villa,Liverpool,9.0,6.0,42749.0,Villa Park,may,0.0,2010/11,2010,Birmingham,12.0,26.6,42785
+381,Bolton Wanderers,Manchester City,14.0,3.0,28723.0,Macron Stadium,may,0.0,2010/11,2010,Bolton,12.0,21.2,26285
+382,Everton,Chelsea,7.0,2.0,39414.0,Goodison Park,may,0.0,2010/11,2010,Liverpool,12.0,53.6,38712
+383,Fulham,Arsenal,8.0,4.0,25700.0,Craven Cottage,may,1.0,2010/11,2010,London,14.0,52.1,25674
+384,Manchester United,Blackpool,1.0,19.0,75643.0,Old Trafford,may,0.0,2010/11,2010,Manchester,12.0,21.2,75400
+385,Newcastle United,West Bromwich Albion,12.0,11.0,52305.0,Sports Direct Arena,may,0.0,2010/11,2010,Newcastle,9.0,116.4,51678
+386,Stoke City,Wigan Athletic,13.0,16.0,30089.0,Britannia Stadium,may,0.0,2010/11,2010,Stoke,12.0,21.2,27566
+387,Tottenham Hotspur,Birmingham City,5.0,18.0,36284.0,White Hart Lane,may,0.0,2010/11,2010,London,14.0,52.1,36119
+388,West Ham United,Sunderland,20.0,10.0,35345.0,Boleyn Ground,may,0.0,2010/11,2010,London,14.0,52.1,32792
+389,Wolverhampton Wanderers,Blackburn Rovers,17.0,15.0,32050.0,Molineux Stadium,may,0.0,2010/11,2010,Wolverhampton,12.0,38.6,29009
+390,Manchester City,Stoke City,3.0,9.0,53400.0,Etihad Stadium,may,0.0,2010/11,2010,Manchester,12.0,21.2,45103
+391,Chelsea,Newcastle United,2.0,12.0,40834.0,Stamford Bridge,may,0.0,2010/11,2010,London,14.0,52.1,41739
+392,Arsenal,Aston Villa,4.0,13.0,60704.0,Emirates Stadium,may,0.0,2010/11,2010,London,14.0,52.1,60023
+393,Birmingham City,Fulham,17.0,8.0,30079.0,St Andrews,may,0.0,2010/11,2010,Birmingham,12.0,26.6,27759
+394,Liverpool,Tottenham Hotspur,6.0,5.0,54074.0,Anfield,may,0.0,2010/11,2010,Liverpool,12.0,53.6,44893
+395,Wigan Athletic,West Ham United,19.0,20.0,25138.0,DW Stadium,may,0.0,2010/11,2010,Wigan,12.0,53.6,22043
+396,Blackburn Rovers,Manchester United,15.0,1.0,31367.0,Ewood Park,may,0.0,2010/11,2010,Blackburn,12.0,32.0,29867
+397,Blackpool,Bolton Wanderers,18.0,10.0,16220.0,Bloomfield Road,may,0.0,2010/11,2010,Blackpool,12.0,32.0,15979
+398,Sunderland,Wolverhampton Wanderers,14.0,16.0,48707.0,Stadium of Light,may,0.0,2010/11,2010,Sunderland,10.0,23.0,41273
+399,West Bromwich Albion,Everton,11.0,7.0,26445.0,The Hawthorns,may,0.0,2010/11,2010,West Bromwich,12.0,26.6,25838
+400,Manchester City,Tottenham Hotspur,4.0,6.0,53400.0,Etihad Stadium,may,0.0,2010/11,2010,Manchester,12.0,21.2,47029
+401,Fulham,Liverpool,10.0,5.0,25700.0,Craven Cottage,may,0.0,2010/11,2010,London,14.0,52.1,25693
+402,Wolverhampton Wanderers,West Bromwich Albion,17.0,13.0,32050.0,Molineux Stadium,may,0.0,2010/11,2010,Wolverhampton,12.0,38.6,28510
+403,Stoke City,Arsenal,8.0,3.0,30089.0,Britannia Stadium,may,0.0,2010/11,2010,Stoke,12.0,21.2,27478
+404,Manchester United,Chelsea,1.0,2.0,75643.0,Old Trafford,may,0.0,2010/11,2010,Manchester,12.0,21.2,75445
+405,Aston Villa,Wigan Athletic,14.0,19.0,42749.0,Villa Park,may,0.0,2010/11,2010,Birmingham,12.0,26.6,36293
+406,Bolton Wanderers,Sunderland,9.0,12.0,28723.0,Macron Stadium,may,0.0,2010/11,2010,Bolton,12.0,21.2,22597
+407,Everton,Manchester City,7.0,4.0,39414.0,Goodison Park,may,0.0,2010/11,2010,Liverpool,12.0,53.6,37351
+408,Newcastle United,Birmingham City,11.0,16.0,52305.0,Sports Direct Arena,may,0.0,2010/11,2010,Newcastle,9.0,116.4,47409
+409,West Ham United,Blackburn Rovers,20.0,15.0,35345.0,Boleyn Ground,may,0.0,2010/11,2010,London,14.0,52.1,33789
+410,Tottenham Hotspur,Blackpool,6.0,18.0,36284.0,White Hart Lane,may,0.0,2010/11,2010,London,14.0,52.1,35585
+411,Birmingham City,Wolverhampton Wanderers,15.0,19.0,30079.0,St Andrews,may,0.0,2010/11,2010,Birmingham,12.0,26.6,26072
+412,Liverpool,Newcastle United,5.0,12.0,54074.0,Anfield,may,0.0,2010/11,2010,Liverpool,12.0,53.6,44923
+413,Arsenal,Manchester United,3.0,1.0,60704.0,Emirates Stadium,may,0.0,2010/11,2010,London,14.0,52.1,60107
+414,Manchester City,West Ham United,4.0,20.0,53400.0,Etihad Stadium,may,0.0,2010/11,2010,Manchester,12.0,21.2,44511
+415,Blackburn Rovers,Bolton Wanderers,16.0,8.0,31367.0,Ewood Park,apr,0.0,2010/11,2010,Blackburn,9.0,26.4,28985
+416,Blackpool,Stoke City,17.0,10.0,16220.0,Bloomfield Road,apr,0.0,2010/11,2010,Blackpool,9.0,26.4,16003
+417,Sunderland,Fulham,14.0,9.0,48707.0,Stadium of Light,apr,0.0,2010/11,2010,Sunderland,7.0,23.1,39576
+418,West Bromwich Albion,Aston Villa,11.0,13.0,26445.0,The Hawthorns,apr,0.0,2010/11,2010,West Bromwich,8.0,23.8,25889
+419,Chelsea,Tottenham Hotspur,2.0,6.0,40834.0,Stamford Bridge,apr,1.0,2010/11,2010,London,11.0,30.6,41681
+420,Wigan Athletic,Everton,18.0,7.0,25138.0,DW Stadium,apr,0.0,2010/11,2010,Wigan,10.0,36.7,17051
+421,Fulham,Bolton Wanderers,9.0,8.0,25700.0,Craven Cottage,apr,0.0,2010/11,2010,London,11.0,30.6,23222
+422,Stoke City,Wolverhampton Wanderers,10.0,19.0,30089.0,Britannia Stadium,apr,0.0,2010/11,2010,Stoke,9.0,27.0,27030
+423,Blackburn Rovers,Manchester City,16.0,4.0,31367.0,Ewood Park,apr,0.0,2010/11,2010,Blackburn,9.0,26.4,23529
+424,Bolton Wanderers,Arsenal,8.0,3.0,28723.0,Macron Stadium,apr,0.0,2010/11,2010,Bolton,9.0,27.0,26881
+425,Manchester United,Everton,1.0,7.0,75643.0,Old Trafford,apr,0.0,2010/11,2010,Manchester,9.0,27.0,75300
+426,Aston Villa,Stoke City,13.0,10.0,42749.0,Villa Park,apr,0.0,2010/11,2010,Birmingham,8.0,23.8,35235
+427,Blackpool,Newcastle United,17.0,11.0,16220.0,Bloomfield Road,apr,0.0,2010/11,2010,Blackpool,9.0,26.4,16003
+428,Liverpool,Birmingham City,6.0,15.0,54074.0,Anfield,apr,0.0,2010/11,2010,Liverpool,10.0,36.7,44734
+429,Sunderland,Wigan Athletic,12.0,18.0,48707.0,Stadium of Light,apr,0.0,2010/11,2010,Sunderland,7.0,23.1,39650
+430,Tottenham Hotspur,West Bromwich Albion,5.0,14.0,36284.0,White Hart Lane,apr,0.0,2010/11,2010,London,11.0,30.6,36160
+431,Wolverhampton Wanderers,Fulham,19.0,9.0,32050.0,Molineux Stadium,apr,0.0,2010/11,2010,Wolverhampton,9.0,33.9,28825
+432,Chelsea,West Ham United,2.0,20.0,40834.0,Stamford Bridge,apr,1.0,2010/11,2010,London,11.0,30.6,41656
+433,Chelsea,Birmingham City,2.0,15.0,40834.0,Stamford Bridge,apr,0.0,2010/11,2010,London,11.0,30.6,40848
+434,Tottenham Hotspur,Arsenal,5.0,3.0,36284.0,White Hart Lane,apr,1.0,2010/11,2010,London,11.0,30.6,36138
+435,Newcastle United,Manchester United,9.0,1.0,52305.0,Sports Direct Arena,apr,0.0,2010/11,2010,Newcastle,7.0,70.0,49025
+436,Arsenal,Liverpool,2.0,6.0,60704.0,Emirates Stadium,apr,0.0,2010/11,2010,London,11.0,30.6,60029
+437,Birmingham City,Sunderland,14.0,15.0,30079.0,St Andrews,apr,0.0,2010/11,2010,Birmingham,8.0,23.8,28108
+438,Blackpool,Wigan Athletic,18.0,17.0,16220.0,Bloomfield Road,apr,0.0,2010/11,2010,Blackpool,9.0,26.4,16030
+439,Everton,Blackburn Rovers,7.0,16.0,39414.0,Goodison Park,apr,0.0,2010/11,2010,Liverpool,10.0,36.7,35857
+440,West Bromwich Albion,Chelsea,11.0,3.0,26445.0,The Hawthorns,apr,0.0,2010/11,2010,West Bromwich,8.0,23.8,25163
+441,West Ham United,Aston Villa,19.0,9.0,35345.0,Boleyn Ground,apr,0.0,2010/11,2010,London,11.0,30.6,
+442,Liverpool,Manchester City,6.0,4.0,54074.0,Anfield,apr,0.0,2010/11,2010,Liverpool,10.0,36.7,44776
+443,Blackpool,Arsenal,17.0,2.0,16220.0,Bloomfield Road,apr,0.0,2010/11,2010,Blackpool,9.0,26.4,16030
+444,Aston Villa,Newcastle United,14.0,9.0,42749.0,Villa Park,apr,0.0,2010/11,2010,Birmingham,8.0,23.8,37090
+445,Wolverhampton Wanderers,Everton,19.0,7.0,32050.0,Molineux Stadium,apr,0.0,2010/11,2010,Wolverhampton,9.0,33.9,28352
+446,Blackburn Rovers,Birmingham City,15.0,16.0,31367.0,Ewood Park,apr,0.0,2010/11,2010,Blackburn,9.0,26.4,28426
+447,Bolton Wanderers,West Ham United,8.0,18.0,28723.0,Macron Stadium,apr,0.0,2010/11,2010,Bolton,9.0,27.0,25857
+448,Chelsea,Wigan Athletic,3.0,20.0,40834.0,Stamford Bridge,apr,0.0,2010/11,2010,London,11.0,30.6,40734
+449,Manchester United,Fulham,1.0,11.0,75643.0,Old Trafford,apr,0.0,2010/11,2010,Manchester,9.0,27.0,75339
+450,Sunderland,West Bromwich Albion,13.0,10.0,48707.0,Stadium of Light,apr,0.0,2010/11,2010,Sunderland,7.0,23.1,41586
+451,Tottenham Hotspur,Stoke City,5.0,12.0,36284.0,White Hart Lane,apr,0.0,2010/11,2010,London,11.0,30.6,32702
+452,Fulham,Blackpool,10.0,17.0,25700.0,Craven Cottage,apr,0.0,2010/11,2010,London,11.0,30.6,25692
+453,Manchester City,Sunderland,3.0,12.0,53400.0,Etihad Stadium,apr,0.0,2010/11,2010,Manchester,9.0,27.0,44197
+454,Birmingham City,Bolton Wanderers,15.0,8.0,30079.0,St Andrews,apr,0.0,2010/11,2010,Birmingham,8.0,23.8,26142
+455,Everton,Aston Villa,7.0,16.0,39414.0,Goodison Park,apr,0.0,2010/11,2010,Liverpool,10.0,36.7,37619
+456,Newcastle United,Wolverhampton Wanderers,9.0,19.0,52305.0,Sports Direct Arena,apr,0.0,2010/11,2010,Newcastle,7.0,70.0,49939
+457,Stoke City,Chelsea,11.0,4.0,30089.0,Britannia Stadium,apr,0.0,2010/11,2010,Stoke,9.0,27.0,27508
+458,West Bromwich Albion,Liverpool,13.0,6.0,26445.0,The Hawthorns,apr,0.0,2010/11,2010,West Bromwich,8.0,23.8,26196
+459,Arsenal,Blackburn Rovers,2.0,14.0,60704.0,Emirates Stadium,apr,0.0,2010/11,2010,London,11.0,30.6,60087
+460,West Ham United,Manchester United,18.0,1.0,35345.0,Boleyn Ground,apr,0.0,2010/11,2010,London,11.0,30.6,34546
+461,Wigan Athletic,Tottenham Hotspur,20.0,5.0,25138.0,DW Stadium,apr,0.0,2010/11,2010,Wigan,10.0,36.7,18578
+462,Sunderland,Liverpool,9.0,6.0,48707.0,Stadium of Light,mar,0.0,2010/11,2010,Sunderland,6.0,18.5,47207
+463,Chelsea,Manchester City,3.0,4.0,40834.0,Stamford Bridge,mar,0.0,2010/11,2010,London,8.0,29.8,41741
+464,Tottenham Hotspur,West Ham United,5.0,17.0,36284.0,White Hart Lane,mar,1.0,2010/11,2010,London,8.0,29.8,36010
+465,Aston Villa,Wolverhampton Wanderers,14.0,18.0,42749.0,Villa Park,mar,0.0,2010/11,2010,Birmingham,6.0,19.6,38965
+466,Blackburn Rovers,Blackpool,13.0,15.0,31367.0,Ewood Park,mar,0.0,2010/11,2010,Blackburn,7.0,25.2,27209
+467,Manchester United,Bolton Wanderers,1.0,7.0,75643.0,Old Trafford,mar,0.0,2010/11,2010,Manchester,6.0,25.0,75486
+468,Stoke City,Newcastle United,10.0,11.0,30089.0,Britannia Stadium,mar,0.0,2010/11,2010,Stoke,6.0,25.0,27505
+469,West Bromwich Albion,Arsenal,16.0,2.0,26445.0,The Hawthorns,mar,0.0,2010/11,2010,West Bromwich,6.0,19.6,25729
+470,Wigan Athletic,Birmingham City,20.0,19.0,25138.0,DW Stadium,mar,0.0,2010/11,2010,Wigan,7.0,40.4,16421
+471,Everton,Fulham,8.0,12.0,39414.0,Goodison Park,mar,0.0,2010/11,2010,Liverpool,7.0,40.4,33239
+472,Everton,Birmingham City,9.0,17.0,39414.0,Goodison Park,mar,0.0,2010/11,2010,Liverpool,7.0,40.4,33974
+473,Blackpool,Chelsea,15.0,4.0,16220.0,Bloomfield Road,mar,0.0,2010/11,2010,Blackpool,7.0,25.2,15584
+474,Liverpool,Manchester United,6.0,1.0,54074.0,Anfield,mar,0.0,2010/11,2010,Liverpool,7.0,40.4,44753
+475,Wolverhampton Wanderers,Tottenham Hotspur,19.0,5.0,32050.0,Molineux Stadium,mar,0.0,2010/11,2010,Wolverhampton,6.0,36.9,28669
+476,Birmingham City,West Bromwich Albion,17.0,16.0,30079.0,St Andrews,mar,0.0,2010/11,2010,Birmingham,6.0,19.6,27013
+477,Arsenal,Sunderland,2.0,8.0,60704.0,Emirates Stadium,mar,0.0,2010/11,2010,London,8.0,29.8,60081
+478,Bolton Wanderers,Aston Villa,7.0,13.0,28723.0,Macron Stadium,mar,0.0,2010/11,2010,Bolton,6.0,25.0,22533
+479,Fulham,Blackburn Rovers,11.0,14.0,25700.0,Craven Cottage,mar,0.0,2010/11,2010,London,8.0,29.8,25687
+480,Newcastle United,Everton,10.0,9.0,52305.0,Sports Direct Arena,mar,0.0,2010/11,2010,Newcastle,4.0,106.4,50128
+481,West Ham United,Stoke City,18.0,12.0,35345.0,Boleyn Ground,mar,0.0,2010/11,2010,London,8.0,29.8,33066
+482,Manchester City,Wigan Athletic,3.0,20.0,53400.0,Etihad Stadium,mar,0.0,2010/11,2010,Manchester,6.0,25.0,44864
+483,Chelsea,Manchester United,4.0,1.0,40834.0,Stamford Bridge,mar,0.0,2010/11,2010,London,8.0,29.8,41825
+484,Stoke City,West Bromwich Albion,10.0,17.0,30089.0,Britannia Stadium,feb,0.0,2010/11,2010,Stoke,5.0,28.4,25019
+485,West Ham United,Liverpool,19.0,6.0,35345.0,Boleyn Ground,feb,0.0,2010/11,2010,London,6.0,47.9,34941
+486,Manchester City,Fulham,3.0,13.0,53400.0,Etihad Stadium,feb,0.0,2010/11,2010,Manchester,5.0,28.4,43077
+487,Aston Villa,Blackburn Rovers,12.0,14.0,42749.0,Villa Park,feb,0.0,2010/11,2010,Birmingham,5.0,23.4,34309
+488,Everton,Sunderland,11.0,8.0,39414.0,Goodison Park,feb,0.0,2010/11,2010,Liverpool,6.0,40.6,37776
+489,Newcastle United,Bolton Wanderers,9.0,7.0,52305.0,Sports Direct Arena,feb,0.0,2010/11,2010,Newcastle,3.0,122.8,48062
+490,Wigan Athletic,Manchester United,20.0,1.0,25138.0,DW Stadium,feb,0.0,2010/11,2010,Wigan,6.0,40.6,18140
+491,Wolverhampton Wanderers,Blackpool,18.0,15.0,32050.0,Molineux Stadium,feb,0.0,2010/11,2010,Wolverhampton,5.0,29.8,29086
+492,Arsenal,Stoke City,2.0,10.0,60704.0,Emirates Stadium,feb,0.0,2010/11,2010,London,6.0,47.9,60041
+493,Blackpool,Tottenham Hotspur,12.0,4.0,16220.0,Bloomfield Road,feb,0.0,2010/11,2010,Blackpool,5.0,28.7,16069
+494,West Bromwich Albion,Wolverhampton Wanderers,17.0,20.0,26445.0,The Hawthorns,feb,0.0,2010/11,2010,West Bromwich,5.0,23.4,26170
+495,Birmingham City,Newcastle United,15.0,9.0,30079.0,St Andrews,feb,0.0,2010/11,2010,Birmingham,5.0,23.4,28270
+496,Fulham,Chelsea,13.0,5.0,25700.0,Craven Cottage,feb,1.0,2010/11,2010,London,6.0,47.9,25685
+497,Bolton Wanderers,Everton,8.0,14.0,28723.0,Macron Stadium,feb,0.0,2010/11,2010,Bolton,5.0,28.4,22986
+498,Arsenal,Wolverhampton Wanderers,2.0,20.0,60704.0,Emirates Stadium,feb,0.0,2010/11,2010,London,6.0,47.9,60050
+499,Sunderland,Tottenham Hotspur,7.0,4.0,48707.0,Stadium of Light,feb,0.0,2010/11,2010,Sunderland,4.0,17.8,40986
+500,Manchester United,Manchester City,1.0,3.0,75643.0,Old Trafford,feb,1.0,2010/11,2010,Manchester,5.0,28.4,75322
+501,Birmingham City,Stoke City,15.0,10.0,30079.0,St Andrews,feb,0.0,2010/11,2010,Birmingham,5.0,23.4,23660
+502,Blackburn Rovers,Newcastle United,11.0,9.0,31367.0,Ewood Park,feb,0.0,2010/11,2010,Blackburn,5.0,28.7,26781
+503,Blackpool,Aston Villa,12.0,16.0,16220.0,Bloomfield Road,feb,0.0,2010/11,2010,Blackpool,5.0,28.7,16000
+504,Liverpool,Wigan Athletic,6.0,18.0,54074.0,Anfield,feb,0.0,2010/11,2010,Liverpool,6.0,40.6,44609
+505,West Bromwich Albion,West Ham United,17.0,19.0,26445.0,The Hawthorns,feb,0.0,2010/11,2010,West Bromwich,5.0,23.4,23916
+506,West Ham United,Birmingham City,20.0,16.0,35345.0,Boleyn Ground,feb,0.0,2010/11,2010,London,6.0,47.9,32927
+507,Chelsea,Liverpool,4.0,6.0,40834.0,Stamford Bridge,feb,0.0,2010/11,2010,London,6.0,47.9,41829
+508,Stoke City,Sunderland,9.0,7.0,30089.0,Britannia Stadium,feb,0.0,2010/11,2010,Stoke,5.0,28.4,26008
+509,Aston Villa,Fulham,14.0,12.0,42749.0,Villa Park,feb,0.0,2010/11,2010,Birmingham,5.0,23.4,35899
+510,Everton,Blackpool,13.0,15.0,39414.0,Goodison Park,feb,0.0,2010/11,2010,Liverpool,6.0,40.6,38202
+511,Manchester City,West Bromwich Albion,3.0,17.0,53400.0,Etihad Stadium,feb,0.0,2010/11,2010,Manchester,5.0,28.4,46846
+512,Newcastle United,Arsenal,10.0,2.0,52305.0,Sports Direct Arena,feb,0.0,2010/11,2010,Newcastle,3.0,122.8,51561
+513,Tottenham Hotspur,Bolton Wanderers,5.0,8.0,36284.0,White Hart Lane,feb,0.0,2010/11,2010,London,6.0,47.9,36197
+514,Wigan Athletic,Blackburn Rovers,18.0,11.0,25138.0,DW Stadium,feb,0.0,2010/11,2010,Wigan,6.0,40.6,18567
+515,Wolverhampton Wanderers,Manchester United,19.0,1.0,32050.0,Molineux Stadium,feb,0.0,2010/11,2010,Wolverhampton,5.0,29.8,28811
+516,Birmingham City,Manchester City,17.0,3.0,30079.0,St Andrews,feb,0.0,2010/11,2010,Birmingham,5.0,23.4,24379
+517,Blackburn Rovers,Tottenham Hotspur,9.0,5.0,31367.0,Ewood Park,feb,0.0,2010/11,2010,Blackburn,5.0,28.7,23253
+518,Blackpool,West Ham United,13.0,18.0,16220.0,Bloomfield Road,feb,0.0,2010/11,2010,Blackpool,5.0,28.7,15095
+519,Bolton Wanderers,Wolverhampton Wanderers,8.0,20.0,28723.0,Macron Stadium,feb,0.0,2010/11,2010,Bolton,5.0,28.4,18944
+520,Fulham,Newcastle United,12.0,10.0,25700.0,Craven Cottage,feb,0.0,2010/11,2010,London,6.0,47.9,25620
+521,Liverpool,Stoke City,7.0,11.0,54074.0,Anfield,feb,0.0,2010/11,2010,Liverpool,6.0,40.6,40254
+522,Arsenal,Everton,2.0,15.0,60704.0,Emirates Stadium,feb,0.0,2010/11,2010,London,6.0,47.9,60014
+523,Sunderland,Chelsea,6.0,4.0,48707.0,Stadium of Light,feb,0.0,2010/11,2010,Sunderland,4.0,17.8,37855
+524,Manchester United,Aston Villa,1.0,14.0,75643.0,Old Trafford,feb,0.0,2010/11,2010,Manchester,5.0,28.4,75256
+525,West Bromwich Albion,Wigan Athletic,16.0,19.0,26445.0,The Hawthorns,feb,0.0,2010/11,2010,West Bromwich,5.0,23.4,25358
+526,Liverpool,Fulham,7.0,15.0,54074.0,Anfield,jan,0.0,2010/11,2010,Liverpool,5.0,58.3,40466
+527,Blackpool,Manchester United,12.0,1.0,16220.0,Bloomfield Road,jan,0.0,2010/11,2010,Blackpool,5.0,32.5,15574
+528,Wigan Athletic,Aston Villa,18.0,13.0,25138.0,DW Stadium,jan,0.0,2010/11,2010,Wigan,5.0,58.3,16442
+529,Bolton Wanderers,Chelsea,11.0,4.0,28723.0,Macron Stadium,jan,0.0,2010/11,2010,Bolton,5.0,32.4,22837
+530,Blackburn Rovers,West Bromwich Albion,8.0,16.0,31367.0,Ewood Park,jan,0.0,2010/11,2010,Blackburn,5.0,32.5,24057
+531,Wolverhampton Wanderers,Liverpool,19.0,7.0,32050.0,Molineux Stadium,jan,0.0,2010/11,2010,Wolverhampton,4.0,46.8,28869
+532,Arsenal,Wigan Athletic,2.0,18.0,60704.0,Emirates Stadium,jan,0.0,2010/11,2010,London,6.0,52.9,59552
+533,Blackpool,Sunderland,12.0,6.0,16220.0,Bloomfield Road,jan,0.0,2010/11,2010,Blackpool,5.0,32.5,16037
+534,Everton,West Ham United,14.0,20.0,39414.0,Goodison Park,jan,0.0,2010/11,2010,Liverpool,5.0,58.3,34179
+535,Fulham,Stoke City,15.0,10.0,25700.0,Craven Cottage,jan,0.0,2010/11,2010,London,6.0,52.9,23766
+536,Manchester United,Birmingham City,1.0,17.0,75643.0,Old Trafford,jan,0.0,2010/11,2010,Manchester,5.0,32.4,75326
+537,Newcastle United,Tottenham Hotspur,9.0,5.0,52305.0,Sports Direct Arena,jan,0.0,2010/11,2010,Newcastle,3.0,190.9,51010
+538,Aston Villa,Manchester City,13.0,3.0,42749.0,Villa Park,jan,0.0,2010/11,2010,Birmingham,4.0,34.7,37315
+539,Tottenham Hotspur,Manchester United,5.0,1.0,36284.0,White Hart Lane,jan,0.0,2010/11,2010,London,6.0,52.9,35828
+540,Birmingham City,Aston Villa,16.0,17.0,30079.0,St Andrews,jan,1.0,2010/11,2010,Birmingham,4.0,34.7,22287
+541,Sunderland,Newcastle United,6.0,9.0,48707.0,Stadium of Light,jan,0.0,2010/11,2010,Sunderland,4.0,20.8,47864
+542,Liverpool,Everton,13.0,12.0,54074.0,Anfield,jan,1.0,2010/11,2010,Liverpool,5.0,58.3,44795
+543,Chelsea,Blackburn Rovers,4.0,11.0,40834.0,Stamford Bridge,jan,0.0,2010/11,2010,London,6.0,52.9,40846
+544,Manchester City,Wolverhampton Wanderers,2.0,19.0,53400.0,Etihad Stadium,jan,0.0,2010/11,2010,Manchester,5.0,32.4,46672
+545,Stoke City,Bolton Wanderers,8.0,7.0,30089.0,Britannia Stadium,jan,0.0,2010/11,2010,Stoke,5.0,32.4,26809
+546,West Bromwich Albion,Blackpool,14.0,10.0,26445.0,The Hawthorns,jan,0.0,2010/11,2010,West Bromwich,4.0,34.7,25316
+547,Wigan Athletic,Fulham,18.0,15.0,25138.0,DW Stadium,jan,0.0,2010/11,2010,Wigan,5.0,58.3,18820
+548,West Ham United,Arsenal,20.0,3.0,35345.0,Boleyn Ground,jan,1.0,2010/11,2010,London,6.0,52.9,32682
+549,Blackpool,Liverpool,9.0,13.0,16220.0,Bloomfield Road,jan,0.0,2010/11,2010,Blackpool,5.0,32.5,16089
+550,Arsenal,Manchester City,3.0,2.0,60704.0,Emirates Stadium,jan,0.0,2010/11,2010,London,6.0,52.9,60085
+551,Aston Villa,Sunderland,18.0,6.0,42749.0,Villa Park,jan,0.0,2010/11,2010,Birmingham,4.0,34.7,32627
+552,Newcastle United,West Ham United,8.0,20.0,52305.0,Sports Direct Arena,jan,0.0,2010/11,2010,Newcastle,3.0,190.9,42387
+553,Wolverhampton Wanderers,Chelsea,17.0,5.0,32050.0,Molineux Stadium,jan,0.0,2010/11,2010,Wolverhampton,4.0,46.8,26432
+554,Blackburn Rovers,Liverpool,10.0,13.0,31367.0,Ewood Park,jan,0.0,2010/11,2010,Blackburn,5.0,32.5,24522
+555,Bolton Wanderers,Wigan Athletic,7.0,19.0,28723.0,Macron Stadium,jan,0.0,2010/11,2010,Bolton,5.0,32.4,18852
+556,Everton,Tottenham Hotspur,12.0,4.0,39414.0,Goodison Park,jan,0.0,2010/11,2010,Liverpool,5.0,58.3,34124
+557,Blackpool,Birmingham City,9.0,15.0,16220.0,Bloomfield Road,jan,0.0,2010/11,2010,Blackpool,5.0,32.5,14550
+558,Fulham,West Bromwich Albion,14.0,16.0,25700.0,Craven Cottage,jan,0.0,2010/11,2010,London,6.0,52.9,23654
+559,Manchester United,Stoke City,1.0,11.0,75643.0,Old Trafford,jan,0.0,2010/11,2010,Manchester,5.0,32.4,73401
+560,Chelsea,Aston Villa,5.0,15.0,40834.0,Stamford Bridge,jan,0.0,2010/11,2010,London,6.0,52.9,41222
+561,Wigan Athletic,Newcastle United,17.0,10.0,25138.0,DW Stadium,jan,0.0,2010/11,2010,Wigan,5.0,58.3,15277
+562,West Bromwich Albion,Manchester United,14.0,1.0,26445.0,The Hawthorns,jan,0.0,2010/11,2010,West Bromwich,4.0,34.7,25499
+563,Liverpool,Bolton Wanderers,9.0,7.0,54074.0,Anfield,jan,0.0,2010/11,2010,Liverpool,5.0,58.3,35400
+564,Manchester City,Blackpool,2.0,11.0,53400.0,Etihad Stadium,jan,0.0,2010/11,2010,Manchester,5.0,32.4,47296
+565,Stoke City,Everton,8.0,13.0,30089.0,Britannia Stadium,jan,0.0,2010/11,2010,Stoke,5.0,32.4,27418
+566,Sunderland,Blackburn Rovers,6.0,12.0,48707.0,Stadium of Light,jan,0.0,2010/11,2010,Sunderland,4.0,20.8,36242
+567,Tottenham Hotspur,Fulham,4.0,18.0,36284.0,White Hart Lane,jan,1.0,2010/11,2010,London,6.0,52.9,35603
+568,West Ham United,Wolverhampton Wanderers,16.0,20.0,35345.0,Boleyn Ground,jan,0.0,2010/11,2010,London,6.0,52.9,33500
+569,Birmingham City,Arsenal,19.0,3.0,30079.0,St Andrews,jan,0.0,2010/11,2010,Birmingham,4.0,34.7,24341
+570,Chelsea,Bolton Wanderers,4.0,6.0,40834.0,Stamford Bridge,dec,0.0,2010/11,2010,London,6.0,65.1,40982
+571,Wigan Athletic,Arsenal,16.0,3.0,25138.0,DW Stadium,dec,0.0,2010/11,2010,Wigan,6.0,72.8,17014
+572,Liverpool,Wolverhampton Wanderers,12.0,19.0,54074.0,Anfield,dec,0.0,2010/11,2010,Liverpool,6.0,72.8,41614
+573,Manchester City,Aston Villa,2.0,15.0,53400.0,Etihad Stadium,dec,0.0,2010/11,2010,Manchester,5.0,37.4,46716
+574,Stoke City,Fulham,10.0,18.0,30089.0,Britannia Stadium,dec,0.0,2010/11,2010,Stoke,5.0,37.4,26954
+575,Sunderland,Blackpool,7.0,8.0,48707.0,Stadium of Light,dec,0.0,2010/11,2010,Sunderland,4.0,22.9,42892
+576,Tottenham Hotspur,Newcastle United,5.0,13.0,36284.0,White Hart Lane,dec,0.0,2010/11,2010,London,6.0,65.1,35927
+577,West Bromwich Albion,Blackburn Rovers,14.0,9.0,26445.0,The Hawthorns,dec,0.0,2010/11,2010,West Bromwich,5.0,27.9,24440
+578,West Ham United,Everton,20.0,11.0,35345.0,Boleyn Ground,dec,0.0,2010/11,2010,London,6.0,65.1,33422
+579,Birmingham City,Manchester United,17.0,1.0,30079.0,St Andrews,dec,0.0,2010/11,2010,Birmingham,5.0,27.9,28242
+580,Arsenal,Chelsea,3.0,4.0,60704.0,Emirates Stadium,dec,1.0,2010/11,2010,London,6.0,65.1,60112
+581,Fulham,West Ham United,18.0,20.0,25700.0,Craven Cottage,dec,1.0,2010/11,2010,London,6.0,65.1,25332
+582,Blackburn Rovers,Stoke City,9.0,10.0,31367.0,Ewood Park,dec,0.0,2010/11,2010,Blackburn,6.0,45.0,25440
+583,Bolton Wanderers,West Bromwich Albion,6.0,14.0,28723.0,Macron Stadium,dec,0.0,2010/11,2010,Bolton,5.0,37.4,23413
+584,Manchester United,Sunderland,1.0,7.0,75643.0,Old Trafford,dec,0.0,2010/11,2010,Manchester,5.0,37.4,75269
+585,Newcastle United,Manchester City,13.0,2.0,52305.0,Sports Direct Arena,dec,0.0,2010/11,2010,Newcastle,4.0,230.3,51635
+586,Wolverhampton Wanderers,Wigan Athletic,19.0,16.0,32050.0,Molineux Stadium,dec,0.0,2010/11,2010,Wolverhampton,5.0,54.2,26901
+587,Aston Villa,Tottenham Hotspur,15.0,5.0,42749.0,Villa Park,dec,0.0,2010/11,2010,Birmingham,5.0,27.9,39411
+588,Manchester City,Everton,3.0,14.0,53400.0,Etihad Stadium,dec,0.0,2010/11,2010,Manchester,5.0,37.4,45028
+589,Sunderland,Bolton Wanderers,6.0,7.0,48707.0,Stadium of Light,dec,0.0,2010/11,2010,Sunderland,4.0,22.9,35101
+590,Blackburn Rovers,West Ham United,12.0,20.0,31367.0,Ewood Park,dec,0.0,2010/11,2010,Blackburn,6.0,45.0,21934
+591,Manchester United,Arsenal,1.0,2.0,75643.0,Old Trafford,dec,0.0,2010/11,2010,Manchester,5.0,37.4,75227
+592,Bolton Wanderers,Blackburn Rovers,7.0,12.0,28723.0,Macron Stadium,dec,0.0,2010/11,2010,Bolton,5.0,37.4,24471
+593,Wolverhampton Wanderers,Birmingham City,19.0,16.0,32050.0,Molineux Stadium,dec,0.0,2010/11,2010,Wolverhampton,5.0,54.2,25150
+594,Tottenham Hotspur,Chelsea,5.0,4.0,36284.0,White Hart Lane,dec,1.0,2010/11,2010,London,6.0,65.1,35787
+595,Aston Villa,West Bromwich Albion,15.0,11.0,42749.0,Villa Park,dec,0.0,2010/11,2010,Birmingham,5.0,27.9,37015
+596,Everton,Wigan Athletic,14.0,18.0,39414.0,Goodison Park,dec,0.0,2010/11,2010,Liverpool,6.0,72.8,32853
+597,Fulham,Sunderland,17.0,6.0,25700.0,Craven Cottage,dec,0.0,2010/11,2010,London,6.0,65.1,24462
+598,Stoke City,Blackpool,13.0,10.0,30089.0,Britannia Stadium,dec,0.0,2010/11,2010,Stoke,5.0,37.4,26879
+599,West Ham United,Manchester City,20.0,3.0,35345.0,Boleyn Ground,dec,0.0,2010/11,2010,London,6.0,65.1,32813
+600,Newcastle United,Liverpool,8.0,9.0,52305.0,Sports Direct Arena,dec,0.0,2010/11,2010,Newcastle,4.0,230.3,50137
+601,Liverpool,Aston Villa,8.0,16.0,54074.0,Anfield,dec,0.0,2010/11,2010,Liverpool,6.0,72.8,39079
+602,West Bromwich Albion,Newcastle United,9.0,12.0,26445.0,The Hawthorns,dec,0.0,2010/11,2010,West Bromwich,5.0,27.9,23486
+603,Sunderland,West Ham United,7.0,20.0,48707.0,Stadium of Light,dec,0.0,2010/11,2010,Sunderland,4.0,22.9,36940
+604,Arsenal,Fulham,1.0,17.0,60704.0,Emirates Stadium,dec,1.0,2010/11,2010,London,6.0,65.1,60049
+605,Birmingham City,Tottenham Hotspur,14.0,5.0,30079.0,St Andrews,dec,0.0,2010/11,2010,Birmingham,5.0,27.9,25770
+606,Blackburn Rovers,Wolverhampton Wanderers,11.0,19.0,31367.0,Ewood Park,dec,0.0,2010/11,2010,Blackburn,6.0,45.0,22314
+607,Chelsea,Everton,3.0,15.0,40834.0,Stamford Bridge,dec,0.0,2010/11,2010,London,6.0,65.1,41642
+608,Manchester City,Bolton Wanderers,4.0,6.0,53400.0,Etihad Stadium,dec,0.0,2010/11,2010,Manchester,5.0,37.4,46860
+609,Wigan Athletic,Stoke City,18.0,10.0,25138.0,DW Stadium,dec,0.0,2010/11,2010,Wigan,6.0,72.8,15100
+610,Newcastle United,Chelsea,9.0,2.0,52305.0,Sports Direct Arena,nov,0.0,2010/11,2010,Newcastle,6.0,202.8,46469
+611,Tottenham Hotspur,Liverpool,5.0,10.0,36284.0,White Hart Lane,nov,0.0,2010/11,2010,London,9.0,72.0,35962
+612,Aston Villa,Arsenal,15.0,3.0,42749.0,Villa Park,nov,0.0,2010/11,2010,Birmingham,7.0,31.5,38544
+613,Bolton Wanderers,Blackpool,6.0,11.0,28723.0,Macron Stadium,nov,0.0,2010/11,2010,Bolton,7.0,35.8,25851
+614,Everton,West Bromwich Albion,16.0,12.0,39414.0,Goodison Park,nov,0.0,2010/11,2010,Liverpool,8.0,67.8,35237
+615,Fulham,Birmingham City,17.0,14.0,25700.0,Craven Cottage,nov,0.0,2010/11,2010,London,9.0,72.0,24391
+616,Manchester United,Blackburn Rovers,1.0,13.0,75643.0,Old Trafford,nov,0.0,2010/11,2010,Manchester,7.0,35.8,74850
+617,Stoke City,Manchester City,8.0,4.0,30089.0,Britannia Stadium,nov,0.0,2010/11,2010,Stoke,7.0,35.8,27405
+618,West Ham United,Wigan Athletic,20.0,18.0,35345.0,Boleyn Ground,nov,0.0,2010/11,2010,London,9.0,72.0,34178
+619,Wolverhampton Wanderers,Sunderland,19.0,7.0,32050.0,Molineux Stadium,nov,0.0,2010/11,2010,Wolverhampton,8.0,51.1,25112
+620,Sunderland,Everton,7.0,14.0,48707.0,Stadium of Light,nov,0.0,2010/11,2010,Sunderland,6.0,26.6,37331
+621,Blackburn Rovers,Aston Villa,11.0,13.0,31367.0,Ewood Park,nov,0.0,2010/11,2010,Blackburn,8.0,43.7,21848
+622,Fulham,Manchester City,17.0,4.0,25700.0,Craven Cottage,nov,0.0,2010/11,2010,London,9.0,72.0,25694
+623,Arsenal,Tottenham Hotspur,3.0,6.0,60704.0,Emirates Stadium,nov,1.0,2010/11,2010,London,9.0,72.0,60102
+624,Birmingham City,Chelsea,15.0,1.0,30079.0,St Andrews,nov,0.0,2010/11,2010,Birmingham,7.0,31.5,24357
+625,Blackpool,Wolverhampton Wanderers,12.0,19.0,16220.0,Bloomfield Road,nov,0.0,2010/11,2010,Blackpool,8.0,43.7,15922
+626,Bolton Wanderers,Newcastle United,5.0,10.0,28723.0,Macron Stadium,nov,0.0,2010/11,2010,Bolton,7.0,35.8,22203
+627,Manchester United,Wigan Athletic,2.0,18.0,75643.0,Old Trafford,nov,0.0,2010/11,2010,Manchester,7.0,35.8,74181
+628,West Bromwich Albion,Stoke City,16.0,8.0,26445.0,The Hawthorns,nov,0.0,2010/11,2010,West Bromwich,7.0,31.5,24164
+629,Liverpool,West Ham United,9.0,20.0,54074.0,Anfield,nov,0.0,2010/11,2010,Liverpool,8.0,67.8,43024
+630,Everton,Arsenal,13.0,2.0,39414.0,Goodison Park,nov,0.0,2010/11,2010,Liverpool,8.0,67.8,36279
+631,Chelsea,Sunderland,1.0,6.0,40834.0,Stamford Bridge,nov,0.0,2010/11,2010,London,9.0,72.0,41072
+632,Aston Villa,Manchester United,9.0,3.0,42749.0,Villa Park,nov,0.0,2010/11,2010,Birmingham,7.0,31.5,40073
+633,Manchester City,Birmingham City,4.0,18.0,53400.0,Etihad Stadium,nov,0.0,2010/11,2010,Manchester,7.0,35.8,44321
+634,Newcastle United,Fulham,8.0,16.0,52305.0,Sports Direct Arena,nov,0.0,2010/11,2010,Newcastle,6.0,202.8,44686
+635,Tottenham Hotspur,Blackburn Rovers,7.0,14.0,36284.0,White Hart Lane,nov,0.0,2010/11,2010,London,9.0,72.0,35700
+636,West Ham United,Blackpool,20.0,15.0,35345.0,Boleyn Ground,nov,0.0,2010/11,2010,London,9.0,72.0,31194
+637,Wigan Athletic,West Bromwich Albion,17.0,12.0,25138.0,DW Stadium,nov,0.0,2010/11,2010,Wigan,8.0,67.8,16085
+638,Wolverhampton Wanderers,Bolton Wanderers,19.0,5.0,32050.0,Molineux Stadium,nov,0.0,2010/11,2010,Wolverhampton,8.0,51.1,27508
+639,Stoke City,Liverpool,10.0,11.0,30089.0,Britannia Stadium,nov,0.0,2010/11,2010,Stoke,7.0,35.8,27286
+640,Aston Villa,Blackpool,10.0,14.0,42749.0,Villa Park,nov,0.0,2010/11,2010,Birmingham,7.0,31.5,34330
+641,Chelsea,Fulham,1.0,15.0,40834.0,Stamford Bridge,nov,1.0,2010/11,2010,London,9.0,72.0,41593
+642,Newcastle United,Blackburn Rovers,5.0,13.0,52305.0,Sports Direct Arena,nov,0.0,2010/11,2010,Newcastle,6.0,202.8,41053
+643,West Ham United,West Bromwich Albion,20.0,11.0,35345.0,Boleyn Ground,nov,0.0,2010/11,2010,London,9.0,72.0,33023
+644,Wigan Athletic,Liverpool,18.0,9.0,25138.0,DW Stadium,nov,0.0,2010/11,2010,Wigan,8.0,67.8,16754
+645,Wolverhampton Wanderers,Arsenal,19.0,3.0,32050.0,Molineux Stadium,nov,0.0,2010/11,2010,Wolverhampton,8.0,51.1,27329
+646,Everton,Bolton Wanderers,12.0,6.0,39414.0,Goodison Park,nov,0.0,2010/11,2010,Liverpool,8.0,67.8,31808
+647,Manchester City,Manchester United,4.0,2.0,53400.0,Etihad Stadium,nov,1.0,2010/11,2010,Manchester,7.0,35.8,47210
+648,Stoke City,Birmingham City,16.0,17.0,30089.0,Britannia Stadium,nov,0.0,2010/11,2010,Stoke,7.0,35.8,26381
+649,Tottenham Hotspur,Sunderland,7.0,8.0,36284.0,White Hart Lane,nov,0.0,2010/11,2010,London,9.0,72.0,35843
+650,Arsenal,Newcastle United,3.0,5.0,60704.0,Emirates Stadium,nov,0.0,2010/11,2010,London,9.0,72.0,60059
+651,West Bromwich Albion,Manchester City,10.0,4.0,26445.0,The Hawthorns,nov,0.0,2010/11,2010,West Bromwich,7.0,31.5,23013
+652,Liverpool,Chelsea,9.0,1.0,54074.0,Anfield,nov,0.0,2010/11,2010,Liverpool,8.0,67.8,44238
+653,Bolton Wanderers,Tottenham Hotspur,6.0,7.0,28723.0,Macron Stadium,nov,0.0,2010/11,2010,Bolton,7.0,35.8,20255
+654,Birmingham City,West Ham United,15.0,20.0,30079.0,St Andrews,nov,0.0,2010/11,2010,Birmingham,7.0,31.5,26474
+655,Blackburn Rovers,Wigan Athletic,16.0,18.0,31367.0,Ewood Park,nov,0.0,2010/11,2010,Blackburn,8.0,43.7,24413
+656,Blackpool,Everton,12.0,11.0,16220.0,Bloomfield Road,nov,0.0,2010/11,2010,Blackpool,8.0,43.7,16094
+657,Fulham,Aston Villa,13.0,14.0,25700.0,Craven Cottage,nov,0.0,2010/11,2010,London,9.0,72.0,23654
+658,Manchester United,Wolverhampton Wanderers,2.0,19.0,75643.0,Old Trafford,nov,0.0,2010/11,2010,Manchester,7.0,35.8,75285
+659,Sunderland,Stoke City,8.0,17.0,48707.0,Stadium of Light,nov,0.0,2010/11,2010,Sunderland,6.0,26.6,36541
+660,Blackpool,West Bromwich Albion,9.0,6.0,16220.0,Bloomfield Road,nov,0.0,2010/11,2010,Blackpool,8.0,43.7,15210
+661,Aston Villa,Birmingham City,14.0,15.0,42749.0,Villa Park,oct,1.0,2010/11,2010,Birmingham,11.0,31.9,40688
+662,Newcastle United,Sunderland,7.0,12.0,52305.0,Sports Direct Arena,oct,0.0,2010/11,2010,Newcastle,9.0,161.3,51988
+663,Bolton Wanderers,Liverpool,11.0,13.0,28723.0,Macron Stadium,oct,0.0,2010/11,2010,Bolton,11.0,46.1,25171
+664,Arsenal,West Ham United,2.0,20.0,60704.0,Emirates Stadium,oct,1.0,2010/11,2010,London,13.0,61.5,60086
+665,Blackburn Rovers,Chelsea,18.0,1.0,31367.0,Ewood Park,oct,0.0,2010/11,2010,Blackburn,11.0,54.6,25836
+666,Everton,Stoke City,8.0,16.0,39414.0,Goodison Park,oct,0.0,2010/11,2010,Liverpool,12.0,58.2,35513
+667,Fulham,Wigan Athletic,10.0,17.0,25700.0,Craven Cottage,oct,0.0,2010/11,2010,London,13.0,61.5,25448
+668,Wolverhampton Wanderers,Manchester City,19.0,4.0,32050.0,Molineux Stadium,oct,0.0,2010/11,2010,Wolverhampton,11.0,43.4,25971
+669,Manchester United,Tottenham Hotspur,3.0,5.0,75643.0,Old Trafford,oct,0.0,2010/11,2010,Manchester,11.0,46.1,75223
+670,Stoke City,Manchester United,13.0,3.0,30089.0,Britannia Stadium,oct,0.0,2010/11,2010,Stoke,11.0,46.1,27372
+671,Liverpool,Blackburn Rovers,18.0,17.0,54074.0,Anfield,oct,0.0,2010/11,2010,Liverpool,12.0,58.2,43328
+672,Manchester City,Arsenal,4.0,2.0,53400.0,Etihad Stadium,oct,0.0,2010/11,2010,Manchester,11.0,46.1,47393
+673,Tottenham Hotspur,Everton,5.0,11.0,36284.0,White Hart Lane,oct,0.0,2010/11,2010,London,13.0,61.5,35967
+674,Birmingham City,Blackpool,12.0,14.0,30079.0,St Andrews,oct,0.0,2010/11,2010,Birmingham,11.0,31.9,26850
+675,Chelsea,Wolverhampton Wanderers,1.0,19.0,40834.0,Stamford Bridge,oct,0.0,2010/11,2010,London,13.0,61.5,41752
+676,Sunderland,Aston Villa,7.0,10.0,48707.0,Stadium of Light,oct,0.0,2010/11,2010,Sunderland,10.0,33.2,41506
+677,West Bromwich Albion,Fulham,6.0,16.0,26445.0,The Hawthorns,oct,0.0,2010/11,2010,West Bromwich,11.0,31.9,25625
+678,Wigan Athletic,Bolton Wanderers,15.0,8.0,25138.0,DW Stadium,oct,0.0,2010/11,2010,Wigan,12.0,58.2,17100
+679,West Ham United,Newcastle United,20.0,9.0,35345.0,Boleyn Ground,oct,0.0,2010/11,2010,London,13.0,61.5,34486
+680,Blackburn Rovers,Sunderland,14.0,13.0,31367.0,Ewood Park,oct,0.0,2010/11,2010,Blackburn,11.0,54.6,21894
+681,Everton,Liverpool,11.0,19.0,39414.0,Goodison Park,oct,1.0,2010/11,2010,Liverpool,12.0,58.2,39673
+682,Blackpool,Manchester City,10.0,2.0,16220.0,Bloomfield Road,oct,0.0,2010/11,2010,Blackpool,11.0,54.6,16116
+683,Arsenal,Birmingham City,3.0,17.0,60704.0,Emirates Stadium,oct,0.0,2010/11,2010,London,13.0,61.5,60070
+684,Bolton Wanderers,Stoke City,7.0,9.0,28723.0,Macron Stadium,oct,0.0,2010/11,2010,Bolton,11.0,46.1,22975
+685,Fulham,Tottenham Hotspur,12.0,5.0,25700.0,Craven Cottage,oct,1.0,2010/11,2010,London,13.0,61.5,25615
+686,Manchester United,West Bromwich Albion,4.0,6.0,75643.0,Old Trafford,oct,0.0,2010/11,2010,Manchester,11.0,46.1,75272
+687,Newcastle United,Wigan Athletic,16.0,15.0,52305.0,Sports Direct Arena,oct,0.0,2010/11,2010,Newcastle,9.0,161.3,44415
+688,Wolverhampton Wanderers,West Ham United,18.0,20.0,32050.0,Molineux Stadium,oct,0.0,2010/11,2010,Wolverhampton,11.0,43.4,28582
+689,Aston Villa,Chelsea,8.0,1.0,42749.0,Villa Park,oct,0.0,2010/11,2010,Birmingham,11.0,31.9,40122
+690,Manchester City,Newcastle United,2.0,15.0,53400.0,Etihad Stadium,oct,0.0,2010/11,2010,Manchester,11.0,46.1,46067
+691,Liverpool,Blackpool,18.0,9.0,54074.0,Anfield,oct,0.0,2010/11,2010,Liverpool,12.0,58.2,43156
+692,Chelsea,Arsenal,1.0,4.0,40834.0,Stamford Bridge,oct,1.0,2010/11,2010,London,13.0,61.5,41828
+693,Wigan Athletic,Wolverhampton Wanderers,14.0,19.0,25138.0,DW Stadium,oct,0.0,2010/11,2010,Wigan,12.0,58.2,14042
+694,Birmingham City,Everton,16.0,17.0,30079.0,St Andrews,oct,0.0,2010/11,2010,Birmingham,11.0,31.9,23138
+695,Stoke City,Blackburn Rovers,7.0,13.0,30089.0,Britannia Stadium,oct,0.0,2010/11,2010,Stoke,11.0,46.1,25515
+696,Sunderland,Manchester United,11.0,3.0,48707.0,Stadium of Light,oct,0.0,2010/11,2010,Sunderland,10.0,33.2,41709
+697,Tottenham Hotspur,Aston Villa,5.0,8.0,36284.0,White Hart Lane,oct,0.0,2010/11,2010,London,13.0,61.5,35871
+698,West Bromwich Albion,Bolton Wanderers,6.0,12.0,26445.0,The Hawthorns,oct,0.0,2010/11,2010,West Bromwich,11.0,31.9,22846
+699,West Ham United,Fulham,20.0,10.0,35345.0,Boleyn Ground,oct,1.0,2010/11,2010,London,13.0,61.5,34589
+700,Bolton Wanderers,Manchester United,12.0,2.0,28723.0,Macron Stadium,sep,0.0,2010/11,2010,Bolton,14.0,26.5,23926
+701,Wolverhampton Wanderers,Aston Villa,17.0,5.0,32050.0,Molineux Stadium,sep,0.0,2010/11,2010,Wolverhampton,14.0,45.0,27511
+702,Newcastle United,Stoke City,10.0,14.0,52305.0,Sports Direct Arena,sep,0.0,2010/11,2010,Newcastle,12.0,101.9,41915
+703,Manchester City,Chelsea,4.0,1.0,53400.0,Etihad Stadium,sep,0.0,2010/11,2010,Manchester,14.0,26.5,47203
+704,Arsenal,West Bromwich Albion,3.0,6.0,60704.0,Emirates Stadium,sep,0.0,2010/11,2010,London,16.0,41.2,60025
+705,Birmingham City,Wigan Athletic,13.0,18.0,30079.0,St Andrews,sep,0.0,2010/11,2010,Birmingham,14.0,17.8,22186
+706,Blackpool,Blackburn Rovers,15.0,9.0,16220.0,Bloomfield Road,sep,0.0,2010/11,2010,Blackpool,14.0,30.9,15901
+707,Fulham,Everton,7.0,20.0,25700.0,Craven Cottage,sep,0.0,2010/11,2010,London,16.0,41.2,25598
+708,Liverpool,Sunderland,16.0,11.0,54074.0,Anfield,sep,0.0,2010/11,2010,Liverpool,15.0,49.0,43626
+709,West Ham United,Tottenham Hotspur,19.0,8.0,35345.0,Boleyn Ground,sep,1.0,2010/11,2010,London,16.0,41.2,34190
+710,Manchester United,Liverpool,3.0,16.0,75643.0,Old Trafford,sep,0.0,2010/11,2010,Manchester,14.0,26.5,75213
+711,Wigan Athletic,Manchester City,18.0,4.0,25138.0,DW Stadium,sep,0.0,2010/11,2010,Wigan,15.0,49.0,15525
+712,Chelsea,Blackpool,1.0,9.0,40834.0,Stamford Bridge,sep,0.0,2010/11,2010,London,16.0,41.2,41761
+713,Stoke City,West Ham United,17.0,20.0,30089.0,Britannia Stadium,sep,0.0,2010/11,2010,Stoke,14.0,26.5,27028
+714,Aston Villa,Bolton Wanderers,8.0,13.0,42749.0,Villa Park,sep,0.0,2010/11,2010,Birmingham,14.0,17.8,34655
+715,Blackburn Rovers,Fulham,14.0,7.0,31367.0,Ewood Park,sep,0.0,2010/11,2010,Blackburn,14.0,30.9,23759
+716,Everton,Newcastle United,19.0,6.0,39414.0,Goodison Park,sep,0.0,2010/11,2010,Liverpool,15.0,49.0,38019
+717,Tottenham Hotspur,Wolverhampton Wanderers,5.0,15.0,36284.0,White Hart Lane,sep,0.0,2010/11,2010,London,16.0,41.2,35940
+718,West Bromwich Albion,Birmingham City,10.0,12.0,26445.0,The Hawthorns,sep,0.0,2010/11,2010,West Bromwich,14.0,17.8,23062
+719,Sunderland,Arsenal,11.0,2.0,48707.0,Stadium of Light,sep,0.0,2010/11,2010,Sunderland,13.0,19.0,38950
+720,Stoke City,Aston Villa,18.0,7.0,30089.0,Britannia Stadium,sep,0.0,2010/11,2010,Stoke,14.0,26.5,25899
+721,Birmingham City,Liverpool,5.0,13.0,30079.0,St Andrews,sep,0.0,2010/11,2010,Birmingham,14.0,17.8,27333
+722,Everton,Manchester United,19.0,3.0,39414.0,Goodison Park,sep,0.0,2010/11,2010,Liverpool,15.0,49.0,36556
+723,Arsenal,Bolton Wanderers,2.0,12.0,60704.0,Emirates Stadium,sep,0.0,2010/11,2010,London,16.0,41.2,59876
+724,Fulham,Wolverhampton Wanderers,6.0,9.0,25700.0,Craven Cottage,sep,0.0,2010/11,2010,London,16.0,41.2,25280
+725,Manchester City,Blackburn Rovers,8.0,15.0,53400.0,Etihad Stadium,sep,0.0,2010/11,2010,Manchester,14.0,26.5,44246
+726,Newcastle United,Blackpool,14.0,4.0,52305.0,Sports Direct Arena,sep,0.0,2010/11,2010,Newcastle,12.0,101.9,49597
+727,West Bromwich Albion,Tottenham Hotspur,16.0,11.0,26445.0,The Hawthorns,sep,0.0,2010/11,2010,West Bromwich,14.0,17.8,23642
+728,West Ham United,Chelsea,20.0,1.0,35345.0,Boleyn Ground,sep,1.0,2010/11,2010,London,16.0,41.2,33014
+729,Wigan Athletic,Sunderland,17.0,10.0,25138.0,DW Stadium,sep,0.0,2010/11,2010,Wigan,15.0,49.0,15844
+730,Bolton Wanderers,Birmingham City,5.0,6.0,28723.0,Macron Stadium,aug,0.0,2010/11,2010,Bolton,16.0,31.4,18139
+731,Liverpool,West Bromwich Albion,13.0,16.0,54074.0,Anfield,aug,0.0,2010/11,2010,Liverpool,16.0,66.6,41194
+732,Sunderland,Manchester City,10.0,9.0,48707.0,Stadium of Light,aug,0.0,2010/11,2010,Sunderland,15.0,31.6,38610
+733,Aston Villa,Everton,4.0,18.0,42749.0,Villa Park,aug,0.0,2010/11,2010,Birmingham,16.0,27.0,34725
+734,Blackburn Rovers,Arsenal,15.0,2.0,31367.0,Ewood Park,aug,0.0,2010/11,2010,Blackburn,16.0,35.9,25059
+735,Blackpool,Fulham,12.0,14.0,16220.0,Bloomfield Road,aug,0.0,2010/11,2010,Blackpool,16.0,35.9,15529
+736,Chelsea,Stoke City,1.0,19.0,40834.0,Stamford Bridge,aug,0.0,2010/11,2010,London,18.0,57.5,40931
+737,Tottenham Hotspur,Wigan Athletic,11.0,17.0,36284.0,White Hart Lane,aug,0.0,2010/11,2010,London,18.0,57.5,35101
+738,Wolverhampton Wanderers,Newcastle United,7.0,8.0,32050.0,Molineux Stadium,aug,0.0,2010/11,2010,Wolverhampton,16.0,54.5,27745
+739,Manchester United,West Ham United,3.0,20.0,75643.0,Old Trafford,aug,0.0,2010/11,2010,Manchester,16.0,31.4,75061
+740,Manchester City,Liverpool,4.0,17.0,53400.0,Etihad Stadium,aug,0.0,2010/11,2010,Manchester,16.0,31.4,47087
+741,Newcastle United,Aston Villa,9.0,12.0,52305.0,Sports Direct Arena,aug,0.0,2010/11,2010,Newcastle,13.0,104.9,43546
+742,Fulham,Manchester United,14.0,3.0,25700.0,Craven Cottage,aug,0.0,2010/11,2010,London,18.0,57.5,25643
+743,Arsenal,Blackpool,2.0,11.0,60704.0,Emirates Stadium,aug,0.0,2010/11,2010,London,18.0,57.5,60032
+744,Birmingham City,Blackburn Rovers,6.0,10.0,30079.0,St Andrews,aug,0.0,2010/11,2010,Birmingham,16.0,27.0,21394
+745,Everton,Wolverhampton Wanderers,16.0,7.0,39414.0,Goodison Park,aug,0.0,2010/11,2010,Liverpool,16.0,66.6,37767
+746,Stoke City,Tottenham Hotspur,18.0,8.0,30089.0,Britannia Stadium,aug,0.0,2010/11,2010,Stoke,16.0,31.4,27243
+747,West Bromwich Albion,Sunderland,13.0,15.0,26445.0,The Hawthorns,aug,0.0,2010/11,2010,West Bromwich,16.0,27.0,23624
+748,West Ham United,Bolton Wanderers,19.0,5.0,35345.0,Boleyn Ground,aug,0.0,2010/11,2010,London,18.0,57.5,32533
+749,Wigan Athletic,Chelsea,20.0,1.0,25138.0,DW Stadium,aug,0.0,2010/11,2010,Wigan,16.0,66.6,14476
+750,Manchester United,Newcastle United,4.0,17.0,75643.0,Old Trafford,aug,0.0,2010/11,2010,Manchester,16.0,31.4,75221
+751,Liverpool,Arsenal,10.0,9.0,54074.0,Anfield,aug,0.0,2010/11,2010,Liverpool,16.0,66.6,44722
+752,Tottenham Hotspur,Manchester City,14.0,13.0,36284.0,White Hart Lane,aug,0.0,2010/11,2010,London,18.0,57.5,35928
+753,Aston Villa,West Ham United,3.0,18.0,42749.0,Villa Park,aug,0.0,2010/11,2010,Birmingham,16.0,27.0,36604
+754,Blackburn Rovers,Everton,6.0,16.0,31367.0,Ewood Park,aug,0.0,2010/11,2010,Blackburn,16.0,35.9,25869
+755,Bolton Wanderers,Fulham,11.0,12.0,28723.0,Macron Stadium,aug,0.0,2010/11,2010,Bolton,16.0,31.4,20352
+756,Sunderland,Birmingham City,8.0,7.0,48707.0,Stadium of Light,aug,0.0,2010/11,2010,Sunderland,15.0,31.6,38390
+757,Wigan Athletic,Blackpool,19.0,2.0,25138.0,DW Stadium,aug,0.0,2010/11,2010,Wigan,16.0,66.6,16152
+758,Wolverhampton Wanderers,Stoke City,5.0,15.0,32050.0,Molineux Stadium,aug,0.0,2010/11,2010,Wolverhampton,16.0,54.5,27850
+759,Chelsea,West Bromwich Albion,1.0,20.0,40834.0,Stamford Bridge,aug,0.0,2010/11,2010,London,18.0,57.5,41589

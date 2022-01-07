@@ -1,0 +1,761 @@
+,team_1,team_2,team_1_rating,team_2_rating,capacity,stadium,month,derby,current_season,year,city,temprature,precipitation,attendance
+0,Aston Villa,Arsenal,7.0,1.0,42749.0,Villa Park,may,0.0,1997/98,1997,Birmingham,12.0,26.6,37372.0
+1,Barnsley,Manchester United,19.0,2.0,23009.0,Oakwell,may,0.0,1997/98,1997,Barnsley,10.0,47.0,18694.0
+2,Blackburn Rovers,Newcastle United,6.0,13.0,31367.0,Ewood Park,may,0.0,1997/98,1997,Blackburn,12.0,32.0,29300.0
+3,Chelsea,Bolton Wanderers,4.0,18.0,40834.0,Stamford Bridge,may,0.0,1997/98,1997,London,14.0,52.1,34845.0
+4,Crystal Palace,Sheffield Wednesday,20.0,16.0,25486.0,Selhurst Park,may,0.0,1997/98,1997,London,14.0,52.1,16876.0
+5,Derby County,Liverpool,9.0,3.0,33597.0,iPro Stadium,may,0.0,1997/98,1997,Derby,12.0,24.0,30492.0
+6,Everton,Coventry City,17.0,11.0,39414.0,Goodison Park,may,0.0,1997/98,1997,Liverpool,12.0,53.6,40109.0
+7,Leeds United,Wimbledon,5.0,15.0,37792.0,Elland Road,may,0.0,1997/98,1997,Leeds,10.0,26.0,38172.0
+8,Tottenham Hotspur,Southampton,14.0,12.0,36284.0,White Hart Lane,may,0.0,1997/98,1997,London,14.0,52.1,35995.0
+9,West Ham United,Leicester City,8.0,10.0,35345.0,Boleyn Ground,may,0.0,1997/98,1997,London,14.0,52.1,25781.0
+10,Liverpool,Arsenal,3.0,1.0,54074.0,Anfield,may,0.0,1997/98,1997,Liverpool,12.0,53.6,44417.0
+11,Crystal Palace,West Ham United,20.0,9.0,25486.0,Selhurst Park,may,1.0,1997/98,1997,London,14.0,52.1,19129.0
+12,Manchester United,Leeds United,2.0,5.0,75643.0,Old Trafford,may,0.0,1997/98,1997,Manchester,12.0,21.2,55167.0
+13,Arsenal,Everton,1.0,18.0,38419.0,Highbury,may,0.0,1997/98,1997,London,14.0,52.1,38269.0
+14,Bolton Wanderers,Crystal Palace,17.0,20.0,28723.0,Macron Stadium,may,0.0,1997/98,1997,Bolton,12.0,21.2,24449.0
+15,Coventry City,Blackburn Rovers,11.0,6.0,23489.0,Highfield Road,may,0.0,1997/98,1997,Coventry,12.0,23.3,18794.0
+16,Leicester City,Barnsley,8.0,19.0,22000.0,Filbert Street,may,0.0,1997/98,1997,Leicester,12.0,24.0,21293.0
+17,Liverpool,West Ham United,3.0,9.0,54074.0,Anfield,may,0.0,1997/98,1997,Liverpool,12.0,53.6,44414.0
+18,Newcastle United,Chelsea,13.0,4.0,52305.0,St. James' Park,may,0.0,1997/98,1997,Newcastle,9.0,116.4,36710.0
+19,Sheffield Wednesday,Aston Villa,14.0,7.0,39812.0,Hillsborough,may,0.0,1997/98,1997,Sheffield,10.0,47.0,34177.0
+20,Southampton,Derby County,12.0,10.0,15200.0,The Dell,may,0.0,1997/98,1997,Southampton,13.0,16.5,15202.0
+21,Wimbledon,Tottenham Hotspur,16.0,15.0,25486.0,Selhurst Park,may,1.0,1997/98,1997,London,14.0,52.1,25820.0
+22,Chelsea,Blackburn Rovers,3.0,6.0,40834.0,Stamford Bridge,apr,0.0,1997/98,1997,London,11.0,30.6,33311.0
+23,Coventry City,Wimbledon,11.0,14.0,23489.0,Highfield Road,apr,0.0,1997/98,1997,Coventry,9.0,22.0,17968.0
+24,Leicester City,Newcastle United,9.0,15.0,22000.0,Filbert Street,apr,0.0,1997/98,1997,Leicester,9.0,26.4,21699.0
+25,Arsenal,Derby County,1.0,10.0,38419.0,Highbury,apr,0.0,1997/98,1997,London,11.0,30.6,38121.0
+26,Crystal Palace,Manchester United,20.0,2.0,25486.0,Selhurst Park,apr,0.0,1997/98,1997,London,11.0,30.6,26180.0
+27,Derby County,Leicester City,10.0,9.0,33597.0,iPro Stadium,apr,0.0,1997/98,1997,Derby,9.0,26.4,29855.0
+28,Aston Villa,Bolton Wanderers,8.0,18.0,42749.0,Villa Park,apr,0.0,1997/98,1997,Birmingham,8.0,23.8,38392.0
+29,Barnsley,Arsenal,19.0,1.0,23009.0,Oakwell,apr,0.0,1997/98,1997,Barnsley,8.0,31.1,18691.0
+30,Blackburn Rovers,Wimbledon,6.0,14.0,31367.0,Ewood Park,apr,0.0,1997/98,1997,Blackburn,9.0,26.4,24848.0
+31,Chelsea,Liverpool,3.0,4.0,40834.0,Stamford Bridge,apr,0.0,1997/98,1997,London,11.0,30.6,34639.0
+32,Everton,Sheffield Wednesday,17.0,13.0,39414.0,Goodison Park,apr,0.0,1997/98,1997,Liverpool,10.0,36.7,35497.0
+33,Leeds United,Coventry City,5.0,11.0,37792.0,Elland Road,apr,0.0,1997/98,1997,Leeds,7.0,25.8,36522.0
+34,Tottenham Hotspur,Newcastle United,16.0,15.0,36284.0,White Hart Lane,apr,0.0,1997/98,1997,London,11.0,30.6,35847.0
+35,West Ham United,Southampton,7.0,12.0,35345.0,Boleyn Ground,apr,0.0,1997/98,1997,London,11.0,30.6,25878.0
+36,Chelsea,Sheffield Wednesday,4.0,14.0,40834.0,Stamford Bridge,apr,0.0,1997/98,1997,London,11.0,30.6,29075.0
+37,Coventry City,Liverpool,11.0,3.0,23489.0,Highfield Road,apr,0.0,1997/98,1997,Coventry,9.0,22.0,22721.0
+38,Arsenal,Wimbledon,1.0,13.0,38419.0,Highbury,apr,1.0,1997/98,1997,London,11.0,30.6,38024.0
+39,Barnsley,Tottenham Hotspur,18.0,17.0,23009.0,Oakwell,apr,0.0,1997/98,1997,Barnsley,8.0,31.1,18692.0
+40,Bolton Wanderers,Leeds United,19.0,5.0,28723.0,Macron Stadium,apr,0.0,1997/98,1997,Bolton,9.0,27.0,25000.0
+41,Crystal Palace,Derby County,20.0,9.0,25486.0,Selhurst Park,apr,0.0,1997/98,1997,London,11.0,30.6,18101.0
+42,Everton,Leicester City,16.0,10.0,39414.0,Goodison Park,apr,0.0,1997/98,1997,Liverpool,10.0,36.7,33642.0
+43,Manchester United,Newcastle United,2.0,15.0,75643.0,Old Trafford,apr,0.0,1997/98,1997,Manchester,9.0,27.0,55194.0
+44,Southampton,Aston Villa,12.0,8.0,15200.0,The Dell,apr,0.0,1997/98,1997,Southampton,9.0,19.2,15238.0
+45,West Ham United,Blackburn Rovers,6.0,7.0,35345.0,Boleyn Ground,apr,0.0,1997/98,1997,London,11.0,30.6,24733.0
+46,Leicester City,Southampton,10.0,12.0,22000.0,Filbert Street,apr,0.0,1997/98,1997,Leicester,9.0,26.4,20708.0
+47,Derby County,Bolton Wanderers,7.0,18.0,33597.0,iPro Stadium,apr,0.0,1997/98,1997,Derby,9.0,26.4,29126.0
+48,Liverpool,Crystal Palace,3.0,20.0,54074.0,Anfield,apr,0.0,1997/98,1997,Liverpool,10.0,36.7,43007.0
+49,Newcastle United,Barnsley,15.0,19.0,52305.0,St. James' Park,apr,0.0,1997/98,1997,Newcastle,7.0,70.0,36534.0
+50,Sheffield Wednesday,West Ham United,14.0,8.0,39812.0,Hillsborough,apr,0.0,1997/98,1997,Sheffield,8.0,31.1,28036.0
+51,Tottenham Hotspur,Coventry City,17.0,11.0,36284.0,White Hart Lane,apr,0.0,1997/98,1997,London,11.0,30.6,33463.0
+52,Wimbledon,Everton,13.0,16.0,25486.0,Selhurst Park,apr,0.0,1997/98,1997,London,11.0,30.6,15131.0
+53,Blackburn Rovers,Arsenal,6.0,2.0,31367.0,Ewood Park,apr,0.0,1997/98,1997,Blackburn,9.0,26.4,28212.0
+54,Arsenal,Newcastle United,2.0,16.0,38419.0,Highbury,apr,0.0,1997/98,1997,London,11.0,30.6,38102.0
+55,Barnsley,Sheffield Wednesday,19.0,14.0,23009.0,Oakwell,apr,0.0,1997/98,1997,Barnsley,8.0,31.1,18692.0
+56,Bolton Wanderers,Blackburn Rovers,18.0,6.0,28723.0,Macron Stadium,apr,0.0,1997/98,1997,Bolton,9.0,27.0,25000.0
+57,Chelsea,Tottenham Hotspur,4.0,17.0,40834.0,Stamford Bridge,apr,1.0,1997/98,1997,London,11.0,30.6,34149.0
+58,Coventry City,Aston Villa,11.0,8.0,23489.0,Highfield Road,apr,0.0,1997/98,1997,Coventry,9.0,22.0,22792.0
+59,Crystal Palace,Leicester City,20.0,10.0,25486.0,Selhurst Park,apr,0.0,1997/98,1997,London,11.0,30.6,18771.0
+60,Everton,Leeds United,15.0,5.0,39414.0,Goodison Park,apr,0.0,1997/98,1997,Liverpool,10.0,36.7,37099.0
+61,Southampton,Wimbledon,12.0,13.0,15200.0,The Dell,apr,0.0,1997/98,1997,Southampton,9.0,19.2,14815.0
+62,West Ham United,Derby County,7.0,9.0,35345.0,Boleyn Ground,apr,0.0,1997/98,1997,London,11.0,30.6,25155.0
+63,Manchester United,Liverpool,1.0,3.0,75643.0,Old Trafford,apr,0.0,1997/98,1997,Manchester,9.0,27.0,55171.0
+64,Leeds United,Chelsea,4.0,5.0,37792.0,Elland Road,apr,0.0,1997/98,1997,Leeds,7.0,25.8,37276.0
+65,Blackburn Rovers,Manchester United,6.0,1.0,31367.0,Ewood Park,apr,0.0,1997/98,1997,Blackburn,9.0,26.4,30547.0
+66,Derby County,Chelsea,8.0,5.0,33597.0,iPro Stadium,apr,0.0,1997/98,1997,Derby,9.0,26.4,30062.0
+67,Aston Villa,West Ham United,9.0,7.0,42749.0,Villa Park,apr,0.0,1997/98,1997,Birmingham,8.0,23.8,39372.0
+68,Leeds United,Barnsley,4.0,19.0,37792.0,Elland Road,apr,0.0,1997/98,1997,Leeds,7.0,25.8,37749.0
+69,Leicester City,Coventry City,12.0,10.0,22000.0,Filbert Street,apr,0.0,1997/98,1997,Leicester,9.0,26.4,21137.0
+70,Sheffield Wednesday,Southampton,13.0,11.0,39812.0,Hillsborough,apr,0.0,1997/98,1997,Sheffield,8.0,31.1,29677.0
+71,Tottenham Hotspur,Everton,16.0,17.0,36284.0,White Hart Lane,apr,0.0,1997/98,1997,London,11.0,30.6,35624.0
+72,Wimbledon,Bolton Wanderers,14.0,18.0,25486.0,Selhurst Park,apr,0.0,1997/98,1997,London,11.0,30.6,11356.0
+73,Blackburn Rovers,Barnsley,4.0,18.0,31367.0,Ewood Park,mar,0.0,1997/98,1997,Blackburn,7.0,25.2,24179.0
+74,Wimbledon,Newcastle United,14.0,15.0,25486.0,Selhurst Park,mar,0.0,1997/98,1997,London,8.0,29.8,15478.0
+75,Bolton Wanderers,Arsenal,19.0,2.0,28723.0,Macron Stadium,mar,0.0,1997/98,1997,Bolton,6.0,25.0,25000.0
+76,West Ham United,Leeds United,7.0,6.0,35345.0,Boleyn Ground,mar,0.0,1997/98,1997,London,8.0,29.8,24107.0
+77,Arsenal,Sheffield Wednesday,2.0,13.0,38419.0,Highbury,mar,0.0,1997/98,1997,London,8.0,29.8,38087.0
+78,Barnsley,Liverpool,18.0,3.0,23009.0,Oakwell,mar,0.0,1997/98,1997,Barnsley,5.0,29.7,18684.0
+79,Bolton Wanderers,Leicester City,19.0,12.0,28723.0,Macron Stadium,mar,0.0,1997/98,1997,Bolton,6.0,25.0,25000.0
+80,Coventry City,Derby County,9.0,7.0,23489.0,Highfield Road,mar,0.0,1997/98,1997,Coventry,7.0,18.4,18705.0
+81,Crystal Palace,Tottenham Hotspur,20.0,16.0,25486.0,Selhurst Park,mar,1.0,1997/98,1997,London,8.0,29.8,26116.0
+82,Everton,Aston Villa,17.0,11.0,39414.0,Goodison Park,mar,0.0,1997/98,1997,Liverpool,7.0,40.4,36471.0
+83,Manchester United,Wimbledon,1.0,14.0,75643.0,Old Trafford,mar,0.0,1997/98,1997,Manchester,6.0,25.0,55306.0
+84,Southampton,Newcastle United,10.0,15.0,15200.0,The Dell,mar,0.0,1997/98,1997,Southampton,8.0,17.2,15251.0
+85,Newcastle United,Crystal Palace,15.0,20.0,52305.0,St. James' Park,mar,0.0,1997/98,1997,Newcastle,4.0,106.4,36565.0
+86,Derby County,Leeds United,7.0,5.0,33597.0,iPro Stadium,mar,0.0,1997/98,1997,Derby,6.0,21.3,30217.0
+87,Manchester United,Arsenal,1.0,2.0,75643.0,Old Trafford,mar,0.0,1997/98,1997,Manchester,6.0,25.0,55174.0
+88,Aston Villa,Crystal Palace,12.0,20.0,42749.0,Villa Park,mar,0.0,1997/98,1997,Birmingham,6.0,19.6,33781.0
+89,Barnsley,Southampton,18.0,11.0,23009.0,Oakwell,mar,0.0,1997/98,1997,Barnsley,5.0,29.7,18368.0
+90,Bolton Wanderers,Sheffield Wednesday,19.0,13.0,28723.0,Macron Stadium,mar,0.0,1997/98,1997,Bolton,6.0,25.0,24847.0
+91,Everton,Blackburn Rovers,16.0,6.0,39414.0,Goodison Park,mar,0.0,1997/98,1997,Liverpool,7.0,40.4,33423.0
+92,Newcastle United,Coventry City,15.0,10.0,52305.0,St. James' Park,mar,0.0,1997/98,1997,Newcastle,4.0,106.4,36767.0
+93,Tottenham Hotspur,Liverpool,17.0,3.0,36284.0,White Hart Lane,mar,0.0,1997/98,1997,London,8.0,29.8,30245.0
+94,West Ham United,Chelsea,8.0,4.0,35345.0,Boleyn Ground,mar,1.0,1997/98,1997,London,8.0,29.8,25829.0
+95,Wimbledon,Leicester City,14.0,9.0,25486.0,Selhurst Park,mar,0.0,1997/98,1997,London,8.0,29.8,13229.0
+96,Aston Villa,Barnsley,13.0,18.0,42749.0,Villa Park,mar,0.0,1997/98,1997,Birmingham,6.0,19.6,29519.0
+97,Chelsea,Crystal Palace,4.0,20.0,40834.0,Stamford Bridge,mar,1.0,1997/98,1997,London,8.0,29.8,31917.0
+98,Leeds United,Blackburn Rovers,7.0,5.0,37792.0,Elland Road,mar,0.0,1997/98,1997,Leeds,5.0,27.5,32933.0
+99,West Ham United,Manchester United,8.0,1.0,35345.0,Boleyn Ground,mar,0.0,1997/98,1997,London,8.0,29.8,25892.0
+100,Wimbledon,Arsenal,15.0,2.0,25486.0,Selhurst Park,mar,1.0,1997/98,1997,London,8.0,29.8,22291.0
+101,Chelsea,Aston Villa,5.0,13.0,40834.0,Stamford Bridge,mar,0.0,1997/98,1997,London,8.0,29.8,33018.0
+102,Liverpool,Bolton Wanderers,2.0,19.0,54074.0,Anfield,mar,0.0,1997/98,1997,Liverpool,7.0,40.4,44532.0
+103,Sheffield Wednesday,Manchester United,12.0,1.0,39812.0,Hillsborough,mar,0.0,1997/98,1997,Sheffield,5.0,29.7,39427.0
+104,Southampton,Everton,10.0,16.0,15200.0,The Dell,mar,0.0,1997/98,1997,Southampton,8.0,17.2,15102.0
+105,Leeds United,Tottenham Hotspur,7.0,17.0,37792.0,Elland Road,mar,0.0,1997/98,1997,Leeds,5.0,27.5,31394.0
+106,West Ham United,Arsenal,9.0,2.0,35345.0,Boleyn Ground,mar,1.0,1997/98,1997,London,8.0,29.8,25717.0
+107,Tottenham Hotspur,Bolton Wanderers,17.0,19.0,36284.0,White Hart Lane,mar,0.0,1997/98,1997,London,8.0,29.8,29032.0
+108,Chelsea,Manchester United,5.0,1.0,40834.0,Stamford Bridge,feb,0.0,1997/98,1997,London,6.0,47.9,34511.0
+109,Aston Villa,Liverpool,14.0,4.0,42749.0,Villa Park,feb,0.0,1997/98,1997,Birmingham,5.0,23.4,39377.0
+110,Barnsley,Wimbledon,18.0,15.0,23009.0,Oakwell,feb,0.0,1997/98,1997,Barnsley,3.0,34.2,17102.0
+111,Blackburn Rovers,Leicester City,3.0,8.0,31367.0,Ewood Park,feb,0.0,1997/98,1997,Blackburn,5.0,28.7,24854.0
+112,Crystal Palace,Coventry City,20.0,10.0,25486.0,Selhurst Park,feb,0.0,1997/98,1997,London,6.0,47.9,21810.0
+113,Derby County,Sheffield Wednesday,6.0,13.0,33597.0,iPro Stadium,feb,0.0,1997/98,1997,Derby,5.0,23.3,30203.0
+114,Everton,Newcastle United,16.0,12.0,39414.0,Goodison Park,feb,0.0,1997/98,1997,Liverpool,6.0,40.6,37972.0
+115,Leeds United,Southampton,7.0,11.0,37792.0,Elland Road,feb,0.0,1997/98,1997,Leeds,4.0,29.4,28791.0
+116,Liverpool,Everton,3.0,16.0,54074.0,Anfield,feb,1.0,1997/98,1997,Liverpool,6.0,40.6,44501.0
+117,Newcastle United,Leeds United,13.0,8.0,52305.0,St. James' Park,feb,0.0,1997/98,1997,Newcastle,3.0,122.8,36511.0
+118,Arsenal,Crystal Palace,2.0,19.0,38419.0,Highbury,feb,1.0,1997/98,1997,London,6.0,47.9,38094.0
+119,Bolton Wanderers,West Ham United,18.0,9.0,28723.0,Macron Stadium,feb,0.0,1997/98,1997,Bolton,5.0,28.4,25000.0
+120,Coventry City,Barnsley,10.0,20.0,23489.0,Highfield Road,feb,0.0,1997/98,1997,Coventry,5.0,19.4,20265.0
+121,Leicester City,Chelsea,7.0,4.0,22000.0,Filbert Street,feb,0.0,1997/98,1997,Leicester,5.0,23.3,21335.0
+122,Manchester United,Derby County,1.0,6.0,75643.0,Old Trafford,feb,0.0,1997/98,1997,Manchester,5.0,28.4,55170.0
+123,Sheffield Wednesday,Tottenham Hotspur,12.0,17.0,39812.0,Hillsborough,feb,0.0,1997/98,1997,Sheffield,3.0,34.2,29871.0
+124,Southampton,Blackburn Rovers,11.0,5.0,15200.0,The Dell,feb,0.0,1997/98,1997,Southampton,6.0,23.8,15162.0
+125,Wimbledon,Aston Villa,14.0,15.0,25486.0,Selhurst Park,feb,0.0,1997/98,1997,London,6.0,47.9,13131.0
+126,Aston Villa,Manchester United,14.0,1.0,42749.0,Villa Park,feb,0.0,1997/98,1997,Birmingham,5.0,23.4,39372.0
+127,Southampton,Coventry City,12.0,10.0,15200.0,The Dell,feb,0.0,1997/98,1997,Southampton,6.0,23.8,15091.0
+128,Everton,Derby County,16.0,6.0,39414.0,Goodison Park,feb,0.0,1997/98,1997,Liverpool,6.0,40.6,34876.0
+129,Sheffield Wednesday,Liverpool,13.0,2.0,39812.0,Hillsborough,feb,0.0,1997/98,1997,Sheffield,3.0,34.2,35405.0
+130,Tottenham Hotspur,Leicester City,17.0,9.0,36284.0,White Hart Lane,feb,0.0,1997/98,1997,London,6.0,47.9,28355.0
+131,Crystal Palace,Wimbledon,18.0,15.0,25486.0,Selhurst Park,feb,1.0,1997/98,1997,London,6.0,47.9,14410.0
+132,Arsenal,Chelsea,5.0,2.0,38419.0,Highbury,feb,1.0,1997/98,1997,London,6.0,47.9,38083.0
+133,Barnsley,Everton,20.0,16.0,23009.0,Oakwell,feb,0.0,1997/98,1997,Barnsley,3.0,34.2,18672.0
+134,Blackburn Rovers,Tottenham Hotspur,4.0,17.0,31367.0,Ewood Park,feb,0.0,1997/98,1997,Blackburn,5.0,28.7,30388.0
+135,Coventry City,Sheffield Wednesday,12.0,14.0,23489.0,Highfield Road,feb,0.0,1997/98,1997,Coventry,5.0,19.4,18375.0
+136,Derby County,Aston Villa,6.0,13.0,33597.0,iPro Stadium,feb,0.0,1997/98,1997,Derby,5.0,23.3,30251.0
+137,Leicester City,Leeds United,9.0,7.0,22000.0,Filbert Street,feb,0.0,1997/98,1997,Leicester,5.0,23.3,21244.0
+138,Liverpool,Southampton,3.0,11.0,54074.0,Anfield,feb,0.0,1997/98,1997,Liverpool,6.0,40.6,43550.0
+139,Newcastle United,West Ham United,10.0,8.0,52305.0,St. James' Park,feb,0.0,1997/98,1997,Newcastle,3.0,122.8,36736.0
+140,Manchester United,Bolton Wanderers,1.0,19.0,75643.0,Old Trafford,feb,0.0,1997/98,1997,Manchester,5.0,28.4,55156.0
+141,Aston Villa,Newcastle United,15.0,10.0,42749.0,Villa Park,feb,0.0,1997/98,1997,Birmingham,5.0,23.4,38266.0
+142,Arsenal,Southampton,5.0,12.0,38419.0,Highbury,jan,0.0,1997/98,1997,London,6.0,52.9,38056.0
+143,Bolton Wanderers,Coventry City,19.0,13.0,28723.0,Macron Stadium,jan,0.0,1997/98,1997,Bolton,5.0,32.4,25000.0
+144,Chelsea,Barnsley,2.0,20.0,40834.0,Stamford Bridge,jan,0.0,1997/98,1997,London,6.0,52.9,34442.0
+145,Crystal Palace,Leeds United,17.0,7.0,25486.0,Selhurst Park,jan,0.0,1997/98,1997,London,6.0,52.9,25248.0
+146,Derby County,Tottenham Hotspur,6.0,18.0,33597.0,iPro Stadium,jan,0.0,1997/98,1997,Derby,4.0,32.3,30187.0
+147,Liverpool,Blackburn Rovers,4.0,3.0,54074.0,Anfield,jan,0.0,1997/98,1997,Liverpool,5.0,58.3,43890.0
+148,Manchester United,Leicester City,1.0,9.0,75643.0,Old Trafford,jan,0.0,1997/98,1997,Manchester,5.0,32.4,55156.0
+149,Sheffield Wednesday,Wimbledon,11.0,16.0,39812.0,Hillsborough,jan,0.0,1997/98,1997,Sheffield,3.0,49.2,22655.0
+150,West Ham United,Everton,8.0,14.0,35345.0,Boleyn Ground,jan,0.0,1997/98,1997,London,6.0,52.9,25909.0
+151,Liverpool,Newcastle United,3.0,10.0,54074.0,Anfield,jan,0.0,1997/98,1997,Liverpool,5.0,58.3,42791.0
+152,Southampton,Manchester United,12.0,1.0,15200.0,The Dell,jan,0.0,1997/98,1997,Southampton,6.0,35.7,15241.0
+153,Everton,Chelsea,14.0,4.0,39414.0,Goodison Park,jan,0.0,1997/98,1997,Liverpool,5.0,58.3,32355.0
+154,Barnsley,Crystal Palace,20.0,17.0,23009.0,Oakwell,jan,0.0,1997/98,1997,Barnsley,3.0,49.2,17819.0
+155,Blackburn Rovers,Aston Villa,2.0,13.0,31367.0,Ewood Park,jan,0.0,1997/98,1997,Blackburn,5.0,32.5,24834.0
+156,Coventry City,Arsenal,16.0,5.0,23489.0,Highfield Road,jan,0.0,1997/98,1997,Coventry,5.0,27.1,22864.0
+157,Leeds United,Sheffield Wednesday,7.0,11.0,37792.0,Elland Road,jan,0.0,1997/98,1997,Leeds,4.0,39.1,33166.0
+158,Leicester City,Liverpool,9.0,3.0,22000.0,Filbert Street,jan,0.0,1997/98,1997,Leicester,4.0,32.3,21633.0
+159,Newcastle United,Bolton Wanderers,10.0,19.0,52305.0,St. James' Park,jan,0.0,1997/98,1997,Newcastle,3.0,190.9,36767.0
+160,Tottenham Hotspur,West Ham United,18.0,8.0,36284.0,White Hart Lane,jan,1.0,1997/98,1997,London,6.0,52.9,30284.0
+161,Wimbledon,Derby County,15.0,6.0,25486.0,Selhurst Park,jan,0.0,1997/98,1997,London,6.0,52.9,13031.0
+162,Derby County,Blackburn Rovers,6.0,3.0,33597.0,iPro Stadium,jan,0.0,1997/98,1997,Derby,4.0,32.3,27823.0
+163,Arsenal,Leeds United,5.0,7.0,38419.0,Highbury,jan,0.0,1997/98,1997,London,6.0,52.9,38018.0
+164,Aston Villa,Leicester City,10.0,9.0,42749.0,Villa Park,jan,0.0,1997/98,1997,Birmingham,4.0,34.7,36429.0
+165,Bolton Wanderers,Southampton,18.0,13.0,28723.0,Macron Stadium,jan,0.0,1997/98,1997,Bolton,5.0,32.4,23333.0
+166,Chelsea,Coventry City,2.0,16.0,40834.0,Stamford Bridge,jan,0.0,1997/98,1997,London,6.0,52.9,34647.0
+167,Crystal Palace,Everton,17.0,15.0,25486.0,Selhurst Park,jan,0.0,1997/98,1997,London,6.0,52.9,23311.0
+168,Liverpool,Wimbledon,4.0,14.0,54074.0,Anfield,jan,0.0,1997/98,1997,Liverpool,5.0,58.3,38011.0
+169,Manchester United,Tottenham Hotspur,1.0,19.0,75643.0,Old Trafford,jan,0.0,1997/98,1997,Manchester,5.0,32.4,55281.0
+170,Sheffield Wednesday,Newcastle United,12.0,11.0,39812.0,Hillsborough,jan,0.0,1997/98,1997,Sheffield,3.0,49.2,29446.0
+171,West Ham United,Barnsley,8.0,20.0,35345.0,Boleyn Ground,jan,0.0,1997/98,1997,London,6.0,52.9,23714.0
+172,Southampton,Chelsea,13.0,3.0,15200.0,The Dell,dec,0.0,1997/98,1997,Southampton,6.0,31.4,15231.0
+173,Barnsley,Derby County,20.0,7.0,23009.0,Oakwell,dec,0.0,1997/98,1997,Barnsley,4.0,58.1,18686.0
+174,Blackburn Rovers,Crystal Palace,2.0,15.0,31367.0,Ewood Park,dec,0.0,1997/98,1997,Blackburn,6.0,45.0,23872.0
+175,Coventry City,Manchester United,14.0,1.0,23489.0,Highfield Road,dec,0.0,1997/98,1997,Coventry,5.0,21.6,23054.0
+176,Everton,Bolton Wanderers,18.0,17.0,39414.0,Goodison Park,dec,0.0,1997/98,1997,Liverpool,6.0,72.8,37149.0
+177,Leeds United,Aston Villa,5.0,10.0,37792.0,Elland Road,dec,0.0,1997/98,1997,Leeds,4.0,43.8,36287.0
+178,Leicester City,Sheffield Wednesday,9.0,16.0,22000.0,Filbert Street,dec,0.0,1997/98,1997,Leicester,5.0,29.5,20800.0
+179,Tottenham Hotspur,Arsenal,19.0,6.0,36284.0,White Hart Lane,dec,1.0,1997/98,1997,London,6.0,65.1,29610.0
+180,Wimbledon,West Ham United,12.0,8.0,25486.0,Selhurst Park,dec,1.0,1997/98,1997,London,6.0,65.1,22087.0
+181,Newcastle United,Liverpool,11.0,4.0,52305.0,St. James' Park,dec,0.0,1997/98,1997,Newcastle,4.0,230.3,36702.0
+182,Arsenal,Leicester City,6.0,9.0,38419.0,Highbury,dec,0.0,1997/98,1997,London,6.0,65.1,38023.0
+183,Bolton Wanderers,Barnsley,16.0,20.0,28723.0,Macron Stadium,dec,0.0,1997/98,1997,Bolton,5.0,37.4,25000.0
+184,Chelsea,Wimbledon,3.0,12.0,40834.0,Stamford Bridge,dec,1.0,1997/98,1997,London,6.0,65.1,34100.0
+185,Crystal Palace,Southampton,13.0,15.0,25486.0,Selhurst Park,dec,0.0,1997/98,1997,London,6.0,65.1,22853.0
+186,West Ham United,Coventry City,8.0,17.0,35345.0,Boleyn Ground,dec,0.0,1997/98,1997,London,6.0,65.1,24532.0
+187,Derby County,Newcastle United,7.0,10.0,33597.0,iPro Stadium,dec,0.0,1997/98,1997,Derby,5.0,29.5,30232.0
+188,Liverpool,Leeds United,4.0,5.0,54074.0,Anfield,dec,0.0,1997/98,1997,Liverpool,6.0,72.8,43854.0
+189,Manchester United,Everton,1.0,19.0,75643.0,Old Trafford,dec,0.0,1997/98,1997,Manchester,5.0,37.4,55167.0
+190,Sheffield Wednesday,Blackburn Rovers,14.0,2.0,39812.0,Hillsborough,dec,0.0,1997/98,1997,Sheffield,4.0,58.1,33502.0
+191,Aston Villa,Tottenham Hotspur,11.0,18.0,42749.0,Villa Park,dec,0.0,1997/98,1997,Birmingham,5.0,27.9,38644.0
+192,Newcastle United,Manchester United,9.0,1.0,52305.0,St. James' Park,dec,0.0,1997/98,1997,Newcastle,4.0,230.3,36763.0
+193,Aston Villa,Southampton,12.0,15.0,42749.0,Villa Park,dec,0.0,1997/98,1997,Birmingham,5.0,27.9,29343.0
+194,Blackburn Rovers,West Ham United,2.0,10.0,31367.0,Ewood Park,dec,0.0,1997/98,1997,Blackburn,6.0,45.0,21653.0
+195,Derby County,Crystal Palace,7.0,13.0,33597.0,iPro Stadium,dec,0.0,1997/98,1997,Derby,5.0,29.5,26590.0
+196,Leeds United,Bolton Wanderers,4.0,17.0,37792.0,Elland Road,dec,0.0,1997/98,1997,Leeds,4.0,43.8,31184.0
+197,Leicester City,Everton,8.0,19.0,22000.0,Filbert Street,dec,0.0,1997/98,1997,Leicester,5.0,29.5,20628.0
+198,Liverpool,Coventry City,5.0,16.0,54074.0,Anfield,dec,0.0,1997/98,1997,Liverpool,6.0,72.8,39707.0
+199,Sheffield Wednesday,Chelsea,14.0,3.0,39812.0,Hillsborough,dec,0.0,1997/98,1997,Sheffield,4.0,58.1,28334.0
+200,Tottenham Hotspur,Barnsley,18.0,20.0,36284.0,White Hart Lane,dec,0.0,1997/98,1997,London,6.0,65.1,28232.0
+201,Newcastle United,Derby County,9.0,7.0,52305.0,St. James' Park,dec,0.0,1997/98,1997,Newcastle,4.0,230.3,36289.0
+202,Manchester United,Aston Villa,1.0,12.0,75643.0,Old Trafford,dec,0.0,1997/98,1997,Manchester,5.0,37.4,55151.0
+203,Bolton Wanderers,Derby County,16.0,7.0,28723.0,Macron Stadium,dec,0.0,1997/98,1997,Bolton,5.0,37.4,23027.0
+204,Arsenal,Blackburn Rovers,5.0,2.0,38419.0,Highbury,dec,0.0,1997/98,1997,London,6.0,65.1,38147.0
+205,Barnsley,Newcastle United,20.0,9.0,23009.0,Oakwell,dec,0.0,1997/98,1997,Barnsley,4.0,58.1,18687.0
+206,Chelsea,Leeds United,3.0,4.0,40834.0,Stamford Bridge,dec,0.0,1997/98,1997,London,6.0,65.1,34690.0
+207,Coventry City,Tottenham Hotspur,14.0,18.0,23489.0,Highfield Road,dec,0.0,1997/98,1997,Coventry,5.0,21.6,19499.0
+208,Crystal Palace,Liverpool,15.0,6.0,25486.0,Selhurst Park,dec,0.0,1997/98,1997,London,6.0,65.1,25790.0
+209,Everton,Wimbledon,19.0,11.0,39414.0,Goodison Park,dec,0.0,1997/98,1997,Liverpool,6.0,72.8,28533.0
+210,Southampton,Leicester City,17.0,8.0,15200.0,The Dell,dec,0.0,1997/98,1997,Southampton,6.0,31.4,15121.0
+211,West Ham United,Sheffield Wednesday,10.0,13.0,35345.0,Boleyn Ground,dec,0.0,1997/98,1997,London,6.0,65.1,24344.0
+212,Sheffield Wednesday,Barnsley,13.0,20.0,39812.0,Hillsborough,dec,0.0,1997/98,1997,Sheffield,4.0,58.1,29086.0
+213,Wimbledon,Southampton,10.0,17.0,25486.0,Selhurst Park,dec,0.0,1997/98,1997,London,6.0,65.1,12009.0
+214,Liverpool,Manchester United,8.0,1.0,54074.0,Anfield,dec,0.0,1997/98,1997,Liverpool,6.0,72.8,41027.0
+215,Aston Villa,Coventry City,12.0,16.0,42749.0,Villa Park,dec,0.0,1997/98,1997,Birmingham,5.0,27.9,33250.0
+216,Blackburn Rovers,Bolton Wanderers,3.0,15.0,31367.0,Ewood Park,dec,0.0,1997/98,1997,Blackburn,6.0,45.0,25503.0
+217,Derby County,West Ham United,7.0,11.0,33597.0,iPro Stadium,dec,0.0,1997/98,1997,Derby,5.0,29.5,29300.0
+218,Leeds United,Everton,5.0,19.0,37792.0,Elland Road,dec,0.0,1997/98,1997,Leeds,4.0,43.8,34869.0
+219,Leicester City,Crystal Palace,6.0,14.0,22000.0,Filbert Street,dec,0.0,1997/98,1997,Leicester,5.0,29.5,19191.0
+220,Newcastle United,Arsenal,9.0,4.0,52305.0,St. James' Park,dec,0.0,1997/98,1997,Newcastle,4.0,230.3,36751.0
+221,Tottenham Hotspur,Chelsea,18.0,2.0,36284.0,White Hart Lane,dec,1.0,1997/98,1997,London,6.0,65.1,28476.0
+222,West Ham United,Crystal Palace,10.0,12.0,35345.0,Boleyn Ground,dec,1.0,1997/98,1997,London,6.0,65.1,23335.0
+223,Bolton Wanderers,Newcastle United,13.0,8.0,28723.0,Macron Stadium,dec,0.0,1997/98,1997,Bolton,5.0,37.4,24494.0
+224,Manchester United,Blackburn Rovers,1.0,3.0,75643.0,Old Trafford,nov,0.0,1997/98,1997,Manchester,7.0,35.8,55175.0
+225,Arsenal,Liverpool,5.0,7.0,38419.0,Highbury,nov,0.0,1997/98,1997,London,9.0,72.0,38094.0
+226,Barnsley,Leeds United,19.0,4.0,23009.0,Oakwell,nov,0.0,1997/98,1997,Barnsley,6.0,52.2,18690.0
+227,Bolton Wanderers,Wimbledon,13.0,11.0,28723.0,Macron Stadium,nov,0.0,1997/98,1997,Bolton,7.0,35.8,22703.0
+228,Chelsea,Derby County,2.0,9.0,40834.0,Stamford Bridge,nov,0.0,1997/98,1997,London,9.0,72.0,34544.0
+229,Coventry City,Leicester City,16.0,6.0,23489.0,Highfield Road,nov,0.0,1997/98,1997,Coventry,7.0,25.3,18309.0
+230,Crystal Palace,Newcastle United,12.0,8.0,25486.0,Selhurst Park,nov,0.0,1997/98,1997,London,9.0,72.0,26085.0
+231,Everton,Tottenham Hotspur,20.0,18.0,39414.0,Goodison Park,nov,0.0,1997/98,1997,Liverpool,8.0,67.8,36670.0
+232,Southampton,Sheffield Wednesday,17.0,15.0,15200.0,The Dell,nov,0.0,1997/98,1997,Southampton,8.0,28.4,15244.0
+233,West Ham United,Aston Villa,10.0,14.0,35345.0,Boleyn Ground,nov,0.0,1997/98,1997,London,9.0,72.0,24976.0
+234,Chelsea,Everton,3.0,20.0,40834.0,Stamford Bridge,nov,0.0,1997/98,1997,London,9.0,72.0,34148.0
+235,Tottenham Hotspur,Crystal Palace,17.0,10.0,36284.0,White Hart Lane,nov,1.0,1997/98,1997,London,9.0,72.0,25634.0
+236,Leeds United,West Ham United,5.0,15.0,37792.0,Elland Road,nov,0.0,1997/98,1997,Leeds,6.0,43.0,30031.0
+237,Aston Villa,Everton,12.0,20.0,42749.0,Villa Park,nov,0.0,1997/98,1997,Birmingham,7.0,31.5,36389.0
+238,Blackburn Rovers,Chelsea,2.0,3.0,31367.0,Ewood Park,nov,0.0,1997/98,1997,Blackburn,8.0,43.7,27683.0
+239,Derby County,Coventry City,6.0,13.0,33597.0,iPro Stadium,nov,0.0,1997/98,1997,Derby,7.0,29.9,29351.0
+240,Leicester City,Bolton Wanderers,7.0,18.0,22000.0,Filbert Street,nov,0.0,1997/98,1997,Leicester,7.0,29.9,20464.0
+241,Liverpool,Barnsley,8.0,19.0,54074.0,Anfield,nov,0.0,1997/98,1997,Liverpool,8.0,67.8,41011.0
+242,Newcastle United,Southampton,9.0,14.0,52305.0,St. James' Park,nov,0.0,1997/98,1997,Newcastle,6.0,202.8,36759.0
+243,Sheffield Wednesday,Arsenal,16.0,4.0,39812.0,Hillsborough,nov,0.0,1997/98,1997,Sheffield,6.0,52.2,34373.0
+244,Wimbledon,Manchester United,11.0,1.0,25486.0,Selhurst Park,nov,0.0,1997/98,1997,London,9.0,72.0,26309.0
+245,Leicester City,Wimbledon,7.0,9.0,22000.0,Filbert Street,nov,0.0,1997/98,1997,Leicester,7.0,29.9,18553.0
+246,Chelsea,West Ham United,4.0,14.0,40834.0,Stamford Bridge,nov,1.0,1997/98,1997,London,9.0,72.0,34382.0
+247,Arsenal,Manchester United,2.0,1.0,38419.0,Highbury,nov,0.0,1997/98,1997,London,9.0,72.0,38205.0
+248,Blackburn Rovers,Everton,3.0,17.0,31367.0,Ewood Park,nov,0.0,1997/98,1997,Blackburn,8.0,43.7,25397.0
+249,Coventry City,Newcastle United,11.0,10.0,23489.0,Highfield Road,nov,0.0,1997/98,1997,Coventry,7.0,25.3,22679.0
+250,Crystal Palace,Aston Villa,12.0,15.0,25486.0,Selhurst Park,nov,0.0,1997/98,1997,London,9.0,72.0,21097.0
+251,Leeds United,Derby County,5.0,8.0,37792.0,Elland Road,nov,0.0,1997/98,1997,Leeds,6.0,43.0,33572.0
+252,Liverpool,Tottenham Hotspur,6.0,16.0,54074.0,Anfield,nov,0.0,1997/98,1997,Liverpool,8.0,67.8,38006.0
+253,Sheffield Wednesday,Bolton Wanderers,19.0,18.0,39812.0,Hillsborough,nov,0.0,1997/98,1997,Sheffield,6.0,52.2,25027.0
+254,Southampton,Barnsley,13.0,20.0,15200.0,The Dell,nov,0.0,1997/98,1997,Southampton,8.0,28.4,15018.0
+255,Everton,Southampton,17.0,16.0,39414.0,Goodison Park,nov,0.0,1997/98,1997,Liverpool,8.0,67.8,29565.0
+256,Aston Villa,Chelsea,14.0,4.0,42749.0,Villa Park,nov,0.0,1997/98,1997,Birmingham,7.0,31.5,39372.0
+257,Barnsley,Blackburn Rovers,19.0,3.0,23009.0,Oakwell,nov,0.0,1997/98,1997,Barnsley,6.0,52.2,18665.0
+258,Bolton Wanderers,Liverpool,18.0,8.0,28723.0,Macron Stadium,nov,0.0,1997/98,1997,Bolton,7.0,35.8,25000.0
+259,Derby County,Arsenal,6.0,2.0,33597.0,iPro Stadium,nov,0.0,1997/98,1997,Derby,7.0,29.9,30004.0
+260,Manchester United,Sheffield Wednesday,1.0,20.0,75643.0,Old Trafford,nov,0.0,1997/98,1997,Manchester,7.0,35.8,55295.0
+261,Newcastle United,Leicester City,9.0,5.0,52305.0,St. James' Park,nov,0.0,1997/98,1997,Newcastle,6.0,202.8,36754.0
+262,Tottenham Hotspur,Leeds United,15.0,7.0,36284.0,White Hart Lane,nov,0.0,1997/98,1997,London,9.0,72.0,26441.0
+263,Wimbledon,Coventry City,10.0,12.0,25486.0,Selhurst Park,nov,0.0,1997/98,1997,London,9.0,72.0,11201.0
+264,Leicester City,West Ham United,4.0,11.0,22000.0,Filbert Street,oct,0.0,1997/98,1997,Leicester,11.0,36.5,20201.0
+265,Bolton Wanderers,Chelsea,17.0,5.0,28723.0,Macron Stadium,oct,0.0,1997/98,1997,Bolton,11.0,46.1,24080.0
+266,Arsenal,Aston Villa,2.0,13.0,38419.0,Highbury,oct,0.0,1997/98,1997,London,13.0,61.5,38061.0
+267,Coventry City,Everton,15.0,16.0,23489.0,Highfield Road,oct,0.0,1997/98,1997,Coventry,11.0,26.8,18760.0
+268,Liverpool,Derby County,6.0,7.0,54074.0,Anfield,oct,0.0,1997/98,1997,Liverpool,12.0,58.2,38017.0
+269,Manchester United,Barnsley,1.0,20.0,75643.0,Old Trafford,oct,0.0,1997/98,1997,Manchester,11.0,46.1,55142.0
+270,Newcastle United,Blackburn Rovers,10.0,3.0,52305.0,St. James' Park,oct,0.0,1997/98,1997,Newcastle,9.0,161.3,36716.0
+271,Sheffield Wednesday,Crystal Palace,19.0,12.0,39812.0,Hillsborough,oct,0.0,1997/98,1997,Sheffield,10.0,49.2,22072.0
+272,Southampton,Tottenham Hotspur,18.0,14.0,15200.0,The Dell,oct,0.0,1997/98,1997,Southampton,12.0,29.2,15255.0
+273,Wimbledon,Leeds United,9.0,8.0,25486.0,Selhurst Park,oct,0.0,1997/98,1997,London,13.0,61.5,15718.0
+274,Derby County,Wimbledon,6.0,11.0,33597.0,iPro Stadium,oct,0.0,1997/98,1997,Derby,11.0,36.5,28595.0
+275,Barnsley,Coventry City,18.0,15.0,23009.0,Oakwell,oct,0.0,1997/98,1997,Barnsley,10.0,49.2,17463.0
+276,Tottenham Hotspur,Sheffield Wednesday,12.0,17.0,36284.0,White Hart Lane,oct,0.0,1997/98,1997,London,13.0,61.5,25097.0
+277,Aston Villa,Wimbledon,13.0,11.0,42749.0,Villa Park,oct,0.0,1997/98,1997,Birmingham,11.0,31.9,32087.0
+278,Blackburn Rovers,Southampton,2.0,20.0,31367.0,Ewood Park,oct,0.0,1997/98,1997,Blackburn,11.0,54.6,24130.0
+279,Chelsea,Leicester City,4.0,5.0,40834.0,Stamford Bridge,oct,0.0,1997/98,1997,London,13.0,61.5,33356.0
+280,Crystal Palace,Arsenal,14.0,1.0,25486.0,Selhurst Park,oct,1.0,1997/98,1997,London,13.0,61.5,26180.0
+281,Derby County,Manchester United,6.0,3.0,33597.0,iPro Stadium,oct,0.0,1997/98,1997,Derby,11.0,36.5,30014.0
+282,Everton,Liverpool,16.0,9.0,39414.0,Goodison Park,oct,1.0,1997/98,1997,Liverpool,12.0,58.2,40112.0
+283,Leeds United,Newcastle United,7.0,10.0,37792.0,Elland Road,oct,0.0,1997/98,1997,Leeds,9.0,40.4,39834.0
+284,West Ham United,Bolton Wanderers,8.0,19.0,35345.0,Boleyn Ground,oct,0.0,1997/98,1997,London,13.0,61.5,24864.0
+285,Leicester City,Derby County,4.0,6.0,22000.0,Filbert Street,oct,0.0,1997/98,1997,Leicester,11.0,36.5,19585.0
+286,Liverpool,Chelsea,7.0,5.0,54074.0,Anfield,oct,0.0,1997/98,1997,Liverpool,12.0,58.2,36647.0
+287,Arsenal,Barnsley,1.0,20.0,38419.0,Highbury,oct,0.0,1997/98,1997,London,13.0,61.5,38049.0
+288,Bolton Wanderers,Aston Villa,17.0,10.0,28723.0,Macron Stadium,oct,0.0,1997/98,1997,Bolton,11.0,46.1,24186.0
+289,Coventry City,Leeds United,12.0,9.0,23489.0,Highfield Road,oct,0.0,1997/98,1997,Coventry,11.0,26.8,17770.0
+290,Manchester United,Crystal Palace,2.0,13.0,75643.0,Old Trafford,oct,0.0,1997/98,1997,Manchester,11.0,46.1,55143.0
+291,Newcastle United,Tottenham Hotspur,8.0,14.0,52305.0,St. James' Park,oct,0.0,1997/98,1997,Newcastle,9.0,161.3,36709.0
+292,Sheffield Wednesday,Everton,16.0,18.0,39812.0,Hillsborough,oct,0.0,1997/98,1997,Sheffield,10.0,49.2,24486.0
+293,Southampton,West Ham United,19.0,11.0,15200.0,The Dell,oct,0.0,1997/98,1997,Southampton,12.0,29.2,15212.0
+294,Wimbledon,Blackburn Rovers,15.0,3.0,25486.0,Selhurst Park,oct,0.0,1997/98,1997,London,13.0,61.5,15600.0
+295,Blackburn Rovers,Coventry City,5.0,12.0,31367.0,Ewood Park,sep,0.0,1997/98,1997,Blackburn,14.0,30.9,19086.0
+296,Aston Villa,Sheffield Wednesday,14.0,18.0,42749.0,Villa Park,sep,0.0,1997/98,1997,Birmingham,14.0,17.8,32044.0
+297,Barnsley,Leicester City,19.0,3.0,23009.0,Oakwell,sep,0.0,1997/98,1997,Barnsley,13.0,41.7,18660.0
+298,Chelsea,Newcastle United,4.0,10.0,40834.0,Stamford Bridge,sep,0.0,1997/98,1997,London,16.0,41.2,31563.0
+299,Crystal Palace,Bolton Wanderers,11.0,17.0,25486.0,Selhurst Park,sep,0.0,1997/98,1997,London,16.0,41.2,17134.0
+300,Derby County,Southampton,8.0,20.0,33597.0,iPro Stadium,sep,0.0,1997/98,1997,Derby,14.0,21.4,25625.0
+301,Everton,Arsenal,16.0,1.0,39414.0,Goodison Park,sep,0.0,1997/98,1997,Liverpool,15.0,49.0,35457.0
+302,Leeds United,Manchester United,6.0,2.0,37792.0,Elland Road,sep,0.0,1997/98,1997,Leeds,12.0,21.5,39952.0
+303,Tottenham Hotspur,Wimbledon,13.0,15.0,36284.0,White Hart Lane,sep,1.0,1997/98,1997,London,16.0,41.2,26261.0
+304,West Ham United,Liverpool,7.0,9.0,35345.0,Boleyn Ground,sep,0.0,1997/98,1997,London,16.0,41.2,25908.0
+305,Coventry City,Crystal Palace,11.0,9.0,23489.0,Highfield Road,sep,0.0,1997/98,1997,Coventry,14.0,16.5,15900.0
+306,Leicester City,Blackburn Rovers,4.0,3.0,22000.0,Filbert Street,sep,0.0,1997/98,1997,Leicester,14.0,21.4,19921.0
+307,Newcastle United,Everton,7.0,16.0,52305.0,St. James' Park,sep,0.0,1997/98,1997,Newcastle,12.0,101.9,36705.0
+308,Sheffield Wednesday,Derby County,19.0,12.0,39812.0,Hillsborough,sep,0.0,1997/98,1997,Sheffield,13.0,41.7,22391.0
+309,Southampton,Leeds United,20.0,8.0,15200.0,The Dell,sep,0.0,1997/98,1997,Southampton,15.0,15.7,15102.0
+310,Arsenal,West Ham United,1.0,10.0,38419.0,Highbury,sep,1.0,1997/98,1997,London,16.0,41.2,38012.0
+311,Manchester United,Chelsea,2.0,5.0,75643.0,Old Trafford,sep,0.0,1997/98,1997,Manchester,14.0,26.5,55163.0
+312,Wimbledon,Barnsley,15.0,18.0,25486.0,Selhurst Park,sep,0.0,1997/98,1997,London,16.0,41.2,7668.0
+313,Bolton Wanderers,Tottenham Hotspur,17.0,13.0,28723.0,Macron Stadium,sep,0.0,1997/98,1997,Bolton,14.0,26.5,23433.0
+314,Liverpool,Aston Villa,6.0,14.0,54074.0,Anfield,sep,0.0,1997/98,1997,Liverpool,15.0,49.0,34843.0
+315,Chelsea,Arsenal,5.0,1.0,40834.0,Stamford Bridge,sep,1.0,1997/98,1997,London,16.0,41.2,33012.0
+316,Aston Villa,Derby County,14.0,12.0,42749.0,Villa Park,sep,0.0,1997/98,1997,Birmingham,14.0,17.8,35444.0
+317,Bolton Wanderers,Manchester United,17.0,2.0,28723.0,Macron Stadium,sep,0.0,1997/98,1997,Bolton,14.0,26.5,25000.0
+318,Everton,Barnsley,16.0,18.0,39414.0,Goodison Park,sep,0.0,1997/98,1997,Liverpool,15.0,49.0,32659.0
+319,Leeds United,Leicester City,8.0,4.0,37792.0,Elland Road,sep,0.0,1997/98,1997,Leeds,12.0,21.5,29620.0
+320,Sheffield Wednesday,Coventry City,19.0,11.0,39812.0,Hillsborough,sep,0.0,1997/98,1997,Sheffield,13.0,41.7,21087.0
+321,Southampton,Liverpool,20.0,6.0,15200.0,The Dell,sep,0.0,1997/98,1997,Southampton,15.0,15.7,15252.0
+322,Tottenham Hotspur,Blackburn Rovers,13.0,3.0,36284.0,White Hart Lane,sep,0.0,1997/98,1997,London,16.0,41.2,26573.0
+323,West Ham United,Newcastle United,10.0,7.0,35345.0,Boleyn Ground,sep,0.0,1997/98,1997,London,16.0,41.2,25884.0
+324,Wimbledon,Crystal Palace,15.0,9.0,25486.0,Selhurst Park,sep,1.0,1997/98,1997,London,16.0,41.2,16747.0
+325,Blackburn Rovers,Leeds United,2.0,9.0,31367.0,Ewood Park,sep,0.0,1997/98,1997,Blackburn,14.0,30.9,21956.0
+326,Arsenal,Bolton Wanderers,4.0,17.0,38419.0,Highbury,sep,0.0,1997/98,1997,London,16.0,41.2,38138.0
+327,Barnsley,Aston Villa,15.0,13.0,23009.0,Oakwell,sep,0.0,1997/98,1997,Barnsley,13.0,41.7,18649.0
+328,Coventry City,Southampton,8.0,20.0,23489.0,Highfield Road,sep,0.0,1997/98,1997,Coventry,14.0,16.5,18659.0
+329,Crystal Palace,Chelsea,14.0,3.0,25486.0,Selhurst Park,sep,1.0,1997/98,1997,London,16.0,41.2,26186.0
+330,Derby County,Everton,11.0,18.0,33597.0,iPro Stadium,sep,0.0,1997/98,1997,Derby,14.0,21.4,27828.0
+331,Leicester City,Tottenham Hotspur,5.0,10.0,22000.0,Filbert Street,sep,0.0,1997/98,1997,Leicester,14.0,21.4,20683.0
+332,Liverpool,Sheffield Wednesday,7.0,19.0,54074.0,Anfield,sep,0.0,1997/98,1997,Liverpool,15.0,49.0,34705.0
+333,Manchester United,West Ham United,1.0,6.0,75643.0,Old Trafford,sep,0.0,1997/98,1997,Manchester,14.0,26.5,55068.0
+334,Newcastle United,Wimbledon,12.0,16.0,52305.0,St. James' Park,sep,0.0,1997/98,1997,Newcastle,12.0,101.9,36526.0
+335,Bolton Wanderers,Everton,12.0,14.0,28723.0,Macron Stadium,sep,0.0,1997/98,1997,Bolton,14.0,26.5,23131.0
+336,Arsenal,Tottenham Hotspur,5.0,7.0,38419.0,Highbury,aug,1.0,1997/98,1997,London,18.0,57.5,38102.0
+337,Aston Villa,Leeds United,19.0,15.0,42749.0,Villa Park,aug,0.0,1997/98,1997,Birmingham,16.0,27.0,39027.0
+338,Chelsea,Southampton,4.0,18.0,40834.0,Stamford Bridge,aug,0.0,1997/98,1997,London,18.0,57.5,30008.0
+339,Crystal Palace,Blackburn Rovers,9.0,1.0,25486.0,Selhurst Park,aug,0.0,1997/98,1997,London,18.0,57.5,20849.0
+340,Derby County,Barnsley,17.0,10.0,33597.0,iPro Stadium,aug,0.0,1997/98,1997,Derby,16.0,24.1,27232.0
+341,Manchester United,Coventry City,2.0,13.0,75643.0,Old Trafford,aug,0.0,1997/98,1997,Manchester,16.0,31.4,55074.0
+342,Sheffield Wednesday,Leicester City,16.0,6.0,39812.0,Hillsborough,aug,0.0,1997/98,1997,Sheffield,15.0,65.1,24851.0
+343,West Ham United,Wimbledon,3.0,20.0,35345.0,Boleyn Ground,aug,1.0,1997/98,1997,London,18.0,57.5,24516.0
+344,Barnsley,Bolton Wanderers,10.0,13.0,23009.0,Oakwell,aug,0.0,1997/98,1997,Barnsley,15.0,65.1,18661.0
+345,Coventry City,West Ham United,12.0,5.0,23489.0,Highfield Road,aug,0.0,1997/98,1997,Coventry,17.0,23.8,18289.0
+346,Leicester City,Arsenal,4.0,3.0,22000.0,Filbert Street,aug,0.0,1997/98,1997,Leicester,16.0,24.1,21089.0
+347,Southampton,Crystal Palace,16.0,8.0,15200.0,The Dell,aug,0.0,1997/98,1997,Southampton,17.0,10.9,15032.0
+348,Tottenham Hotspur,Aston Villa,9.0,20.0,36284.0,White Hart Lane,aug,0.0,1997/98,1997,London,18.0,57.5,26317.0
+349,Wimbledon,Chelsea,17.0,6.0,25486.0,Selhurst Park,aug,1.0,1997/98,1997,London,18.0,57.5,22237.0
+350,Everton,Manchester United,15.0,2.0,39414.0,Goodison Park,aug,0.0,1997/98,1997,Liverpool,16.0,66.6,40079.0
+351,Leeds United,Liverpool,14.0,11.0,37792.0,Elland Road,aug,0.0,1997/98,1997,Leeds,15.0,31.8,39775.0
+352,Blackburn Rovers,Sheffield Wednesday,1.0,18.0,31367.0,Ewood Park,aug,0.0,1997/98,1997,Blackburn,16.0,35.9,19618.0
+353,Barnsley,Chelsea,10.0,6.0,23009.0,Oakwell,aug,0.0,1997/98,1997,Barnsley,15.0,65.1,18170.0
+354,Blackburn Rovers,Liverpool,1.0,11.0,31367.0,Ewood Park,aug,0.0,1997/98,1997,Blackburn,16.0,35.9,30187.0
+355,Coventry City,Bolton Wanderers,12.0,13.0,23489.0,Highfield Road,aug,0.0,1997/98,1997,Coventry,17.0,23.8,16640.0
+356,Everton,West Ham United,15.0,5.0,39414.0,Goodison Park,aug,0.0,1997/98,1997,Liverpool,16.0,66.6,34356.0
+357,Leeds United,Crystal Palace,14.0,8.0,37792.0,Elland Road,aug,0.0,1997/98,1997,Leeds,15.0,31.8,29076.0
+358,Leicester City,Manchester United,4.0,2.0,22000.0,Filbert Street,aug,0.0,1997/98,1997,Leicester,16.0,24.1,21221.0
+359,Newcastle United,Aston Villa,7.0,20.0,52305.0,St. James' Park,aug,0.0,1997/98,1997,Newcastle,13.0,104.9,36783.0
+360,Southampton,Arsenal,16.0,3.0,15200.0,The Dell,aug,0.0,1997/98,1997,Southampton,17.0,10.9,15246.0
+361,Tottenham Hotspur,Derby County,9.0,19.0,36284.0,White Hart Lane,aug,0.0,1997/98,1997,London,18.0,57.5,25886.0
+362,Wimbledon,Sheffield Wednesday,17.0,18.0,25486.0,Selhurst Park,aug,0.0,1997/98,1997,London,18.0,57.5,11503.0
+363,Aston Villa,Blackburn Rovers,20.0,1.0,42749.0,Villa Park,aug,0.0,1997/98,1997,Birmingham,16.0,27.0,37112.0
+364,Liverpool,Leicester City,13.0,4.0,54074.0,Anfield,aug,0.0,1997/98,1997,Liverpool,16.0,66.6,35007.0
+365,Sheffield Wednesday,Leeds United,18.0,5.0,39812.0,Hillsborough,aug,0.0,1997/98,1997,Sheffield,15.0,65.1,31520.0
+366,West Ham United,Tottenham Hotspur,3.0,19.0,35345.0,Boleyn Ground,aug,1.0,1997/98,1997,London,18.0,57.5,25354.0
+367,Manchester United,Southampton,2.0,17.0,75643.0,Old Trafford,aug,0.0,1997/98,1997,Manchester,16.0,31.4,55008.0
+368,Crystal Palace,Barnsley,10.0,9.0,25486.0,Selhurst Park,aug,0.0,1997/98,1997,London,18.0,57.5,21547.0
+369,Arsenal,Coventry City,6.0,11.0,38419.0,Highbury,aug,0.0,1997/98,1997,London,18.0,57.5,37324.0
+370,Tottenham Hotspur,Manchester United,19.0,2.0,36284.0,White Hart Lane,aug,0.0,1997/98,1997,London,18.0,57.5,26359.0
+371,Barnsley,West Ham United,9.0,3.0,23009.0,Oakwell,aug,0.0,1997/98,1997,Barnsley,15.0,65.1,18667.0
+372,Blackburn Rovers,Derby County,1.0,16.0,31367.0,Ewood Park,aug,0.0,1997/98,1997,Blackburn,16.0,35.9,23557.0
+373,Coventry City,Chelsea,11.0,14.0,23489.0,Highfield Road,aug,0.0,1997/98,1997,Coventry,17.0,23.8,22686.0
+374,Everton,Crystal Palace,15.0,10.0,39414.0,Goodison Park,aug,0.0,1997/98,1997,Liverpool,16.0,66.6,35716.0
+375,Leeds United,Arsenal,5.0,6.0,37792.0,Elland Road,aug,0.0,1997/98,1997,Leeds,15.0,31.8,37993.0
+376,Leicester City,Aston Villa,4.0,20.0,22000.0,Filbert Street,aug,0.0,1997/98,1997,Leicester,16.0,24.1,20304.0
+377,Newcastle United,Sheffield Wednesday,7.0,18.0,52305.0,St. James' Park,aug,0.0,1997/98,1997,Newcastle,13.0,104.9,36711.0
+378,Southampton,Bolton Wanderers,17.0,8.0,15200.0,The Dell,aug,0.0,1997/98,1997,Southampton,17.0,10.9,15206.0
+379,Wimbledon,Liverpool,12.0,13.0,25486.0,Selhurst Park,aug,0.0,1997/98,1997,London,18.0,57.5,26106.0
+380,Arsenal,Aston Villa,2.0,6.0,38419.0,Highbury,may,0.0,1998/99,1998,London,14.0,52.1,38308.0
+381,Charlton Athletic,Sheffield Wednesday,18.0,12.0,27111.0,The Valley,may,0.0,1998/99,1998,London,14.0,52.1,20043.0
+382,Chelsea,Derby County,3.0,8.0,40834.0,Stamford Bridge,may,0.0,1998/99,1998,London,14.0,52.1,35016.0
+383,Coventry City,Leeds United,15.0,4.0,23489.0,Highfield Road,may,0.0,1998/99,1998,Coventry,12.0,23.3,23049.0
+384,Liverpool,Wimbledon,7.0,16.0,54074.0,Anfield,may,0.0,1998/99,1998,Liverpool,12.0,53.6,41902.0
+385,Manchester United,Tottenham Hotspur,1.0,11.0,75643.0,Old Trafford,may,0.0,1998/99,1998,Manchester,12.0,21.2,55189.0
+386,Newcastle United,Blackburn Rovers,13.0,19.0,52305.0,St. James' Park,may,0.0,1998/99,1998,Newcastle,9.0,116.4,36623.0
+387,Nottingham Forest,Leicester City,20.0,10.0,30602.0,City Ground,may,0.0,1998/99,1998,Nottingham,11.0,63.1,25353.0
+388,Southampton,Everton,17.0,14.0,15200.0,The Dell,may,0.0,1998/99,1998,Southampton,13.0,16.5,15254.0
+389,West Ham United,Middlesbrough,5.0,9.0,35345.0,Boleyn Ground,may,0.0,1998/99,1998,London,14.0,52.1,25902.0
+390,Blackburn Rovers,Manchester United,19.0,1.0,31367.0,Ewood Park,may,0.0,1998/99,1998,Blackburn,12.0,32.0,30436.0
+391,Leeds United,Arsenal,4.0,2.0,37792.0,Elland Road,may,0.0,1998/99,1998,Leeds,10.0,26.0,40124.0
+392,Tottenham Hotspur,Chelsea,11.0,3.0,36284.0,White Hart Lane,may,1.0,1998/99,1998,London,14.0,52.1,35878.0
+393,Middlesbrough,Manchester United,9.0,1.0,33746.0,Riverside Stadium,may,0.0,1998/99,1998,Middlesbrough,11.0,19.9,34655.0
+394,Aston Villa,Charlton Athletic,5.0,18.0,42749.0,Villa Park,may,0.0,1998/99,1998,Birmingham,12.0,26.6,37705.0
+395,Blackburn Rovers,Nottingham Forest,19.0,20.0,31367.0,Ewood Park,may,0.0,1998/99,1998,Blackburn,12.0,32.0,24565.0
+396,Derby County,Coventry City,7.0,16.0,33597.0,iPro Stadium,may,0.0,1998/99,1998,Derby,12.0,24.0,32450.0
+397,Everton,West Ham United,14.0,6.0,39414.0,Goodison Park,may,0.0,1998/99,1998,Liverpool,12.0,53.6,40029.0
+398,Leicester City,Newcastle United,10.0,12.0,22000.0,Filbert Street,may,0.0,1998/99,1998,Leicester,12.0,24.0,21125.0
+399,Sheffield Wednesday,Liverpool,13.0,8.0,39812.0,Hillsborough,may,0.0,1998/99,1998,Sheffield,10.0,47.0,27383.0
+400,Wimbledon,Southampton,15.0,17.0,25486.0,Selhurst Park,may,0.0,1998/99,1998,London,14.0,52.1,24068.0
+401,Chelsea,Leeds United,3.0,4.0,40834.0,Stamford Bridge,may,0.0,1998/99,1998,London,14.0,52.1,34762.0
+402,Leicester City,Derby County,11.0,9.0,22000.0,Filbert Street,may,0.0,1998/99,1998,Leicester,12.0,24.0,20535.0
+403,Liverpool,Manchester United,7.0,2.0,54074.0,Anfield,may,0.0,1998/99,1998,Liverpool,12.0,53.6,44702.0
+404,Tottenham Hotspur,Arsenal,10.0,1.0,36284.0,White Hart Lane,may,1.0,1998/99,1998,London,14.0,52.1,36019.0
+405,Arsenal,Derby County,1.0,9.0,38419.0,Highbury,may,0.0,1998/99,1998,London,14.0,52.1,37323.0
+406,Charlton Athletic,Blackburn Rovers,19.0,18.0,27111.0,The Valley,may,0.0,1998/99,1998,London,14.0,52.1,20041.0
+407,Chelsea,Everton,3.0,15.0,40834.0,Stamford Bridge,may,0.0,1998/99,1998,London,14.0,52.1,34909.0
+408,Coventry City,Wimbledon,16.0,13.0,23489.0,Highfield Road,may,0.0,1998/99,1998,Coventry,12.0,23.3,21198.0
+409,Liverpool,Tottenham Hotspur,8.0,10.0,54074.0,Anfield,may,0.0,1998/99,1998,Liverpool,12.0,53.6,44007.0
+410,Manchester United,Aston Villa,2.0,5.0,75643.0,Old Trafford,may,0.0,1998/99,1998,Manchester,12.0,21.2,55189.0
+411,Newcastle United,Middlesbrough,12.0,7.0,52305.0,St. James' Park,may,0.0,1998/99,1998,Newcastle,9.0,116.4,36784.0
+412,Nottingham Forest,Sheffield Wednesday,20.0,14.0,30602.0,City Ground,may,0.0,1998/99,1998,Nottingham,11.0,63.1,20480.0
+413,Southampton,Leicester City,17.0,11.0,15200.0,The Dell,may,0.0,1998/99,1998,Southampton,13.0,16.5,15228.0
+414,West Ham United,Leeds United,6.0,4.0,35345.0,Boleyn Ground,may,0.0,1998/99,1998,London,14.0,52.1,25997.0
+415,Leeds United,Manchester United,4.0,2.0,37792.0,Elland Road,apr,0.0,1998/99,1998,Leeds,7.0,25.8,40255.0
+416,Sheffield Wednesday,Chelsea,14.0,3.0,39812.0,Hillsborough,apr,0.0,1998/99,1998,Sheffield,8.0,31.1,21652.0
+417,Aston Villa,Nottingham Forest,5.0,20.0,42749.0,Villa Park,apr,0.0,1998/99,1998,Birmingham,8.0,23.8,34492.0
+418,Blackburn Rovers,Liverpool,17.0,9.0,31367.0,Ewood Park,apr,0.0,1998/99,1998,Blackburn,9.0,26.4,29944.0
+419,Derby County,Southampton,8.0,19.0,33597.0,iPro Stadium,apr,0.0,1998/99,1998,Derby,9.0,26.4,26557.0
+420,Everton,Charlton Athletic,15.0,18.0,39414.0,Goodison Park,apr,0.0,1998/99,1998,Liverpool,10.0,36.7,40089.0
+421,Leicester City,Coventry City,11.0,16.0,22000.0,Filbert Street,apr,0.0,1998/99,1998,Leicester,9.0,26.4,20224.0
+422,Middlesbrough,Arsenal,7.0,1.0,33746.0,Riverside Stadium,apr,0.0,1998/99,1998,Middlesbrough,8.0,22.4,34630.0
+423,Tottenham Hotspur,West Ham United,10.0,6.0,36284.0,White Hart Lane,apr,1.0,1998/99,1998,London,11.0,30.6,36089.0
+424,Wimbledon,Newcastle United,13.0,12.0,25486.0,Selhurst Park,apr,0.0,1998/99,1998,London,11.0,30.6,21325.0
+425,Liverpool,Leicester City,10.0,12.0,54074.0,Anfield,apr,0.0,1998/99,1998,Liverpool,10.0,36.7,36019.0
+426,Sheffield Wednesday,Newcastle United,14.0,11.0,39812.0,Hillsborough,apr,0.0,1998/99,1998,Sheffield,8.0,31.1,21545.0
+427,Charlton Athletic,Tottenham Hotspur,18.0,9.0,27111.0,The Valley,apr,1.0,1998/99,1998,London,11.0,30.6,20043.0
+428,Arsenal,Wimbledon,2.0,13.0,38419.0,Highbury,apr,1.0,1998/99,1998,London,11.0,30.6,37982.0
+429,Chelsea,Leicester City,3.0,12.0,40834.0,Stamford Bridge,apr,0.0,1998/99,1998,London,11.0,30.6,34535.0
+430,Charlton Athletic,Leeds United,18.0,4.0,27111.0,The Valley,apr,0.0,1998/99,1998,London,11.0,30.6,20043.0
+431,Coventry City,Middlesbrough,16.0,7.0,23489.0,Highfield Road,apr,0.0,1998/99,1998,Coventry,9.0,22.0,19228.0
+432,Liverpool,Aston Villa,10.0,5.0,54074.0,Anfield,apr,0.0,1998/99,1998,Liverpool,10.0,36.7,44306.0
+433,Manchester United,Sheffield Wednesday,1.0,14.0,75643.0,Old Trafford,apr,0.0,1998/99,1998,Manchester,9.0,27.0,55270.0
+434,Newcastle United,Everton,11.0,15.0,52305.0,St. James' Park,apr,0.0,1998/99,1998,Newcastle,7.0,70.0,36775.0
+435,Nottingham Forest,Tottenham Hotspur,20.0,9.0,30602.0,City Ground,apr,0.0,1998/99,1998,Nottingham,9.0,38.0,25181.0
+436,Southampton,Blackburn Rovers,19.0,17.0,15200.0,The Dell,apr,0.0,1998/99,1998,Southampton,9.0,19.2,15209.0
+437,West Ham United,Derby County,6.0,8.0,35345.0,Boleyn Ground,apr,0.0,1998/99,1998,London,11.0,30.6,25485.0
+438,Middlesbrough,Chelsea,7.0,3.0,33746.0,Riverside Stadium,apr,0.0,1998/99,1998,Middlesbrough,8.0,22.4,34406.0
+439,Leeds United,Liverpool,4.0,9.0,37792.0,Elland Road,apr,0.0,1998/99,1998,Leeds,7.0,25.8,39451.0
+440,Everton,Coventry City,16.0,15.0,39414.0,Goodison Park,apr,0.0,1998/99,1998,Liverpool,10.0,36.7,32341.0
+441,Wimbledon,Chelsea,11.0,3.0,25486.0,Selhurst Park,apr,1.0,1998/99,1998,London,11.0,30.6,21577.0
+442,Aston Villa,Southampton,5.0,19.0,42749.0,Villa Park,apr,0.0,1998/99,1998,Birmingham,8.0,23.8,32203.0
+443,Derby County,Nottingham Forest,8.0,20.0,33597.0,iPro Stadium,apr,0.0,1998/99,1998,Derby,9.0,26.4,32217.0
+444,Leicester City,West Ham United,13.0,6.0,22000.0,Filbert Street,apr,0.0,1998/99,1998,Leicester,9.0,26.4,20402.0
+445,Middlesbrough,Charlton Athletic,7.0,17.0,33746.0,Riverside Stadium,apr,0.0,1998/99,1998,Middlesbrough,8.0,22.4,34529.0
+446,Arsenal,Blackburn Rovers,2.0,17.0,38419.0,Highbury,apr,0.0,1998/99,1998,London,11.0,30.6,37762.0
+447,Leicester City,Aston Villa,14.0,6.0,22000.0,Filbert Street,apr,0.0,1998/99,1998,Leicester,9.0,26.4,20652.0
+448,Coventry City,Southampton,15.0,19.0,23489.0,Highfield Road,apr,0.0,1998/99,1998,Coventry,9.0,22.0,21404.0
+449,Everton,Sheffield Wednesday,18.0,13.0,39414.0,Goodison Park,apr,0.0,1998/99,1998,Liverpool,10.0,36.7,35270.0
+450,Middlesbrough,Wimbledon,9.0,11.0,33746.0,Riverside Stadium,apr,0.0,1998/99,1998,Middlesbrough,8.0,22.4,33999.0
+451,Nottingham Forest,Liverpool,20.0,8.0,30602.0,City Ground,apr,0.0,1998/99,1998,Nottingham,9.0,38.0,28374.0
+452,West Ham United,Charlton Athletic,5.0,16.0,35345.0,Boleyn Ground,apr,1.0,1998/99,1998,London,11.0,30.6,26041.0
+453,Newcastle United,Tottenham Hotspur,10.0,12.0,52305.0,St. James' Park,apr,0.0,1998/99,1998,Newcastle,7.0,70.0,36655.0
+454,Blackburn Rovers,Middlesbrough,16.0,11.0,31367.0,Ewood Park,apr,0.0,1998/99,1998,Blackburn,9.0,26.4,27482.0
+455,Charlton Athletic,Chelsea,19.0,3.0,27111.0,The Valley,apr,1.0,1998/99,1998,London,11.0,30.6,20046.0
+456,Derby County,Newcastle United,7.0,9.0,33597.0,iPro Stadium,apr,0.0,1998/99,1998,Derby,9.0,26.4,32039.0
+457,Leeds United,Nottingham Forest,4.0,20.0,37792.0,Elland Road,apr,0.0,1998/99,1998,Leeds,7.0,25.8,39645.0
+458,Liverpool,Everton,8.0,17.0,54074.0,Anfield,apr,1.0,1998/99,1998,Liverpool,10.0,36.7,44852.0
+459,Sheffield Wednesday,Coventry City,14.0,15.0,39812.0,Hillsborough,apr,0.0,1998/99,1998,Sheffield,8.0,31.1,28136.0
+460,Southampton,Arsenal,18.0,2.0,15200.0,The Dell,apr,0.0,1998/99,1998,Southampton,9.0,19.2,15255.0
+461,Tottenham Hotspur,Leicester City,12.0,13.0,36284.0,White Hart Lane,apr,0.0,1998/99,1998,London,11.0,30.6,35415.0
+462,Wimbledon,Manchester United,10.0,1.0,25486.0,Selhurst Park,apr,0.0,1998/99,1998,London,11.0,30.6,26121.0
+463,Aston Villa,West Ham United,6.0,5.0,42749.0,Villa Park,apr,0.0,1998/99,1998,Birmingham,8.0,23.8,36813.0
+464,Aston Villa,Chelsea,6.0,3.0,42749.0,Villa Park,mar,0.0,1998/99,1998,Birmingham,6.0,19.6,39217.0
+465,Manchester United,Everton,1.0,16.0,75643.0,Old Trafford,mar,0.0,1998/99,1998,Manchester,6.0,25.0,55182.0
+466,Arsenal,Coventry City,2.0,15.0,38419.0,Highbury,mar,0.0,1998/99,1998,London,8.0,29.8,38074.0
+467,Blackburn Rovers,Wimbledon,17.0,8.0,31367.0,Ewood Park,mar,0.0,1998/99,1998,Blackburn,7.0,25.2,21754.0
+468,Leeds United,Derby County,4.0,7.0,37792.0,Elland Road,mar,0.0,1998/99,1998,Leeds,5.0,27.5,38992.0
+469,Nottingham Forest,Middlesbrough,20.0,11.0,30602.0,City Ground,mar,0.0,1998/99,1998,Nottingham,6.0,38.3,21468.0
+470,Southampton,Sheffield Wednesday,18.0,13.0,15200.0,The Dell,mar,0.0,1998/99,1998,Southampton,8.0,17.2,15201.0
+471,West Ham United,Newcastle United,5.0,12.0,35345.0,Boleyn Ground,mar,0.0,1998/99,1998,London,8.0,29.8,25997.0
+472,Middlesbrough,Southampton,12.0,19.0,33746.0,Riverside Stadium,mar,0.0,1998/99,1998,Middlesbrough,6.0,18.4,33387.0
+473,Chelsea,West Ham United,3.0,7.0,40834.0,Stamford Bridge,mar,1.0,1998/99,1998,London,8.0,29.8,34765.0
+474,Coventry City,Blackburn Rovers,15.0,18.0,23489.0,Highfield Road,mar,0.0,1998/99,1998,Coventry,7.0,18.4,19701.0
+475,Derby County,Liverpool,6.0,9.0,33597.0,iPro Stadium,mar,0.0,1998/99,1998,Derby,6.0,21.3,32913.0
+476,Everton,Arsenal,16.0,2.0,39414.0,Goodison Park,mar,0.0,1998/99,1998,Liverpool,7.0,40.4,38049.0
+477,Leicester City,Charlton Athletic,14.0,17.0,22000.0,Filbert Street,mar,0.0,1998/99,1998,Leicester,6.0,21.3,20220.0
+478,Newcastle United,Manchester United,11.0,1.0,52305.0,St. James' Park,mar,0.0,1998/99,1998,Newcastle,4.0,106.4,36776.0
+479,Sheffield Wednesday,Leeds United,13.0,4.0,39812.0,Hillsborough,mar,0.0,1998/99,1998,Sheffield,5.0,29.7,28142.0
+480,Tottenham Hotspur,Aston Villa,10.0,5.0,36284.0,White Hart Lane,mar,0.0,1998/99,1998,London,8.0,29.8,35963.0
+481,Wimbledon,Nottingham Forest,8.0,20.0,25486.0,Selhurst Park,mar,0.0,1998/99,1998,London,8.0,29.8,12149.0
+482,Blackburn Rovers,Everton,18.0,15.0,31367.0,Ewood Park,mar,0.0,1998/99,1998,Blackburn,7.0,25.2,27219.0
+483,Derby County,Aston Villa,6.0,5.0,33597.0,iPro Stadium,mar,0.0,1998/99,1998,Derby,6.0,21.3,26836.0
+484,Leeds United,Tottenham Hotspur,4.0,11.0,37792.0,Elland Road,mar,0.0,1998/99,1998,Leeds,5.0,27.5,34521.0
+485,Nottingham Forest,Newcastle United,20.0,10.0,30602.0,City Ground,mar,0.0,1998/99,1998,Nottingham,6.0,38.3,22852.0
+486,Arsenal,Sheffield Wednesday,2.0,12.0,38419.0,Highbury,mar,0.0,1998/99,1998,London,8.0,29.8,37792.0
+487,Coventry City,Charlton Athletic,15.0,17.0,23489.0,Highfield Road,mar,0.0,1998/99,1998,Coventry,7.0,18.4,20255.0
+488,Southampton,West Ham United,19.0,7.0,15200.0,The Dell,mar,0.0,1998/99,1998,Southampton,8.0,17.2,15240.0
+489,Wimbledon,Leicester City,6.0,14.0,25486.0,Selhurst Park,mar,0.0,1998/99,1998,London,8.0,29.8,11801.0
+490,Sheffield Wednesday,Wimbledon,11.0,6.0,39812.0,Hillsborough,mar,0.0,1998/99,1998,Sheffield,5.0,29.7,24116.0
+491,Tottenham Hotspur,Southampton,10.0,19.0,36284.0,White Hart Lane,mar,0.0,1998/99,1998,London,8.0,29.8,28580.0
+492,Leicester City,Leeds United,14.0,4.0,22000.0,Filbert Street,mar,0.0,1998/99,1998,Leicester,6.0,21.3,18101.0
+493,Newcastle United,Arsenal,12.0,3.0,52305.0,St. James' Park,feb,0.0,1998/99,1998,Newcastle,3.0,122.8,36708.0
+494,Aston Villa,Coventry City,5.0,17.0,42749.0,Villa Park,feb,0.0,1998/99,1998,Birmingham,5.0,23.4,38799.0
+495,Charlton Athletic,Nottingham Forest,16.0,20.0,27111.0,The Valley,feb,0.0,1998/99,1998,London,6.0,47.9,20007.0
+496,Chelsea,Liverpool,2.0,8.0,40834.0,Stamford Bridge,feb,0.0,1998/99,1998,London,6.0,47.9,34822.0
+497,Everton,Wimbledon,15.0,6.0,39414.0,Goodison Park,feb,0.0,1998/99,1998,Liverpool,6.0,40.6,32574.0
+498,Manchester United,Southampton,1.0,19.0,75643.0,Old Trafford,feb,0.0,1998/99,1998,Manchester,5.0,28.4,55316.0
+499,Sheffield Wednesday,Middlesbrough,11.0,13.0,39812.0,Hillsborough,feb,0.0,1998/99,1998,Sheffield,3.0,34.2,24534.0
+500,Tottenham Hotspur,Derby County,10.0,9.0,36284.0,White Hart Lane,feb,0.0,1998/99,1998,London,6.0,47.9,35392.0
+501,West Ham United,Blackburn Rovers,7.0,18.0,35345.0,Boleyn Ground,feb,0.0,1998/99,1998,London,6.0,47.9,25529.0
+502,Wimbledon,Aston Villa,9.0,4.0,25486.0,Selhurst Park,feb,0.0,1998/99,1998,London,6.0,47.9,15582.0
+503,Arsenal,Leicester City,3.0,14.0,38419.0,Highbury,feb,0.0,1998/99,1998,London,6.0,47.9,38069.0
+504,Blackburn Rovers,Sheffield Wednesday,17.0,12.0,31367.0,Ewood Park,feb,0.0,1998/99,1998,Blackburn,5.0,28.7,24643.0
+505,Coventry City,Manchester United,18.0,1.0,23489.0,Highfield Road,feb,0.0,1998/99,1998,Coventry,5.0,19.4,22594.0
+506,Derby County,Charlton Athletic,7.0,16.0,33597.0,iPro Stadium,feb,0.0,1998/99,1998,Derby,5.0,23.3,27853.0
+507,Leeds United,Everton,5.0,15.0,37792.0,Elland Road,feb,0.0,1998/99,1998,Leeds,4.0,29.4,36344.0
+508,Liverpool,West Ham United,6.0,8.0,54074.0,Anfield,feb,0.0,1998/99,1998,Liverpool,6.0,40.6,44511.0
+509,Middlesbrough,Tottenham Hotspur,11.0,13.0,33746.0,Riverside Stadium,feb,0.0,1998/99,1998,Middlesbrough,5.0,21.8,34687.0
+510,Nottingham Forest,Chelsea,20.0,2.0,30602.0,City Ground,feb,0.0,1998/99,1998,Nottingham,4.0,47.5,26351.0
+511,Southampton,Newcastle United,19.0,10.0,15200.0,The Dell,feb,0.0,1998/99,1998,Southampton,6.0,23.8,15244.0
+512,Aston Villa,Leeds United,4.0,5.0,42749.0,Villa Park,feb,0.0,1998/99,1998,Birmingham,5.0,23.4,37510.0
+513,Chelsea,Blackburn Rovers,2.0,16.0,40834.0,Stamford Bridge,feb,0.0,1998/99,1998,London,6.0,47.9,34382.0
+514,Newcastle United,Coventry City,10.0,17.0,52305.0,St. James' Park,feb,0.0,1998/99,1998,Newcastle,3.0,122.8,36352.0
+515,Everton,Middlesbrough,15.0,11.0,39414.0,Goodison Park,feb,0.0,1998/99,1998,Liverpool,6.0,40.6,31606.0
+516,Manchester United,Arsenal,1.0,3.0,75643.0,Old Trafford,feb,0.0,1998/99,1998,Manchester,5.0,28.4,55171.0
+517,Charlton Athletic,Liverpool,18.0,5.0,27111.0,The Valley,feb,0.0,1998/99,1998,London,6.0,47.9,20043.0
+518,West Ham United,Nottingham Forest,8.0,20.0,35345.0,Boleyn Ground,feb,0.0,1998/99,1998,London,6.0,47.9,25458.0
+519,Charlton Athletic,Wimbledon,18.0,9.0,27111.0,The Valley,feb,1.0,1998/99,1998,London,6.0,47.9,20002.0
+520,Derby County,Everton,6.0,17.0,33597.0,iPro Stadium,feb,0.0,1998/99,1998,Derby,5.0,23.3,27603.0
+521,Aston Villa,Blackburn Rovers,4.0,15.0,42749.0,Villa Park,feb,0.0,1998/99,1998,Birmingham,5.0,23.4,37404.0
+522,Chelsea,Southampton,2.0,19.0,40834.0,Stamford Bridge,feb,0.0,1998/99,1998,London,6.0,47.9,34920.0
+523,Leeds United,Newcastle United,7.0,12.0,37792.0,Elland Road,feb,0.0,1998/99,1998,Leeds,4.0,29.4,40202.0
+524,Leicester City,Sheffield Wednesday,13.0,14.0,22000.0,Filbert Street,feb,0.0,1998/99,1998,Leicester,5.0,23.3,20113.0
+525,Liverpool,Middlesbrough,5.0,10.0,54074.0,Anfield,feb,0.0,1998/99,1998,Liverpool,6.0,40.6,44384.0
+526,Nottingham Forest,Manchester United,20.0,1.0,30602.0,City Ground,feb,0.0,1998/99,1998,Nottingham,4.0,47.5,30025.0
+527,Tottenham Hotspur,Coventry City,11.0,16.0,36284.0,White Hart Lane,feb,0.0,1998/99,1998,London,6.0,47.9,34376.0
+528,West Ham United,Arsenal,8.0,3.0,35345.0,Boleyn Ground,feb,1.0,1998/99,1998,London,6.0,47.9,26042.0
+529,Manchester United,Derby County,1.0,8.0,75643.0,Old Trafford,feb,0.0,1998/99,1998,Manchester,5.0,28.4,55174.0
+530,Arsenal,Chelsea,4.0,2.0,38419.0,Highbury,jan,1.0,1998/99,1998,London,6.0,52.9,38121.0
+531,Charlton Athletic,Manchester United,19.0,1.0,27111.0,The Valley,jan,0.0,1998/99,1998,London,6.0,52.9,20043.0
+532,Blackburn Rovers,Tottenham Hotspur,17.0,11.0,31367.0,Ewood Park,jan,0.0,1998/99,1998,Blackburn,5.0,32.5,29643.0
+533,Coventry City,Liverpool,16.0,6.0,23489.0,Highfield Road,jan,0.0,1998/99,1998,Coventry,5.0,27.1,23057.0
+534,Everton,Nottingham Forest,15.0,20.0,39414.0,Goodison Park,jan,0.0,1998/99,1998,Liverpool,5.0,58.3,34175.0
+535,Middlesbrough,Leicester City,10.0,12.0,33746.0,Riverside Stadium,jan,0.0,1998/99,1998,Middlesbrough,4.0,29.4,34631.0
+536,Newcastle United,Aston Villa,13.0,3.0,52305.0,St. James' Park,jan,0.0,1998/99,1998,Newcastle,3.0,190.9,36766.0
+537,Sheffield Wednesday,Derby County,14.0,8.0,39812.0,Hillsborough,jan,0.0,1998/99,1998,Sheffield,3.0,49.2,24440.0
+538,Southampton,Leeds United,18.0,5.0,15200.0,The Dell,jan,0.0,1998/99,1998,Southampton,6.0,35.7,15236.0
+539,Wimbledon,West Ham United,7.0,9.0,25486.0,Selhurst Park,jan,1.0,1998/99,1998,London,6.0,52.9,23035.0
+540,Aston Villa,Everton,2.0,15.0,42749.0,Villa Park,jan,0.0,1998/99,1998,Birmingham,4.0,34.7,32488.0
+541,Charlton Athletic,Newcastle United,18.0,14.0,27111.0,The Valley,jan,0.0,1998/99,1998,London,6.0,52.9,20043.0
+542,Chelsea,Coventry City,1.0,17.0,40834.0,Stamford Bridge,jan,0.0,1998/99,1998,London,6.0,52.9,34869.0
+543,Derby County,Blackburn Rovers,10.0,16.0,33597.0,iPro Stadium,jan,0.0,1998/99,1998,Derby,4.0,32.3,27386.0
+544,Leeds United,Middlesbrough,5.0,9.0,37792.0,Elland Road,jan,0.0,1998/99,1998,Leeds,4.0,39.1,37473.0
+545,Leicester City,Manchester United,12.0,3.0,22000.0,Filbert Street,jan,0.0,1998/99,1998,Leicester,4.0,32.3,22091.0
+546,Liverpool,Southampton,6.0,19.0,54074.0,Anfield,jan,0.0,1998/99,1998,Liverpool,5.0,58.3,44011.0
+547,Nottingham Forest,Arsenal,20.0,4.0,30602.0,City Ground,jan,0.0,1998/99,1998,Nottingham,4.0,61.2,26021.0
+548,Tottenham Hotspur,Wimbledon,11.0,7.0,36284.0,White Hart Lane,jan,1.0,1998/99,1998,London,6.0,52.9,32422.0
+549,West Ham United,Sheffield Wednesday,8.0,13.0,35345.0,Boleyn Ground,jan,0.0,1998/99,1998,London,6.0,52.9,25642.0
+550,Manchester United,West Ham United,3.0,8.0,75643.0,Old Trafford,jan,0.0,1998/99,1998,Manchester,5.0,32.4,55180.0
+551,Arsenal,Liverpool,4.0,7.0,38419.0,Highbury,jan,0.0,1998/99,1998,London,6.0,52.9,38107.0
+552,Blackburn Rovers,Leeds United,16.0,5.0,31367.0,Ewood Park,jan,0.0,1998/99,1998,Blackburn,5.0,32.5,27620.0
+553,Coventry City,Nottingham Forest,17.0,20.0,23489.0,Highfield Road,jan,0.0,1998/99,1998,Coventry,5.0,27.1,17158.0
+554,Everton,Leicester City,14.0,10.0,39414.0,Goodison Park,jan,0.0,1998/99,1998,Liverpool,5.0,58.3,32792.0
+555,Middlesbrough,Aston Villa,9.0,2.0,33746.0,Riverside Stadium,jan,0.0,1998/99,1998,Middlesbrough,4.0,29.4,34643.0
+556,Newcastle United,Chelsea,13.0,1.0,52305.0,St. James' Park,jan,0.0,1998/99,1998,Newcastle,3.0,190.9,36711.0
+557,Sheffield Wednesday,Tottenham Hotspur,15.0,12.0,39812.0,Hillsborough,jan,0.0,1998/99,1998,Sheffield,3.0,49.2,28204.0
+558,Southampton,Charlton Athletic,18.0,19.0,15200.0,The Dell,jan,0.0,1998/99,1998,Southampton,6.0,35.7,15222.0
+559,Wimbledon,Derby County,6.0,11.0,25486.0,Selhurst Park,jan,0.0,1998/99,1998,London,6.0,52.9,12732.0
+560,Leeds United,Wimbledon,5.0,9.0,37792.0,Elland Road,dec,0.0,1998/99,1998,Leeds,4.0,43.8,39816.0
+561,Chelsea,Manchester United,2.0,3.0,40834.0,Stamford Bridge,dec,0.0,1998/99,1998,London,6.0,65.1,34741.0
+562,Aston Villa,Sheffield Wednesday,1.0,15.0,42749.0,Villa Park,dec,0.0,1998/99,1998,Birmingham,5.0,27.9,39217.0
+563,Charlton Athletic,Arsenal,18.0,4.0,27111.0,The Valley,dec,1.0,1998/99,1998,London,6.0,65.1,20043.0
+564,Derby County,Middlesbrough,11.0,8.0,33597.0,iPro Stadium,dec,0.0,1998/99,1998,Derby,5.0,29.5,32726.0
+565,Liverpool,Newcastle United,7.0,13.0,54074.0,Anfield,dec,0.0,1998/99,1998,Liverpool,6.0,72.8,44605.0
+566,Nottingham Forest,Southampton,20.0,19.0,30602.0,City Ground,dec,0.0,1998/99,1998,Nottingham,4.0,67.7,23456.0
+567,Tottenham Hotspur,Everton,12.0,14.0,36284.0,White Hart Lane,dec,0.0,1998/99,1998,London,6.0,65.1,36053.0
+568,West Ham United,Coventry City,6.0,17.0,35345.0,Boleyn Ground,dec,0.0,1998/99,1998,London,6.0,65.1,25662.0
+569,Leicester City,Blackburn Rovers,10.0,16.0,22000.0,Filbert Street,dec,0.0,1998/99,1998,Leicester,5.0,29.5,21083.0
+570,Arsenal,West Ham United,5.0,7.0,38419.0,Highbury,dec,1.0,1998/99,1998,London,6.0,65.1,38098.0
+571,Southampton,Chelsea,19.0,1.0,15200.0,The Dell,dec,0.0,1998/99,1998,Southampton,6.0,31.4,15253.0
+572,Wimbledon,Charlton Athletic,8.0,18.0,25486.0,Selhurst Park,dec,1.0,1998/99,1998,London,6.0,65.1,19106.0
+573,Coventry City,Tottenham Hotspur,17.0,13.0,23489.0,Highfield Road,dec,0.0,1998/99,1998,Coventry,5.0,21.6,23091.0
+574,Everton,Derby County,14.0,11.0,39414.0,Goodison Park,dec,0.0,1998/99,1998,Liverpool,6.0,72.8,39206.0
+575,Manchester United,Nottingham Forest,3.0,20.0,75643.0,Old Trafford,dec,0.0,1998/99,1998,Manchester,5.0,37.4,55216.0
+576,Middlesbrough,Liverpool,6.0,9.0,33746.0,Riverside Stadium,dec,0.0,1998/99,1998,Middlesbrough,5.0,28.7,34626.0
+577,Newcastle United,Leeds United,12.0,4.0,52305.0,St. James' Park,dec,0.0,1998/99,1998,Newcastle,4.0,230.3,36783.0
+578,Sheffield Wednesday,Leicester City,15.0,10.0,39812.0,Hillsborough,dec,0.0,1998/99,1998,Sheffield,4.0,58.1,33513.0
+579,Blackburn Rovers,Aston Villa,16.0,2.0,31367.0,Ewood Park,dec,0.0,1998/99,1998,Blackburn,6.0,45.0,27536.0
+580,Charlton Athletic,Aston Villa,16.0,1.0,27111.0,The Valley,dec,0.0,1998/99,1998,London,6.0,65.1,20043.0
+581,Arsenal,Leeds United,6.0,5.0,38419.0,Highbury,dec,0.0,1998/99,1998,London,6.0,65.1,38025.0
+582,Chelsea,Tottenham Hotspur,2.0,13.0,40834.0,Stamford Bridge,dec,1.0,1998/99,1998,London,6.0,65.1,34881.0
+583,Coventry City,Derby County,17.0,12.0,23489.0,Highfield Road,dec,0.0,1998/99,1998,Coventry,5.0,21.6,16602.0
+584,Liverpool,Sheffield Wednesday,9.0,14.0,54074.0,Anfield,dec,0.0,1998/99,1998,Liverpool,6.0,72.8,40003.0
+585,Manchester United,Middlesbrough,3.0,4.0,75643.0,Old Trafford,dec,0.0,1998/99,1998,Manchester,5.0,37.4,55152.0
+586,Newcastle United,Leicester City,10.0,11.0,52305.0,St. James' Park,dec,0.0,1998/99,1998,Newcastle,4.0,230.3,36718.0
+587,Nottingham Forest,Blackburn Rovers,20.0,18.0,30602.0,City Ground,dec,0.0,1998/99,1998,Nottingham,4.0,67.7,22013.0
+588,Southampton,Wimbledon,19.0,8.0,15200.0,The Dell,dec,0.0,1998/99,1998,Southampton,6.0,31.4,14354.0
+589,West Ham United,Everton,7.0,15.0,35345.0,Boleyn Ground,dec,0.0,1998/99,1998,London,6.0,65.1,25998.0
+590,Manchester United,Chelsea,2.0,3.0,75643.0,Old Trafford,dec,0.0,1998/99,1998,Manchester,5.0,37.4,55159.0
+591,Leeds United,Coventry City,4.0,17.0,37792.0,Elland Road,dec,0.0,1998/99,1998,Leeds,4.0,43.8,31799.0
+592,Aston Villa,Arsenal,1.0,6.0,42749.0,Villa Park,dec,0.0,1998/99,1998,Birmingham,5.0,27.9,39217.0
+593,Wimbledon,Liverpool,8.0,12.0,25486.0,Selhurst Park,dec,0.0,1998/99,1998,London,6.0,65.1,26080.0
+594,Blackburn Rovers,Newcastle United,18.0,15.0,31367.0,Ewood Park,dec,0.0,1998/99,1998,Blackburn,6.0,45.0,27569.0
+595,Derby County,Chelsea,10.0,3.0,33597.0,iPro Stadium,dec,0.0,1998/99,1998,Derby,5.0,29.5,29056.0
+596,Everton,Southampton,14.0,20.0,39414.0,Goodison Park,dec,0.0,1998/99,1998,Liverpool,6.0,72.8,32073.0
+597,Leicester City,Nottingham Forest,9.0,19.0,22000.0,Filbert Street,dec,0.0,1998/99,1998,Leicester,5.0,29.5,20891.0
+598,Middlesbrough,West Ham United,5.0,7.0,33746.0,Riverside Stadium,dec,0.0,1998/99,1998,Middlesbrough,5.0,28.7,34623.0
+599,Sheffield Wednesday,Charlton Athletic,13.0,16.0,39812.0,Hillsborough,dec,0.0,1998/99,1998,Sheffield,4.0,58.1,26010.0
+600,Tottenham Hotspur,Manchester United,11.0,2.0,36284.0,White Hart Lane,dec,0.0,1998/99,1998,London,6.0,65.1,36058.0
+601,Chelsea,Aston Villa,3.0,1.0,40834.0,Stamford Bridge,dec,0.0,1998/99,1998,London,6.0,65.1,34765.0
+602,Sheffield Wednesday,Nottingham Forest,14.0,19.0,39812.0,Hillsborough,dec,0.0,1998/99,1998,Sheffield,4.0,58.1,19321.0
+603,Middlesbrough,Newcastle United,7.0,13.0,33746.0,Riverside Stadium,dec,0.0,1998/99,1998,Middlesbrough,5.0,28.7,34629.0
+604,Aston Villa,Manchester United,1.0,2.0,42749.0,Villa Park,dec,0.0,1998/99,1998,Birmingham,5.0,27.9,39241.0
+605,Blackburn Rovers,Charlton Athletic,18.0,16.0,31367.0,Ewood Park,dec,0.0,1998/99,1998,Blackburn,6.0,45.0,22568.0
+606,Derby County,Arsenal,10.0,5.0,33597.0,iPro Stadium,dec,0.0,1998/99,1998,Derby,5.0,29.5,29018.0
+607,Everton,Chelsea,15.0,3.0,39414.0,Goodison Park,dec,0.0,1998/99,1998,Liverpool,6.0,72.8,36430.0
+608,Leeds United,West Ham United,4.0,6.0,37792.0,Elland Road,dec,0.0,1998/99,1998,Leeds,4.0,43.8,36320.0
+609,Leicester City,Southampton,12.0,20.0,22000.0,Filbert Street,dec,0.0,1998/99,1998,Leicester,5.0,29.5,18423.0
+610,Tottenham Hotspur,Liverpool,11.0,9.0,36284.0,White Hart Lane,dec,0.0,1998/99,1998,London,6.0,65.1,36125.0
+611,Wimbledon,Coventry City,8.0,17.0,25486.0,Selhurst Park,dec,0.0,1998/99,1998,London,6.0,65.1,11717.0
+612,Manchester United,Leeds United,2.0,6.0,75643.0,Old Trafford,nov,0.0,1998/99,1998,Manchester,7.0,35.8,55172.0
+613,Arsenal,Middlesbrough,4.0,7.0,38419.0,Highbury,nov,0.0,1998/99,1998,London,9.0,72.0,38075.0
+614,Liverpool,Blackburn Rovers,8.0,20.0,54074.0,Anfield,nov,0.0,1998/99,1998,Liverpool,8.0,67.8,41753.0
+615,Charlton Athletic,Everton,15.0,14.0,27111.0,The Valley,nov,0.0,1998/99,1998,London,9.0,72.0,20043.0
+616,Chelsea,Sheffield Wednesday,5.0,16.0,40834.0,Stamford Bridge,nov,0.0,1998/99,1998,London,9.0,72.0,34451.0
+617,Coventry City,Leicester City,17.0,13.0,23489.0,Highfield Road,nov,0.0,1998/99,1998,Coventry,7.0,25.3,19887.0
+618,Newcastle United,Wimbledon,11.0,10.0,52305.0,St. James' Park,nov,0.0,1998/99,1998,Newcastle,6.0,202.8,36623.0
+619,Nottingham Forest,Aston Villa,18.0,1.0,30602.0,City Ground,nov,0.0,1998/99,1998,Nottingham,7.0,70.7,25753.0
+620,Southampton,Derby County,19.0,9.0,15200.0,The Dell,nov,0.0,1998/99,1998,Southampton,8.0,28.4,14762.0
+621,West Ham United,Tottenham Hotspur,3.0,12.0,35345.0,Boleyn Ground,nov,1.0,1998/99,1998,London,9.0,72.0,26044.0
+622,Everton,Newcastle United,16.0,14.0,39414.0,Goodison Park,nov,0.0,1998/99,1998,Liverpool,8.0,67.8,30357.0
+623,Derby County,West Ham United,11.0,6.0,33597.0,iPro Stadium,nov,0.0,1998/99,1998,Derby,7.0,29.9,31366.0
+624,Aston Villa,Liverpool,1.0,9.0,42749.0,Villa Park,nov,0.0,1998/99,1998,Birmingham,7.0,31.5,39241.0
+625,Blackburn Rovers,Southampton,20.0,19.0,31367.0,Ewood Park,nov,0.0,1998/99,1998,Blackburn,8.0,43.7,22812.0
+626,Leeds United,Charlton Athletic,5.0,13.0,37792.0,Elland Road,nov,0.0,1998/99,1998,Leeds,6.0,43.0,32487.0
+627,Leicester City,Chelsea,12.0,4.0,22000.0,Filbert Street,nov,0.0,1998/99,1998,Leicester,7.0,29.9,21401.0
+628,Middlesbrough,Coventry City,7.0,17.0,33746.0,Riverside Stadium,nov,0.0,1998/99,1998,Middlesbrough,7.0,29.1,34287.0
+629,Sheffield Wednesday,Manchester United,15.0,2.0,39812.0,Hillsborough,nov,0.0,1998/99,1998,Sheffield,6.0,52.2,39475.0
+630,Tottenham Hotspur,Nottingham Forest,10.0,18.0,36284.0,White Hart Lane,nov,0.0,1998/99,1998,London,9.0,72.0,35832.0
+631,Wimbledon,Arsenal,8.0,3.0,25486.0,Selhurst Park,nov,1.0,1998/99,1998,London,9.0,72.0,26003.0
+632,Nottingham Forest,Derby County,18.0,8.0,30602.0,City Ground,nov,0.0,1998/99,1998,Nottingham,7.0,70.7,24014.0
+633,Coventry City,Everton,15.0,17.0,23489.0,Highfield Road,nov,0.0,1998/99,1998,Coventry,7.0,25.3,19279.0
+634,Arsenal,Tottenham Hotspur,3.0,14.0,38419.0,Highbury,nov,1.0,1998/99,1998,London,9.0,72.0,38278.0
+635,Charlton Athletic,Middlesbrough,11.0,7.0,27111.0,The Valley,nov,0.0,1998/99,1998,London,9.0,72.0,19906.0
+636,Chelsea,Wimbledon,4.0,10.0,40834.0,Stamford Bridge,nov,1.0,1998/99,1998,London,9.0,72.0,34800.0
+637,Liverpool,Leeds United,12.0,5.0,54074.0,Anfield,nov,0.0,1998/99,1998,Liverpool,8.0,67.8,44305.0
+638,Manchester United,Blackburn Rovers,2.0,19.0,75643.0,Old Trafford,nov,0.0,1998/99,1998,Manchester,7.0,35.8,55198.0
+639,Newcastle United,Sheffield Wednesday,13.0,16.0,52305.0,St. James' Park,nov,0.0,1998/99,1998,Newcastle,6.0,202.8,36698.0
+640,Southampton,Aston Villa,20.0,1.0,15200.0,The Dell,nov,0.0,1998/99,1998,Southampton,8.0,28.4,15242.0
+641,West Ham United,Leicester City,6.0,9.0,35345.0,Boleyn Ground,nov,0.0,1998/99,1998,London,9.0,72.0,25642.0
+642,Arsenal,Everton,2.0,15.0,38419.0,Highbury,nov,0.0,1998/99,1998,London,9.0,72.0,38088.0
+643,Manchester United,Newcastle United,3.0,13.0,75643.0,Old Trafford,nov,0.0,1998/99,1998,Manchester,7.0,35.8,55174.0
+644,West Ham United,Chelsea,9.0,5.0,35345.0,Boleyn Ground,nov,1.0,1998/99,1998,London,9.0,72.0,26023.0
+645,Leeds United,Sheffield Wednesday,6.0,16.0,37792.0,Elland Road,nov,0.0,1998/99,1998,Leeds,6.0,43.0,30012.0
+646,Aston Villa,Tottenham Hotspur,1.0,14.0,42749.0,Villa Park,nov,0.0,1998/99,1998,Birmingham,7.0,31.5,39241.0
+647,Blackburn Rovers,Coventry City,18.0,17.0,31367.0,Ewood Park,nov,0.0,1998/99,1998,Blackburn,8.0,43.7,23779.0
+648,Charlton Athletic,Leicester City,12.0,8.0,27111.0,The Valley,nov,0.0,1998/99,1998,London,9.0,72.0,20021.0
+649,Liverpool,Derby County,11.0,7.0,54074.0,Anfield,nov,0.0,1998/99,1998,Liverpool,8.0,67.8,44020.0
+650,Nottingham Forest,Wimbledon,19.0,10.0,30602.0,City Ground,nov,0.0,1998/99,1998,Nottingham,7.0,70.7,21362.0
+651,Southampton,Middlesbrough,20.0,4.0,15200.0,The Dell,nov,0.0,1998/99,1998,Southampton,8.0,28.4,15202.0
+652,Tottenham Hotspur,Charlton Athletic,9.0,10.0,36284.0,White Hart Lane,nov,1.0,1998/99,1998,London,9.0,72.0,32202.0
+653,Middlesbrough,Nottingham Forest,4.0,18.0,33746.0,Riverside Stadium,nov,0.0,1998/99,1998,Middlesbrough,7.0,29.1,34223.0
+654,Coventry City,Arsenal,19.0,3.0,23489.0,Highfield Road,oct,0.0,1998/99,1998,Coventry,11.0,26.8,23039.0
+655,Derby County,Leeds United,12.0,11.0,33597.0,iPro Stadium,oct,0.0,1998/99,1998,Derby,11.0,36.5,27034.0
+656,Everton,Manchester United,15.0,2.0,39414.0,Goodison Park,oct,0.0,1998/99,1998,Liverpool,12.0,58.2,40087.0
+657,Leicester City,Liverpool,7.0,5.0,22000.0,Filbert Street,oct,0.0,1998/99,1998,Leicester,11.0,36.5,21837.0
+658,Newcastle United,West Ham United,13.0,8.0,52305.0,St. James' Park,oct,0.0,1998/99,1998,Newcastle,9.0,161.3,36744.0
+659,Sheffield Wednesday,Southampton,16.0,20.0,39812.0,Hillsborough,oct,0.0,1998/99,1998,Sheffield,10.0,49.2,30078.0
+660,Wimbledon,Blackburn Rovers,14.0,17.0,25486.0,Selhurst Park,oct,0.0,1998/99,1998,London,13.0,61.5,12526.0
+661,Leeds United,Chelsea,10.0,6.0,37792.0,Elland Road,oct,0.0,1998/99,1998,Leeds,9.0,40.4,35833.0
+662,Blackburn Rovers,Arsenal,17.0,3.0,31367.0,Ewood Park,oct,0.0,1998/99,1998,Blackburn,11.0,54.6,27012.0
+663,Aston Villa,Leicester City,1.0,12.0,42749.0,Villa Park,oct,0.0,1998/99,1998,Birmingham,11.0,31.9,39241.0
+664,Charlton Athletic,West Ham United,9.0,14.0,27111.0,The Valley,oct,1.0,1998/99,1998,London,13.0,61.5,20043.0
+665,Derby County,Manchester United,11.0,2.0,33597.0,iPro Stadium,oct,0.0,1998/99,1998,Derby,11.0,36.5,30867.0
+666,Liverpool,Nottingham Forest,4.0,19.0,54074.0,Anfield,oct,0.0,1998/99,1998,Liverpool,12.0,58.2,44595.0
+667,Sheffield Wednesday,Everton,16.0,15.0,39812.0,Hillsborough,oct,0.0,1998/99,1998,Sheffield,10.0,49.2,26592.0
+668,Southampton,Coventry City,20.0,18.0,15200.0,The Dell,oct,0.0,1998/99,1998,Southampton,12.0,29.2,15152.0
+669,Tottenham Hotspur,Newcastle United,8.0,7.0,36284.0,White Hart Lane,oct,0.0,1998/99,1998,London,13.0,61.5,36047.0
+670,Wimbledon,Middlesbrough,13.0,5.0,25486.0,Selhurst Park,oct,0.0,1998/99,1998,London,13.0,61.5,14114.0
+671,Leicester City,Tottenham Hotspur,11.0,14.0,22000.0,Filbert Street,oct,0.0,1998/99,1998,Leicester,11.0,36.5,20787.0
+672,Coventry City,Sheffield Wednesday,19.0,16.0,23489.0,Highfield Road,oct,0.0,1998/99,1998,Coventry,11.0,26.8,16003.0
+673,Arsenal,Southampton,5.0,20.0,38419.0,Highbury,oct,0.0,1998/99,1998,London,13.0,61.5,38027.0
+674,Chelsea,Charlton Athletic,4.0,15.0,40834.0,Stamford Bridge,oct,1.0,1998/99,1998,London,13.0,61.5,34642.0
+675,Everton,Liverpool,13.0,7.0,39414.0,Goodison Park,oct,1.0,1998/99,1998,Liverpool,12.0,58.2,40185.0
+676,Manchester United,Wimbledon,2.0,12.0,75643.0,Old Trafford,oct,0.0,1998/99,1998,Manchester,11.0,46.1,55265.0
+677,Middlesbrough,Blackburn Rovers,3.0,17.0,33746.0,Riverside Stadium,oct,0.0,1998/99,1998,Middlesbrough,10.0,32.0,34413.0
+678,Newcastle United,Derby County,6.0,10.0,52305.0,St. James' Park,oct,0.0,1998/99,1998,Newcastle,9.0,161.3,36750.0
+679,Nottingham Forest,Leeds United,18.0,9.0,30602.0,City Ground,oct,0.0,1998/99,1998,Nottingham,10.0,65.6,23911.0
+680,West Ham United,Aston Villa,8.0,1.0,35345.0,Boleyn Ground,oct,0.0,1998/99,1998,London,13.0,61.5,26002.0
+681,Arsenal,Newcastle United,3.0,10.0,38419.0,Highbury,oct,0.0,1998/99,1998,London,13.0,61.5,38102.0
+682,Liverpool,Chelsea,5.0,6.0,54074.0,Anfield,oct,0.0,1998/99,1998,Liverpool,12.0,58.2,44404.0
+683,Blackburn Rovers,West Ham United,17.0,9.0,31367.0,Ewood Park,oct,0.0,1998/99,1998,Blackburn,11.0,54.6,25213.0
+684,Coventry City,Aston Villa,19.0,1.0,23489.0,Highfield Road,oct,0.0,1998/99,1998,Coventry,11.0,26.8,22650.0
+685,Derby County,Tottenham Hotspur,7.0,12.0,33597.0,iPro Stadium,oct,0.0,1998/99,1998,Derby,11.0,36.5,30083.0
+686,Leeds United,Leicester City,11.0,16.0,37792.0,Elland Road,oct,0.0,1998/99,1998,Leeds,9.0,40.4,32606.0
+687,Middlesbrough,Sheffield Wednesday,4.0,15.0,33746.0,Riverside Stadium,oct,0.0,1998/99,1998,Middlesbrough,10.0,32.0,34163.0
+688,Nottingham Forest,Charlton Athletic,18.0,13.0,30602.0,City Ground,oct,0.0,1998/99,1998,Nottingham,10.0,65.6,22661.0
+689,Southampton,Manchester United,20.0,2.0,15200.0,The Dell,oct,0.0,1998/99,1998,Southampton,12.0,29.2,15251.0
+690,Wimbledon,Everton,8.0,14.0,25486.0,Selhurst Park,oct,0.0,1998/99,1998,London,13.0,61.5,16054.0
+691,West Ham United,Southampton,4.0,20.0,35345.0,Boleyn Ground,sep,0.0,1998/99,1998,London,16.0,41.2,23153.0
+692,Leicester City,Wimbledon,17.0,3.0,22000.0,Filbert Street,sep,0.0,1998/99,1998,Leicester,14.0,21.4,17725.0
+693,Aston Villa,Derby County,1.0,2.0,42749.0,Villa Park,sep,0.0,1998/99,1998,Birmingham,14.0,17.8,38007.0
+694,Charlton Athletic,Coventry City,14.0,19.0,27111.0,The Valley,sep,0.0,1998/99,1998,London,16.0,41.2,20048.0
+695,Chelsea,Middlesbrough,9.0,12.0,40834.0,Stamford Bridge,sep,0.0,1998/99,1998,London,16.0,41.2,34814.0
+696,Everton,Blackburn Rovers,15.0,18.0,39414.0,Goodison Park,sep,0.0,1998/99,1998,Liverpool,15.0,49.0,36404.0
+697,Newcastle United,Nottingham Forest,5.0,16.0,52305.0,St. James' Park,sep,0.0,1998/99,1998,Newcastle,12.0,101.9,36760.0
+698,Sheffield Wednesday,Arsenal,11.0,10.0,39812.0,Hillsborough,sep,0.0,1998/99,1998,Sheffield,13.0,41.7,27949.0
+699,Tottenham Hotspur,Leeds United,13.0,7.0,36284.0,White Hart Lane,sep,0.0,1998/99,1998,London,16.0,41.2,35535.0
+700,Manchester United,Liverpool,3.0,4.0,75643.0,Old Trafford,sep,0.0,1998/99,1998,Manchester,14.0,26.5,55181.0
+701,Blackburn Rovers,Chelsea,18.0,11.0,31367.0,Ewood Park,sep,0.0,1998/99,1998,Blackburn,14.0,30.9,23113.0
+702,Arsenal,Manchester United,6.0,3.0,38419.0,Highbury,sep,0.0,1998/99,1998,London,16.0,41.2,38142.0
+703,Coventry City,Newcastle United,19.0,10.0,23489.0,Highfield Road,sep,0.0,1998/99,1998,Coventry,14.0,16.5,22639.0
+704,Derby County,Leicester City,2.0,17.0,33597.0,iPro Stadium,sep,0.0,1998/99,1998,Derby,14.0,21.4,26738.0
+705,Leeds United,Aston Villa,7.0,1.0,37792.0,Elland Road,sep,0.0,1998/99,1998,Leeds,12.0,21.5,33162.0
+706,Liverpool,Charlton Athletic,4.0,15.0,54074.0,Anfield,sep,0.0,1998/99,1998,Liverpool,15.0,49.0,44526.0
+707,Middlesbrough,Everton,8.0,16.0,33746.0,Riverside Stadium,sep,0.0,1998/99,1998,Middlesbrough,14.0,18.7,34563.0
+708,Nottingham Forest,West Ham United,12.0,9.0,30602.0,City Ground,sep,0.0,1998/99,1998,Nottingham,13.0,43.7,26463.0
+709,Southampton,Tottenham Hotspur,20.0,13.0,15200.0,The Dell,sep,0.0,1998/99,1998,Southampton,15.0,15.7,15204.0
+710,Wimbledon,Sheffield Wednesday,5.0,14.0,25486.0,Selhurst Park,sep,0.0,1998/99,1998,London,16.0,41.2,13163.0
+711,Tottenham Hotspur,Middlesbrough,12.0,6.0,36284.0,White Hart Lane,sep,0.0,1998/99,1998,London,16.0,41.2,30437.0
+712,Aston Villa,Wimbledon,1.0,7.0,42749.0,Villa Park,sep,0.0,1998/99,1998,Birmingham,14.0,17.8,32959.0
+713,Charlton Athletic,Derby County,13.0,4.0,27111.0,The Valley,sep,0.0,1998/99,1998,London,16.0,41.2,19516.0
+714,Chelsea,Nottingham Forest,16.0,11.0,40834.0,Stamford Bridge,sep,0.0,1998/99,1998,London,16.0,41.2,34809.0
+715,Everton,Leeds United,17.0,3.0,39414.0,Goodison Park,sep,0.0,1998/99,1998,Liverpool,15.0,49.0,36687.0
+716,Leicester City,Arsenal,15.0,9.0,22000.0,Filbert Street,sep,0.0,1998/99,1998,Leicester,14.0,21.4,21628.0
+717,Manchester United,Coventry City,5.0,19.0,75643.0,Old Trafford,sep,0.0,1998/99,1998,Manchester,14.0,26.5,55193.0
+718,Newcastle United,Southampton,14.0,20.0,52305.0,St. James' Park,sep,0.0,1998/99,1998,Newcastle,12.0,101.9,36454.0
+719,Sheffield Wednesday,Blackburn Rovers,10.0,18.0,39812.0,Hillsborough,sep,0.0,1998/99,1998,Sheffield,13.0,41.7,20846.0
+720,West Ham United,Liverpool,8.0,2.0,35345.0,Boleyn Ground,sep,0.0,1998/99,1998,London,16.0,41.2,26010.0
+721,Aston Villa,Newcastle United,2.0,19.0,42749.0,Villa Park,sep,0.0,1998/99,1998,Birmingham,14.0,17.8,39241.0
+722,Derby County,Sheffield Wednesday,6.0,17.0,33597.0,iPro Stadium,sep,0.0,1998/99,1998,Derby,14.0,21.4,26209.0
+723,Leicester City,Middlesbrough,13.0,12.0,22000.0,Filbert Street,sep,0.0,1998/99,1998,Leicester,14.0,21.4,20635.0
+724,Liverpool,Coventry City,1.0,16.0,54074.0,Anfield,sep,0.0,1998/99,1998,Liverpool,15.0,49.0,41771.0
+725,Tottenham Hotspur,Blackburn Rovers,8.0,14.0,36284.0,White Hart Lane,sep,0.0,1998/99,1998,London,16.0,41.2,28338.0
+726,West Ham United,Wimbledon,11.0,4.0,35345.0,Boleyn Ground,sep,1.0,1998/99,1998,London,16.0,41.2,24601.0
+727,Chelsea,Arsenal,18.0,5.0,40834.0,Stamford Bridge,sep,1.0,1998/99,1998,London,16.0,41.2,34647.0
+728,Manchester United,Charlton Athletic,9.0,10.0,75643.0,Old Trafford,sep,0.0,1998/99,1998,Manchester,14.0,26.5,55147.0
+729,Leeds United,Southampton,3.0,20.0,37792.0,Elland Road,sep,0.0,1998/99,1998,Leeds,12.0,21.5,30637.0
+730,Nottingham Forest,Everton,7.0,15.0,30602.0,City Ground,sep,0.0,1998/99,1998,Nottingham,13.0,43.7,25610.0
+731,Newcastle United,Liverpool,17.0,1.0,52305.0,St. James' Park,aug,0.0,1998/99,1998,Newcastle,13.0,104.9,36740.0
+732,Arsenal,Charlton Athletic,6.0,4.0,38419.0,Highbury,aug,1.0,1998/99,1998,London,18.0,57.5,38014.0
+733,Blackburn Rovers,Leicester City,11.0,9.0,31367.0,Ewood Park,aug,0.0,1998/99,1998,Blackburn,16.0,35.9,22544.0
+734,Coventry City,West Ham United,10.0,8.0,23489.0,Highfield Road,aug,0.0,1998/99,1998,Coventry,17.0,23.8,20818.0
+735,Everton,Tottenham Hotspur,19.0,14.0,39414.0,Goodison Park,aug,0.0,1998/99,1998,Liverpool,16.0,66.6,39378.0
+736,Middlesbrough,Derby County,16.0,13.0,33746.0,Riverside Stadium,aug,0.0,1998/99,1998,Middlesbrough,16.0,24.6,34087.0
+737,Sheffield Wednesday,Aston Villa,12.0,2.0,39812.0,Hillsborough,aug,0.0,1998/99,1998,Sheffield,15.0,65.1,25989.0
+738,Southampton,Nottingham Forest,20.0,3.0,15200.0,The Dell,aug,0.0,1998/99,1998,Southampton,17.0,10.9,14942.0
+739,Wimbledon,Leeds United,5.0,7.0,25486.0,Selhurst Park,aug,0.0,1998/99,1998,London,18.0,57.5,16437.0
+740,Leeds United,Blackburn Rovers,7.0,16.0,37792.0,Elland Road,aug,0.0,1998/99,1998,Leeds,15.0,31.8,30652.0
+741,Aston Villa,Middlesbrough,3.0,17.0,42749.0,Villa Park,aug,0.0,1998/99,1998,Birmingham,16.0,27.0,29559.0
+742,Charlton Athletic,Southampton,1.0,20.0,27111.0,The Valley,aug,0.0,1998/99,1998,London,18.0,57.5,16488.0
+743,Chelsea,Newcastle United,15.0,13.0,40834.0,Stamford Bridge,aug,0.0,1998/99,1998,London,18.0,57.5,34795.0
+744,Derby County,Wimbledon,14.0,4.0,33597.0,iPro Stadium,aug,0.0,1998/99,1998,Derby,16.0,24.1,25710.0
+745,Leicester City,Everton,2.0,18.0,22000.0,Filbert Street,aug,0.0,1998/99,1998,Leicester,16.0,24.1,21037.0
+746,Liverpool,Arsenal,6.0,5.0,54074.0,Anfield,aug,0.0,1998/99,1998,Liverpool,16.0,66.6,44429.0
+747,Nottingham Forest,Coventry City,11.0,10.0,30602.0,City Ground,aug,0.0,1998/99,1998,Nottingham,15.0,62.0,22546.0
+748,Tottenham Hotspur,Sheffield Wednesday,19.0,9.0,36284.0,White Hart Lane,aug,0.0,1998/99,1998,London,18.0,57.5,32129.0
+749,West Ham United,Manchester United,8.0,12.0,35345.0,Boleyn Ground,aug,0.0,1998/99,1998,London,18.0,57.5,25912.0
+750,Arsenal,Nottingham Forest,2.0,17.0,38419.0,Highbury,aug,0.0,1998/99,1998,London,18.0,57.5,38064.0
+751,Southampton,Liverpool,18.0,4.0,15200.0,The Dell,aug,0.0,1998/99,1998,Southampton,17.0,10.9,15202.0
+752,Blackburn Rovers,Derby County,9.0,11.0,31367.0,Ewood Park,aug,0.0,1998/99,1998,Blackburn,16.0,35.9,24007.0
+753,Coventry City,Chelsea,3.0,16.0,23489.0,Highfield Road,aug,0.0,1998/99,1998,Coventry,17.0,23.8,23042.0
+754,Everton,Aston Villa,12.0,8.0,39414.0,Goodison Park,aug,0.0,1998/99,1998,Liverpool,16.0,66.6,40112.0
+755,Manchester United,Leicester City,7.0,6.0,75643.0,Old Trafford,aug,0.0,1998/99,1998,Manchester,16.0,31.4,55052.0
+756,Middlesbrough,Leeds United,14.0,13.0,33746.0,Riverside Stadium,aug,0.0,1998/99,1998,Middlesbrough,16.0,24.6,34162.0
+757,Newcastle United,Charlton Athletic,15.0,10.0,52305.0,St. James' Park,aug,0.0,1998/99,1998,Newcastle,13.0,104.9,36719.0
+758,Sheffield Wednesday,West Ham United,19.0,5.0,39812.0,Hillsborough,aug,0.0,1998/99,1998,Sheffield,15.0,65.1,30236.0
+759,Wimbledon,Tottenham Hotspur,1.0,20.0,25486.0,Selhurst Park,aug,1.0,1998/99,1998,London,18.0,57.5,23031.0

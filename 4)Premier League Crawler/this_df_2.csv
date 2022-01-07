@@ -1,0 +1,761 @@
+,team_1,team_2,team_1_rating,team_2_rating,capacity,stadium,month,derby,current_season,year,city,temprature,precipitation,attendance
+0,Aston Villa,Manchester United,6.0,1.0,42749.0,Villa Park,may,0.0,1999/00,1999,Birmingham,12.0,26.6,39217.0
+1,Bradford City,Liverpool,17.0,4.0,25136.0,Valley Parade,may,0.0,1999/00,1999,Bradford,10.0,26.0,18276.0
+2,Chelsea,Derby County,5.0,16.0,40834.0,Stamford Bridge,may,0.0,1999/00,1999,London,14.0,52.1,35084.0
+3,Everton,Middlesbrough,13.0,12.0,39414.0,Goodison Park,may,0.0,1999/00,1999,Liverpool,12.0,53.6,37444.0
+4,Newcastle United,Arsenal,11.0,2.0,52305.0,St. James' Park,may,0.0,1999/00,1999,Newcastle,9.0,116.4,36450.0
+5,Sheffield Wednesday,Leicester City,19.0,8.0,39812.0,Hillsborough,may,0.0,1999/00,1999,Sheffield,10.0,47.0,21656.0
+6,Southampton,Wimbledon,15.0,18.0,15200.0,The Dell,may,0.0,1999/00,1999,Southampton,13.0,16.5,15249.0
+7,Tottenham Hotspur,Sunderland,10.0,7.0,36284.0,White Hart Lane,may,0.0,1999/00,1999,London,14.0,52.1,36070.0
+8,Watford,Coventry City,20.0,14.0,22200.0,Vicarage Road,may,0.0,1999/00,1999,Watford,13.0,28.6,18977.0
+9,West Ham United,Leeds United,9.0,3.0,35345.0,Boleyn Ground,may,0.0,1999/00,1999,London,14.0,52.1,26044.0
+10,Arsenal,Sheffield Wednesday,2.0,19.0,38419.0,Highbury,may,0.0,1999/00,1999,London,14.0,52.1,37271.0
+11,Leeds United,Everton,3.0,10.0,37792.0,Elland Road,may,0.0,1999/00,1999,Leeds,10.0,26.0,35196.0
+12,Liverpool,Southampton,4.0,15.0,54074.0,Anfield,may,0.0,1999/00,1999,Liverpool,12.0,53.6,44015.0
+13,Manchester United,Tottenham Hotspur,1.0,11.0,75643.0,Old Trafford,may,0.0,1999/00,1999,Manchester,12.0,21.2,61629.0
+14,Arsenal,Chelsea,2.0,5.0,38419.0,Highbury,may,1.0,1999/00,1999,London,14.0,52.1,38119.0
+15,Coventry City,Sheffield Wednesday,14.0,19.0,23489.0,Highfield Road,may,0.0,1999/00,1999,Coventry,12.0,23.3,19921.0
+16,Derby County,Newcastle United,16.0,12.0,33597.0,iPro Stadium,may,0.0,1999/00,1999,Derby,12.0,24.0,32724.0
+17,Leicester City,Bradford City,8.0,18.0,22000.0,Filbert Street,may,0.0,1999/00,1999,Leicester,12.0,24.0,21103.0
+18,Middlesbrough,Watford,13.0,20.0,33746.0,Riverside Stadium,may,0.0,1999/00,1999,Middlesbrough,11.0,19.9,32930.0
+19,Sunderland,West Ham United,7.0,9.0,48707.0,Stadium of Light,may,0.0,1999/00,1999,Sunderland,10.0,23.0,41684.0
+20,Wimbledon,Aston Villa,17.0,6.0,25486.0,Selhurst Park,may,0.0,1999/00,1999,London,14.0,52.1,19188.0
+21,Leeds United,Watford,3.0,20.0,37792.0,Elland Road,may,0.0,1999/00,1999,Leeds,10.0,26.0,36324.0
+22,Liverpool,Leicester City,4.0,9.0,54074.0,Anfield,may,0.0,1999/00,1999,Liverpool,12.0,53.6,43456.0
+23,Arsenal,West Ham United,2.0,8.0,38419.0,Highbury,may,1.0,1999/00,1999,London,14.0,52.1,38092.0
+24,Middlesbrough,Newcastle United,13.0,12.0,33746.0,Riverside Stadium,may,0.0,1999/00,1999,Middlesbrough,11.0,19.9,34744.0
+25,Bradford City,Wimbledon,17.0,18.0,25136.0,Valley Parade,apr,0.0,1999/00,1999,Bradford,7.0,25.8,18276.0
+26,Sheffield Wednesday,Leeds United,19.0,4.0,39812.0,Hillsborough,apr,0.0,1999/00,1999,Sheffield,8.0,31.1,23416.0
+27,Watford,Manchester United,20.0,1.0,22200.0,Vicarage Road,apr,0.0,1999/00,1999,Watford,10.0,28.8,20250.0
+28,Aston Villa,Sunderland,6.0,7.0,42749.0,Villa Park,apr,0.0,1999/00,1999,Birmingham,8.0,23.8,33949.0
+29,Chelsea,Liverpool,5.0,3.0,40834.0,Stamford Bridge,apr,0.0,1999/00,1999,London,11.0,30.6,34957.0
+30,Everton,Arsenal,10.0,2.0,39414.0,Goodison Park,apr,0.0,1999/00,1999,Liverpool,10.0,36.7,35919.0
+31,Newcastle United,Coventry City,12.0,14.0,52305.0,St. James' Park,apr,0.0,1999/00,1999,Newcastle,7.0,70.0,36408.0
+32,Southampton,Leicester City,15.0,11.0,15200.0,The Dell,apr,0.0,1999/00,1999,Southampton,9.0,19.2,15178.0
+33,Tottenham Hotspur,Derby County,9.0,16.0,36284.0,White Hart Lane,apr,0.0,1999/00,1999,London,11.0,30.6,33044.0
+34,West Ham United,Middlesbrough,8.0,13.0,35345.0,Boleyn Ground,apr,0.0,1999/00,1999,London,11.0,30.6,25472.0
+35,Manchester United,Chelsea,1.0,5.0,75643.0,Old Trafford,apr,0.0,1999/00,1999,Manchester,9.0,27.0,61593.0
+36,Derby County,Southampton,16.0,15.0,33597.0,iPro Stadium,apr,0.0,1999/00,1999,Derby,9.0,26.4,29403.0
+37,Sunderland,Bradford City,7.0,18.0,48707.0,Stadium of Light,apr,0.0,1999/00,1999,Sunderland,7.0,23.1,40628.0
+38,Newcastle United,Leeds United,12.0,4.0,52305.0,St. James' Park,apr,0.0,1999/00,1999,Newcastle,7.0,70.0,36460.0
+39,Watford,Arsenal,20.0,3.0,22200.0,Vicarage Road,apr,0.0,1999/00,1999,Watford,10.0,28.8,19670.0
+40,Aston Villa,Leicester City,6.0,11.0,42749.0,Villa Park,apr,0.0,1999/00,1999,Birmingham,8.0,23.8,31229.0
+41,Chelsea,Middlesbrough,5.0,13.0,40834.0,Stamford Bridge,apr,0.0,1999/00,1999,London,11.0,30.6,34467.0
+42,Sheffield Wednesday,Sunderland,19.0,7.0,39812.0,Hillsborough,apr,0.0,1999/00,1999,Sheffield,8.0,31.1,28072.0
+43,Southampton,Manchester United,15.0,1.0,15200.0,The Dell,apr,0.0,1999/00,1999,Southampton,9.0,19.2,15245.0
+44,Tottenham Hotspur,Wimbledon,10.0,17.0,36284.0,White Hart Lane,apr,1.0,1999/00,1999,London,11.0,30.6,33086.0
+45,West Ham United,Coventry City,8.0,14.0,35345.0,Boleyn Ground,apr,0.0,1999/00,1999,London,11.0,30.6,24719.0
+46,Bradford City,Derby County,18.0,16.0,25136.0,Valley Parade,apr,0.0,1999/00,1999,Bradford,7.0,25.8,18276.0
+47,Everton,Liverpool,9.0,2.0,39414.0,Goodison Park,apr,1.0,1999/00,1999,Liverpool,10.0,36.7,38029.0
+48,Leicester City,Tottenham Hotspur,11.0,10.0,22000.0,Filbert Street,apr,0.0,1999/00,1999,Leicester,9.0,26.4,19764.0
+49,Wimbledon,Liverpool,17.0,2.0,25486.0,Selhurst Park,apr,0.0,1999/00,1999,London,11.0,30.6,26102.0
+50,Leeds United,Arsenal,4.0,3.0,37792.0,Elland Road,apr,0.0,1999/00,1999,Leeds,7.0,25.8,39307.0
+51,Coventry City,Middlesbrough,14.0,13.0,23489.0,Highfield Road,apr,0.0,1999/00,1999,Coventry,9.0,22.0,19345.0
+52,Derby County,West Ham United,16.0,8.0,33597.0,iPro Stadium,apr,0.0,1999/00,1999,Derby,9.0,26.4,31202.0
+53,Everton,Bradford City,9.0,19.0,39414.0,Goodison Park,apr,0.0,1999/00,1999,Liverpool,10.0,36.7,30646.0
+54,Manchester United,Sunderland,1.0,7.0,75643.0,Old Trafford,apr,0.0,1999/00,1999,Manchester,9.0,27.0,61612.0
+55,Newcastle United,Leicester City,12.0,11.0,52305.0,St. James' Park,apr,0.0,1999/00,1999,Newcastle,7.0,70.0,36246.0
+56,Sheffield Wednesday,Chelsea,18.0,5.0,39812.0,Hillsborough,apr,0.0,1999/00,1999,Sheffield,8.0,31.1,21743.0
+57,Southampton,Watford,15.0,20.0,15200.0,The Dell,apr,0.0,1999/00,1999,Southampton,9.0,19.2,15252.0
+58,Tottenham Hotspur,Aston Villa,10.0,6.0,36284.0,White Hart Lane,apr,0.0,1999/00,1999,London,11.0,30.6,35304.0
+59,Chelsea,Coventry City,4.0,14.0,40834.0,Stamford Bridge,apr,0.0,1999/00,1999,London,11.0,30.6,32316.0
+60,West Ham United,Newcastle United,8.0,10.0,35345.0,Boleyn Ground,apr,0.0,1999/00,1999,London,11.0,30.6,25817.0
+61,Wimbledon,Sheffield Wednesday,17.0,19.0,25486.0,Selhurst Park,apr,0.0,1999/00,1999,London,11.0,30.6,8248.0
+62,Middlesbrough,Manchester United,12.0,1.0,33746.0,Riverside Stadium,apr,0.0,1999/00,1999,Middlesbrough,8.0,22.4,34775.0
+63,Aston Villa,Leeds United,6.0,3.0,42749.0,Villa Park,apr,0.0,1999/00,1999,Birmingham,8.0,23.8,33889.0
+64,Liverpool,Tottenham Hotspur,2.0,11.0,54074.0,Anfield,apr,0.0,1999/00,1999,Liverpool,10.0,36.7,44536.0
+65,Bradford City,Southampton,18.0,15.0,25136.0,Valley Parade,apr,0.0,1999/00,1999,Bradford,7.0,25.8,17439.0
+66,Leicester City,Everton,13.0,8.0,22000.0,Filbert Street,apr,0.0,1999/00,1999,Leicester,9.0,26.4,31272.0
+67,Sunderland,Wimbledon,7.0,17.0,48707.0,Stadium of Light,apr,0.0,1999/00,1999,Sunderland,7.0,23.1,41592.0
+68,Watford,Derby County,20.0,16.0,22200.0,Vicarage Road,apr,0.0,1999/00,1999,Watford,10.0,28.8,16579.0
+69,Sheffield Wednesday,Aston Villa,19.0,6.0,39812.0,Hillsborough,apr,0.0,1999/00,1999,Sheffield,8.0,31.1,18136.0
+70,Tottenham Hotspur,Middlesbrough,10.0,12.0,36284.0,White Hart Lane,apr,0.0,1999/00,1999,London,11.0,30.6,31796.0
+71,Derby County,Leicester City,17.0,13.0,33597.0,iPro Stadium,apr,0.0,1999/00,1999,Derby,9.0,26.4,25763.0
+72,Coventry City,Liverpool,14.0,3.0,23489.0,Highfield Road,apr,0.0,1999/00,1999,Coventry,9.0,22.0,23098.0
+73,Everton,Watford,9.0,20.0,39414.0,Goodison Park,apr,0.0,1999/00,1999,Liverpool,10.0,36.7,36561.0
+74,Leeds United,Chelsea,2.0,5.0,37792.0,Elland Road,apr,0.0,1999/00,1999,Leeds,7.0,25.8,40162.0
+75,Manchester United,West Ham United,1.0,8.0,75643.0,Old Trafford,apr,0.0,1999/00,1999,Manchester,9.0,27.0,61611.0
+76,Newcastle United,Bradford City,11.0,18.0,52305.0,St. James' Park,apr,0.0,1999/00,1999,Newcastle,7.0,70.0,36572.0
+77,Southampton,Sunderland,15.0,7.0,15200.0,The Dell,apr,0.0,1999/00,1999,Southampton,9.0,19.2,15245.0
+78,Wimbledon,Arsenal,16.0,4.0,25486.0,Selhurst Park,apr,1.0,1999/00,1999,London,11.0,30.6,25858.0
+79,Arsenal,Coventry City,4.0,14.0,38419.0,Highbury,mar,0.0,1999/00,1999,London,8.0,29.8,38027.0
+80,Leicester City,Leeds United,11.0,2.0,22000.0,Filbert Street,mar,0.0,1999/00,1999,Leicester,6.0,21.3,21095.0
+81,West Ham United,Wimbledon,8.0,16.0,35345.0,Boleyn Ground,mar,1.0,1999/00,1999,London,8.0,29.8,22438.0
+82,Aston Villa,Derby County,6.0,17.0,42749.0,Villa Park,mar,0.0,1999/00,1999,Birmingham,6.0,19.6,28613.0
+83,Bradford City,Manchester United,18.0,1.0,25136.0,Valley Parade,mar,0.0,1999/00,1999,Bradford,5.0,27.5,18276.0
+84,Chelsea,Southampton,5.0,15.0,40834.0,Stamford Bridge,mar,0.0,1999/00,1999,London,8.0,29.8,34956.0
+85,Liverpool,Newcastle United,3.0,12.0,54074.0,Anfield,mar,0.0,1999/00,1999,Liverpool,7.0,40.4,44743.0
+86,Middlesbrough,Sheffield Wednesday,13.0,19.0,33746.0,Riverside Stadium,mar,0.0,1999/00,1999,Middlesbrough,6.0,18.4,32748.0
+87,Sunderland,Everton,7.0,10.0,48707.0,Stadium of Light,mar,0.0,1999/00,1999,Sunderland,6.0,18.5,26044.0
+88,Watford,Tottenham Hotspur,20.0,9.0,22200.0,Vicarage Road,mar,0.0,1999/00,1999,Watford,7.0,23.9,20050.0
+89,Arsenal,Tottenham Hotspur,4.0,7.0,38419.0,Highbury,mar,1.0,1999/00,1999,London,8.0,29.8,38131.0
+90,Leeds United,Wimbledon,2.0,16.0,37792.0,Elland Road,mar,0.0,1999/00,1999,Leeds,5.0,27.5,39256.0
+91,Everton,Newcastle United,10.0,11.0,39414.0,Goodison Park,mar,0.0,1999/00,1999,Liverpool,7.0,40.4,15251.0
+92,Coventry City,Bradford City,12.0,18.0,23489.0,Highfield Road,mar,0.0,1999/00,1999,Coventry,7.0,18.4,19201.0
+93,Derby County,Liverpool,17.0,3.0,33597.0,iPro Stadium,mar,0.0,1999/00,1999,Derby,6.0,21.3,33378.0
+94,Leicester City,Manchester United,13.0,1.0,22000.0,Filbert Street,mar,0.0,1999/00,1999,Leicester,6.0,21.3,22170.0
+95,Southampton,Aston Villa,15.0,6.0,15200.0,The Dell,mar,0.0,1999/00,1999,Southampton,8.0,17.2,15218.0
+96,Sunderland,Middlesbrough,8.0,14.0,48707.0,Stadium of Light,mar,0.0,1999/00,1999,Sunderland,6.0,18.5,42013.0
+97,Watford,Sheffield Wednesday,20.0,19.0,22200.0,Vicarage Road,mar,0.0,1999/00,1999,Watford,7.0,23.9,15840.0
+98,West Ham United,Chelsea,9.0,5.0,35345.0,Boleyn Ground,mar,1.0,1999/00,1999,London,8.0,29.8,26041.0
+99,Coventry City,Everton,14.0,8.0,23489.0,Highfield Road,mar,0.0,1999/00,1999,Coventry,7.0,18.4,18518.0
+100,Liverpool,Aston Villa,3.0,6.0,54074.0,Anfield,mar,0.0,1999/00,1999,Liverpool,7.0,40.4,43615.0
+101,Middlesbrough,Arsenal,13.0,5.0,33746.0,Riverside Stadium,mar,0.0,1999/00,1999,Middlesbrough,6.0,18.4,34244.0
+102,Bradford City,Leeds United,18.0,2.0,25136.0,Valley Parade,mar,0.0,1999/00,1999,Bradford,5.0,27.5,18276.0
+103,Aston Villa,Coventry City,6.0,14.0,42749.0,Villa Park,mar,0.0,1999/00,1999,Birmingham,6.0,19.6,33177.0
+104,Chelsea,Everton,4.0,8.0,40834.0,Stamford Bridge,mar,0.0,1999/00,1999,London,8.0,29.8,35113.0
+105,Liverpool,Sunderland,3.0,9.0,54074.0,Anfield,mar,0.0,1999/00,1999,Liverpool,7.0,40.4,44693.0
+106,Manchester United,Derby County,1.0,17.0,75643.0,Old Trafford,mar,0.0,1999/00,1999,Manchester,6.0,25.0,61619.0
+107,Newcastle United,Watford,12.0,20.0,52305.0,St. James' Park,mar,0.0,1999/00,1999,Newcastle,4.0,106.4,36433.0
+108,Sheffield Wednesday,West Ham United,19.0,10.0,39812.0,Hillsborough,mar,0.0,1999/00,1999,Sheffield,5.0,29.7,21147.0
+109,Tottenham Hotspur,Southampton,7.0,16.0,36284.0,White Hart Lane,mar,0.0,1999/00,1999,London,8.0,29.8,36024.0
+110,Wimbledon,Leicester City,15.0,11.0,25486.0,Selhurst Park,mar,0.0,1999/00,1999,London,8.0,29.8,14319.0
+111,West Ham United,Southampton,6.0,15.0,35345.0,Boleyn Ground,mar,0.0,1999/00,1999,London,8.0,29.8,23484.0
+112,Aston Villa,Arsenal,9.0,4.0,42749.0,Villa Park,mar,0.0,1999/00,1999,Birmingham,6.0,19.6,36930.0
+113,Leeds United,Coventry City,2.0,14.0,37792.0,Elland Road,mar,0.0,1999/00,1999,Leeds,5.0,27.5,38710.0
+114,Leicester City,Sunderland,11.0,8.0,22000.0,Filbert Street,mar,0.0,1999/00,1999,Leicester,6.0,21.3,20432.0
+115,Derby County,Wimbledon,17.0,16.0,33597.0,iPro Stadium,mar,0.0,1999/00,1999,Derby,6.0,21.3,28384.0
+116,Everton,Sheffield Wednesday,7.0,19.0,39414.0,Goodison Park,mar,0.0,1999/00,1999,Liverpool,7.0,40.4,30409.0
+117,Newcastle United,Chelsea,12.0,3.0,52305.0,St. James' Park,mar,0.0,1999/00,1999,Newcastle,4.0,106.4,36448.0
+118,Southampton,Middlesbrough,15.0,13.0,15200.0,The Dell,mar,0.0,1999/00,1999,Southampton,8.0,17.2,15223.0
+119,Tottenham Hotspur,Bradford City,10.0,18.0,36284.0,White Hart Lane,mar,0.0,1999/00,1999,London,8.0,29.8,35472.0
+120,Manchester United,Liverpool,1.0,5.0,75643.0,Old Trafford,mar,0.0,1999/00,1999,Manchester,6.0,25.0,61592.0
+121,Watford,West Ham United,20.0,6.0,22200.0,Vicarage Road,mar,0.0,1999/00,1999,Watford,7.0,23.9,18619.0
+122,Arsenal,Southampton,3.0,16.0,38419.0,Highbury,feb,0.0,1999/00,1999,London,6.0,47.9,38044.0
+123,Bradford City,Aston Villa,18.0,8.0,25136.0,Valley Parade,feb,0.0,1999/00,1999,Bradford,4.0,29.4,18276.0
+124,Chelsea,Watford,5.0,20.0,40834.0,Stamford Bridge,feb,0.0,1999/00,1999,London,6.0,47.9,34928.0
+125,Coventry City,Tottenham Hotspur,13.0,9.0,23489.0,Highfield Road,feb,0.0,1999/00,1999,Coventry,5.0,19.4,23077.0
+126,Middlesbrough,Leeds United,14.0,2.0,33746.0,Riverside Stadium,feb,0.0,1999/00,1999,Middlesbrough,5.0,21.8,34800.0
+127,Sheffield Wednesday,Newcastle United,19.0,12.0,39812.0,Hillsborough,feb,0.0,1999/00,1999,Sheffield,3.0,34.2,29212.0
+128,Sunderland,Derby County,6.0,17.0,48707.0,Stadium of Light,feb,0.0,1999/00,1999,Sunderland,4.0,17.8,41960.0
+129,West Ham United,Everton,11.0,7.0,35345.0,Boleyn Ground,feb,0.0,1999/00,1999,London,6.0,47.9,34224.0
+130,Wimbledon,Manchester United,15.0,1.0,25486.0,Selhurst Park,feb,0.0,1999/00,1999,London,6.0,47.9,26129.0
+131,Leeds United,Manchester United,2.0,1.0,37792.0,Elland Road,feb,0.0,1999/00,1999,Leeds,4.0,29.4,40160.0
+132,Middlesbrough,Coventry City,14.0,12.0,33746.0,Riverside Stadium,feb,0.0,1999/00,1999,Middlesbrough,5.0,21.8,32798.0
+133,Middlesbrough,Aston Villa,14.0,7.0,33746.0,Riverside Stadium,feb,0.0,1999/00,1999,Middlesbrough,5.0,21.8,31571.0
+134,Arsenal,Liverpool,4.0,3.0,38419.0,Highbury,feb,0.0,1999/00,1999,London,6.0,47.9,38098.0
+135,Chelsea,Wimbledon,5.0,16.0,40834.0,Stamford Bridge,feb,1.0,1999/00,1999,London,6.0,47.9,34826.0
+136,Coventry City,Sunderland,12.0,6.0,23489.0,Highfield Road,feb,0.0,1999/00,1999,Coventry,5.0,19.4,22101.0
+137,Everton,Derby County,8.0,17.0,39414.0,Goodison Park,feb,0.0,1999/00,1999,Liverpool,6.0,40.6,33268.0
+138,Leeds United,Tottenham Hotspur,2.0,9.0,37792.0,Elland Road,feb,0.0,1999/00,1999,Leeds,4.0,29.4,40127.0
+139,Newcastle United,Manchester United,13.0,1.0,52305.0,St. James' Park,feb,0.0,1999/00,1999,Newcastle,3.0,122.8,36470.0
+140,Sheffield Wednesday,Southampton,19.0,15.0,39812.0,Hillsborough,feb,0.0,1999/00,1999,Sheffield,3.0,34.2,23470.0
+141,Watford,Leicester City,20.0,11.0,22200.0,Vicarage Road,feb,0.0,1999/00,1999,Watford,5.0,27.8,16814.0
+142,West Ham United,Bradford City,10.0,18.0,35345.0,Boleyn Ground,feb,0.0,1999/00,1999,London,6.0,47.9,25417.0
+143,Wimbledon,Everton,14.0,10.0,25486.0,Selhurst Park,feb,0.0,1999/00,1999,London,6.0,47.9,34244.0
+144,Aston Villa,Watford,8.0,20.0,42749.0,Villa Park,feb,0.0,1999/00,1999,Birmingham,5.0,23.4,27647.0
+145,Bradford City,Arsenal,18.0,3.0,25136.0,Valley Parade,feb,0.0,1999/00,1999,Bradford,4.0,29.4,18276.0
+146,Derby County,Sheffield Wednesday,17.0,19.0,33597.0,iPro Stadium,feb,0.0,1999/00,1999,Derby,5.0,23.3,30100.0
+147,Leicester City,Middlesbrough,9.0,15.0,22000.0,Filbert Street,feb,0.0,1999/00,1999,Leicester,5.0,23.3,17550.0
+148,Liverpool,Leeds United,4.0,2.0,54074.0,Anfield,feb,0.0,1999/00,1999,Liverpool,6.0,40.6,44793.0
+149,Manchester United,Coventry City,1.0,12.0,75643.0,Old Trafford,feb,0.0,1999/00,1999,Manchester,5.0,28.4,61380.0
+150,Southampton,West Ham United,16.0,11.0,15200.0,The Dell,feb,0.0,1999/00,1999,Southampton,6.0,23.8,15257.0
+151,Sunderland,Newcastle United,6.0,13.0,48707.0,Stadium of Light,feb,0.0,1999/00,1999,Sunderland,4.0,17.8,42192.0
+152,Tottenham Hotspur,Chelsea,7.0,5.0,36284.0,White Hart Lane,feb,1.0,1999/00,1999,London,6.0,47.9,36041.0
+153,Sheffield Wednesday,Manchester United,19.0,1.0,39812.0,Hillsborough,feb,0.0,1999/00,1999,Sheffield,3.0,34.2,39640.0
+154,Manchester United,Middlesbrough,1.0,14.0,75643.0,Old Trafford,jan,0.0,1999/00,1999,Manchester,5.0,32.4,61267.0
+155,Manchester United,Arsenal,1.0,3.0,75643.0,Old Trafford,jan,0.0,1999/00,1999,Manchester,5.0,32.4,58293.0
+156,Sunderland,Leeds United,5.0,2.0,48707.0,Stadium of Light,jan,0.0,1999/00,1999,Sunderland,4.0,20.8,41947.0
+157,Aston Villa,Chelsea,9.0,6.0,42749.0,Villa Park,jan,0.0,1999/00,1999,Birmingham,4.0,34.7,33704.0
+158,Bradford City,Watford,18.0,20.0,25136.0,Valley Parade,jan,0.0,1999/00,1999,Bradford,4.0,39.1,16864.0
+159,Derby County,Coventry City,16.0,12.0,33597.0,iPro Stadium,jan,0.0,1999/00,1999,Derby,4.0,32.3,28381.0
+160,Leicester City,West Ham United,10.0,8.0,22000.0,Filbert Street,jan,0.0,1999/00,1999,Leicester,4.0,32.3,19019.0
+161,Liverpool,Middlesbrough,4.0,14.0,54074.0,Anfield,jan,0.0,1999/00,1999,Liverpool,5.0,58.3,44324.0
+162,Southampton,Everton,17.0,11.0,15200.0,The Dell,jan,0.0,1999/00,1999,Southampton,6.0,35.7,19174.0
+163,Tottenham Hotspur,Sheffield Wednesday,7.0,19.0,36284.0,White Hart Lane,jan,0.0,1999/00,1999,London,6.0,52.9,35897.0
+164,Wimbledon,Newcastle United,13.0,15.0,25486.0,Selhurst Park,jan,0.0,1999/00,1999,London,6.0,52.9,22118.0
+165,Newcastle United,Southampton,13.0,17.0,52305.0,St. James' Park,jan,0.0,1999/00,1999,Newcastle,3.0,190.9,35623.0
+166,Arsenal,Sunderland,3.0,5.0,38419.0,Highbury,jan,0.0,1999/00,1999,London,6.0,52.9,38039.0
+167,Chelsea,Leicester City,6.0,8.0,40834.0,Stamford Bridge,jan,0.0,1999/00,1999,London,6.0,52.9,35063.0
+168,Coventry City,Wimbledon,12.0,15.0,23489.0,Highfield Road,jan,0.0,1999/00,1999,Coventry,5.0,27.1,19012.0
+169,Everton,Tottenham Hotspur,9.0,7.0,39414.0,Goodison Park,jan,0.0,1999/00,1999,Liverpool,5.0,58.3,32290.0
+170,Middlesbrough,Derby County,14.0,16.0,33746.0,Riverside Stadium,jan,0.0,1999/00,1999,Middlesbrough,4.0,29.4,32745.0
+171,Sheffield Wednesday,Bradford City,20.0,18.0,39812.0,Hillsborough,jan,0.0,1999/00,1999,Sheffield,3.0,49.2,24682.0
+172,Watford,Liverpool,19.0,4.0,22200.0,Vicarage Road,jan,0.0,1999/00,1999,Watford,5.0,35.0,21367.0
+173,West Ham United,Aston Villa,11.0,10.0,35345.0,Boleyn Ground,jan,0.0,1999/00,1999,London,6.0,52.9,24237.0
+174,Chelsea,Tottenham Hotspur,6.0,7.0,40834.0,Stamford Bridge,jan,1.0,1999/00,1999,London,6.0,52.9,34969.0
+175,Bradford City,Chelsea,18.0,6.0,25136.0,Valley Parade,jan,0.0,1999/00,1999,Bradford,4.0,39.1,18276.0
+176,Coventry City,Chelsea,13.0,6.0,23489.0,Highfield Road,jan,0.0,1999/00,1999,Coventry,5.0,27.1,20164.0
+177,Derby County,Watford,17.0,19.0,33597.0,iPro Stadium,jan,0.0,1999/00,1999,Derby,4.0,32.3,28072.0
+178,Leeds United,Aston Villa,1.0,10.0,37792.0,Elland Road,jan,0.0,1999/00,1999,Leeds,4.0,39.1,40027.0
+179,Newcastle United,West Ham United,15.0,11.0,52305.0,St. James' Park,jan,0.0,1999/00,1999,Newcastle,3.0,190.9,36314.0
+180,Sheffield Wednesday,Arsenal,20.0,3.0,39812.0,Hillsborough,jan,0.0,1999/00,1999,Sheffield,3.0,49.2,26155.0
+181,Southampton,Bradford City,16.0,18.0,15200.0,The Dell,jan,0.0,1999/00,1999,Southampton,6.0,35.7,15027.0
+182,Tottenham Hotspur,Liverpool,7.0,5.0,36284.0,White Hart Lane,jan,0.0,1999/00,1999,London,6.0,52.9,36044.0
+183,Wimbledon,Sunderland,14.0,4.0,25486.0,Selhurst Park,jan,0.0,1999/00,1999,London,6.0,52.9,17621.0
+184,Everton,Leicester City,9.0,8.0,39414.0,Goodison Park,jan,0.0,1999/00,1999,Liverpool,5.0,58.3,27358.0
+185,Aston Villa,Tottenham Hotspur,12.0,6.0,42749.0,Villa Park,dec,0.0,1999/00,1999,Birmingham,5.0,27.9,39217.0
+186,Chelsea,Sheffield Wednesday,7.0,20.0,40834.0,Stamford Bridge,dec,0.0,1999/00,1999,London,6.0,65.1,32938.0
+187,Arsenal,Leeds United,3.0,1.0,38419.0,Highbury,dec,0.0,1999/00,1999,London,6.0,65.1,38096.0
+188,Bradford City,Everton,17.0,9.0,25136.0,Valley Parade,dec,0.0,1999/00,1999,Bradford,4.0,43.8,18276.0
+189,Leicester City,Newcastle United,8.0,14.0,22000.0,Filbert Street,dec,0.0,1999/00,1999,Leicester,5.0,29.5,21225.0
+190,Liverpool,Wimbledon,5.0,15.0,54074.0,Anfield,dec,0.0,1999/00,1999,Liverpool,6.0,72.8,44107.0
+191,Watford,Southampton,19.0,16.0,22200.0,Vicarage Road,dec,0.0,1999/00,1999,Watford,6.0,36.0,18459.0
+192,West Ham United,Derby County,10.0,18.0,35345.0,Boleyn Ground,dec,0.0,1999/00,1999,London,6.0,65.1,24998.0
+193,Sunderland,Manchester United,4.0,2.0,48707.0,Stadium of Light,dec,0.0,1999/00,1999,Sunderland,4.0,22.9,42026.0
+194,Derby County,Aston Villa,18.0,12.0,33597.0,iPro Stadium,dec,0.0,1999/00,1999,Derby,5.0,29.5,33222.0
+195,Everton,Sunderland,8.0,3.0,39414.0,Goodison Park,dec,0.0,1999/00,1999,Liverpool,6.0,72.8,20043.0
+196,Leeds United,Leicester City,1.0,7.0,37792.0,Elland Road,dec,0.0,1999/00,1999,Leeds,4.0,43.8,40105.0
+197,Manchester United,Bradford City,2.0,17.0,75643.0,Old Trafford,dec,0.0,1999/00,1999,Manchester,5.0,37.4,55188.0
+198,Newcastle United,Liverpool,15.0,5.0,52305.0,St. James' Park,dec,0.0,1999/00,1999,Newcastle,4.0,230.3,36445.0
+199,Coventry City,Arsenal,13.0,4.0,23489.0,Highfield Road,dec,0.0,1999/00,1999,Coventry,5.0,21.6,22757.0
+200,Southampton,Chelsea,16.0,9.0,15200.0,The Dell,dec,0.0,1999/00,1999,Southampton,6.0,31.4,15232.0
+201,Tottenham Hotspur,Watford,6.0,19.0,36284.0,White Hart Lane,dec,0.0,1999/00,1999,London,6.0,65.1,36089.0
+202,Wimbledon,West Ham United,14.0,11.0,25486.0,Selhurst Park,dec,1.0,1999/00,1999,London,6.0,65.1,21180.0
+203,Sheffield Wednesday,Middlesbrough,20.0,10.0,39812.0,Hillsborough,dec,0.0,1999/00,1999,Sheffield,4.0,58.1,28531.0
+204,Chelsea,Leeds United,10.0,1.0,40834.0,Stamford Bridge,dec,0.0,1999/00,1999,London,6.0,65.1,35106.0
+205,Arsenal,Wimbledon,4.0,14.0,38419.0,Highbury,dec,1.0,1999/00,1999,London,6.0,65.1,38052.0
+206,Aston Villa,Sheffield Wednesday,12.0,20.0,42749.0,Villa Park,dec,0.0,1999/00,1999,Birmingham,5.0,27.9,23885.0
+207,Bradford City,Newcastle United,17.0,15.0,25136.0,Valley Parade,dec,0.0,1999/00,1999,Bradford,4.0,43.8,18286.0
+208,Leicester City,Derby County,6.0,18.0,22000.0,Filbert Street,dec,0.0,1999/00,1999,Leicester,5.0,29.5,18581.0
+209,Liverpool,Coventry City,5.0,13.0,54074.0,Anfield,dec,0.0,1999/00,1999,Liverpool,6.0,72.8,44024.0
+210,Middlesbrough,Tottenham Hotspur,8.0,7.0,33746.0,Riverside Stadium,dec,0.0,1999/00,1999,Middlesbrough,5.0,28.7,33129.0
+211,Sunderland,Southampton,3.0,16.0,48707.0,Stadium of Light,dec,0.0,1999/00,1999,Sunderland,4.0,22.9,40860.0
+212,Watford,Everton,19.0,11.0,22200.0,Vicarage Road,dec,0.0,1999/00,1999,Watford,6.0,36.0,31260.0
+213,West Ham United,Manchester United,9.0,2.0,35345.0,Boleyn Ground,dec,0.0,1999/00,1999,London,6.0,65.1,26037.0
+214,Tottenham Hotspur,West Ham United,7.0,8.0,36284.0,White Hart Lane,dec,1.0,1999/00,1999,London,6.0,65.1,36233.0
+215,Derby County,Leeds United,18.0,1.0,33597.0,iPro Stadium,dec,0.0,1999/00,1999,Derby,5.0,29.5,29455.0
+216,Liverpool,Sheffield Wednesday,5.0,20.0,54074.0,Anfield,dec,0.0,1999/00,1999,Liverpool,6.0,72.8,42517.0
+217,Leicester City,Arsenal,6.0,3.0,22000.0,Filbert Street,dec,0.0,1999/00,1999,Leicester,5.0,29.5,20495.0
+218,Aston Villa,Newcastle United,15.0,14.0,42749.0,Villa Park,dec,0.0,1999/00,1999,Birmingham,5.0,27.9,34531.0
+219,Bradford City,Middlesbrough,17.0,10.0,25136.0,Valley Parade,dec,0.0,1999/00,1999,Bradford,4.0,43.8,17708.0
+220,Manchester United,Everton,2.0,12.0,75643.0,Old Trafford,dec,0.0,1999/00,1999,Manchester,5.0,37.4,34516.0
+221,Southampton,Coventry City,16.0,11.0,15200.0,The Dell,dec,0.0,1999/00,1999,Southampton,6.0,31.4,15168.0
+222,Sunderland,Chelsea,4.0,9.0,48707.0,Stadium of Light,dec,0.0,1999/00,1999,Sunderland,4.0,22.9,41377.0
+223,Wimbledon,Watford,13.0,19.0,25486.0,Selhurst Park,dec,0.0,1999/00,1999,London,6.0,65.1,14021.0
+224,Leeds United,Southampton,1.0,16.0,37792.0,Elland Road,nov,0.0,1999/00,1999,Leeds,6.0,43.0,39288.0
+225,Newcastle United,Tottenham Hotspur,15.0,7.0,52305.0,St. James' Park,nov,0.0,1999/00,1999,Newcastle,6.0,202.8,36460.0
+226,Arsenal,Derby County,3.0,18.0,38419.0,Highbury,nov,0.0,1999/00,1999,London,9.0,72.0,37964.0
+227,Chelsea,Bradford City,8.0,17.0,40834.0,Stamford Bridge,nov,0.0,1999/00,1999,London,9.0,72.0,31591.0
+228,Coventry City,Leicester City,12.0,5.0,23489.0,Highfield Road,nov,0.0,1999/00,1999,Coventry,7.0,25.3,22021.0
+229,Everton,Aston Villa,11.0,13.0,39414.0,Goodison Park,nov,0.0,1999/00,1999,Liverpool,8.0,67.8,34750.0
+230,Middlesbrough,Wimbledon,10.0,14.0,33746.0,Riverside Stadium,nov,0.0,1999/00,1999,Middlesbrough,7.0,29.1,31400.0
+231,Watford,Sunderland,19.0,4.0,22200.0,Vicarage Road,nov,0.0,1999/00,1999,Watford,8.0,37.0,21590.0
+232,West Ham United,Liverpool,9.0,6.0,35345.0,Boleyn Ground,nov,0.0,1999/00,1999,London,9.0,72.0,26043.0
+233,Coventry City,Aston Villa,11.0,13.0,23489.0,Highfield Road,nov,0.0,1999/00,1999,Coventry,7.0,25.3,20184.0
+234,West Ham United,Sheffield Wednesday,10.0,20.0,35345.0,Boleyn Ground,nov,0.0,1999/00,1999,London,9.0,72.0,23015.0
+235,Arsenal,Middlesbrough,3.0,8.0,38419.0,Highbury,nov,0.0,1999/00,1999,London,9.0,72.0,38082.0
+236,Derby County,Manchester United,18.0,1.0,33597.0,iPro Stadium,nov,0.0,1999/00,1999,Derby,7.0,29.9,33370.0
+237,Everton,Chelsea,12.0,9.0,39414.0,Goodison Park,nov,0.0,1999/00,1999,Liverpool,8.0,67.8,38225.0
+238,Leeds United,Bradford City,2.0,17.0,37792.0,Elland Road,nov,0.0,1999/00,1999,Leeds,6.0,43.0,39937.0
+239,Leicester City,Wimbledon,7.0,15.0,22000.0,Filbert Street,nov,0.0,1999/00,1999,Leicester,7.0,29.9,18255.0
+240,Southampton,Tottenham Hotspur,14.0,6.0,15200.0,The Dell,nov,0.0,1999/00,1999,Southampton,8.0,28.4,15248.0
+241,Sunderland,Liverpool,4.0,5.0,48707.0,Stadium of Light,nov,0.0,1999/00,1999,Sunderland,6.0,26.6,42015.0
+242,Watford,Newcastle United,19.0,16.0,22200.0,Vicarage Road,nov,0.0,1999/00,1999,Watford,8.0,37.0,19539.0
+243,Newcastle United,Everton,16.0,10.0,52305.0,St. James' Park,nov,0.0,1999/00,1999,Newcastle,6.0,202.8,33106.0
+244,Chelsea,West Ham United,9.0,11.0,40834.0,Stamford Bridge,nov,1.0,1999/00,1999,London,9.0,72.0,34935.0
+245,Tottenham Hotspur,Arsenal,6.0,4.0,36284.0,White Hart Lane,nov,1.0,1999/00,1999,London,9.0,72.0,36085.0
+246,Wimbledon,Leeds United,15.0,2.0,25486.0,Selhurst Park,nov,0.0,1999/00,1999,London,9.0,72.0,18747.0
+247,Aston Villa,Southampton,12.0,14.0,42749.0,Villa Park,nov,0.0,1999/00,1999,Birmingham,7.0,31.5,26474.0
+248,Bradford City,Coventry City,17.0,13.0,25136.0,Valley Parade,nov,0.0,1999/00,1999,Bradford,6.0,43.0,17587.0
+249,Liverpool,Derby County,5.0,18.0,54074.0,Anfield,nov,0.0,1999/00,1999,Liverpool,8.0,67.8,44467.0
+250,Manchester United,Leicester City,1.0,7.0,75643.0,Old Trafford,nov,0.0,1999/00,1999,Manchester,7.0,35.8,55191.0
+251,Middlesbrough,Sunderland,8.0,3.0,33746.0,Riverside Stadium,nov,0.0,1999/00,1999,Middlesbrough,7.0,29.1,34793.0
+252,Sheffield Wednesday,Watford,20.0,19.0,39812.0,Hillsborough,nov,0.0,1999/00,1999,Sheffield,6.0,52.2,21658.0
+253,Liverpool,Bradford City,6.0,18.0,54074.0,Anfield,nov,0.0,1999/00,1999,Liverpool,8.0,67.8,40483.0
+254,Sunderland,Tottenham Hotspur,3.0,8.0,48707.0,Stadium of Light,oct,0.0,1999/00,1999,Sunderland,10.0,33.2,41904.0
+255,Coventry City,Watford,13.0,19.0,23489.0,Highfield Road,oct,0.0,1999/00,1999,Coventry,11.0,26.8,21700.0
+256,Arsenal,Newcastle United,4.0,17.0,38419.0,Highbury,oct,0.0,1999/00,1999,London,13.0,61.5,38106.0
+257,Derby County,Chelsea,16.0,9.0,33597.0,iPro Stadium,oct,0.0,1999/00,1999,Derby,11.0,36.5,28614.0
+258,Leeds United,West Ham United,1.0,12.0,37792.0,Elland Road,oct,0.0,1999/00,1999,Leeds,9.0,40.4,40190.0
+259,Leicester City,Sheffield Wednesday,5.0,20.0,22000.0,Filbert Street,oct,0.0,1999/00,1999,Leicester,11.0,36.5,19046.0
+260,Manchester United,Aston Villa,2.0,11.0,75643.0,Old Trafford,oct,0.0,1999/00,1999,Manchester,11.0,46.1,55211.0
+261,Middlesbrough,Everton,7.0,10.0,33746.0,Riverside Stadium,oct,0.0,1999/00,1999,Middlesbrough,10.0,32.0,17276.0
+262,Wimbledon,Southampton,15.0,14.0,25486.0,Selhurst Park,oct,0.0,1999/00,1999,London,13.0,61.5,15754.0
+263,Liverpool,West Ham United,9.0,12.0,54074.0,Anfield,oct,0.0,1999/00,1999,Liverpool,12.0,58.2,44012.0
+264,Newcastle United,Derby County,17.0,19.0,52305.0,St. James' Park,oct,0.0,1999/00,1999,Newcastle,9.0,161.3,35614.0
+265,Everton,Leeds United,8.0,1.0,39414.0,Goodison Park,oct,0.0,1999/00,1999,Liverpool,12.0,58.2,27670.0
+266,West Ham United,Sunderland,12.0,3.0,35345.0,Boleyn Ground,oct,0.0,1999/00,1999,London,13.0,61.5,26022.0
+267,Watford,Middlesbrough,18.0,11.0,22200.0,Vicarage Road,oct,0.0,1999/00,1999,Watford,12.0,42.0,16081.0
+268,Aston Villa,Wimbledon,10.0,15.0,42749.0,Villa Park,oct,0.0,1999/00,1999,Birmingham,11.0,31.9,27160.0
+269,Bradford City,Leicester City,16.0,6.0,25136.0,Valley Parade,oct,0.0,1999/00,1999,Bradford,9.0,40.4,17655.0
+270,Chelsea,Arsenal,7.0,2.0,40834.0,Stamford Bridge,oct,1.0,1999/00,1999,London,13.0,61.5,34958.0
+271,Sheffield Wednesday,Coventry City,20.0,13.0,39812.0,Hillsborough,oct,0.0,1999/00,1999,Sheffield,10.0,49.2,23296.0
+272,Southampton,Liverpool,14.0,9.0,15200.0,The Dell,oct,0.0,1999/00,1999,Southampton,12.0,29.2,15241.0
+273,Tottenham Hotspur,Manchester United,5.0,4.0,36284.0,White Hart Lane,oct,0.0,1999/00,1999,London,13.0,61.5,36072.0
+274,Sunderland,Aston Villa,3.0,9.0,48707.0,Stadium of Light,oct,0.0,1999/00,1999,Sunderland,10.0,33.2,41045.0
+275,Middlesbrough,West Ham United,11.0,10.0,33746.0,Riverside Stadium,oct,0.0,1999/00,1999,Middlesbrough,10.0,32.0,31862.0
+276,Arsenal,Everton,4.0,7.0,38419.0,Highbury,oct,0.0,1999/00,1999,London,13.0,61.5,38042.0
+277,Coventry City,Newcastle United,13.0,19.0,23489.0,Highfield Road,oct,0.0,1999/00,1999,Coventry,11.0,26.8,23031.0
+278,Derby County,Tottenham Hotspur,17.0,8.0,33597.0,iPro Stadium,oct,0.0,1999/00,1999,Derby,11.0,36.5,29815.0
+279,Leeds United,Sheffield Wednesday,1.0,20.0,37792.0,Elland Road,oct,0.0,1999/00,1999,Leeds,9.0,40.4,39437.0
+280,Leicester City,Southampton,5.0,14.0,22000.0,Filbert Street,oct,0.0,1999/00,1999,Leicester,11.0,36.5,19556.0
+281,Liverpool,Chelsea,12.0,6.0,54074.0,Anfield,oct,0.0,1999/00,1999,Liverpool,12.0,58.2,44826.0
+282,Manchester United,Watford,2.0,16.0,75643.0,Old Trafford,oct,0.0,1999/00,1999,Manchester,11.0,46.1,55188.0
+283,Wimbledon,Bradford City,15.0,18.0,25486.0,Selhurst Park,oct,0.0,1999/00,1999,London,13.0,61.5,10029.0
+284,Southampton,Derby County,13.0,16.0,15200.0,The Dell,oct,0.0,1999/00,1999,Southampton,12.0,29.2,14208.0
+285,Newcastle United,Middlesbrough,19.0,11.0,52305.0,St. James' Park,oct,0.0,1999/00,1999,Newcastle,9.0,161.3,36421.0
+286,Watford,Leeds United,15.0,1.0,22200.0,Vicarage Road,oct,0.0,1999/00,1999,Watford,12.0,42.0,19677.0
+287,Chelsea,Manchester United,4.0,2.0,40834.0,Stamford Bridge,oct,0.0,1999/00,1999,London,13.0,61.5,34909.0
+288,Tottenham Hotspur,Leicester City,10.0,7.0,36284.0,White Hart Lane,oct,0.0,1999/00,1999,London,13.0,61.5,35591.0
+289,West Ham United,Arsenal,9.0,5.0,35345.0,Boleyn Ground,oct,1.0,1999/00,1999,London,13.0,61.5,26009.0
+290,Aston Villa,Liverpool,8.0,12.0,42749.0,Villa Park,oct,0.0,1999/00,1999,Birmingham,11.0,31.9,39217.0
+291,Bradford City,Sunderland,18.0,3.0,25136.0,Valley Parade,oct,0.0,1999/00,1999,Bradford,9.0,40.4,18204.0
+292,Everton,Coventry City,6.0,14.0,39414.0,Goodison Park,oct,0.0,1999/00,1999,Liverpool,12.0,58.2,34839.0
+293,Sheffield Wednesday,Wimbledon,20.0,17.0,39812.0,Hillsborough,oct,0.0,1999/00,1999,Sheffield,10.0,49.2,18077.0
+294,Liverpool,Everton,12.0,6.0,54074.0,Anfield,sep,1.0,1999/00,1999,Liverpool,15.0,49.0,29491.0
+295,Wimbledon,Tottenham Hotspur,16.0,9.0,25486.0,Selhurst Park,sep,1.0,1999/00,1999,London,16.0,41.2,17368.0
+296,Arsenal,Watford,3.0,14.0,38419.0,Highbury,sep,0.0,1999/00,1999,London,16.0,41.2,38127.0
+297,Coventry City,West Ham United,15.0,10.0,23489.0,Highfield Road,sep,0.0,1999/00,1999,Coventry,14.0,16.5,19993.0
+298,Derby County,Bradford City,18.0,17.0,33597.0,iPro Stadium,sep,0.0,1999/00,1999,Derby,14.0,21.4,31035.0
+299,Leeds United,Newcastle United,2.0,19.0,37792.0,Elland Road,sep,0.0,1999/00,1999,Leeds,12.0,21.5,40192.0
+300,Leicester City,Aston Villa,8.0,7.0,22000.0,Filbert Street,sep,0.0,1999/00,1999,Leicester,14.0,21.4,19917.0
+301,Manchester United,Southampton,1.0,13.0,75643.0,Old Trafford,sep,0.0,1999/00,1999,Manchester,14.0,26.5,55249.0
+302,Middlesbrough,Chelsea,11.0,5.0,33746.0,Riverside Stadium,sep,0.0,1999/00,1999,Middlesbrough,14.0,18.7,34183.0
+303,Sunderland,Sheffield Wednesday,4.0,20.0,48707.0,Stadium of Light,sep,0.0,1999/00,1999,Sunderland,13.0,19.0,41132.0
+304,Everton,West Ham United,7.0,8.0,39414.0,Goodison Park,sep,0.0,1999/00,1999,Liverpool,15.0,49.0,32597.0
+305,Newcastle United,Sheffield Wednesday,19.0,20.0,52305.0,St. James' Park,sep,0.0,1999/00,1999,Newcastle,12.0,101.9,36619.0
+306,Tottenham Hotspur,Coventry City,9.0,17.0,36284.0,White Hart Lane,sep,0.0,1999/00,1999,London,16.0,41.2,35224.0
+307,Leeds United,Middlesbrough,2.0,10.0,37792.0,Elland Road,sep,0.0,1999/00,1999,Leeds,12.0,21.5,34122.0
+308,Aston Villa,Bradford City,4.0,18.0,42749.0,Villa Park,sep,0.0,1999/00,1999,Birmingham,14.0,17.8,28083.0
+309,Derby County,Sunderland,15.0,5.0,33597.0,iPro Stadium,sep,0.0,1999/00,1999,Derby,14.0,21.4,28264.0
+310,Leicester City,Liverpool,11.0,12.0,22000.0,Filbert Street,sep,0.0,1999/00,1999,Leicester,14.0,21.4,21623.0
+311,Manchester United,Wimbledon,1.0,16.0,75643.0,Old Trafford,sep,0.0,1999/00,1999,Manchester,14.0,26.5,55189.0
+312,Southampton,Arsenal,13.0,3.0,15200.0,The Dell,sep,0.0,1999/00,1999,Southampton,15.0,15.7,15242.0
+313,Watford,Chelsea,14.0,6.0,22200.0,Vicarage Road,sep,0.0,1999/00,1999,Watford,15.0,26.1,21244.0
+314,Bradford City,Tottenham Hotspur,18.0,10.0,25136.0,Valley Parade,sep,0.0,1999/00,1999,Bradford,12.0,21.5,18143.0
+315,Arsenal,Aston Villa,5.0,6.0,38419.0,Highbury,sep,0.0,1999/00,1999,London,16.0,41.2,38093.0
+316,Chelsea,Newcastle United,2.0,19.0,40834.0,Stamford Bridge,sep,0.0,1999/00,1999,London,16.0,41.2,35092.0
+317,Coventry City,Leeds United,17.0,4.0,23489.0,Highfield Road,sep,0.0,1999/00,1999,Coventry,14.0,16.5,21532.0
+318,Middlesbrough,Southampton,7.0,13.0,33746.0,Riverside Stadium,sep,0.0,1999/00,1999,Middlesbrough,14.0,18.7,32165.0
+319,Sheffield Wednesday,Everton,20.0,9.0,39812.0,Hillsborough,sep,0.0,1999/00,1999,Sheffield,13.0,41.7,18084.0
+320,Liverpool,Manchester United,12.0,1.0,54074.0,Anfield,sep,0.0,1999/00,1999,Liverpool,15.0,49.0,44929.0
+321,Sunderland,Leicester City,8.0,11.0,48707.0,Stadium of Light,sep,0.0,1999/00,1999,Sunderland,13.0,19.0,40105.0
+322,West Ham United,Watford,3.0,15.0,35345.0,Boleyn Ground,sep,0.0,1999/00,1999,London,16.0,41.2,25310.0
+323,Wimbledon,Derby County,16.0,14.0,25486.0,Selhurst Park,sep,0.0,1999/00,1999,London,16.0,41.2,12282.0
+324,Manchester United,Newcastle United,1.0,19.0,75643.0,Old Trafford,aug,0.0,1999/00,1999,Manchester,16.0,31.4,55190.0
+325,Leicester City,Watford,5.0,15.0,22000.0,Filbert Street,aug,0.0,1999/00,1999,Leicester,16.0,24.1,17920.0
+326,Sunderland,Coventry City,12.0,16.0,48707.0,Stadium of Light,aug,0.0,1999/00,1999,Sunderland,15.0,31.6,39427.0
+327,Aston Villa,Middlesbrough,2.0,11.0,42749.0,Villa Park,aug,0.0,1999/00,1999,Birmingham,16.0,27.0,28728.0
+328,Bradford City,West Ham United,18.0,4.0,25136.0,Valley Parade,aug,0.0,1999/00,1999,Bradford,15.0,31.8,17926.0
+329,Derby County,Everton,14.0,13.0,33597.0,iPro Stadium,aug,0.0,1999/00,1999,Derby,16.0,24.1,26550.0
+330,Liverpool,Arsenal,9.0,7.0,54074.0,Anfield,aug,0.0,1999/00,1999,Liverpool,16.0,66.6,44886.0
+331,Southampton,Sheffield Wednesday,10.0,20.0,15200.0,The Dell,aug,0.0,1999/00,1999,Southampton,17.0,10.9,14815.0
+332,Tottenham Hotspur,Leeds United,8.0,6.0,36284.0,White Hart Lane,aug,0.0,1999/00,1999,London,18.0,57.5,36012.0
+333,Wimbledon,Chelsea,17.0,3.0,25486.0,Selhurst Park,aug,1.0,1999/00,1999,London,18.0,57.5,22167.0
+334,Arsenal,Bradford City,3.0,17.0,38419.0,Highbury,aug,0.0,1999/00,1999,London,18.0,57.5,38073.0
+335,Coventry City,Manchester United,16.0,1.0,23489.0,Highfield Road,aug,0.0,1999/00,1999,Coventry,17.0,23.8,22024.0
+336,Newcastle United,Sunderland,19.0,11.0,52305.0,St. James' Park,aug,0.0,1999/00,1999,Newcastle,13.0,104.9,36600.0
+337,Sheffield Wednesday,Derby County,20.0,18.0,39812.0,Hillsborough,aug,0.0,1999/00,1999,Sheffield,15.0,65.1,20943.0
+338,Everton,Wimbledon,7.0,15.0,39414.0,Goodison Park,aug,0.0,1999/00,1999,Liverpool,16.0,66.6,30885.0
+339,Middlesbrough,Leicester City,5.0,8.0,33746.0,Riverside Stadium,aug,0.0,1999/00,1999,Middlesbrough,16.0,24.6,33126.0
+340,Watford,Aston Villa,13.0,2.0,22200.0,Vicarage Road,aug,0.0,1999/00,1999,Watford,18.0,31.0,19161.0
+341,Leeds United,Liverpool,10.0,12.0,37792.0,Elland Road,aug,0.0,1999/00,1999,Leeds,15.0,31.8,39703.0
+342,Arsenal,Manchester United,3.0,1.0,38419.0,Highbury,aug,0.0,1999/00,1999,London,18.0,57.5,38147.0
+343,Chelsea,Aston Villa,6.0,2.0,40834.0,Stamford Bridge,aug,0.0,1999/00,1999,London,18.0,57.5,35071.0
+344,Coventry City,Derby County,16.0,18.0,23489.0,Highfield Road,aug,0.0,1999/00,1999,Coventry,17.0,23.8,17685.0
+345,Everton,Southampton,7.0,14.0,39414.0,Goodison Park,aug,0.0,1999/00,1999,Liverpool,16.0,66.6,35316.0
+346,Leeds United,Sunderland,10.0,11.0,37792.0,Elland Road,aug,0.0,1999/00,1999,Leeds,15.0,31.8,39064.0
+347,Middlesbrough,Liverpool,5.0,12.0,33746.0,Riverside Stadium,aug,0.0,1999/00,1999,Middlesbrough,16.0,24.6,34783.0
+348,Newcastle United,Wimbledon,19.0,15.0,52305.0,St. James' Park,aug,0.0,1999/00,1999,Newcastle,13.0,104.9,35809.0
+349,Sheffield Wednesday,Tottenham Hotspur,20.0,4.0,39812.0,Hillsborough,aug,0.0,1999/00,1999,Sheffield,15.0,65.1,24027.0
+350,Watford,Bradford City,13.0,17.0,22200.0,Vicarage Road,aug,0.0,1999/00,1999,Watford,18.0,31.0,15564.0
+351,West Ham United,Leicester City,9.0,8.0,35345.0,Boleyn Ground,aug,0.0,1999/00,1999,London,18.0,57.5,23361.0
+352,Aston Villa,West Ham United,2.0,9.0,42749.0,Villa Park,aug,0.0,1999/00,1999,Birmingham,16.0,27.0,26250.0
+353,Southampton,Newcastle United,6.0,20.0,15200.0,The Dell,aug,0.0,1999/00,1999,Southampton,17.0,10.9,15030.0
+354,Bradford City,Sheffield Wednesday,10.0,19.0,25136.0,Valley Parade,aug,0.0,1999/00,1999,Bradford,15.0,31.8,18276.0
+355,Derby County,Middlesbrough,17.0,4.0,33597.0,iPro Stadium,aug,0.0,1999/00,1999,Derby,16.0,24.1,24045.0
+356,Leicester City,Chelsea,12.0,7.0,22000.0,Filbert Street,aug,0.0,1999/00,1999,Leicester,16.0,24.1,21068.0
+357,Liverpool,Watford,14.0,15.0,54074.0,Anfield,aug,0.0,1999/00,1999,Liverpool,16.0,66.6,44174.0
+358,Sunderland,Arsenal,13.0,3.0,48707.0,Stadium of Light,aug,0.0,1999/00,1999,Sunderland,15.0,31.6,41680.0
+359,Tottenham Hotspur,Everton,5.0,18.0,36284.0,White Hart Lane,aug,0.0,1999/00,1999,London,18.0,57.5,34840.0
+360,Manchester United,Leeds United,1.0,8.0,75643.0,Old Trafford,aug,0.0,1999/00,1999,Manchester,16.0,31.4,55187.0
+361,Wimbledon,Coventry City,11.0,16.0,25486.0,Selhurst Park,aug,0.0,1999/00,1999,London,18.0,57.5,10635.0
+362,Aston Villa,Everton,1.0,16.0,42749.0,Villa Park,aug,0.0,1999/00,1999,Birmingham,16.0,27.0,30337.0
+363,Leicester City,Coventry City,12.0,17.0,22000.0,Filbert Street,aug,0.0,1999/00,1999,Leicester,16.0,24.1,19196.0
+364,Southampton,Leeds United,14.0,4.0,15200.0,The Dell,aug,0.0,1999/00,1999,Southampton,17.0,10.9,15206.0
+365,Manchester United,Sheffield Wednesday,3.0,20.0,75643.0,Old Trafford,aug,0.0,1999/00,1999,Manchester,16.0,31.4,54941.0
+366,Sunderland,Watford,13.0,18.0,48707.0,Stadium of Light,aug,0.0,1999/00,1999,Sunderland,15.0,31.6,40630.0
+367,Wimbledon,Middlesbrough,10.0,11.0,25486.0,Selhurst Park,aug,0.0,1999/00,1999,London,18.0,57.5,11036.0
+368,Derby County,Arsenal,15.0,2.0,33597.0,iPro Stadium,aug,0.0,1999/00,1999,Derby,16.0,24.1,25901.0
+369,Tottenham Hotspur,Newcastle United,6.0,19.0,36284.0,White Hart Lane,aug,0.0,1999/00,1999,London,18.0,57.5,28701.0
+370,Everton,Manchester United,16.0,3.0,39414.0,Goodison Park,aug,0.0,1999/00,1999,Liverpool,16.0,66.6,40010.0
+371,Arsenal,Leicester City,2.0,12.0,38419.0,Highbury,aug,0.0,1999/00,1999,London,18.0,57.5,38026.0
+372,Chelsea,Sunderland,5.0,13.0,40834.0,Stamford Bridge,aug,0.0,1999/00,1999,London,18.0,57.5,34831.0
+373,Coventry City,Southampton,17.0,14.0,23489.0,Highfield Road,aug,0.0,1999/00,1999,Coventry,17.0,23.8,19915.0
+374,Leeds United,Derby County,4.0,15.0,37792.0,Elland Road,aug,0.0,1999/00,1999,Leeds,15.0,31.8,40118.0
+375,Middlesbrough,Bradford City,11.0,8.0,33746.0,Riverside Stadium,aug,0.0,1999/00,1999,Middlesbrough,16.0,24.6,33762.0
+376,Newcastle United,Aston Villa,19.0,1.0,52305.0,St. James' Park,aug,0.0,1999/00,1999,Newcastle,13.0,104.9,36600.0
+377,Sheffield Wednesday,Liverpool,20.0,7.0,39812.0,Hillsborough,aug,0.0,1999/00,1999,Sheffield,15.0,65.1,34853.0
+378,Watford,Wimbledon,18.0,10.0,22200.0,Vicarage Road,aug,0.0,1999/00,1999,Watford,18.0,31.0,15511.0
+379,West Ham United,Tottenham Hotspur,9.0,6.0,35345.0,Boleyn Ground,aug,1.0,1999/00,1999,London,18.0,57.5,26010.0
+380,Charlton Athletic,Liverpool,9.0,3.0,27111.0,The Valley,may,0.0,2000/01,2000,London,14.0,52.1,20043.0
+381,Coventry City,Bradford City,19.0,20.0,23489.0,Highfield Road,may,0.0,2000/01,2000,Coventry,12.0,23.3,20299.0
+382,Derby County,Ipswich Town,17.0,5.0,33597.0,iPro Stadium,may,0.0,2000/01,2000,Derby,12.0,24.0,33239.0
+383,Everton,Sunderland,16.0,7.0,39414.0,Goodison Park,may,0.0,2000/01,2000,Liverpool,12.0,53.6,37444.0
+384,Leeds United,Leicester City,4.0,13.0,37792.0,Elland Road,may,0.0,2000/01,2000,Leeds,10.0,26.0,39105.0
+385,Manchester City,Chelsea,18.0,6.0,35150.0,Maine Road,may,0.0,2000/01,2000,Manchester,12.0,21.2,34479.0
+386,Middlesbrough,West Ham United,14.0,15.0,33746.0,Riverside Stadium,may,0.0,2000/01,2000,Middlesbrough,11.0,19.9,33057.0
+387,Newcastle United,Aston Villa,11.0,8.0,52305.0,St. James' Park,may,0.0,2000/01,2000,Newcastle,9.0,116.4,51506.0
+388,Southampton,Arsenal,10.0,2.0,15200.0,The Dell,may,0.0,2000/01,2000,Southampton,13.0,16.5,15252.0
+389,Tottenham Hotspur,Manchester United,12.0,1.0,36284.0,White Hart Lane,may,0.0,2000/01,2000,London,14.0,52.1,36072.0
+390,Newcastle United,Arsenal,11.0,2.0,52305.0,St. James' Park,may,0.0,2000/01,2000,Newcastle,9.0,116.4,50729.0
+391,Leeds United,Bradford City,4.0,20.0,37792.0,Elland Road,may,0.0,2000/01,2000,Leeds,10.0,26.0,38300.0
+392,Southampton,Manchester United,10.0,1.0,15200.0,The Dell,may,0.0,2000/01,2000,Southampton,13.0,16.5,15246.0
+393,Liverpool,Chelsea,3.0,6.0,54074.0,Anfield,may,0.0,2000/01,2000,Liverpool,12.0,53.6,43588.0
+394,Ipswich Town,Manchester City,5.0,18.0,30311.0,Portman Road,may,0.0,2000/01,2000,Ipswich,11.0,30.5,25004.0
+395,Arsenal,Leeds United,2.0,4.0,38419.0,Highbury,may,0.0,2000/01,2000,London,14.0,52.1,38142.0
+396,Aston Villa,Coventry City,8.0,19.0,42749.0,Villa Park,may,0.0,2000/01,2000,Birmingham,12.0,26.6,39761.0
+397,Bradford City,Middlesbrough,20.0,17.0,25136.0,Valley Parade,may,0.0,2000/01,2000,Bradford,10.0,26.0,20921.0
+398,Chelsea,Everton,6.0,15.0,40834.0,Stamford Bridge,may,0.0,2000/01,2000,London,14.0,52.1,35196.0
+399,Leicester City,Tottenham Hotspur,12.0,13.0,22000.0,Filbert Street,may,0.0,2000/01,2000,Leicester,12.0,24.0,21056.0
+400,Liverpool,Newcastle United,3.0,11.0,54074.0,Anfield,may,0.0,2000/01,2000,Liverpool,12.0,53.6,44363.0
+401,Manchester United,Derby County,1.0,16.0,75643.0,Old Trafford,may,0.0,2000/01,2000,Manchester,12.0,21.2,67526.0
+402,Sunderland,Charlton Athletic,7.0,9.0,48707.0,Stadium of Light,may,0.0,2000/01,2000,Sunderland,10.0,23.0,47671.0
+403,West Ham United,Southampton,14.0,10.0,35345.0,Boleyn Ground,may,0.0,2000/01,2000,London,14.0,52.1,26041.0
+404,Bradford City,Liverpool,20.0,3.0,25136.0,Valley Parade,may,0.0,2000/01,2000,Bradford,10.0,26.0,22057.0
+405,Newcastle United,Southampton,10.0,12.0,52305.0,St. James' Park,may,0.0,2000/01,2000,Newcastle,9.0,116.4,50439.0
+406,Charlton Athletic,Ipswich Town,8.0,5.0,27111.0,The Valley,apr,0.0,2000/01,2000,London,11.0,30.6,20043.0
+407,Leeds United,Chelsea,3.0,6.0,37792.0,Elland Road,apr,0.0,2000/01,2000,Leeds,7.0,25.8,39253.0
+408,Coventry City,Liverpool,19.0,5.0,23489.0,Highfield Road,apr,0.0,2000/01,2000,Coventry,9.0,22.0,23063.0
+409,Derby County,Arsenal,17.0,2.0,33597.0,iPro Stadium,apr,0.0,2000/01,2000,Derby,9.0,26.4,29567.0
+410,Everton,Bradford City,14.0,20.0,39414.0,Goodison Park,apr,0.0,2000/01,2000,Liverpool,10.0,36.7,34256.0
+411,Manchester City,West Ham United,18.0,15.0,35150.0,Maine Road,apr,0.0,2000/01,2000,Manchester,9.0,27.0,33737.0
+412,Middlesbrough,Manchester United,16.0,1.0,33746.0,Riverside Stadium,apr,0.0,2000/01,2000,Middlesbrough,8.0,22.4,34417.0
+413,Newcastle United,Leicester City,10.0,13.0,52305.0,St. James' Park,apr,0.0,2000/01,2000,Newcastle,7.0,70.0,50501.0
+414,Southampton,Sunderland,12.0,7.0,15200.0,The Dell,apr,0.0,2000/01,2000,Southampton,9.0,19.2,15249.0
+415,Tottenham Hotspur,Aston Villa,11.0,8.0,36284.0,White Hart Lane,apr,0.0,2000/01,2000,London,11.0,30.6,36096.0
+416,Liverpool,Tottenham Hotspur,5.0,11.0,54074.0,Anfield,apr,0.0,2000/01,2000,Liverpool,10.0,36.7,43547.0
+417,Arsenal,Everton,2.0,16.0,38419.0,Highbury,apr,0.0,2000/01,2000,London,11.0,30.6,38029.0
+418,Aston Villa,Southampton,7.0,10.0,42749.0,Villa Park,apr,0.0,2000/01,2000,Birmingham,8.0,23.8,29336.0
+419,Sunderland,Newcastle United,8.0,13.0,48707.0,Stadium of Light,apr,0.0,2000/01,2000,Sunderland,7.0,23.1,48277.0
+420,Manchester United,Manchester City,1.0,19.0,75643.0,Old Trafford,apr,1.0,2000/01,2000,Manchester,9.0,27.0,67535.0
+421,Bradford City,Derby County,20.0,17.0,25136.0,Valley Parade,apr,0.0,2000/01,2000,Bradford,7.0,25.8,18564.0
+422,Chelsea,Charlton Athletic,6.0,9.0,40834.0,Stamford Bridge,apr,1.0,2000/01,2000,London,11.0,30.6,34983.0
+423,Ipswich Town,Coventry City,3.0,18.0,30311.0,Portman Road,apr,0.0,2000/01,2000,Ipswich,7.0,25.1,24612.0
+424,Leicester City,Middlesbrough,12.0,15.0,22000.0,Filbert Street,apr,0.0,2000/01,2000,Leicester,9.0,26.4,18162.0
+425,West Ham United,Leeds United,14.0,4.0,35345.0,Boleyn Ground,apr,0.0,2000/01,2000,London,11.0,30.6,26041.0
+426,Tottenham Hotspur,Chelsea,10.0,5.0,36284.0,White Hart Lane,apr,1.0,2000/01,2000,London,11.0,30.6,36074.0
+427,Charlton Athletic,Aston Villa,9.0,7.0,27111.0,The Valley,apr,0.0,2000/01,2000,London,11.0,30.6,20043.0
+428,Coventry City,Sunderland,18.0,8.0,23489.0,Highfield Road,apr,0.0,2000/01,2000,Coventry,9.0,22.0,20946.0
+429,Derby County,Leicester City,16.0,11.0,33597.0,iPro Stadium,apr,0.0,2000/01,2000,Derby,9.0,26.4,28387.0
+430,Middlesbrough,Ipswich Town,17.0,3.0,33746.0,Riverside Stadium,apr,0.0,2000/01,2000,Middlesbrough,8.0,22.4,34294.0
+431,Newcastle United,West Ham United,13.0,14.0,52305.0,St. James' Park,apr,0.0,2000/01,2000,Newcastle,7.0,70.0,51107.0
+432,Everton,Liverpool,15.0,6.0,39414.0,Goodison Park,apr,1.0,2000/01,2000,Liverpool,10.0,36.7,40260.0
+433,Manchester United,Coventry City,1.0,19.0,75643.0,Old Trafford,apr,0.0,2000/01,2000,Manchester,9.0,27.0,67637.0
+434,Arsenal,Middlesbrough,2.0,16.0,38419.0,Highbury,apr,0.0,2000/01,2000,London,11.0,30.6,37879.0
+435,Aston Villa,Everton,8.0,15.0,42749.0,Villa Park,apr,0.0,2000/01,2000,Birmingham,8.0,23.8,31272.0
+436,Chelsea,Southampton,5.0,12.0,40834.0,Stamford Bridge,apr,0.0,2000/01,2000,London,11.0,30.6,35136.0
+437,Ipswich Town,Newcastle United,3.0,14.0,30311.0,Portman Road,apr,0.0,2000/01,2000,Ipswich,7.0,25.1,24028.0
+438,Leicester City,Manchester City,11.0,18.0,22000.0,Filbert Street,apr,0.0,2000/01,2000,Leicester,9.0,26.4,20224.0
+439,Sunderland,Tottenham Hotspur,7.0,9.0,48707.0,Stadium of Light,apr,0.0,2000/01,2000,Sunderland,7.0,23.1,48029.0
+440,West Ham United,Derby County,13.0,17.0,35345.0,Boleyn Ground,apr,0.0,2000/01,2000,London,11.0,30.6,35319.0
+441,Liverpool,Leeds United,6.0,4.0,54074.0,Anfield,apr,0.0,2000/01,2000,Liverpool,10.0,36.7,44116.0
+442,Bradford City,Charlton Athletic,20.0,10.0,25136.0,Valley Parade,apr,0.0,2000/01,2000,Bradford,7.0,25.8,17511.0
+443,Manchester City,Arsenal,19.0,2.0,35150.0,Maine Road,apr,0.0,2000/01,2000,Manchester,9.0,27.0,33444.0
+444,Ipswich Town,Liverpool,3.0,5.0,30311.0,Portman Road,apr,0.0,2000/01,2000,Ipswich,7.0,25.1,23504.0
+445,Tottenham Hotspur,Bradford City,12.0,20.0,36284.0,White Hart Lane,apr,0.0,2000/01,2000,London,11.0,30.6,28306.0
+446,Manchester United,Charlton Athletic,1.0,9.0,75643.0,Old Trafford,apr,0.0,2000/01,2000,Manchester,9.0,27.0,67505.0
+447,Middlesbrough,Sunderland,17.0,6.0,33746.0,Riverside Stadium,apr,0.0,2000/01,2000,Middlesbrough,8.0,22.4,31284.0
+448,Everton,Manchester City,14.0,19.0,39414.0,Goodison Park,apr,0.0,2000/01,2000,Liverpool,10.0,36.7,36561.0
+449,Aston Villa,West Ham United,8.0,15.0,42749.0,Villa Park,apr,0.0,2000/01,2000,Birmingham,8.0,23.8,31432.0
+450,Derby County,Chelsea,16.0,7.0,33597.0,iPro Stadium,apr,0.0,2000/01,2000,Derby,9.0,26.4,29320.0
+451,Leeds United,Southampton,4.0,11.0,37792.0,Elland Road,apr,0.0,2000/01,2000,Leeds,7.0,25.8,39267.0
+452,Leicester City,Coventry City,10.0,18.0,22000.0,Filbert Street,apr,0.0,2000/01,2000,Leicester,9.0,26.4,19545.0
+453,Aston Villa,Leicester City,10.0,9.0,42749.0,Villa Park,apr,0.0,2000/01,2000,Birmingham,8.0,23.8,29043.0
+454,Southampton,Ipswich Town,11.0,3.0,15200.0,The Dell,apr,0.0,2000/01,2000,Southampton,9.0,19.2,15244.0
+455,Charlton Athletic,Leicester City,8.0,9.0,27111.0,The Valley,apr,0.0,2000/01,2000,London,11.0,30.6,20043.0
+456,Arsenal,Tottenham Hotspur,2.0,12.0,38419.0,Highbury,mar,1.0,2000/01,2000,London,8.0,29.8,38121.0
+457,Bradford City,Newcastle United,20.0,13.0,25136.0,Valley Parade,mar,0.0,2000/01,2000,Bradford,5.0,27.5,20160.0
+458,Chelsea,Middlesbrough,7.0,17.0,40834.0,Stamford Bridge,mar,0.0,2000/01,2000,London,8.0,29.8,34933.0
+459,Coventry City,Derby County,19.0,16.0,23489.0,Highfield Road,mar,0.0,2000/01,2000,Coventry,7.0,18.4,19654.0
+460,Liverpool,Manchester United,5.0,1.0,54074.0,Anfield,mar,0.0,2000/01,2000,Liverpool,7.0,40.4,44806.0
+461,Manchester City,Aston Villa,18.0,10.0,35150.0,Maine Road,mar,0.0,2000/01,2000,Manchester,6.0,25.0,34247.0
+462,Sunderland,Leeds United,6.0,4.0,48707.0,Stadium of Light,mar,0.0,2000/01,2000,Sunderland,6.0,18.5,48285.0
+463,West Ham United,Everton,14.0,15.0,35345.0,Boleyn Ground,mar,0.0,2000/01,2000,London,8.0,29.8,26044.0
+464,Liverpool,Derby County,6.0,15.0,54074.0,Anfield,mar,0.0,2000/01,2000,Liverpool,7.0,40.4,43362.0
+465,Aston Villa,Arsenal,12.0,2.0,42749.0,Villa Park,mar,0.0,2000/01,2000,Birmingham,6.0,19.6,36111.0
+466,Bradford City,Manchester City,20.0,18.0,25136.0,Valley Parade,mar,0.0,2000/01,2000,Bradford,5.0,27.5,19117.0
+467,Charlton Athletic,Leeds United,10.0,5.0,27111.0,The Valley,mar,0.0,2000/01,2000,London,8.0,29.8,20043.0
+468,Chelsea,Sunderland,9.0,4.0,40834.0,Stamford Bridge,mar,0.0,2000/01,2000,London,8.0,29.8,34981.0
+469,Manchester United,Leicester City,1.0,7.0,75643.0,Old Trafford,mar,0.0,2000/01,2000,Manchester,6.0,25.0,67516.0
+470,Newcastle United,Middlesbrough,13.0,17.0,52305.0,St. James' Park,mar,0.0,2000/01,2000,Newcastle,4.0,106.4,51751.0
+471,Southampton,Everton,8.0,16.0,15200.0,The Dell,mar,0.0,2000/01,2000,Southampton,8.0,17.2,15251.0
+472,Tottenham Hotspur,Coventry City,11.0,19.0,36284.0,White Hart Lane,mar,0.0,2000/01,2000,London,8.0,29.8,35606.0
+473,West Ham United,Ipswich Town,14.0,3.0,35345.0,Boleyn Ground,mar,0.0,2000/01,2000,London,8.0,29.8,26046.0
+474,Aston Villa,Ipswich Town,12.0,3.0,42749.0,Villa Park,mar,0.0,2000/01,2000,Birmingham,6.0,19.6,28213.0
+475,West Ham United,Chelsea,14.0,8.0,35345.0,Boleyn Ground,mar,1.0,2000/01,2000,London,8.0,29.8,26016.0
+476,Sunderland,Aston Villa,5.0,12.0,48707.0,Stadium of Light,mar,0.0,2000/01,2000,Sunderland,6.0,18.5,47196.0
+477,Ipswich Town,Bradford City,3.0,20.0,30311.0,Portman Road,mar,0.0,2000/01,2000,Ipswich,5.0,23.0,21820.0
+478,Leeds United,Manchester United,7.0,1.0,37792.0,Elland Road,mar,0.0,2000/01,2000,Leeds,5.0,27.5,40055.0
+479,Arsenal,West Ham United,2.0,14.0,38419.0,Highbury,mar,1.0,2000/01,2000,London,8.0,29.8,38071.0
+480,Coventry City,Chelsea,19.0,8.0,23489.0,Highfield Road,mar,0.0,2000/01,2000,Coventry,7.0,18.4,21609.0
+481,Derby County,Tottenham Hotspur,15.0,13.0,33597.0,iPro Stadium,mar,0.0,2000/01,2000,Derby,6.0,21.3,29410.0
+482,Everton,Newcastle United,16.0,11.0,39414.0,Goodison Park,mar,0.0,2000/01,2000,Liverpool,7.0,40.4,35779.0
+483,Leicester City,Liverpool,6.0,4.0,22000.0,Filbert Street,mar,0.0,2000/01,2000,Leicester,6.0,21.3,21924.0
+484,Manchester City,Southampton,18.0,10.0,35150.0,Maine Road,mar,0.0,2000/01,2000,Manchester,6.0,25.0,33990.0
+485,Middlesbrough,Charlton Athletic,17.0,9.0,33746.0,Riverside Stadium,mar,0.0,2000/01,2000,Middlesbrough,6.0,18.4,28177.0
+486,Manchester United,Arsenal,1.0,2.0,75643.0,Old Trafford,feb,0.0,2000/01,2000,Manchester,5.0,28.4,67535.0
+487,Bradford City,West Ham United,20.0,13.0,25136.0,Valley Parade,feb,0.0,2000/01,2000,Bradford,4.0,29.4,20469.0
+488,Coventry City,Charlton Athletic,19.0,8.0,23489.0,Highfield Road,feb,0.0,2000/01,2000,Coventry,5.0,19.4,19480.0
+489,Derby County,Aston Villa,16.0,14.0,33597.0,iPro Stadium,feb,0.0,2000/01,2000,Derby,5.0,23.3,27289.0
+490,Ipswich Town,Everton,5.0,15.0,30311.0,Portman Road,feb,0.0,2000/01,2000,Ipswich,3.0,27.7,22220.0
+491,Leicester City,Sunderland,7.0,4.0,22000.0,Filbert Street,feb,0.0,2000/01,2000,Leicester,5.0,23.3,21086.0
+492,Middlesbrough,Southampton,17.0,10.0,33746.0,Riverside Stadium,feb,0.0,2000/01,2000,Middlesbrough,5.0,21.8,28725.0
+493,Newcastle United,Manchester City,11.0,18.0,52305.0,St. James' Park,feb,0.0,2000/01,2000,Newcastle,3.0,122.8,51981.0
+494,Tottenham Hotspur,Leeds United,12.0,6.0,36284.0,White Hart Lane,feb,0.0,2000/01,2000,London,6.0,47.9,36070.0
+495,West Ham United,Coventry City,14.0,19.0,35345.0,Boleyn Ground,feb,0.0,2000/01,2000,London,6.0,47.9,22586.0
+496,Charlton Athletic,Newcastle United,7.0,10.0,27111.0,The Valley,feb,0.0,2000/01,2000,London,6.0,47.9,20043.0
+497,Arsenal,Ipswich Town,2.0,6.0,38419.0,Highbury,feb,0.0,2000/01,2000,London,6.0,47.9,38011.0
+498,Aston Villa,Middlesbrough,13.0,17.0,42749.0,Villa Park,feb,0.0,2000/01,2000,Birmingham,5.0,23.4,28912.0
+499,Chelsea,Manchester United,9.0,1.0,40834.0,Stamford Bridge,feb,0.0,2000/01,2000,London,6.0,47.9,34960.0
+500,Everton,Leicester City,15.0,8.0,39414.0,Goodison Park,feb,0.0,2000/01,2000,Liverpool,6.0,40.6,30409.0
+501,Leeds United,Derby County,5.0,16.0,37792.0,Elland Road,feb,0.0,2000/01,2000,Leeds,4.0,29.4,38789.0
+502,Manchester City,Tottenham Hotspur,18.0,11.0,35150.0,Maine Road,feb,0.0,2000/01,2000,Manchester,5.0,28.4,34399.0
+503,Southampton,Bradford City,12.0,20.0,15200.0,The Dell,feb,0.0,2000/01,2000,Southampton,6.0,23.8,14651.0
+504,Sunderland,Liverpool,4.0,3.0,48707.0,Stadium of Light,feb,0.0,2000/01,2000,Sunderland,4.0,17.8,47533.0
+505,Everton,Leeds United,15.0,6.0,39414.0,Goodison Park,feb,0.0,2000/01,2000,Liverpool,6.0,40.6,34224.0
+506,Bradford City,Aston Villa,20.0,12.0,25136.0,Valley Parade,feb,0.0,2000/01,2000,Bradford,4.0,29.4,19591.0
+507,Coventry City,Arsenal,19.0,2.0,23489.0,Highfield Road,feb,0.0,2000/01,2000,Coventry,5.0,19.4,22035.0
+508,Derby County,Sunderland,16.0,4.0,33597.0,iPro Stadium,feb,0.0,2000/01,2000,Derby,5.0,23.3,29129.0
+509,Ipswich Town,Leeds United,5.0,6.0,30311.0,Portman Road,feb,0.0,2000/01,2000,Ipswich,3.0,27.7,22015.0
+510,Leicester City,Chelsea,7.0,8.0,22000.0,Filbert Street,feb,0.0,2000/01,2000,Leicester,5.0,23.3,21502.0
+511,Liverpool,West Ham United,3.0,14.0,54074.0,Anfield,feb,0.0,2000/01,2000,Liverpool,6.0,40.6,44045.0
+512,Manchester United,Everton,1.0,15.0,75643.0,Old Trafford,feb,0.0,2000/01,2000,Manchester,5.0,28.4,67528.0
+513,Middlesbrough,Manchester City,17.0,18.0,33746.0,Riverside Stadium,feb,0.0,2000/01,2000,Middlesbrough,5.0,21.8,31794.0
+514,Tottenham Hotspur,Charlton Athletic,11.0,10.0,36284.0,White Hart Lane,feb,1.0,2000/01,2000,London,6.0,47.9,35368.0
+515,Chelsea,Newcastle United,6.0,7.0,40834.0,Stamford Bridge,jan,0.0,2000/01,2000,London,6.0,52.9,35108.0
+516,Leeds United,Coventry City,10.0,19.0,37792.0,Elland Road,jan,0.0,2000/01,2000,Leeds,4.0,39.1,36555.0
+517,Manchester City,Liverpool,18.0,4.0,35150.0,Maine Road,jan,0.0,2000/01,2000,Manchester,5.0,32.4,34629.0
+518,Southampton,Leicester City,12.0,8.0,15200.0,The Dell,jan,0.0,2000/01,2000,Southampton,6.0,35.7,14909.0
+519,Sunderland,Manchester United,3.0,1.0,48707.0,Stadium of Light,jan,0.0,2000/01,2000,Sunderland,4.0,20.8,48260.0
+520,West Ham United,Tottenham Hotspur,13.0,11.0,35345.0,Boleyn Ground,jan,1.0,2000/01,2000,London,6.0,52.9,26048.0
+521,Everton,Middlesbrough,15.0,16.0,39414.0,Goodison Park,jan,0.0,2000/01,2000,Liverpool,5.0,58.3,34244.0
+522,Arsenal,Bradford City,2.0,20.0,38419.0,Highbury,jan,0.0,2000/01,2000,London,6.0,52.9,37318.0
+523,Charlton Athletic,Derby County,9.0,17.0,27111.0,The Valley,jan,0.0,2000/01,2000,London,6.0,52.9,20043.0
+524,Aston Villa,Leeds United,13.0,10.0,42749.0,Villa Park,jan,0.0,2000/01,2000,Birmingham,4.0,34.7,29335.0
+525,Charlton Athletic,West Ham United,9.0,12.0,27111.0,The Valley,jan,1.0,2000/01,2000,London,6.0,52.9,20043.0
+526,Sunderland,Bradford City,2.0,20.0,48707.0,Stadium of Light,jan,0.0,2000/01,2000,Sunderland,4.0,20.8,47812.0
+527,Chelsea,Ipswich Town,8.0,5.0,40834.0,Stamford Bridge,jan,0.0,2000/01,2000,London,6.0,52.9,34948.0
+528,Coventry City,Everton,19.0,15.0,23489.0,Highfield Road,jan,0.0,2000/01,2000,Coventry,5.0,27.1,19174.0
+529,Derby County,Manchester City,17.0,18.0,33597.0,iPro Stadium,jan,0.0,2000/01,2000,Derby,4.0,32.3,31174.0
+530,Leeds United,Newcastle United,10.0,6.0,37792.0,Elland Road,jan,0.0,2000/01,2000,Leeds,4.0,39.1,40005.0
+531,Leicester City,Arsenal,7.0,3.0,22000.0,Filbert Street,jan,0.0,2000/01,2000,Leicester,4.0,32.3,21872.0
+532,Liverpool,Middlesbrough,4.0,16.0,54074.0,Anfield,jan,0.0,2000/01,2000,Liverpool,5.0,58.3,43042.0
+533,Manchester United,Aston Villa,1.0,13.0,75643.0,Old Trafford,jan,0.0,2000/01,2000,Manchester,5.0,32.4,67533.0
+534,Tottenham Hotspur,Southampton,11.0,14.0,36284.0,White Hart Lane,jan,0.0,2000/01,2000,London,6.0,52.9,36095.0
+535,Ipswich Town,Leicester City,4.0,6.0,30311.0,Portman Road,jan,0.0,2000/01,2000,Ipswich,4.0,31.0,22002.0
+536,Arsenal,Chelsea,3.0,9.0,38419.0,Highbury,jan,1.0,2000/01,2000,London,6.0,52.9,38071.0
+537,Aston Villa,Liverpool,13.0,5.0,42749.0,Villa Park,jan,0.0,2000/01,2000,Birmingham,4.0,34.7,41366.0
+538,Bradford City,Manchester United,20.0,1.0,25136.0,Valley Parade,jan,0.0,2000/01,2000,Bradford,4.0,39.1,20551.0
+539,Everton,Tottenham Hotspur,16.0,10.0,39414.0,Goodison Park,jan,0.0,2000/01,2000,Liverpool,5.0,58.3,32290.0
+540,Manchester City,Leeds United,19.0,12.0,35150.0,Maine Road,jan,0.0,2000/01,2000,Manchester,5.0,32.4,34288.0
+541,Middlesbrough,Derby County,15.0,17.0,33746.0,Riverside Stadium,jan,0.0,2000/01,2000,Middlesbrough,4.0,29.4,29041.0
+542,Newcastle United,Coventry City,7.0,18.0,52305.0,St. James' Park,jan,0.0,2000/01,2000,Newcastle,3.0,190.9,50159.0
+543,Southampton,Charlton Athletic,14.0,8.0,15200.0,The Dell,jan,0.0,2000/01,2000,Southampton,6.0,35.7,15220.0
+544,West Ham United,Sunderland,11.0,2.0,35345.0,Boleyn Ground,jan,0.0,2000/01,2000,London,6.0,52.9,26014.0
+545,Tottenham Hotspur,Newcastle United,12.0,8.0,36284.0,White Hart Lane,jan,0.0,2000/01,2000,London,6.0,52.9,34324.0
+546,Charlton Athletic,Arsenal,7.0,2.0,27111.0,The Valley,jan,1.0,2000/01,2000,London,6.0,52.9,20043.0
+547,Chelsea,Aston Villa,9.0,11.0,40834.0,Stamford Bridge,jan,0.0,2000/01,2000,London,6.0,52.9,33159.0
+548,Coventry City,Manchester City,17.0,19.0,23489.0,Highfield Road,jan,0.0,2000/01,2000,Coventry,5.0,27.1,21999.0
+549,Derby County,Everton,15.0,16.0,33597.0,iPro Stadium,jan,0.0,2000/01,2000,Derby,4.0,32.3,27358.0
+550,Leeds United,Middlesbrough,14.0,18.0,37792.0,Elland Road,jan,0.0,2000/01,2000,Leeds,4.0,39.1,39251.0
+551,Leicester City,Bradford City,6.0,20.0,22000.0,Filbert Street,jan,0.0,2000/01,2000,Leicester,4.0,32.3,19278.0
+552,Liverpool,Southampton,5.0,13.0,54074.0,Anfield,jan,0.0,2000/01,2000,Liverpool,5.0,58.3,38474.0
+553,Sunderland,Ipswich Town,3.0,4.0,48707.0,Stadium of Light,jan,0.0,2000/01,2000,Sunderland,4.0,20.8,46053.0
+554,Manchester United,West Ham United,1.0,10.0,75643.0,Old Trafford,jan,0.0,2000/01,2000,Manchester,5.0,32.4,67603.0
+555,Ipswich Town,Tottenham Hotspur,3.0,13.0,30311.0,Portman Road,dec,0.0,2000/01,2000,Ipswich,4.0,31.0,22234.0
+556,Arsenal,Sunderland,2.0,4.0,38419.0,Highbury,dec,0.0,2000/01,2000,London,6.0,65.1,38026.0
+557,Manchester City,Charlton Athletic,19.0,10.0,35150.0,Maine Road,dec,0.0,2000/01,2000,Manchester,5.0,37.4,33280.0
+558,Middlesbrough,Coventry City,18.0,17.0,33746.0,Riverside Stadium,dec,0.0,2000/01,2000,Middlesbrough,5.0,28.7,30499.0
+559,Newcastle United,Manchester United,7.0,1.0,52305.0,St. James' Park,dec,0.0,2000/01,2000,Newcastle,4.0,230.3,52134.0
+560,Southampton,Derby County,12.0,16.0,15200.0,The Dell,dec,0.0,2000/01,2000,Southampton,6.0,31.4,15075.0
+561,Southampton,Tottenham Hotspur,14.0,11.0,15200.0,The Dell,dec,0.0,2000/01,2000,Southampton,6.0,31.4,15237.0
+562,Arsenal,Leicester City,2.0,4.0,38419.0,Highbury,dec,0.0,2000/01,2000,London,6.0,65.1,38007.0
+563,West Ham United,Charlton Athletic,8.0,13.0,35345.0,Boleyn Ground,dec,1.0,2000/01,2000,London,6.0,65.1,26046.0
+564,Aston Villa,Manchester United,9.0,1.0,42749.0,Villa Park,dec,0.0,2000/01,2000,Birmingham,5.0,27.9,40889.0
+565,Bradford City,Sunderland,20.0,3.0,25136.0,Valley Parade,dec,0.0,2000/01,2000,Bradford,4.0,43.8,20370.0
+566,Everton,Coventry City,15.0,18.0,39414.0,Goodison Park,dec,0.0,2000/01,2000,Liverpool,6.0,72.8,35704.0
+567,Ipswich Town,Chelsea,5.0,10.0,30311.0,Portman Road,dec,0.0,2000/01,2000,Ipswich,4.0,31.0,22237.0
+568,Manchester City,Derby County,17.0,16.0,35150.0,Maine Road,dec,0.0,2000/01,2000,Manchester,5.0,37.4,34321.0
+569,Middlesbrough,Liverpool,19.0,6.0,33746.0,Riverside Stadium,dec,0.0,2000/01,2000,Middlesbrough,5.0,28.7,34696.0
+570,Newcastle United,Leeds United,7.0,12.0,52305.0,St. James' Park,dec,0.0,2000/01,2000,Newcastle,4.0,230.3,52118.0
+571,Liverpool,Arsenal,4.0,2.0,54074.0,Anfield,dec,0.0,2000/01,2000,Liverpool,6.0,72.8,44144.0
+572,Charlton Athletic,Everton,13.0,14.0,27111.0,The Valley,dec,0.0,2000/01,2000,London,6.0,65.1,20043.0
+573,Chelsea,Bradford City,9.0,20.0,40834.0,Stamford Bridge,dec,0.0,2000/01,2000,London,6.0,65.1,33377.0
+574,Derby County,Newcastle United,16.0,8.0,33597.0,iPro Stadium,dec,0.0,2000/01,2000,Derby,5.0,29.5,29978.0
+575,Leeds United,Aston Villa,12.0,7.0,37792.0,Elland Road,dec,0.0,2000/01,2000,Leeds,4.0,43.8,39714.0
+576,Leicester City,West Ham United,3.0,10.0,22000.0,Filbert Street,dec,0.0,2000/01,2000,Leicester,5.0,29.5,21524.0
+577,Manchester United,Ipswich Town,1.0,5.0,75643.0,Old Trafford,dec,0.0,2000/01,2000,Manchester,5.0,37.4,67597.0
+578,Sunderland,Manchester City,6.0,17.0,48707.0,Stadium of Light,dec,0.0,2000/01,2000,Sunderland,4.0,22.9,47475.0
+579,Tottenham Hotspur,Middlesbrough,11.0,19.0,36284.0,White Hart Lane,dec,0.0,2000/01,2000,London,6.0,65.1,35638.0
+580,Coventry City,Southampton,18.0,15.0,23489.0,Highfield Road,dec,0.0,2000/01,2000,Coventry,5.0,21.6,18090.0
+581,Tottenham Hotspur,Arsenal,11.0,2.0,36284.0,White Hart Lane,dec,1.0,2000/01,2000,London,6.0,65.1,36062.0
+582,Manchester United,Liverpool,1.0,5.0,75643.0,Old Trafford,dec,0.0,2000/01,2000,Manchester,5.0,37.4,67533.0
+583,Aston Villa,Manchester City,9.0,16.0,42749.0,Villa Park,dec,0.0,2000/01,2000,Birmingham,5.0,27.9,29281.0
+584,Derby County,Coventry City,17.0,18.0,33597.0,iPro Stadium,dec,0.0,2000/01,2000,Derby,5.0,29.5,27869.0
+585,Everton,West Ham United,14.0,8.0,39414.0,Goodison Park,dec,0.0,2000/01,2000,Liverpool,6.0,72.8,31260.0
+586,Ipswich Town,Southampton,3.0,15.0,30311.0,Portman Road,dec,0.0,2000/01,2000,Ipswich,4.0,31.0,22228.0
+587,Leeds United,Sunderland,10.0,6.0,37792.0,Elland Road,dec,0.0,2000/01,2000,Leeds,4.0,43.8,40053.0
+588,Leicester City,Charlton Athletic,4.0,13.0,22000.0,Filbert Street,dec,0.0,2000/01,2000,Leicester,5.0,29.5,19371.0
+589,Middlesbrough,Chelsea,19.0,12.0,33746.0,Riverside Stadium,dec,0.0,2000/01,2000,Middlesbrough,5.0,28.7,29442.0
+590,Newcastle United,Bradford City,7.0,20.0,52305.0,St. James' Park,dec,0.0,2000/01,2000,Newcastle,4.0,230.3,50470.0
+591,Liverpool,Ipswich Town,6.0,3.0,54074.0,Anfield,dec,0.0,2000/01,2000,Liverpool,6.0,72.8,43509.0
+592,Coventry City,Leicester City,17.0,4.0,23489.0,Highfield Road,dec,0.0,2000/01,2000,Coventry,5.0,21.6,17283.0
+593,Arsenal,Newcastle United,2.0,10.0,38419.0,Highbury,dec,0.0,2000/01,2000,London,6.0,65.1,38052.0
+594,Bradford City,Tottenham Hotspur,19.0,9.0,25136.0,Valley Parade,dec,0.0,2000/01,2000,Bradford,4.0,43.8,17225.0
+595,Charlton Athletic,Manchester United,13.0,1.0,27111.0,The Valley,dec,0.0,2000/01,2000,London,6.0,65.1,20043.0
+596,Chelsea,Derby County,11.0,18.0,40834.0,Stamford Bridge,dec,0.0,2000/01,2000,London,6.0,65.1,34317.0
+597,Manchester City,Everton,16.0,14.0,35150.0,Maine Road,dec,0.0,2000/01,2000,Manchester,5.0,37.4,34516.0
+598,Southampton,Leeds United,15.0,12.0,15200.0,The Dell,dec,0.0,2000/01,2000,Southampton,6.0,31.4,15225.0
+599,Sunderland,Middlesbrough,5.0,20.0,48707.0,Stadium of Light,dec,0.0,2000/01,2000,Sunderland,4.0,22.9,47742.0
+600,West Ham United,Aston Villa,7.0,8.0,35345.0,Boleyn Ground,dec,0.0,2000/01,2000,London,6.0,65.1,25888.0
+601,Sunderland,Everton,6.0,13.0,48707.0,Stadium of Light,dec,0.0,2000/01,2000,Sunderland,4.0,22.9,46372.0
+602,Chelsea,Manchester City,14.0,16.0,40834.0,Stamford Bridge,dec,0.0,2000/01,2000,London,6.0,65.1,34971.0
+603,Arsenal,Southampton,2.0,15.0,38419.0,Highbury,dec,0.0,2000/01,2000,London,6.0,65.1,38036.0
+604,Aston Villa,Newcastle United,8.0,9.0,42749.0,Villa Park,dec,0.0,2000/01,2000,Birmingham,5.0,27.9,34225.0
+605,Bradford City,Coventry City,20.0,18.0,25136.0,Valley Parade,dec,0.0,2000/01,2000,Bradford,4.0,43.8,15523.0
+606,Ipswich Town,Derby County,5.0,17.0,30311.0,Portman Road,dec,0.0,2000/01,2000,Ipswich,4.0,31.0,22003.0
+607,Leicester City,Leeds United,3.0,11.0,22000.0,Filbert Street,dec,0.0,2000/01,2000,Leicester,5.0,29.5,21486.0
+608,Liverpool,Charlton Athletic,4.0,12.0,54074.0,Anfield,dec,0.0,2000/01,2000,Liverpool,6.0,72.8,43515.0
+609,Manchester United,Tottenham Hotspur,1.0,10.0,75643.0,Old Trafford,dec,0.0,2000/01,2000,Manchester,5.0,37.4,67583.0
+610,West Ham United,Middlesbrough,7.0,19.0,35345.0,Boleyn Ground,dec,0.0,2000/01,2000,London,6.0,65.1,25459.0
+611,Newcastle United,Liverpool,7.0,5.0,52305.0,St. James' Park,nov,0.0,2000/01,2000,Newcastle,6.0,202.8,51949.0
+612,Leeds United,Arsenal,10.0,2.0,37792.0,Elland Road,nov,0.0,2000/01,2000,Leeds,6.0,43.0,38084.0
+613,Charlton Athletic,Sunderland,12.0,9.0,27111.0,The Valley,nov,0.0,2000/01,2000,London,9.0,72.0,20043.0
+614,Coventry City,Aston Villa,17.0,6.0,23489.0,Highfield Road,nov,0.0,2000/01,2000,Coventry,7.0,25.3,21464.0
+615,Derby County,Manchester United,19.0,1.0,33597.0,iPro Stadium,nov,0.0,2000/01,2000,Derby,7.0,29.9,32910.0
+616,Everton,Chelsea,13.0,14.0,39414.0,Goodison Park,nov,0.0,2000/01,2000,Liverpool,8.0,67.8,33515.0
+617,Manchester City,Ipswich Town,16.0,3.0,35150.0,Maine Road,nov,0.0,2000/01,2000,Manchester,7.0,35.8,33741.0
+618,Middlesbrough,Bradford City,18.0,20.0,33746.0,Riverside Stadium,nov,0.0,2000/01,2000,Middlesbrough,7.0,29.1,28526.0
+619,Southampton,West Ham United,15.0,11.0,15200.0,The Dell,nov,0.0,2000/01,2000,Southampton,8.0,28.4,15232.0
+620,Tottenham Hotspur,Leicester City,8.0,4.0,36284.0,White Hart Lane,nov,0.0,2000/01,2000,London,9.0,72.0,35636.0
+621,Coventry City,Ipswich Town,17.0,5.0,23489.0,Highfield Road,nov,0.0,2000/01,2000,Coventry,7.0,25.3,19324.0
+622,Tottenham Hotspur,Liverpool,9.0,4.0,36284.0,White Hart Lane,nov,0.0,2000/01,2000,London,9.0,72.0,36036.0
+623,Manchester City,Manchester United,16.0,1.0,35150.0,Maine Road,nov,1.0,2000/01,2000,Manchester,7.0,35.8,34429.0
+624,Charlton Athletic,Chelsea,7.0,14.0,27111.0,The Valley,nov,1.0,2000/01,2000,London,9.0,72.0,20043.0
+625,Derby County,Bradford City,19.0,20.0,33597.0,iPro Stadium,nov,0.0,2000/01,2000,Derby,7.0,29.9,31614.0
+626,Everton,Arsenal,13.0,2.0,39414.0,Goodison Park,nov,0.0,2000/01,2000,Liverpool,8.0,67.8,33106.0
+627,Leeds United,West Ham United,11.0,12.0,37792.0,Elland Road,nov,0.0,2000/01,2000,Leeds,6.0,43.0,40005.0
+628,Middlesbrough,Leicester City,18.0,3.0,33746.0,Riverside Stadium,nov,0.0,2000/01,2000,Middlesbrough,7.0,29.1,27965.0
+629,Newcastle United,Sunderland,8.0,10.0,52305.0,St. James' Park,nov,0.0,2000/01,2000,Newcastle,6.0,202.8,52030.0
+630,Southampton,Aston Villa,15.0,6.0,15200.0,The Dell,nov,0.0,2000/01,2000,Southampton,8.0,28.4,14979.0
+631,Liverpool,Coventry City,3.0,17.0,54074.0,Anfield,nov,0.0,2000/01,2000,Liverpool,8.0,67.8,43701.0
+632,Chelsea,Leeds United,10.0,8.0,40834.0,Stamford Bridge,nov,0.0,2000/01,2000,London,9.0,72.0,35121.0
+633,Arsenal,Derby County,2.0,19.0,38419.0,Highbury,nov,0.0,2000/01,2000,London,9.0,72.0,37679.0
+634,Aston Villa,Tottenham Hotspur,5.0,11.0,42749.0,Villa Park,nov,0.0,2000/01,2000,Birmingham,7.0,31.5,33608.0
+635,Bradford City,Everton,20.0,14.0,25136.0,Valley Parade,nov,0.0,2000/01,2000,Bradford,6.0,43.0,17276.0
+636,Ipswich Town,Charlton Athletic,6.0,9.0,30311.0,Portman Road,nov,0.0,2000/01,2000,Ipswich,6.0,34.9,22263.0
+637,Leicester City,Newcastle United,4.0,7.0,22000.0,Filbert Street,nov,0.0,2000/01,2000,Leicester,7.0,29.9,21406.0
+638,Manchester United,Middlesbrough,1.0,18.0,75643.0,Old Trafford,nov,0.0,2000/01,2000,Manchester,7.0,35.8,67576.0
+639,Sunderland,Southampton,12.0,15.0,48707.0,Stadium of Light,nov,0.0,2000/01,2000,Sunderland,6.0,26.6,45064.0
+640,West Ham United,Manchester City,13.0,16.0,35345.0,Boleyn Ground,nov,0.0,2000/01,2000,London,9.0,72.0,26022.0
+641,Derby County,West Ham United,20.0,15.0,33597.0,iPro Stadium,nov,0.0,2000/01,2000,Derby,7.0,29.9,24621.0
+642,Everton,Aston Villa,16.0,5.0,39414.0,Goodison Park,nov,0.0,2000/01,2000,Liverpool,8.0,67.8,27670.0
+643,Leeds United,Liverpool,8.0,4.0,37792.0,Elland Road,nov,0.0,2000/01,2000,Leeds,6.0,43.0,40055.0
+644,Charlton Athletic,Bradford City,9.0,19.0,27111.0,The Valley,nov,0.0,2000/01,2000,London,9.0,72.0,19633.0
+645,Coventry City,Manchester United,17.0,1.0,23489.0,Highfield Road,nov,0.0,2000/01,2000,Coventry,7.0,25.3,21079.0
+646,Manchester City,Leicester City,13.0,3.0,35150.0,Maine Road,nov,0.0,2000/01,2000,Manchester,7.0,35.8,34279.0
+647,Middlesbrough,Arsenal,18.0,2.0,33746.0,Riverside Stadium,nov,0.0,2000/01,2000,Middlesbrough,7.0,29.1,29541.0
+648,Newcastle United,Ipswich Town,6.0,7.0,52305.0,St. James' Park,nov,0.0,2000/01,2000,Newcastle,6.0,202.8,50922.0
+649,Southampton,Chelsea,14.0,11.0,15200.0,The Dell,nov,0.0,2000/01,2000,Southampton,8.0,28.4,15236.0
+650,Tottenham Hotspur,Sunderland,10.0,12.0,36284.0,White Hart Lane,nov,0.0,2000/01,2000,London,9.0,72.0,36016.0
+651,Liverpool,Everton,3.0,14.0,54074.0,Anfield,oct,1.0,2000/01,2000,Liverpool,12.0,58.2,44718.0
+652,Bradford City,Leeds United,19.0,10.0,25136.0,Valley Parade,oct,0.0,2000/01,2000,Bradford,9.0,40.4,17364.0
+653,Arsenal,Manchester City,2.0,13.0,38419.0,Highbury,oct,0.0,2000/01,2000,London,13.0,61.5,38049.0
+654,Aston Villa,Charlton Athletic,7.0,11.0,42749.0,Villa Park,oct,0.0,2000/01,2000,Birmingham,11.0,31.9,27461.0
+655,Chelsea,Tottenham Hotspur,6.0,12.0,40834.0,Stamford Bridge,oct,1.0,2000/01,2000,London,13.0,61.5,34966.0
+656,Ipswich Town,Middlesbrough,5.0,17.0,30311.0,Portman Road,oct,0.0,2000/01,2000,Ipswich,9.0,38.8,21771.0
+657,Leicester City,Derby County,4.0,20.0,22000.0,Filbert Street,oct,0.0,2000/01,2000,Leicester,11.0,36.5,20525.0
+658,Manchester United,Southampton,1.0,18.0,75643.0,Old Trafford,oct,0.0,2000/01,2000,Manchester,11.0,46.1,67581.0
+659,Sunderland,Coventry City,9.0,16.0,48707.0,Stadium of Light,oct,0.0,2000/01,2000,Sunderland,10.0,33.2,44526.0
+660,West Ham United,Newcastle United,15.0,8.0,35345.0,Boleyn Ground,oct,0.0,2000/01,2000,London,13.0,61.5,26044.0
+661,Southampton,Manchester City,17.0,10.0,15200.0,The Dell,oct,0.0,2000/01,2000,Southampton,12.0,29.2,15056.0
+662,Aston Villa,Sunderland,12.0,13.0,42749.0,Villa Park,oct,0.0,2000/01,2000,Birmingham,11.0,31.9,27215.0
+663,Manchester United,Leeds United,1.0,9.0,75643.0,Old Trafford,oct,0.0,2000/01,2000,Manchester,11.0,46.1,67525.0
+664,Bradford City,Ipswich Town,19.0,6.0,25136.0,Valley Parade,oct,0.0,2000/01,2000,Bradford,9.0,40.4,17045.0
+665,Charlton Athletic,Middlesbrough,7.0,16.0,27111.0,The Valley,oct,0.0,2000/01,2000,London,13.0,61.5,20043.0
+666,Chelsea,Coventry City,11.0,15.0,40834.0,Stamford Bridge,oct,0.0,2000/01,2000,London,13.0,61.5,34646.0
+667,Liverpool,Leicester City,3.0,5.0,54074.0,Anfield,oct,0.0,2000/01,2000,Liverpool,12.0,58.2,44395.0
+668,Newcastle United,Everton,4.0,14.0,52305.0,St. James' Park,oct,0.0,2000/01,2000,Newcastle,9.0,161.3,51625.0
+669,Tottenham Hotspur,Derby County,8.0,20.0,36284.0,White Hart Lane,oct,0.0,2000/01,2000,London,13.0,61.5,34483.0
+670,West Ham United,Arsenal,18.0,2.0,35345.0,Boleyn Ground,oct,1.0,2000/01,2000,London,13.0,61.5,26034.0
+671,Middlesbrough,Newcastle United,14.0,3.0,33746.0,Riverside Stadium,oct,0.0,2000/01,2000,Middlesbrough,10.0,32.0,31436.0
+672,Derby County,Liverpool,20.0,5.0,33597.0,iPro Stadium,oct,0.0,2000/01,2000,Derby,11.0,36.5,30532.0
+673,Arsenal,Aston Villa,2.0,7.0,38419.0,Highbury,oct,0.0,2000/01,2000,London,13.0,61.5,38042.0
+674,Coventry City,Tottenham Hotspur,13.0,11.0,23489.0,Highfield Road,oct,0.0,2000/01,2000,Coventry,11.0,26.8,21435.0
+675,Everton,Southampton,17.0,16.0,39414.0,Goodison Park,oct,0.0,2000/01,2000,Liverpool,12.0,58.2,29491.0
+676,Ipswich Town,West Ham United,8.0,18.0,30311.0,Portman Road,oct,0.0,2000/01,2000,Ipswich,9.0,38.8,22243.0
+677,Leeds United,Charlton Athletic,6.0,9.0,37792.0,Elland Road,oct,0.0,2000/01,2000,Leeds,9.0,40.4,38837.0
+678,Leicester City,Manchester United,4.0,1.0,22000.0,Filbert Street,oct,0.0,2000/01,2000,Leicester,11.0,36.5,22132.0
+679,Manchester City,Bradford City,12.0,19.0,35150.0,Maine Road,oct,0.0,2000/01,2000,Manchester,11.0,46.1,34229.0
+680,Sunderland,Chelsea,10.0,15.0,48707.0,Stadium of Light,oct,0.0,2000/01,2000,Sunderland,10.0,33.2,45078.0
+681,Sunderland,Leicester City,14.0,1.0,48707.0,Stadium of Light,oct,0.0,2000/01,2000,Sunderland,10.0,33.2,45338.0
+682,Arsenal,Manchester United,3.0,2.0,38419.0,Highbury,oct,0.0,2000/01,2000,London,13.0,61.5,38146.0
+683,Chelsea,Liverpool,12.0,7.0,40834.0,Stamford Bridge,oct,0.0,2000/01,2000,London,13.0,61.5,34966.0
+684,Aston Villa,Derby County,5.0,20.0,42749.0,Villa Park,sep,0.0,2000/01,2000,Birmingham,14.0,17.8,26534.0
+685,Charlton Athletic,Coventry City,6.0,17.0,27111.0,The Valley,sep,0.0,2000/01,2000,London,16.0,41.2,20043.0
+686,Everton,Ipswich Town,15.0,9.0,39414.0,Goodison Park,sep,0.0,2000/01,2000,Liverpool,15.0,49.0,32597.0
+687,Leeds United,Tottenham Hotspur,8.0,10.0,37792.0,Elland Road,sep,0.0,2000/01,2000,Leeds,12.0,21.5,37562.0
+688,Manchester City,Newcastle United,16.0,4.0,35150.0,Maine Road,sep,0.0,2000/01,2000,Manchester,14.0,26.5,34497.0
+689,Southampton,Middlesbrough,13.0,11.0,15200.0,The Dell,sep,0.0,2000/01,2000,Southampton,15.0,15.7,14903.0
+690,West Ham United,Bradford City,18.0,19.0,35345.0,Boleyn Ground,sep,0.0,2000/01,2000,London,16.0,41.2,25407.0
+691,Leicester City,Everton,2.0,11.0,22000.0,Filbert Street,sep,0.0,2000/01,2000,Leicester,14.0,21.4,18084.0
+692,Bradford City,Southampton,20.0,8.0,25136.0,Valley Parade,sep,0.0,2000/01,2000,Bradford,12.0,21.5,16163.0
+693,Coventry City,West Ham United,17.0,18.0,23489.0,Highfield Road,sep,0.0,2000/01,2000,Coventry,14.0,16.5,21020.0
+694,Derby County,Leeds United,19.0,10.0,33597.0,iPro Stadium,sep,0.0,2000/01,2000,Derby,14.0,21.4,26248.0
+695,Ipswich Town,Arsenal,12.0,3.0,30311.0,Portman Road,sep,0.0,2000/01,2000,Ipswich,13.0,27.8,22030.0
+696,Liverpool,Sunderland,4.0,14.0,54074.0,Anfield,sep,0.0,2000/01,2000,Liverpool,15.0,49.0,44713.0
+697,Middlesbrough,Aston Villa,15.0,9.0,33746.0,Riverside Stadium,sep,0.0,2000/01,2000,Middlesbrough,14.0,18.7,27556.0
+698,Newcastle United,Charlton Athletic,7.0,5.0,52305.0,St. James' Park,sep,0.0,2000/01,2000,Newcastle,12.0,101.9,50866.0
+699,Tottenham Hotspur,Manchester City,6.0,13.0,36284.0,White Hart Lane,sep,0.0,2000/01,2000,London,16.0,41.2,36069.0
+700,Manchester United,Chelsea,1.0,16.0,75643.0,Old Trafford,sep,0.0,2000/01,2000,Manchester,14.0,26.5,67568.0
+701,Chelsea,Leicester City,17.0,2.0,40834.0,Stamford Bridge,sep,0.0,2000/01,2000,London,16.0,41.2,33697.0
+702,West Ham United,Liverpool,20.0,4.0,35345.0,Boleyn Ground,sep,0.0,2000/01,2000,London,16.0,41.2,25998.0
+703,Manchester City,Middlesbrough,12.0,15.0,35150.0,Maine Road,sep,0.0,2000/01,2000,Manchester,14.0,26.5,32053.0
+704,Arsenal,Coventry City,3.0,13.0,38419.0,Highbury,sep,0.0,2000/01,2000,London,16.0,41.2,37794.0
+705,Aston Villa,Bradford City,7.0,18.0,42749.0,Villa Park,sep,0.0,2000/01,2000,Birmingham,14.0,17.8,27849.0
+706,Charlton Athletic,Tottenham Hotspur,8.0,5.0,27111.0,The Valley,sep,1.0,2000/01,2000,London,16.0,41.2,20043.0
+707,Everton,Manchester United,10.0,1.0,39414.0,Goodison Park,sep,0.0,2000/01,2000,Liverpool,15.0,49.0,38541.0
+708,Leeds United,Ipswich Town,9.0,11.0,37792.0,Elland Road,sep,0.0,2000/01,2000,Leeds,12.0,21.5,35552.0
+709,Southampton,Newcastle United,16.0,6.0,15200.0,The Dell,sep,0.0,2000/01,2000,Southampton,15.0,15.7,15221.0
+710,Sunderland,Derby County,14.0,19.0,48707.0,Stadium of Light,sep,0.0,2000/01,2000,Sunderland,13.0,19.0,45343.0
+711,Tottenham Hotspur,West Ham United,5.0,20.0,36284.0,White Hart Lane,sep,1.0,2000/01,2000,London,16.0,41.2,33282.0
+712,Derby County,Charlton Athletic,16.0,13.0,33597.0,iPro Stadium,sep,0.0,2000/01,2000,Derby,14.0,21.4,22310.0
+713,Bradford City,Arsenal,15.0,6.0,25136.0,Valley Parade,sep,0.0,2000/01,2000,Bradford,12.0,21.5,17160.0
+714,Coventry City,Leeds United,9.0,7.0,23489.0,Highfield Road,sep,0.0,2000/01,2000,Coventry,14.0,16.5,20377.0
+715,Ipswich Town,Aston Villa,17.0,14.0,30311.0,Portman Road,sep,0.0,2000/01,2000,Ipswich,13.0,27.8,20665.0
+716,Leicester City,Southampton,2.0,19.0,22000.0,Filbert Street,sep,0.0,2000/01,2000,Leicester,14.0,21.4,18366.0
+717,Liverpool,Manchester City,4.0,11.0,54074.0,Anfield,sep,0.0,2000/01,2000,Liverpool,15.0,49.0,44692.0
+718,Manchester United,Sunderland,1.0,18.0,75643.0,Old Trafford,sep,0.0,2000/01,2000,Manchester,14.0,26.5,67503.0
+719,Middlesbrough,Everton,12.0,8.0,33746.0,Riverside Stadium,sep,0.0,2000/01,2000,Middlesbrough,14.0,18.7,30885.0
+720,Newcastle United,Chelsea,3.0,10.0,52305.0,St. James' Park,sep,0.0,2000/01,2000,Newcastle,12.0,101.9,51687.0
+721,Coventry City,Newcastle United,9.0,1.0,23489.0,Highfield Road,sep,0.0,2000/01,2000,Coventry,14.0,16.5,22109.0
+722,Derby County,Middlesbrough,17.0,10.0,33597.0,iPro Stadium,sep,0.0,2000/01,2000,Derby,14.0,21.4,24290.0
+723,Leicester City,Ipswich Town,3.0,14.0,22000.0,Filbert Street,sep,0.0,2000/01,2000,Leicester,14.0,21.4,19598.0
+724,Charlton Athletic,Southampton,13.0,18.0,27111.0,The Valley,sep,0.0,2000/01,2000,London,16.0,41.2,20043.0
+725,Chelsea,Arsenal,11.0,4.0,40834.0,Stamford Bridge,sep,1.0,2000/01,2000,London,16.0,41.2,34923.0
+726,Liverpool,Aston Villa,5.0,19.0,54074.0,Anfield,sep,0.0,2000/01,2000,Liverpool,15.0,49.0,43360.0
+727,Leeds United,Manchester City,7.0,8.0,37792.0,Elland Road,sep,0.0,2000/01,2000,Leeds,12.0,21.5,40055.0
+728,Sunderland,West Ham United,15.0,20.0,48707.0,Stadium of Light,sep,0.0,2000/01,2000,Sunderland,13.0,19.0,46605.0
+729,Tottenham Hotspur,Everton,6.0,12.0,36284.0,White Hart Lane,sep,0.0,2000/01,2000,London,16.0,41.2,35316.0
+730,Manchester United,Bradford City,2.0,16.0,75643.0,Old Trafford,sep,0.0,2000/01,2000,Manchester,14.0,26.5,66447.0
+731,Aston Villa,Chelsea,17.0,10.0,42749.0,Villa Park,aug,0.0,2000/01,2000,Birmingham,16.0,27.0,27057.0
+732,Arsenal,Charlton Athletic,1.0,14.0,38419.0,Highbury,aug,1.0,2000/01,2000,London,18.0,57.5,38025.0
+733,Bradford City,Leicester City,9.0,6.0,25136.0,Valley Parade,aug,0.0,2000/01,2000,Bradford,15.0,31.8,16766.0
+734,Everton,Derby County,7.0,18.0,39414.0,Goodison Park,aug,0.0,2000/01,2000,Liverpool,16.0,66.6,34840.0
+735,Ipswich Town,Sunderland,13.0,15.0,30311.0,Portman Road,aug,0.0,2000/01,2000,Ipswich,16.0,36.8,21830.0
+736,Manchester City,Coventry City,16.0,4.0,35150.0,Maine Road,aug,0.0,2000/01,2000,Manchester,16.0,31.4,34140.0
+737,Middlesbrough,Leeds United,8.0,2.0,33746.0,Riverside Stadium,aug,0.0,2000/01,2000,Middlesbrough,16.0,24.6,31626.0
+738,Newcastle United,Tottenham Hotspur,3.0,11.0,52305.0,St. James' Park,aug,0.0,2000/01,2000,Newcastle,13.0,104.9,51573.0
+739,Southampton,Liverpool,19.0,12.0,15200.0,The Dell,aug,0.0,2000/01,2000,Southampton,17.0,10.9,15202.0
+740,West Ham United,Manchester United,20.0,5.0,35345.0,Boleyn Ground,aug,0.0,2000/01,2000,London,18.0,57.5,25988.0
+741,Manchester City,Sunderland,15.0,13.0,35150.0,Maine Road,aug,0.0,2000/01,2000,Manchester,16.0,31.4,34410.0
+742,Newcastle United,Derby County,12.0,17.0,52305.0,St. James' Park,aug,0.0,2000/01,2000,Newcastle,13.0,104.9,51327.0
+743,Southampton,Coventry City,18.0,11.0,15200.0,The Dell,aug,0.0,2000/01,2000,Southampton,17.0,10.9,14801.0
+744,West Ham United,Leicester City,20.0,4.0,35345.0,Boleyn Ground,aug,0.0,2000/01,2000,London,18.0,57.5,25195.0
+745,Everton,Charlton Athletic,7.0,6.0,39414.0,Goodison Park,aug,0.0,2000/01,2000,Liverpool,16.0,66.6,36300.0
+746,Bradford City,Chelsea,9.0,10.0,25136.0,Valley Parade,aug,0.0,2000/01,2000,Bradford,15.0,31.8,17872.0
+747,Ipswich Town,Manchester United,19.0,3.0,30311.0,Portman Road,aug,0.0,2000/01,2000,Ipswich,16.0,36.8,22007.0
+748,Middlesbrough,Tottenham Hotspur,1.0,2.0,33746.0,Riverside Stadium,aug,0.0,2000/01,2000,Middlesbrough,16.0,24.6,31254.0
+749,Arsenal,Liverpool,8.0,14.0,38419.0,Highbury,aug,0.0,2000/01,2000,London,18.0,57.5,38014.0
+750,Manchester United,Newcastle United,3.0,12.0,75643.0,Old Trafford,aug,0.0,2000/01,2000,Manchester,16.0,31.4,67477.0
+751,Charlton Athletic,Manchester City,6.0,15.0,27111.0,The Valley,aug,0.0,2000/01,2000,London,18.0,57.5,20043.0
+752,Chelsea,West Ham United,10.0,20.0,40834.0,Stamford Bridge,aug,1.0,2000/01,2000,London,18.0,57.5,34914.0
+753,Coventry City,Middlesbrough,11.0,1.0,23489.0,Highfield Road,aug,0.0,2000/01,2000,Coventry,17.0,23.8,20624.0
+754,Derby County,Southampton,17.0,18.0,33597.0,iPro Stadium,aug,0.0,2000/01,2000,Derby,16.0,24.1,27223.0
+755,Leeds United,Everton,5.0,7.0,37792.0,Elland Road,aug,0.0,2000/01,2000,Leeds,15.0,31.8,40010.0
+756,Leicester City,Aston Villa,4.0,16.0,22000.0,Filbert Street,aug,0.0,2000/01,2000,Leicester,16.0,24.1,21455.0
+757,Liverpool,Bradford City,14.0,9.0,54074.0,Anfield,aug,0.0,2000/01,2000,Liverpool,16.0,66.6,44183.0
+758,Sunderland,Arsenal,13.0,8.0,48707.0,Stadium of Light,aug,0.0,2000/01,2000,Sunderland,15.0,31.6,47121.0
+759,Tottenham Hotspur,Ipswich Town,2.0,19.0,36284.0,White Hart Lane,aug,0.0,2000/01,2000,London,18.0,57.5,36148.0

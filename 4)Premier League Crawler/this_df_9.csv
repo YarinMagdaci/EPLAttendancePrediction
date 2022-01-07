@@ -1,0 +1,761 @@
+,team_1,team_2,team_1_rating,team_2_rating,capacity,stadium,month,derby,current_season,year,city,temprature,precipitation,attendance
+0,Cardiff City,Chelsea,20.0,3.0,33280.0,Cardiff City Stadium,may,0.0,2013/14,2013,Cardiff,12.0,32.7,27716.0
+1,Fulham,Crystal Palace,19.0,11.0,25700.0,Craven Cottage,may,1.0,2013/14,2013,London,14.0,52.1,24447.0
+2,Hull City,Everton,16.0,5.0,25586.0,KCOM Stadium,may,0.0,2013/14,2013,Hull,11.0,7.7,24848.0
+3,Liverpool,Newcastle United,2.0,10.0,54074.0,Anfield,may,0.0,2013/14,2013,Liverpool,12.0,53.6,44724.0
+4,Manchester City,West Ham United,1.0,13.0,53400.0,Etihad Stadium,may,0.0,2013/14,2013,Manchester,12.0,21.2,47300.0
+5,Norwich City,Arsenal,18.0,4.0,27359.0,Carrow Road,may,0.0,2013/14,2013,Norwich,12.0,21.5,26848.0
+6,Southampton,Manchester United,8.0,7.0,32384.0,St. Mary's Stadium,may,0.0,2013/14,2013,Southampton,13.0,16.5,31372.0
+7,Sunderland,Swansea City,14.0,12.0,48707.0,Stadium of Light,may,0.0,2013/14,2013,Sunderland,10.0,23.0,45580.0
+8,Tottenham Hotspur,Aston Villa,6.0,15.0,36284.0,White Hart Lane,may,0.0,2013/14,2013,London,14.0,52.1,35826.0
+9,West Bromwich Albion,Stoke City,17.0,9.0,26445.0,The Hawthorns,may,0.0,2013/14,2013,West Bromwich,12.0,26.6,26613.0
+10,Manchester City,Aston Villa,1.0,15.0,53400.0,Etihad Stadium,may,0.0,2013/14,2013,Manchester,12.0,21.2,47023.0
+11,Sunderland,West Bromwich Albion,14.0,17.0,48707.0,Stadium of Light,may,0.0,2013/14,2013,Sunderland,10.0,23.0,45181.0
+12,Manchester United,Hull City,7.0,16.0,75643.0,Old Trafford,may,0.0,2013/14,2013,Manchester,12.0,21.2,75341.0
+13,Crystal Palace,Liverpool,11.0,2.0,25486.0,Selhurst Park,may,0.0,2013/14,2013,London,14.0,52.1,25261.0
+14,Arsenal,West Bromwich Albion,4.0,17.0,60704.0,Emirates Stadium,may,0.0,2013/14,2013,London,14.0,52.1,60021.0
+15,Chelsea,Norwich City,3.0,18.0,40834.0,Stamford Bridge,may,0.0,2013/14,2013,London,14.0,52.1,41602.0
+16,West Ham United,Tottenham Hotspur,12.0,6.0,35345.0,Boleyn Ground,may,1.0,2013/14,2013,London,14.0,52.1,34977.0
+17,Aston Villa,Hull City,15.0,16.0,42749.0,Villa Park,may,0.0,2013/14,2013,Birmingham,12.0,26.6,37182.0
+18,Manchester United,Sunderland,7.0,14.0,75643.0,Old Trafford,may,0.0,2013/14,2013,Manchester,12.0,21.2,75347.0
+19,Newcastle United,Cardiff City,9.0,20.0,52305.0,St. James' Park,may,0.0,2013/14,2013,Newcastle,9.0,116.4,50239.0
+20,Stoke City,Fulham,10.0,19.0,30089.0,Britannia Stadium,may,0.0,2013/14,2013,Stoke,12.0,21.2,27429.0
+21,Swansea City,Southampton,13.0,8.0,20937.0,Liberty Stadium,may,0.0,2013/14,2013,Swansea,12.0,80.3,20682.0
+22,Everton,Manchester City,5.0,1.0,39414.0,Goodison Park,may,0.0,2013/14,2013,Liverpool,12.0,53.6,39454.0
+23,Arsenal,Newcastle United,4.0,9.0,60704.0,Emirates Stadium,apr,0.0,2013/14,2013,London,11.0,30.6,60023.0
+24,Sunderland,Cardiff City,17.0,20.0,48707.0,Stadium of Light,apr,0.0,2013/14,2013,Sunderland,7.0,23.1,42397.0
+25,Liverpool,Chelsea,1.0,2.0,54074.0,Anfield,apr,0.0,2013/14,2013,Liverpool,10.0,36.7,44726.0
+26,Crystal Palace,Manchester City,11.0,3.0,25486.0,Selhurst Park,apr,0.0,2013/14,2013,London,11.0,30.6,24769.0
+27,Southampton,Everton,8.0,5.0,32384.0,St. Mary's Stadium,apr,0.0,2013/14,2013,Southampton,9.0,19.2,31313.0
+28,Fulham,Hull City,19.0,13.0,25700.0,Craven Cottage,apr,0.0,2013/14,2013,London,11.0,30.6,25700.0
+29,Stoke City,Tottenham Hotspur,10.0,6.0,30089.0,Britannia Stadium,apr,0.0,2013/14,2013,Stoke,9.0,27.0,26021.0
+30,Swansea City,Aston Villa,12.0,16.0,20937.0,Liberty Stadium,apr,0.0,2013/14,2013,Swansea,10.0,39.8,20701.0
+31,West Bromwich Albion,West Ham United,15.0,14.0,26445.0,The Hawthorns,apr,0.0,2013/14,2013,West Bromwich,8.0,23.8,26541.0
+32,Manchester United,Norwich City,7.0,18.0,75643.0,Old Trafford,apr,0.0,2013/14,2013,Manchester,9.0,27.0,75208.0
+33,Manchester City,West Bromwich Albion,3.0,16.0,53400.0,Etihad Stadium,apr,0.0,2013/14,2013,Manchester,9.0,27.0,46564.0
+34,Norwich City,Liverpool,17.0,1.0,27359.0,Carrow Road,apr,0.0,2013/14,2013,Norwich,9.0,22.0,26857.0
+35,Hull City,Arsenal,14.0,4.0,25586.0,KCOM Stadium,apr,0.0,2013/14,2013,Hull,9.0,13.3,24762.0
+36,Everton,Manchester United,5.0,7.0,39414.0,Goodison Park,apr,0.0,2013/14,2013,Liverpool,10.0,36.7,39436.0
+37,Aston Villa,Southampton,15.0,8.0,42749.0,Villa Park,apr,0.0,2013/14,2013,Birmingham,8.0,23.8,35134.0
+38,Cardiff City,Stoke City,18.0,10.0,33280.0,Cardiff City Stadium,apr,0.0,2013/14,2013,Cardiff,9.0,33.9,27686.0
+39,Chelsea,Sunderland,2.0,20.0,40834.0,Stamford Bridge,apr,0.0,2013/14,2013,London,11.0,30.6,41210.0
+40,Tottenham Hotspur,Fulham,6.0,19.0,36284.0,White Hart Lane,apr,1.0,2013/14,2013,London,11.0,30.6,35841.0
+41,Newcastle United,Swansea City,9.0,13.0,52305.0,St. James' Park,apr,0.0,2013/14,2013,Newcastle,7.0,70.0,51057.0
+42,West Ham United,Crystal Palace,12.0,11.0,35345.0,Boleyn Ground,apr,1.0,2013/14,2013,London,11.0,30.6,34977.0
+43,Everton,Crystal Palace,5.0,11.0,39414.0,Goodison Park,apr,0.0,2013/14,2013,Liverpool,10.0,36.7,39333.0
+44,Manchester City,Sunderland,3.0,20.0,53400.0,Etihad Stadium,apr,0.0,2013/14,2013,Manchester,9.0,27.0,47046.0
+45,Arsenal,West Ham United,4.0,12.0,60704.0,Emirates Stadium,apr,1.0,2013/14,2013,London,11.0,30.6,59977.0
+46,Liverpool,Manchester City,1.0,3.0,54074.0,Anfield,apr,0.0,2013/14,2013,Liverpool,10.0,36.7,44601.0
+47,Swansea City,Chelsea,15.0,2.0,20937.0,Liberty Stadium,apr,0.0,2013/14,2013,Swansea,10.0,39.8,20761.0
+48,Crystal Palace,Aston Villa,12.0,14.0,25486.0,Selhurst Park,apr,0.0,2013/14,2013,London,11.0,30.6,25564.0
+49,Fulham,Norwich City,18.0,17.0,25700.0,Craven Cottage,apr,0.0,2013/14,2013,London,11.0,30.6,25028.0
+50,Southampton,Cardiff City,8.0,19.0,32384.0,St. Mary's Stadium,apr,0.0,2013/14,2013,Southampton,9.0,19.2,30526.0
+51,Stoke City,Newcastle United,10.0,9.0,30089.0,Britannia Stadium,apr,0.0,2013/14,2013,Stoke,9.0,27.0,27400.0
+52,Sunderland,Everton,20.0,4.0,48707.0,Stadium of Light,apr,0.0,2013/14,2013,Sunderland,7.0,23.1,38445.0
+53,West Bromwich Albion,Tottenham Hotspur,16.0,6.0,26445.0,The Hawthorns,apr,0.0,2013/14,2013,West Bromwich,8.0,23.8,25398.0
+54,Tottenham Hotspur,Sunderland,6.0,20.0,36284.0,White Hart Lane,apr,0.0,2013/14,2013,London,11.0,30.6,34410.0
+55,Everton,Arsenal,5.0,4.0,39414.0,Goodison Park,apr,0.0,2013/14,2013,Liverpool,10.0,36.7,39504.0
+56,West Ham United,Liverpool,11.0,1.0,35345.0,Boleyn Ground,apr,0.0,2013/14,2013,London,11.0,30.6,34977.0
+57,Manchester City,Southampton,3.0,8.0,53400.0,Etihad Stadium,apr,0.0,2013/14,2013,Manchester,9.0,27.0,47009.0
+58,Aston Villa,Fulham,13.0,18.0,42749.0,Villa Park,apr,0.0,2013/14,2013,Birmingham,8.0,23.8,33532.0
+59,Cardiff City,Crystal Palace,19.0,14.0,33280.0,Cardiff City Stadium,apr,0.0,2013/14,2013,Cardiff,9.0,33.9,27687.0
+60,Hull City,Swansea City,12.0,15.0,25586.0,KCOM Stadium,apr,0.0,2013/14,2013,Hull,9.0,13.3,22744.0
+61,Newcastle United,Manchester United,9.0,7.0,52305.0,St. James' Park,apr,0.0,2013/14,2013,Newcastle,7.0,70.0,52081.0
+62,Norwich City,West Bromwich Albion,17.0,16.0,27359.0,Carrow Road,apr,0.0,2013/14,2013,Norwich,9.0,22.0,26859.0
+63,Chelsea,Stoke City,2.0,10.0,40834.0,Stamford Bridge,apr,0.0,2013/14,2013,London,11.0,30.6,41168.0
+64,Sunderland,West Ham United,19.0,11.0,48707.0,Stadium of Light,mar,0.0,2013/14,2013,Sunderland,6.0,18.5,37396.0
+65,Fulham,Everton,20.0,5.0,25700.0,Craven Cottage,mar,0.0,2013/14,2013,London,8.0,29.8,25454.0
+66,Liverpool,Tottenham Hotspur,1.0,6.0,54074.0,Anfield,mar,0.0,2013/14,2013,Liverpool,7.0,40.4,44762.0
+67,Manchester United,Aston Villa,7.0,12.0,75643.0,Old Trafford,mar,0.0,2013/14,2013,Manchester,6.0,25.0,75368.0
+68,Crystal Palace,Chelsea,16.0,2.0,25486.0,Selhurst Park,mar,1.0,2013/14,2013,London,8.0,29.8,25166.0
+69,Southampton,Newcastle United,8.0,9.0,32384.0,St. Mary's Stadium,mar,0.0,2013/14,2013,Southampton,8.0,17.2,31360.0
+70,Stoke City,Hull City,10.0,14.0,30089.0,Britannia Stadium,mar,0.0,2013/14,2013,Stoke,6.0,25.0,27029.0
+71,Swansea City,Norwich City,13.0,15.0,20937.0,Liberty Stadium,mar,0.0,2013/14,2013,Swansea,7.0,62.2,20371.0
+72,West Bromwich Albion,Cardiff City,17.0,18.0,26445.0,The Hawthorns,mar,0.0,2013/14,2013,West Bromwich,6.0,19.6,25661.0
+73,Arsenal,Manchester City,4.0,3.0,60704.0,Emirates Stadium,mar,0.0,2013/14,2013,London,8.0,29.8,60060.0
+74,West Ham United,Hull City,11.0,13.0,35345.0,Boleyn Ground,mar,0.0,2013/14,2013,London,8.0,29.8,31033.0
+75,Liverpool,Sunderland,2.0,18.0,54074.0,Anfield,mar,0.0,2013/14,2013,Liverpool,7.0,40.4,44524.0
+76,Arsenal,Swansea City,4.0,15.0,60704.0,Emirates Stadium,mar,0.0,2013/14,2013,London,8.0,29.8,59937.0
+77,Manchester United,Manchester City,7.0,3.0,75643.0,Old Trafford,mar,1.0,2013/14,2013,Manchester,6.0,25.0,75203.0
+78,Newcastle United,Everton,8.0,5.0,52305.0,St. James' Park,mar,0.0,2013/14,2013,Newcastle,4.0,106.4,47622.0
+79,Aston Villa,Stoke City,11.0,10.0,42749.0,Villa Park,mar,0.0,2013/14,2013,Birmingham,6.0,19.6,30292.0
+80,Tottenham Hotspur,Southampton,5.0,9.0,36284.0,White Hart Lane,mar,0.0,2013/14,2013,London,8.0,29.8,35460.0
+81,Chelsea,Arsenal,1.0,4.0,40834.0,Stamford Bridge,mar,1.0,2013/14,2013,London,8.0,29.8,41614.0
+82,Cardiff City,Liverpool,19.0,2.0,33280.0,Cardiff City Stadium,mar,0.0,2013/14,2013,Cardiff,7.0,32.5,28018.0
+83,Everton,Swansea City,6.0,15.0,39414.0,Goodison Park,mar,0.0,2013/14,2013,Liverpool,7.0,40.4,36260.0
+84,Hull City,West Bromwich Albion,12.0,16.0,25586.0,KCOM Stadium,mar,0.0,2013/14,2013,Hull,7.0,12.0,23486.0
+85,Manchester City,Fulham,3.0,20.0,53400.0,Etihad Stadium,mar,0.0,2013/14,2013,Manchester,6.0,25.0,47262.0
+86,Newcastle United,Crystal Palace,8.0,17.0,52305.0,St. James' Park,mar,0.0,2013/14,2013,Newcastle,4.0,106.4,51588.0
+87,Norwich City,Sunderland,13.0,18.0,27359.0,Carrow Road,mar,0.0,2013/14,2013,Norwich,7.0,23.3,26654.0
+88,West Ham United,Manchester United,14.0,7.0,35345.0,Boleyn Ground,mar,0.0,2013/14,2013,London,8.0,29.8,34237.0
+89,Manchester United,Liverpool,7.0,2.0,75643.0,Old Trafford,mar,0.0,2013/14,2013,Manchester,6.0,25.0,75225.0
+90,Tottenham Hotspur,Arsenal,5.0,3.0,36284.0,White Hart Lane,mar,1.0,2013/14,2013,London,8.0,29.8,35711.0
+91,Hull City,Manchester City,13.0,4.0,25586.0,KCOM Stadium,mar,0.0,2013/14,2013,Hull,7.0,12.0,24895.0
+92,Everton,Cardiff City,6.0,19.0,39414.0,Goodison Park,mar,0.0,2013/14,2013,Liverpool,7.0,40.4,38018.0
+93,Fulham,Newcastle United,20.0,9.0,25700.0,Craven Cottage,mar,0.0,2013/14,2013,London,8.0,29.8,25664.0
+94,Southampton,Norwich City,8.0,15.0,32384.0,St. Mary's Stadium,mar,0.0,2013/14,2013,Southampton,8.0,17.2,29828.0
+95,Stoke City,West Ham United,11.0,12.0,30089.0,Britannia Stadium,mar,0.0,2013/14,2013,Stoke,6.0,25.0,27015.0
+96,Sunderland,Crystal Palace,18.0,17.0,48707.0,Stadium of Light,mar,0.0,2013/14,2013,Sunderland,6.0,18.5,43636.0
+97,Swansea City,West Bromwich Albion,14.0,16.0,20937.0,Liberty Stadium,mar,0.0,2013/14,2013,Swansea,7.0,62.2,20703.0
+98,Aston Villa,Chelsea,10.0,1.0,42749.0,Villa Park,mar,0.0,2013/14,2013,Birmingham,6.0,19.6,40084.0
+99,West Bromwich Albion,Manchester United,17.0,6.0,26445.0,The Hawthorns,mar,0.0,2013/14,2013,West Bromwich,6.0,19.6,26184.0
+100,Cardiff City,Fulham,18.0,20.0,33280.0,Cardiff City Stadium,mar,0.0,2013/14,2013,Cardiff,7.0,32.5,26796.0
+101,Crystal Palace,Southampton,16.0,9.0,25486.0,Selhurst Park,mar,0.0,2013/14,2013,London,8.0,29.8,25073.0
+102,Norwich City,Stoke City,15.0,12.0,27359.0,Carrow Road,mar,0.0,2013/14,2013,Norwich,7.0,23.3,26646.0
+103,Chelsea,Tottenham Hotspur,1.0,5.0,40834.0,Stamford Bridge,mar,1.0,2013/14,2013,London,8.0,29.8,41598.0
+104,Aston Villa,Norwich City,11.0,15.0,42749.0,Villa Park,mar,0.0,2013/14,2013,Birmingham,6.0,19.6,30303.0
+105,Swansea City,Crystal Palace,14.0,16.0,20937.0,Liberty Stadium,mar,0.0,2013/14,2013,Swansea,7.0,62.2,20240.0
+106,Tottenham Hotspur,Cardiff City,5.0,19.0,36284.0,White Hart Lane,mar,0.0,2013/14,2013,London,8.0,29.8,35512.0
+107,Everton,West Ham United,6.0,10.0,39414.0,Goodison Park,mar,0.0,2013/14,2013,Liverpool,7.0,40.4,38286.0
+108,Fulham,Chelsea,20.0,1.0,25700.0,Craven Cottage,mar,1.0,2013/14,2013,London,8.0,29.8,24577.0
+109,Hull City,Newcastle United,12.0,8.0,25586.0,KCOM Stadium,mar,0.0,2013/14,2013,Hull,7.0,12.0,24903.0
+110,Stoke City,Arsenal,13.0,3.0,30089.0,Britannia Stadium,mar,0.0,2013/14,2013,Stoke,6.0,25.0,26711.0
+111,Southampton,Liverpool,9.0,2.0,32384.0,St. Mary's Stadium,mar,0.0,2013/14,2013,Southampton,8.0,17.2,31659.0
+112,Liverpool,Swansea City,4.0,12.0,54074.0,Anfield,feb,0.0,2013/14,2013,Liverpool,6.0,40.6,44731.0
+113,Newcastle United,Aston Villa,8.0,13.0,52305.0,St. James' Park,feb,0.0,2013/14,2013,Newcastle,3.0,122.8,50417.0
+114,Norwich City,Tottenham Hotspur,14.0,5.0,27359.0,Carrow Road,feb,0.0,2013/14,2013,Norwich,5.0,25.8,26834.0
+115,Arsenal,Sunderland,2.0,18.0,60704.0,Emirates Stadium,feb,0.0,2013/14,2013,London,6.0,47.9,60012.0
+116,Cardiff City,Hull City,19.0,11.0,33280.0,Cardiff City Stadium,feb,0.0,2013/14,2013,Cardiff,5.0,34.1,26167.0
+117,Manchester City,Stoke City,3.0,15.0,53400.0,Etihad Stadium,feb,0.0,2013/14,2013,Manchester,5.0,28.4,47038.0
+118,West Bromwich Albion,Fulham,17.0,20.0,26445.0,The Hawthorns,feb,0.0,2013/14,2013,West Bromwich,5.0,23.4,25782.0
+119,Crystal Palace,Manchester United,16.0,6.0,25486.0,Selhurst Park,feb,0.0,2013/14,2013,London,6.0,47.9,24571.0
+120,Chelsea,Everton,1.0,7.0,40834.0,Stamford Bridge,feb,0.0,2013/14,2013,London,6.0,47.9,41580.0
+121,West Ham United,Southampton,10.0,9.0,35345.0,Boleyn Ground,feb,0.0,2013/14,2013,London,6.0,47.9,33148.0
+122,Arsenal,Manchester United,2.0,7.0,60704.0,Emirates Stadium,feb,0.0,2013/14,2013,London,6.0,47.9,60021.0
+123,Newcastle United,Tottenham Hotspur,9.0,5.0,52305.0,St. James' Park,feb,0.0,2013/14,2013,Newcastle,3.0,122.8,48264.0
+124,Stoke City,Swansea City,14.0,10.0,30089.0,Britannia Stadium,feb,0.0,2013/14,2013,Stoke,5.0,28.4,24822.0
+125,Fulham,Liverpool,20.0,4.0,25700.0,Craven Cottage,feb,0.0,2013/14,2013,London,6.0,47.9,25375.0
+126,Cardiff City,Aston Villa,19.0,12.0,33280.0,Cardiff City Stadium,feb,0.0,2013/14,2013,Cardiff,5.0,34.1,27597.0
+127,Hull City,Southampton,13.0,8.0,25586.0,KCOM Stadium,feb,0.0,2013/14,2013,Hull,5.0,12.0,23670.0
+128,West Ham United,Norwich City,11.0,16.0,35345.0,Boleyn Ground,feb,0.0,2013/14,2013,London,6.0,47.9,35153.0
+129,West Bromwich Albion,Chelsea,17.0,1.0,26445.0,The Hawthorns,feb,0.0,2013/14,2013,West Bromwich,5.0,23.4,24327.0
+130,Tottenham Hotspur,Everton,5.0,6.0,36284.0,White Hart Lane,feb,0.0,2013/14,2013,London,6.0,47.9,35944.0
+131,Manchester United,Fulham,7.0,20.0,75643.0,Old Trafford,feb,0.0,2013/14,2013,Manchester,5.0,28.4,74966.0
+132,Liverpool,Arsenal,4.0,2.0,54074.0,Anfield,feb,0.0,2013/14,2013,Liverpool,6.0,40.6,44701.0
+133,Aston Villa,West Ham United,12.0,15.0,42749.0,Villa Park,feb,0.0,2013/14,2013,Birmingham,5.0,23.4,36261.0
+134,Chelsea,Newcastle United,1.0,8.0,40834.0,Stamford Bridge,feb,0.0,2013/14,2013,London,6.0,47.9,41387.0
+135,Crystal Palace,West Bromwich Albion,14.0,18.0,25486.0,Selhurst Park,feb,0.0,2013/14,2013,London,6.0,47.9,24501.0
+136,Norwich City,Manchester City,16.0,3.0,27359.0,Carrow Road,feb,0.0,2013/14,2013,Norwich,5.0,25.8,26832.0
+137,Southampton,Stoke City,9.0,13.0,32384.0,St. Mary's Stadium,feb,0.0,2013/14,2013,Southampton,6.0,23.8,27987.0
+138,Sunderland,Hull City,17.0,11.0,48707.0,Stadium of Light,feb,0.0,2013/14,2013,Sunderland,4.0,17.8,42810.0
+139,Swansea City,Cardiff City,10.0,19.0,20937.0,Liberty Stadium,feb,0.0,2013/14,2013,Swansea,6.0,70.1,20402.0
+140,Manchester City,Chelsea,2.0,3.0,53400.0,Etihad Stadium,feb,0.0,2013/14,2013,Manchester,5.0,28.4,47364.0
+141,West Bromwich Albion,Liverpool,16.0,4.0,26445.0,The Hawthorns,feb,0.0,2013/14,2013,West Bromwich,5.0,23.4,26132.0
+142,Arsenal,Crystal Palace,1.0,17.0,60704.0,Emirates Stadium,feb,1.0,2013/14,2013,London,6.0,47.9,60005.0
+143,Newcastle United,Sunderland,8.0,14.0,52305.0,St. James' Park,feb,0.0,2013/14,2013,Newcastle,3.0,122.8,52280.0
+144,West Ham United,Swansea City,18.0,12.0,35345.0,Boleyn Ground,feb,0.0,2013/14,2013,London,6.0,47.9,31848.0
+145,Cardiff City,Norwich City,19.0,15.0,33280.0,Cardiff City Stadium,feb,0.0,2013/14,2013,Cardiff,5.0,34.1,26748.0
+146,Everton,Aston Villa,5.0,10.0,39414.0,Goodison Park,feb,0.0,2013/14,2013,Liverpool,6.0,40.6,39469.0
+147,Fulham,Southampton,20.0,9.0,25700.0,Craven Cottage,feb,0.0,2013/14,2013,London,6.0,47.9,25700.0
+148,Hull City,Tottenham Hotspur,13.0,6.0,25586.0,KCOM Stadium,feb,0.0,2013/14,2013,Hull,5.0,12.0,24932.0
+149,Stoke City,Manchester United,11.0,7.0,30089.0,Britannia Stadium,feb,0.0,2013/14,2013,Stoke,5.0,28.4,26547.0
+150,Aston Villa,West Bromwich Albion,10.0,15.0,42749.0,Villa Park,jan,0.0,2013/14,2013,Birmingham,4.0,34.7,36083.0
+151,Chelsea,West Ham United,3.0,18.0,40834.0,Stamford Bridge,jan,1.0,2013/14,2013,London,6.0,52.9,41376.0
+152,Sunderland,Stoke City,17.0,16.0,48707.0,Stadium of Light,jan,0.0,2013/14,2013,Sunderland,4.0,20.8,34745.0
+153,Tottenham Hotspur,Manchester City,5.0,1.0,36284.0,White Hart Lane,jan,0.0,2013/14,2013,London,6.0,52.9,36071.0
+154,Manchester United,Cardiff City,7.0,20.0,75643.0,Old Trafford,jan,0.0,2013/14,2013,Manchester,5.0,32.4,75301.0
+155,Norwich City,Newcastle United,12.0,8.0,27359.0,Carrow Road,jan,0.0,2013/14,2013,Norwich,5.0,27.9,26762.0
+156,Southampton,Arsenal,9.0,2.0,32384.0,St. Mary's Stadium,jan,0.0,2013/14,2013,Southampton,6.0,35.7,31284.0
+157,Swansea City,Fulham,11.0,19.0,20937.0,Liberty Stadium,jan,0.0,2013/14,2013,Swansea,6.0,99.2,20004.0
+158,Crystal Palace,Hull City,14.0,13.0,25486.0,Selhurst Park,jan,0.0,2013/14,2013,London,6.0,52.9,22519.0
+159,Liverpool,Everton,4.0,6.0,54074.0,Anfield,jan,1.0,2013/14,2013,Liverpool,5.0,58.3,44450.0
+160,West Bromwich Albion,Everton,13.0,6.0,26445.0,The Hawthorns,jan,0.0,2013/14,2013,West Bromwich,4.0,34.7,24184.0
+161,Swansea City,Tottenham Hotspur,15.0,5.0,20937.0,Liberty Stadium,jan,0.0,2013/14,2013,Swansea,6.0,99.2,20769.0
+162,Chelsea,Manchester United,3.0,7.0,40834.0,Stamford Bridge,jan,0.0,2013/14,2013,London,6.0,52.9,41615.0
+163,Sunderland,Southampton,19.0,9.0,48707.0,Stadium of Light,jan,0.0,2013/14,2013,Sunderland,4.0,20.8,38115.0
+164,Arsenal,Fulham,1.0,17.0,60704.0,Emirates Stadium,jan,1.0,2013/14,2013,London,6.0,52.9,60000.0
+165,Crystal Palace,Stoke City,16.0,14.0,25486.0,Selhurst Park,jan,0.0,2013/14,2013,London,6.0,52.9,24440.0
+166,Manchester City,Cardiff City,2.0,20.0,53400.0,Etihad Stadium,jan,0.0,2013/14,2013,Manchester,5.0,32.4,47213.0
+167,Norwich City,Hull City,12.0,11.0,27359.0,Carrow Road,jan,0.0,2013/14,2013,Norwich,5.0,27.9,26655.0
+168,West Ham United,Newcastle United,18.0,8.0,35345.0,Boleyn Ground,jan,0.0,2013/14,2013,London,6.0,52.9,33343.0
+169,Liverpool,Aston Villa,4.0,10.0,54074.0,Anfield,jan,0.0,2013/14,2013,Liverpool,5.0,58.3,44737.0
+170,Aston Villa,Arsenal,11.0,1.0,42749.0,Villa Park,jan,0.0,2013/14,2013,Birmingham,4.0,34.7,36097.0
+171,Newcastle United,Manchester City,8.0,2.0,52305.0,St. James' Park,jan,0.0,2013/14,2013,Newcastle,3.0,190.9,49423.0
+172,Stoke City,Liverpool,12.0,4.0,30089.0,Britannia Stadium,jan,0.0,2013/14,2013,Stoke,5.0,32.4,27160.0
+173,Hull City,Chelsea,10.0,3.0,25586.0,KCOM Stadium,jan,0.0,2013/14,2013,Hull,4.0,17.4,24924.0
+174,Cardiff City,West Ham United,18.0,17.0,33280.0,Cardiff City Stadium,jan,0.0,2013/14,2013,Cardiff,5.0,55.7,27750.0
+175,Everton,Norwich City,5.0,15.0,39414.0,Goodison Park,jan,0.0,2013/14,2013,Liverpool,5.0,58.3,36827.0
+176,Fulham,Sunderland,16.0,19.0,25700.0,Craven Cottage,jan,0.0,2013/14,2013,London,6.0,52.9,25564.0
+177,Southampton,West Bromwich Albion,9.0,14.0,32384.0,St. Mary's Stadium,jan,0.0,2013/14,2013,Southampton,6.0,35.7,28610.0
+178,Tottenham Hotspur,Crystal Palace,6.0,20.0,36284.0,White Hart Lane,jan,1.0,2013/14,2013,London,6.0,52.9,36102.0
+179,Manchester United,Swansea City,7.0,13.0,75643.0,Old Trafford,jan,0.0,2013/14,2013,Manchester,5.0,32.4,75035.0
+180,Swansea City,Manchester City,13.0,2.0,20937.0,Liberty Stadium,jan,0.0,2013/14,2013,Swansea,6.0,99.2,20498.0
+181,Arsenal,Cardiff City,1.0,17.0,60704.0,Emirates Stadium,jan,0.0,2013/14,2013,London,6.0,52.9,60004.0
+182,Crystal Palace,Norwich City,18.0,15.0,25486.0,Selhurst Park,jan,0.0,2013/14,2013,London,6.0,52.9,25189.0
+183,Fulham,West Ham United,16.0,19.0,25700.0,Craven Cottage,jan,1.0,2013/14,2013,London,6.0,52.9,25335.0
+184,Liverpool,Hull City,4.0,10.0,54074.0,Anfield,jan,0.0,2013/14,2013,Liverpool,5.0,58.3,44627.0
+185,Southampton,Chelsea,9.0,3.0,32384.0,St. Mary's Stadium,jan,0.0,2013/14,2013,Southampton,6.0,35.7,31271.0
+186,Stoke City,Everton,12.0,5.0,30089.0,Britannia Stadium,jan,0.0,2013/14,2013,Stoke,5.0,32.4,25832.0
+187,Sunderland,Aston Villa,20.0,11.0,48707.0,Stadium of Light,jan,0.0,2013/14,2013,Sunderland,4.0,20.8,39757.0
+188,West Bromwich Albion,Newcastle United,14.0,8.0,26445.0,The Hawthorns,jan,0.0,2013/14,2013,West Bromwich,4.0,34.7,26430.0
+189,Manchester United,Tottenham Hotspur,7.0,6.0,75643.0,Old Trafford,jan,0.0,2013/14,2013,Manchester,5.0,32.4,75265.0
+190,Everton,Southampton,4.0,9.0,39414.0,Goodison Park,dec,0.0,2013/14,2013,Liverpool,6.0,72.8,39092.0
+191,Newcastle United,Arsenal,8.0,1.0,52305.0,St. James' Park,dec,0.0,2013/14,2013,Newcastle,4.0,230.3,52161.0
+192,Chelsea,Liverpool,3.0,5.0,40834.0,Stamford Bridge,dec,0.0,2013/14,2013,London,6.0,65.1,41614.0
+193,Tottenham Hotspur,Stoke City,7.0,12.0,36284.0,White Hart Lane,dec,0.0,2013/14,2013,London,6.0,65.1,36072.0
+194,West Ham United,West Bromwich Albion,19.0,15.0,35345.0,Boleyn Ground,dec,0.0,2013/14,2013,London,6.0,65.1,34946.0
+195,Aston Villa,Swansea City,13.0,11.0,42749.0,Villa Park,dec,0.0,2013/14,2013,Birmingham,5.0,27.9,37028.0
+196,Hull City,Fulham,10.0,18.0,25586.0,KCOM Stadium,dec,0.0,2013/14,2013,Hull,5.0,18.6,23925.0
+197,Manchester City,Crystal Palace,2.0,17.0,53400.0,Etihad Stadium,dec,0.0,2013/14,2013,Manchester,5.0,37.4,47107.0
+198,Norwich City,Manchester United,14.0,6.0,27359.0,Carrow Road,dec,0.0,2013/14,2013,Norwich,5.0,31.7,26851.0
+199,Cardiff City,Sunderland,16.0,20.0,33280.0,Cardiff City Stadium,dec,0.0,2013/14,2013,Cardiff,6.0,50.6,27247.0
+200,Hull City,Manchester United,12.0,7.0,25586.0,KCOM Stadium,dec,0.0,2013/14,2013,Hull,5.0,18.6,24826.0
+201,Aston Villa,Crystal Palace,13.0,17.0,42749.0,Villa Park,dec,0.0,2013/14,2013,Birmingham,5.0,27.9,37752.0
+202,Cardiff City,Southampton,16.0,9.0,33280.0,Cardiff City Stadium,dec,0.0,2013/14,2013,Cardiff,6.0,50.6,27929.0
+203,Chelsea,Swansea City,3.0,11.0,40834.0,Stamford Bridge,dec,0.0,2013/14,2013,London,6.0,65.1,41111.0
+204,Everton,Sunderland,5.0,20.0,39414.0,Goodison Park,dec,0.0,2013/14,2013,Liverpool,6.0,72.8,39193.0
+205,Newcastle United,Stoke City,6.0,10.0,52305.0,St. James' Park,dec,0.0,2013/14,2013,Newcastle,4.0,230.3,51665.0
+206,Norwich City,Fulham,14.0,18.0,27359.0,Carrow Road,dec,0.0,2013/14,2013,Norwich,5.0,31.7,26811.0
+207,Tottenham Hotspur,West Bromwich Albion,8.0,15.0,36284.0,White Hart Lane,dec,0.0,2013/14,2013,London,6.0,65.1,35545.0
+208,West Ham United,Arsenal,19.0,1.0,35345.0,Boleyn Ground,dec,1.0,2013/14,2013,London,6.0,65.1,34977.0
+209,Manchester City,Liverpool,2.0,4.0,53400.0,Etihad Stadium,dec,0.0,2013/14,2013,Manchester,5.0,37.4,47351.0
+210,Arsenal,Chelsea,2.0,4.0,60704.0,Emirates Stadium,dec,1.0,2013/14,2013,London,6.0,65.1,60039.0
+211,Southampton,Tottenham Hotspur,9.0,7.0,32384.0,St. Mary's Stadium,dec,0.0,2013/14,2013,Southampton,6.0,31.4,31455.0
+212,Swansea City,Everton,11.0,5.0,20937.0,Liberty Stadium,dec,0.0,2013/14,2013,Swansea,7.0,113.7,20695.0
+213,Liverpool,Cardiff City,1.0,15.0,54074.0,Anfield,dec,0.0,2013/14,2013,Liverpool,6.0,72.8,44621.0
+214,Crystal Palace,Newcastle United,18.0,6.0,25486.0,Selhurst Park,dec,0.0,2013/14,2013,London,6.0,65.1,24936.0
+215,Fulham,Manchester City,19.0,3.0,25700.0,Craven Cottage,dec,0.0,2013/14,2013,London,6.0,65.1,25509.0
+216,Manchester United,West Ham United,8.0,17.0,75643.0,Old Trafford,dec,0.0,2013/14,2013,Manchester,5.0,37.4,75350.0
+217,Stoke City,Aston Villa,10.0,13.0,30089.0,Britannia Stadium,dec,0.0,2013/14,2013,Stoke,5.0,37.4,26003.0
+218,Sunderland,Norwich City,20.0,14.0,48707.0,Stadium of Light,dec,0.0,2013/14,2013,Sunderland,4.0,22.9,37778.0
+219,West Bromwich Albion,Hull City,16.0,12.0,26445.0,The Hawthorns,dec,0.0,2013/14,2013,West Bromwich,5.0,27.9,24753.0
+220,Aston Villa,Manchester United,11.0,8.0,42749.0,Villa Park,dec,0.0,2013/14,2013,Birmingham,5.0,27.9,42682.0
+221,Norwich City,Swansea City,14.0,10.0,27359.0,Carrow Road,dec,0.0,2013/14,2013,Norwich,5.0,31.7,26876.0
+222,Tottenham Hotspur,Liverpool,7.0,2.0,36284.0,White Hart Lane,dec,0.0,2013/14,2013,London,6.0,65.1,36069.0
+223,Manchester City,Arsenal,4.0,1.0,53400.0,Etihad Stadium,dec,0.0,2013/14,2013,Manchester,5.0,37.4,47229.0
+224,Cardiff City,West Bromwich Albion,15.0,16.0,33280.0,Cardiff City Stadium,dec,0.0,2013/14,2013,Cardiff,6.0,50.6,26632.0
+225,Chelsea,Crystal Palace,3.0,18.0,40834.0,Stamford Bridge,dec,1.0,2013/14,2013,London,6.0,65.1,41608.0
+226,Everton,Fulham,5.0,19.0,39414.0,Goodison Park,dec,0.0,2013/14,2013,Liverpool,6.0,72.8,33796.0
+227,Newcastle United,Southampton,6.0,9.0,52305.0,St. James' Park,dec,0.0,2013/14,2013,Newcastle,4.0,230.3,49164.0
+228,West Ham United,Sunderland,17.0,20.0,35345.0,Boleyn Ground,dec,0.0,2013/14,2013,London,6.0,65.1,31843.0
+229,Hull City,Stoke City,12.0,13.0,25586.0,KCOM Stadium,dec,0.0,2013/14,2013,Hull,5.0,18.6,23324.0
+230,Swansea City,Hull City,10.0,12.0,20937.0,Liberty Stadium,dec,0.0,2013/14,2013,Swansea,7.0,113.7,19303.0
+231,Fulham,Aston Villa,18.0,11.0,25700.0,Craven Cottage,dec,0.0,2013/14,2013,London,6.0,65.1,22288.0
+232,Arsenal,Everton,1.0,5.0,60704.0,Emirates Stadium,dec,0.0,2013/14,2013,London,6.0,65.1,60001.0
+233,Manchester United,Newcastle United,9.0,7.0,75643.0,Old Trafford,dec,0.0,2013/14,2013,Manchester,5.0,37.4,75233.0
+234,Crystal Palace,Cardiff City,19.0,16.0,25486.0,Selhurst Park,dec,0.0,2013/14,2013,London,6.0,65.1,23705.0
+235,Liverpool,West Ham United,2.0,17.0,54074.0,Anfield,dec,0.0,2013/14,2013,Liverpool,6.0,72.8,44781.0
+236,Southampton,Manchester City,8.0,4.0,32384.0,St. Mary's Stadium,dec,0.0,2013/14,2013,Southampton,6.0,31.4,31229.0
+237,Stoke City,Chelsea,13.0,3.0,30089.0,Britannia Stadium,dec,0.0,2013/14,2013,Stoke,5.0,37.4,25154.0
+238,West Bromwich Albion,Norwich City,15.0,14.0,26445.0,The Hawthorns,dec,0.0,2013/14,2013,West Bromwich,5.0,27.9,23675.0
+239,Sunderland,Tottenham Hotspur,20.0,6.0,48707.0,Stadium of Light,dec,0.0,2013/14,2013,Sunderland,4.0,22.9,37963.0
+240,Arsenal,Hull City,1.0,12.0,60704.0,Emirates Stadium,dec,0.0,2013/14,2013,London,6.0,65.1,60017.0
+241,Liverpool,Norwich City,4.0,16.0,54074.0,Anfield,dec,0.0,2013/14,2013,Liverpool,6.0,72.8,44541.0
+242,Manchester United,Everton,9.0,5.0,75643.0,Old Trafford,dec,0.0,2013/14,2013,Manchester,5.0,37.4,75210.0
+243,Southampton,Aston Villa,8.0,10.0,32384.0,St. Mary's Stadium,dec,0.0,2013/14,2013,Southampton,6.0,31.4,29814.0
+244,Stoke City,Cardiff City,14.0,15.0,30089.0,Britannia Stadium,dec,0.0,2013/14,2013,Stoke,5.0,37.4,25014.0
+245,Sunderland,Chelsea,20.0,2.0,48707.0,Stadium of Light,dec,0.0,2013/14,2013,Sunderland,4.0,22.9,40652.0
+246,Swansea City,Newcastle United,11.0,7.0,20937.0,Liberty Stadium,dec,0.0,2013/14,2013,Swansea,7.0,113.7,20457.0
+247,Fulham,Tottenham Hotspur,18.0,6.0,25700.0,Craven Cottage,dec,1.0,2013/14,2013,London,6.0,65.1,24128.0
+248,West Bromwich Albion,Manchester City,13.0,3.0,26445.0,The Hawthorns,dec,0.0,2013/14,2013,West Bromwich,5.0,27.9,22943.0
+249,Crystal Palace,West Ham United,19.0,17.0,25486.0,Selhurst Park,dec,1.0,2013/14,2013,London,6.0,65.1,23891.0
+250,Tottenham Hotspur,Manchester United,9.0,8.0,36284.0,White Hart Lane,dec,0.0,2013/14,2013,London,6.0,65.1,35884.0
+251,Hull City,Liverpool,10.0,4.0,25586.0,KCOM Stadium,dec,0.0,2013/14,2013,Hull,5.0,18.6,24940.0
+252,Chelsea,Southampton,2.0,7.0,40834.0,Stamford Bridge,dec,0.0,2013/14,2013,London,6.0,65.1,41568.0
+253,Manchester City,Swansea City,3.0,13.0,53400.0,Etihad Stadium,dec,0.0,2013/14,2013,Manchester,5.0,37.4,46559.0
+254,Aston Villa,Sunderland,11.0,19.0,42749.0,Villa Park,nov,0.0,2013/14,2013,Birmingham,7.0,31.5,33036.0
+255,Cardiff City,Arsenal,17.0,1.0,33280.0,Cardiff City Stadium,nov,0.0,2013/14,2013,Cardiff,8.0,56.1,27948.0
+256,Everton,Stoke City,5.0,16.0,39414.0,Goodison Park,nov,0.0,2013/14,2013,Liverpool,8.0,67.8,35513.0
+257,Norwich City,Crystal Palace,14.0,20.0,27359.0,Carrow Road,nov,0.0,2013/14,2013,Norwich,8.0,32.6,26851.0
+258,West Ham United,Fulham,15.0,18.0,35345.0,Boleyn Ground,nov,1.0,2013/14,2013,London,9.0,72.0,34946.0
+259,Newcastle United,West Bromwich Albion,6.0,12.0,52305.0,St. James' Park,nov,0.0,2013/14,2013,Newcastle,6.0,202.8,49298.0
+260,West Bromwich Albion,Aston Villa,11.0,12.0,26445.0,The Hawthorns,nov,0.0,2013/14,2013,West Bromwich,7.0,31.5,24902.0
+261,Manchester City,Tottenham Hotspur,4.0,9.0,53400.0,Etihad Stadium,nov,0.0,2013/14,2013,Manchester,7.0,35.8,47228.0
+262,Cardiff City,Manchester United,15.0,6.0,33280.0,Cardiff City Stadium,nov,0.0,2013/14,2013,Cardiff,8.0,56.1,28016.0
+263,Everton,Liverpool,7.0,2.0,39414.0,Goodison Park,nov,1.0,2013/14,2013,Liverpool,8.0,67.8,39576.0
+264,Arsenal,Southampton,1.0,5.0,60704.0,Emirates Stadium,nov,0.0,2013/14,2013,London,9.0,72.0,60007.0
+265,Fulham,Swansea City,18.0,10.0,25700.0,Craven Cottage,nov,0.0,2013/14,2013,London,9.0,72.0,25258.0
+266,Hull City,Crystal Palace,13.0,19.0,25586.0,KCOM Stadium,nov,0.0,2013/14,2013,Hull,7.0,18.0,23043.0
+267,Newcastle United,Norwich City,8.0,16.0,52305.0,St. James' Park,nov,0.0,2013/14,2013,Newcastle,6.0,202.8,51328.0
+268,Stoke City,Sunderland,14.0,20.0,30089.0,Britannia Stadium,nov,0.0,2013/14,2013,Stoke,7.0,35.8,26007.0
+269,West Ham United,Chelsea,17.0,3.0,35345.0,Boleyn Ground,nov,1.0,2013/14,2013,London,9.0,72.0,34977.0
+270,Tottenham Hotspur,Newcastle United,7.0,9.0,36284.0,White Hart Lane,nov,0.0,2013/14,2013,London,9.0,72.0,36042.0
+271,Sunderland,Manchester City,19.0,8.0,48707.0,Stadium of Light,nov,0.0,2013/14,2013,Sunderland,6.0,26.6,40137.0
+272,Manchester United,Arsenal,5.0,1.0,75643.0,Old Trafford,nov,0.0,2013/14,2013,Manchester,7.0,35.8,75138.0
+273,Swansea City,Stoke City,13.0,17.0,20937.0,Liberty Stadium,nov,0.0,2013/14,2013,Swansea,10.0,125.4,19242.0
+274,Aston Villa,Cardiff City,11.0,14.0,42749.0,Villa Park,nov,0.0,2013/14,2013,Birmingham,7.0,31.5,35809.0
+275,Chelsea,West Bromwich Albion,4.0,10.0,40834.0,Stamford Bridge,nov,0.0,2013/14,2013,London,9.0,72.0,41623.0
+276,Crystal Palace,Everton,20.0,6.0,25486.0,Selhurst Park,nov,0.0,2013/14,2013,London,9.0,72.0,25231.0
+277,Liverpool,Fulham,2.0,18.0,54074.0,Anfield,nov,0.0,2013/14,2013,Liverpool,8.0,67.8,44768.0
+278,Southampton,Hull City,3.0,12.0,32384.0,St. Mary's Stadium,nov,0.0,2013/14,2013,Southampton,8.0,28.4,30022.0
+279,Norwich City,West Ham United,15.0,16.0,27359.0,Carrow Road,nov,0.0,2013/14,2013,Norwich,8.0,32.6,26824.0
+280,Everton,Tottenham Hotspur,7.0,4.0,39414.0,Goodison Park,nov,0.0,2013/14,2013,Liverpool,8.0,67.8,38378.0
+281,Cardiff City,Swansea City,12.0,13.0,33280.0,Cardiff City Stadium,nov,0.0,2013/14,2013,Cardiff,8.0,56.1,27463.0
+282,Newcastle United,Chelsea,9.0,2.0,52305.0,St. James' Park,nov,0.0,2013/14,2013,Newcastle,6.0,202.8,51674.0
+283,Fulham,Manchester United,16.0,8.0,25700.0,Craven Cottage,nov,0.0,2013/14,2013,London,9.0,72.0,25700.0
+284,Hull City,Sunderland,10.0,19.0,25586.0,KCOM Stadium,nov,0.0,2013/14,2013,Hull,7.0,18.0,24677.0
+285,Manchester City,Norwich City,5.0,18.0,53400.0,Etihad Stadium,nov,0.0,2013/14,2013,Manchester,7.0,35.8,47066.0
+286,Stoke City,Southampton,17.0,6.0,30089.0,Britannia Stadium,nov,0.0,2013/14,2013,Stoke,7.0,35.8,26053.0
+287,West Bromwich Albion,Crystal Palace,11.0,20.0,26445.0,The Hawthorns,nov,0.0,2013/14,2013,West Bromwich,7.0,31.5,26397.0
+288,West Ham United,Aston Villa,15.0,14.0,35345.0,Boleyn Ground,nov,0.0,2013/14,2013,London,9.0,72.0,34977.0
+289,Arsenal,Liverpool,1.0,3.0,60704.0,Emirates Stadium,nov,0.0,2013/14,2013,London,9.0,72.0,60042.0
+290,Sunderland,Newcastle United,19.0,11.0,48707.0,Stadium of Light,oct,0.0,2013/14,2013,Sunderland,10.0,33.2,46313.0
+291,Chelsea,Manchester City,2.0,7.0,40834.0,Stamford Bridge,oct,0.0,2013/14,2013,London,13.0,61.5,41495.0
+292,Swansea City,West Ham United,9.0,15.0,20937.0,Liberty Stadium,oct,0.0,2013/14,2013,Swansea,13.0,103.1,20455.0
+293,Tottenham Hotspur,Hull City,4.0,10.0,36284.0,White Hart Lane,oct,0.0,2013/14,2013,London,13.0,61.5,36080.0
+294,Crystal Palace,Arsenal,20.0,1.0,25486.0,Selhurst Park,oct,1.0,2013/14,2013,London,13.0,61.5,20050.0
+295,Aston Villa,Everton,13.0,6.0,42749.0,Villa Park,oct,0.0,2013/14,2013,Birmingham,11.0,31.9,35154.0
+296,Liverpool,West Bromwich Albion,3.0,12.0,54074.0,Anfield,oct,0.0,2013/14,2013,Liverpool,12.0,58.2,44747.0
+297,Manchester United,Stoke City,8.0,17.0,75643.0,Old Trafford,oct,0.0,2013/14,2013,Manchester,11.0,46.1,75274.0
+298,Norwich City,Cardiff City,18.0,16.0,27359.0,Carrow Road,oct,0.0,2013/14,2013,Norwich,12.0,30.6,26846.0
+299,Southampton,Fulham,5.0,14.0,32384.0,St. Mary's Stadium,oct,0.0,2013/14,2013,Southampton,12.0,29.2,28631.0
+300,Crystal Palace,Fulham,19.0,14.0,25486.0,Selhurst Park,oct,1.0,2013/14,2013,London,13.0,61.5,24881.0
+301,Aston Villa,Tottenham Hotspur,13.0,5.0,42749.0,Villa Park,oct,0.0,2013/14,2013,Birmingham,11.0,31.9,35391.0
+302,Newcastle United,Liverpool,10.0,3.0,52305.0,St. James' Park,oct,0.0,2013/14,2013,Newcastle,9.0,161.3,51703.0
+303,Arsenal,Norwich City,1.0,18.0,60704.0,Emirates Stadium,oct,0.0,2013/14,2013,London,13.0,61.5,60009.0
+304,Chelsea,Cardiff City,2.0,17.0,40834.0,Stamford Bridge,oct,0.0,2013/14,2013,London,13.0,61.5,41475.0
+305,Everton,Hull City,7.0,9.0,39414.0,Goodison Park,oct,0.0,2013/14,2013,Liverpool,12.0,58.2,38828.0
+306,Manchester United,Southampton,8.0,6.0,75643.0,Old Trafford,oct,0.0,2013/14,2013,Manchester,11.0,46.1,75220.0
+307,Stoke City,West Bromwich Albion,16.0,12.0,30089.0,Britannia Stadium,oct,0.0,2013/14,2013,Stoke,11.0,46.1,25904.0
+308,Swansea City,Sunderland,11.0,20.0,20937.0,Liberty Stadium,oct,0.0,2013/14,2013,Swansea,13.0,103.1,20245.0
+309,West Ham United,Manchester City,15.0,4.0,35345.0,Boleyn Ground,oct,0.0,2013/14,2013,London,13.0,61.5,34507.0
+310,Norwich City,Chelsea,18.0,3.0,27359.0,Carrow Road,oct,0.0,2013/14,2013,Norwich,12.0,30.6,26840.0
+311,Southampton,Swansea City,4.0,15.0,32384.0,St. Mary's Stadium,oct,0.0,2013/14,2013,Southampton,12.0,29.2,28570.0
+312,Tottenham Hotspur,West Ham United,6.0,13.0,36284.0,White Hart Lane,oct,1.0,2013/14,2013,London,13.0,61.5,35977.0
+313,West Bromwich Albion,Arsenal,12.0,1.0,26445.0,The Hawthorns,oct,0.0,2013/14,2013,West Bromwich,11.0,31.9,24839.0
+314,Manchester City,Everton,5.0,7.0,53400.0,Etihad Stadium,oct,0.0,2013/14,2013,Manchester,11.0,46.1,47267.0
+315,Cardiff City,Newcastle United,14.0,11.0,33280.0,Cardiff City Stadium,oct,0.0,2013/14,2013,Cardiff,12.0,64.0,27538.0
+316,Fulham,Stoke City,17.0,16.0,25700.0,Craven Cottage,oct,0.0,2013/14,2013,London,13.0,61.5,24634.0
+317,Hull City,Aston Villa,8.0,10.0,25586.0,KCOM Stadium,oct,0.0,2013/14,2013,Hull,11.0,15.6,24396.0
+318,Liverpool,Crystal Palace,2.0,19.0,54074.0,Anfield,oct,0.0,2013/14,2013,Liverpool,12.0,58.2,44721.0
+319,Sunderland,Manchester United,20.0,9.0,48707.0,Stadium of Light,oct,0.0,2013/14,2013,Sunderland,10.0,33.2,45426.0
+320,Everton,Newcastle United,4.0,16.0,39414.0,Goodison Park,sep,0.0,2013/14,2013,Liverpool,15.0,49.0,33495.0
+321,Stoke City,Norwich City,15.0,14.0,30089.0,Britannia Stadium,sep,0.0,2013/14,2013,Stoke,14.0,26.5,26184.0
+322,Sunderland,Liverpool,20.0,2.0,48707.0,Stadium of Light,sep,0.0,2013/14,2013,Sunderland,13.0,19.0,41415.0
+323,Tottenham Hotspur,Chelsea,3.0,5.0,36284.0,White Hart Lane,sep,1.0,2013/14,2013,London,16.0,41.2,35857.0
+324,Aston Villa,Manchester City,9.0,7.0,42749.0,Villa Park,sep,0.0,2013/14,2013,Birmingham,14.0,17.8,34063.0
+325,Fulham,Cardiff City,18.0,11.0,25700.0,Craven Cottage,sep,0.0,2013/14,2013,London,16.0,41.2,23020.0
+326,Hull City,West Ham United,8.0,17.0,25586.0,KCOM Stadium,sep,0.0,2013/14,2013,Hull,14.0,10.0,24291.0
+327,Manchester United,West Bromwich Albion,12.0,10.0,75643.0,Old Trafford,sep,0.0,2013/14,2013,Manchester,14.0,26.5,75042.0
+328,Southampton,Crystal Palace,6.0,19.0,32384.0,St. Mary's Stadium,sep,0.0,2013/14,2013,Southampton,15.0,15.7,30699.0
+329,Swansea City,Arsenal,13.0,1.0,20937.0,Liberty Stadium,sep,0.0,2013/14,2013,Swansea,15.0,58.2,20712.0
+330,Arsenal,Stoke City,1.0,10.0,60704.0,Emirates Stadium,sep,0.0,2013/14,2013,London,16.0,41.2,60002.0
+331,Crystal Palace,Swansea City,19.0,9.0,25486.0,Selhurst Park,sep,0.0,2013/14,2013,London,16.0,41.2,22466.0
+332,Cardiff City,Tottenham Hotspur,16.0,2.0,33280.0,Cardiff City Stadium,sep,0.0,2013/14,2013,Cardiff,14.0,38.2,27815.0
+333,Manchester City,Manchester United,3.0,8.0,53400.0,Etihad Stadium,sep,1.0,2013/14,2013,Manchester,14.0,26.5,47156.0
+334,Norwich City,Aston Villa,17.0,13.0,27359.0,Carrow Road,sep,0.0,2013/14,2013,Norwich,15.0,24.0,26813.0
+335,Liverpool,Southampton,5.0,7.0,54074.0,Anfield,sep,0.0,2013/14,2013,Liverpool,15.0,49.0,44755.0
+336,Newcastle United,Hull City,12.0,11.0,52305.0,St. James' Park,sep,0.0,2013/14,2013,Newcastle,12.0,101.9,51523.0
+337,West Bromwich Albion,Sunderland,14.0,20.0,26445.0,The Hawthorns,sep,0.0,2013/14,2013,West Bromwich,14.0,17.8,24595.0
+338,West Ham United,Everton,15.0,6.0,35345.0,Boleyn Ground,sep,0.0,2013/14,2013,London,16.0,41.2,34952.0
+339,Chelsea,Fulham,4.0,18.0,40834.0,Stamford Bridge,sep,1.0,2013/14,2013,London,16.0,41.2,41608.0
+340,Swansea City,Liverpool,13.0,1.0,20937.0,Liberty Stadium,sep,0.0,2013/14,2013,Swansea,15.0,58.2,20752.0
+341,Southampton,West Ham United,11.0,10.0,32384.0,St. Mary's Stadium,sep,0.0,2013/14,2013,Southampton,15.0,15.7,28794.0
+342,Manchester United,Crystal Palace,5.0,18.0,75643.0,Old Trafford,sep,0.0,2013/14,2013,Manchester,14.0,26.5,75170.0
+343,Aston Villa,Newcastle United,17.0,8.0,42749.0,Villa Park,sep,0.0,2013/14,2013,Birmingham,14.0,17.8,37554.0
+344,Fulham,West Bromwich Albion,14.0,19.0,25700.0,Craven Cottage,sep,0.0,2013/14,2013,London,16.0,41.2,25560.0
+345,Hull City,Cardiff City,16.0,12.0,25586.0,KCOM Stadium,sep,0.0,2013/14,2013,Hull,14.0,10.0,21949.0
+346,Stoke City,Manchester City,7.0,4.0,30089.0,Britannia Stadium,sep,0.0,2013/14,2013,Stoke,14.0,26.5,25052.0
+347,Sunderland,Arsenal,20.0,2.0,48707.0,Stadium of Light,sep,0.0,2013/14,2013,Sunderland,13.0,19.0,39055.0
+348,Tottenham Hotspur,Norwich City,3.0,15.0,36284.0,White Hart Lane,sep,0.0,2013/14,2013,London,16.0,41.2,35952.0
+349,Everton,Chelsea,9.0,6.0,39414.0,Goodison Park,sep,0.0,2013/14,2013,Liverpool,15.0,49.0,36034.0
+350,Liverpool,Manchester United,1.0,7.0,54074.0,Anfield,sep,0.0,2013/14,2013,Liverpool,15.0,49.0,44411.0
+351,West Bromwich Albion,Swansea City,20.0,16.0,26445.0,The Hawthorns,sep,0.0,2013/14,2013,West Bromwich,14.0,17.8,23395.0
+352,Arsenal,Tottenham Hotspur,4.0,6.0,60704.0,Emirates Stadium,sep,1.0,2013/14,2013,London,16.0,41.2,60071.0
+353,Manchester City,Hull City,3.0,18.0,53400.0,Etihad Stadium,aug,0.0,2013/14,2013,Manchester,16.0,31.4,46903.0
+354,Cardiff City,Everton,11.0,15.0,33280.0,Cardiff City Stadium,aug,0.0,2013/14,2013,Cardiff,16.0,46.8,27344.0
+355,Newcastle United,Fulham,12.0,17.0,52305.0,St. James' Park,aug,0.0,2013/14,2013,Newcastle,13.0,104.9,46402.0
+356,Norwich City,Southampton,9.0,10.0,27359.0,Carrow Road,aug,0.0,2013/14,2013,Norwich,17.0,27.7,26819.0
+357,West Ham United,Stoke City,8.0,5.0,35345.0,Boleyn Ground,aug,0.0,2013/14,2013,London,18.0,57.5,34946.0
+358,Crystal Palace,Sunderland,14.0,19.0,25486.0,Selhurst Park,aug,0.0,2013/14,2013,London,18.0,57.5,22671.0
+359,Manchester United,Chelsea,4.0,1.0,75643.0,Old Trafford,aug,0.0,2013/14,2013,Manchester,16.0,31.4,75032.0
+360,Cardiff City,Manchester City,11.0,7.0,33280.0,Cardiff City Stadium,aug,0.0,2013/14,2013,Cardiff,16.0,46.8,27068.0
+361,Tottenham Hotspur,Swansea City,3.0,20.0,36284.0,White Hart Lane,aug,0.0,2013/14,2013,London,18.0,57.5,36005.0
+362,Fulham,Arsenal,12.0,8.0,25700.0,Craven Cottage,aug,1.0,2013/14,2013,London,18.0,57.5,25622.0
+363,Everton,West Bromwich Albion,14.0,17.0,39414.0,Goodison Park,aug,0.0,2013/14,2013,Liverpool,16.0,66.6,36410.0
+364,Hull City,Norwich City,13.0,15.0,25586.0,KCOM Stadium,aug,0.0,2013/14,2013,Hull,17.0,14.3,23682.0
+365,Newcastle United,West Ham United,18.0,5.0,52305.0,St. James' Park,aug,0.0,2013/14,2013,Newcastle,13.0,104.9,49622.0
+366,Southampton,Sunderland,6.0,16.0,32384.0,St. Mary's Stadium,aug,0.0,2013/14,2013,Southampton,17.0,10.9,29596.0
+367,Stoke City,Crystal Palace,10.0,19.0,30089.0,Britannia Stadium,aug,0.0,2013/14,2013,Stoke,16.0,31.4,25270.0
+368,Aston Villa,Liverpool,9.0,2.0,42749.0,Villa Park,aug,0.0,2013/14,2013,Birmingham,16.0,27.0,42098.0
+369,Chelsea,Aston Villa,1.0,5.0,40834.0,Stamford Bridge,aug,0.0,2013/14,2013,London,18.0,57.5,41527.0
+370,Manchester City,Newcastle United,2.0,20.0,53400.0,Etihad Stadium,aug,0.0,2013/14,2013,Manchester,16.0,31.4,46842.0
+371,Crystal Palace,Tottenham Hotspur,12.0,9.0,25486.0,Selhurst Park,aug,1.0,2013/14,2013,London,18.0,57.5,23285.0
+372,Chelsea,Hull City,1.0,18.0,40834.0,Stamford Bridge,aug,0.0,2013/14,2013,London,18.0,57.5,41374.0
+373,Liverpool,Stoke City,7.0,13.0,54074.0,Anfield,aug,0.0,2013/14,2013,Liverpool,16.0,66.6,44822.0
+374,Arsenal,Aston Villa,16.0,5.0,60704.0,Emirates Stadium,aug,0.0,2013/14,2013,London,18.0,57.5,60003.0
+375,Norwich City,Everton,11.0,10.0,27359.0,Carrow Road,aug,0.0,2013/14,2013,Norwich,17.0,27.7,26824.0
+376,Sunderland,Fulham,14.0,6.0,48707.0,Stadium of Light,aug,0.0,2013/14,2013,Sunderland,15.0,31.6,43905.0
+377,West Bromwich Albion,Southampton,15.0,8.0,26445.0,The Hawthorns,aug,0.0,2013/14,2013,West Bromwich,16.0,27.0,25927.0
+378,West Ham United,Cardiff City,4.0,17.0,35345.0,Boleyn Ground,aug,0.0,2013/14,2013,London,18.0,57.5,34977.0
+379,Swansea City,Manchester United,19.0,3.0,20937.0,Liberty Stadium,aug,0.0,2013/14,2013,Swansea,16.0,95.2,20733.0
+380,Arsenal,West Bromwich Albion,3.0,13.0,60704.0,Emirates Stadium,may,0.0,2014/15,2014,London,14.0,52.1,59971.0
+381,Aston Villa,Burnley,17.0,19.0,42749.0,Villa Park,may,0.0,2014/15,2014,Birmingham,12.0,26.6,40792.0
+382,Chelsea,Sunderland,1.0,16.0,40834.0,Stamford Bridge,may,0.0,2014/15,2014,London,14.0,52.1,41620.0
+383,Crystal Palace,Swansea City,10.0,8.0,25486.0,Selhurst Park,may,0.0,2014/15,2014,London,14.0,52.1,25076.0
+384,Everton,Tottenham Hotspur,11.0,5.0,39414.0,Goodison Park,may,0.0,2014/15,2014,Liverpool,12.0,53.6,39365.0
+385,Hull City,Manchester United,18.0,4.0,25586.0,KCOM Stadium,may,0.0,2014/15,2014,Hull,11.0,7.7,24745.0
+386,Leicester City,Queens Park Rangers,14.0,20.0,32261.0,King Power Stadium,may,0.0,2014/15,2014,Leicester,12.0,24.0,31467.0
+387,Manchester City,Southampton,2.0,7.0,53400.0,Etihad Stadium,may,0.0,2014/15,2014,Manchester,12.0,21.2,45919.0
+388,Newcastle United,West Ham United,15.0,12.0,52305.0,St. James' Park,may,0.0,2014/15,2014,Newcastle,9.0,116.4,52094.0
+389,Stoke City,Liverpool,9.0,6.0,30089.0,bet365 Stadium,may,0.0,2014/15,2014,Stoke,12.0,21.2,27602.0
+390,Arsenal,Sunderland,3.0,15.0,60704.0,Emirates Stadium,may,0.0,2014/15,2014,London,14.0,52.1,59987.0
+391,West Bromwich Albion,Chelsea,13.0,1.0,26445.0,The Hawthorns,may,0.0,2014/15,2014,West Bromwich,12.0,26.6,24750.0
+392,Swansea City,Manchester City,8.0,2.0,20937.0,Liberty Stadium,may,0.0,2014/15,2014,Swansea,12.0,80.3,20669.0
+393,Manchester United,Arsenal,4.0,3.0,75643.0,Old Trafford,may,0.0,2014/15,2014,Manchester,12.0,21.2,75323.0
+394,Southampton,Aston Villa,7.0,16.0,32384.0,St. Mary's Stadium,may,0.0,2014/15,2014,Southampton,13.0,16.5,31636.0
+395,Burnley,Stoke City,19.0,9.0,21944.0,Turf Moor,may,0.0,2014/15,2014,Burnley,10.0,79.3,18636.0
+396,Queens Park Rangers,Newcastle United,20.0,17.0,18439.0,Loftus Road,may,0.0,2014/15,2014,London,14.0,52.1,17608.0
+397,Sunderland,Leicester City,15.0,14.0,48707.0,Stadium of Light,may,0.0,2014/15,2014,Sunderland,10.0,23.0,46705.0
+398,Tottenham Hotspur,Hull City,6.0,18.0,36284.0,White Hart Lane,may,0.0,2014/15,2014,London,14.0,52.1,35857.0
+399,West Ham United,Everton,11.0,10.0,35345.0,Boleyn Ground,may,0.0,2014/15,2014,London,14.0,52.1,34977.0
+400,Liverpool,Crystal Palace,5.0,12.0,54074.0,Anfield,may,0.0,2014/15,2014,Liverpool,12.0,53.6,44673.0
+401,Arsenal,Swansea City,3.0,8.0,60704.0,Emirates Stadium,may,0.0,2014/15,2014,London,14.0,52.1,59989.0
+402,Manchester City,Queens Park Rangers,2.0,20.0,53400.0,Etihad Stadium,may,0.0,2014/15,2014,Manchester,12.0,21.2,44564.0
+403,Chelsea,Liverpool,1.0,5.0,40834.0,Stamford Bridge,may,0.0,2014/15,2014,London,14.0,52.1,41547.0
+404,Everton,Sunderland,11.0,16.0,39414.0,Goodison Park,may,0.0,2014/15,2014,Liverpool,12.0,53.6,38246.0
+405,Aston Villa,West Ham United,14.0,10.0,42749.0,Villa Park,may,0.0,2014/15,2014,Birmingham,12.0,26.6,39294.0
+406,Hull City,Burnley,18.0,19.0,25586.0,KCOM Stadium,may,0.0,2014/15,2014,Hull,11.0,7.7,24877.0
+407,Leicester City,Southampton,15.0,7.0,32261.0,King Power Stadium,may,0.0,2014/15,2014,Leicester,12.0,24.0,31939.0
+408,Newcastle United,West Bromwich Albion,17.0,13.0,52305.0,St. James' Park,may,0.0,2014/15,2014,Newcastle,9.0,116.4,47894.0
+409,Stoke City,Tottenham Hotspur,9.0,6.0,30089.0,bet365 Stadium,may,0.0,2014/15,2014,Stoke,12.0,21.2,27104.0
+410,Crystal Palace,Manchester United,12.0,4.0,25486.0,Selhurst Park,may,0.0,2014/15,2014,London,14.0,52.1,25009.0
+411,Hull City,Arsenal,17.0,3.0,25586.0,KCOM Stadium,may,0.0,2014/15,2014,Hull,11.0,7.7,23628.0
+412,Chelsea,Crystal Palace,1.0,12.0,40834.0,Stamford Bridge,may,1.0,2014/15,2014,London,14.0,52.1,41566.0
+413,Tottenham Hotspur,Manchester City,6.0,2.0,36284.0,White Hart Lane,may,0.0,2014/15,2014,London,14.0,52.1,35784.0
+414,Aston Villa,Everton,14.0,11.0,42749.0,Villa Park,may,0.0,2014/15,2014,Birmingham,12.0,26.6,37859.0
+415,Liverpool,Queens Park Rangers,5.0,19.0,54074.0,Anfield,may,0.0,2014/15,2014,Liverpool,12.0,53.6,44707.0
+416,Sunderland,Southampton,18.0,7.0,48707.0,Stadium of Light,may,0.0,2014/15,2014,Sunderland,10.0,23.0,39613.0
+417,Swansea City,Stoke City,8.0,10.0,20937.0,Liberty Stadium,may,0.0,2014/15,2014,Swansea,12.0,80.3,20661.0
+418,West Ham United,Burnley,9.0,20.0,35345.0,Boleyn Ground,may,0.0,2014/15,2014,London,14.0,52.1,34946.0
+419,Manchester United,West Bromwich Albion,4.0,13.0,75643.0,Old Trafford,may,0.0,2014/15,2014,Manchester,12.0,21.2,75454.0
+420,Leicester City,Newcastle United,16.0,15.0,32261.0,King Power Stadium,may,0.0,2014/15,2014,Leicester,12.0,24.0,31576.0
+421,Leicester City,Chelsea,17.0,1.0,32261.0,King Power Stadium,apr,0.0,2014/15,2014,Leicester,9.0,26.4,32021.0
+422,Hull City,Liverpool,15.0,5.0,25586.0,KCOM Stadium,apr,0.0,2014/15,2014,Hull,9.0,13.3,24843.0
+423,Everton,Manchester United,10.0,4.0,39414.0,Goodison Park,apr,0.0,2014/15,2014,Liverpool,10.0,36.7,39497.0
+424,Arsenal,Chelsea,3.0,1.0,60704.0,Emirates Stadium,apr,1.0,2014/15,2014,London,11.0,30.6,60066.0
+425,Southampton,Tottenham Hotspur,7.0,6.0,32384.0,St. Mary's Stadium,apr,0.0,2014/15,2014,Southampton,9.0,19.2,31622.0
+426,Burnley,Leicester City,20.0,17.0,21944.0,Turf Moor,apr,0.0,2014/15,2014,Burnley,8.0,50.0,19582.0
+427,Crystal Palace,Hull City,12.0,15.0,25486.0,Selhurst Park,apr,0.0,2014/15,2014,London,11.0,30.6,23876.0
+428,Newcastle United,Swansea City,14.0,8.0,52305.0,St. James' Park,apr,0.0,2014/15,2014,Newcastle,7.0,70.0,46884.0
+429,Queens Park Rangers,West Ham United,19.0,11.0,18439.0,Loftus Road,apr,1.0,2014/15,2014,London,11.0,30.6,18036.0
+430,Stoke City,Sunderland,9.0,18.0,30089.0,bet365 Stadium,apr,0.0,2014/15,2014,Stoke,9.0,27.0,26706.0
+431,West Bromwich Albion,Liverpool,13.0,5.0,26445.0,The Hawthorns,apr,0.0,2014/15,2014,West Bromwich,8.0,23.8,26663.0
+432,Manchester City,Aston Villa,2.0,16.0,53400.0,Etihad Stadium,apr,0.0,2014/15,2014,Manchester,9.0,27.0,45036.0
+433,Manchester City,West Ham United,4.0,10.0,53400.0,Etihad Stadium,apr,0.0,2014/15,2014,Manchester,9.0,27.0,45041.0
+434,Newcastle United,Tottenham Hotspur,14.0,6.0,52305.0,St. James' Park,apr,0.0,2014/15,2014,Newcastle,7.0,70.0,47427.0
+435,Crystal Palace,West Bromwich Albion,11.0,13.0,25486.0,Selhurst Park,apr,0.0,2014/15,2014,London,11.0,30.6,24765.0
+436,Everton,Burnley,12.0,20.0,39414.0,Goodison Park,apr,0.0,2014/15,2014,Liverpool,10.0,36.7,39496.0
+437,Leicester City,Swansea City,18.0,8.0,32261.0,King Power Stadium,apr,0.0,2014/15,2014,Leicester,9.0,26.4,31121.0
+438,Stoke City,Southampton,9.0,7.0,30089.0,bet365 Stadium,apr,0.0,2014/15,2014,Stoke,9.0,27.0,26467.0
+439,Chelsea,Manchester United,1.0,3.0,40834.0,Stamford Bridge,apr,0.0,2014/15,2014,London,11.0,30.6,41422.0
+440,Liverpool,Newcastle United,5.0,13.0,54074.0,Anfield,apr,0.0,2014/15,2014,Liverpool,10.0,36.7,44611.0
+441,Queens Park Rangers,Chelsea,18.0,1.0,18439.0,Loftus Road,apr,1.0,2014/15,2014,London,11.0,30.6,17939.0
+442,Manchester United,Manchester City,3.0,4.0,75643.0,Old Trafford,apr,1.0,2014/15,2014,Manchester,9.0,27.0,75313.0
+443,Swansea City,Everton,8.0,12.0,20937.0,Liberty Stadium,apr,0.0,2014/15,2014,Swansea,10.0,39.8,20468.0
+444,Southampton,Hull City,6.0,17.0,32384.0,St. Mary's Stadium,apr,0.0,2014/15,2014,Southampton,9.0,19.2,30359.0
+445,Sunderland,Crystal Palace,16.0,11.0,48707.0,Stadium of Light,apr,0.0,2014/15,2014,Sunderland,7.0,23.1,42073.0
+446,Tottenham Hotspur,Aston Villa,7.0,15.0,36284.0,White Hart Lane,apr,0.0,2014/15,2014,London,11.0,30.6,35687.0
+447,West Bromwich Albion,Leicester City,14.0,20.0,26445.0,The Hawthorns,apr,0.0,2014/15,2014,West Bromwich,8.0,23.8,26768.0
+448,West Ham United,Stoke City,9.0,10.0,35345.0,Boleyn Ground,apr,0.0,2014/15,2014,London,11.0,30.6,34946.0
+449,Burnley,Arsenal,19.0,2.0,21944.0,Turf Moor,apr,0.0,2014/15,2014,Burnley,8.0,50.0,20615.0
+450,Aston Villa,Queens Park Rangers,16.0,18.0,42749.0,Villa Park,apr,0.0,2014/15,2014,Birmingham,8.0,23.8,33708.0
+451,Crystal Palace,Manchester City,11.0,4.0,25486.0,Selhurst Park,apr,0.0,2014/15,2014,London,11.0,30.6,24718.0
+452,Burnley,Tottenham Hotspur,19.0,6.0,21944.0,Turf Moor,apr,0.0,2014/15,2014,Burnley,8.0,50.0,18829.0
+453,Sunderland,Newcastle United,15.0,13.0,48707.0,Stadium of Light,apr,0.0,2014/15,2014,Sunderland,7.0,23.1,47563.0
+454,Everton,Southampton,12.0,7.0,39414.0,Goodison Park,apr,0.0,2014/15,2014,Liverpool,10.0,36.7,39390.0
+455,Leicester City,West Ham United,20.0,9.0,32261.0,King Power Stadium,apr,0.0,2014/15,2014,Leicester,9.0,26.4,31863.0
+456,Manchester United,Aston Villa,3.0,16.0,75643.0,Old Trafford,apr,0.0,2014/15,2014,Manchester,9.0,27.0,75397.0
+457,Swansea City,Hull City,8.0,17.0,20937.0,Liberty Stadium,apr,0.0,2014/15,2014,Swansea,10.0,39.8,20333.0
+458,West Bromwich Albion,Queens Park Rangers,14.0,18.0,26445.0,The Hawthorns,apr,0.0,2014/15,2014,West Bromwich,8.0,23.8,25735.0
+459,Chelsea,Stoke City,1.0,10.0,40834.0,Stamford Bridge,apr,0.0,2014/15,2014,London,11.0,30.6,41098.0
+460,Arsenal,Liverpool,2.0,5.0,60704.0,Emirates Stadium,apr,0.0,2014/15,2014,London,11.0,30.6,60081.0
+461,Liverpool,Manchester United,5.0,4.0,54074.0,Anfield,mar,0.0,2014/15,2014,Liverpool,7.0,40.4,44405.0
+462,Hull City,Chelsea,15.0,1.0,25586.0,KCOM Stadium,mar,0.0,2014/15,2014,Hull,7.0,12.0,24598.0
+463,Queens Park Rangers,Everton,19.0,13.0,18439.0,Loftus Road,mar,0.0,2014/15,2014,London,8.0,29.8,17706.0
+464,Manchester City,West Bromwich Albion,2.0,14.0,53400.0,Etihad Stadium,mar,0.0,2014/15,2014,Manchester,6.0,25.0,45018.0
+465,Aston Villa,Swansea City,16.0,8.0,42749.0,Villa Park,mar,0.0,2014/15,2014,Birmingham,6.0,19.6,35598.0
+466,Newcastle United,Arsenal,12.0,3.0,52305.0,St. James' Park,mar,0.0,2014/15,2014,Newcastle,4.0,106.4,50544.0
+467,Southampton,Burnley,6.0,18.0,32384.0,St. Mary's Stadium,mar,0.0,2014/15,2014,Southampton,8.0,17.2,30864.0
+468,Stoke City,Crystal Palace,10.0,11.0,30089.0,bet365 Stadium,mar,0.0,2014/15,2014,Stoke,6.0,25.0,27532.0
+469,Tottenham Hotspur,Leicester City,7.0,20.0,36284.0,White Hart Lane,mar,0.0,2014/15,2014,London,8.0,29.8,35950.0
+470,West Ham United,Sunderland,9.0,17.0,35345.0,Boleyn Ground,mar,0.0,2014/15,2014,London,8.0,29.8,34914.0
+471,Swansea City,Liverpool,9.0,5.0,20937.0,Liberty Stadium,mar,0.0,2014/15,2014,Swansea,7.0,62.2,20828.0
+472,Chelsea,Southampton,1.0,6.0,40834.0,Stamford Bridge,mar,0.0,2014/15,2014,London,8.0,29.8,41624.0
+473,Everton,Newcastle United,14.0,11.0,39414.0,Goodison Park,mar,0.0,2014/15,2014,Liverpool,7.0,40.4,38806.0
+474,Manchester United,Tottenham Hotspur,4.0,7.0,75643.0,Old Trafford,mar,0.0,2014/15,2014,Manchester,6.0,25.0,75112.0
+475,Crystal Palace,Queens Park Rangers,12.0,19.0,25486.0,Selhurst Park,mar,1.0,2014/15,2014,London,8.0,29.8,24886.0
+476,Arsenal,West Ham United,3.0,10.0,60704.0,Emirates Stadium,mar,1.0,2014/15,2014,London,8.0,29.8,60002.0
+477,Leicester City,Hull City,20.0,15.0,32261.0,King Power Stadium,mar,0.0,2014/15,2014,Leicester,6.0,21.3,31456.0
+478,Sunderland,Aston Villa,17.0,16.0,48707.0,Stadium of Light,mar,0.0,2014/15,2014,Sunderland,6.0,18.5,45746.0
+479,West Bromwich Albion,Stoke City,13.0,8.0,26445.0,The Hawthorns,mar,0.0,2014/15,2014,West Bromwich,6.0,19.6,24323.0
+480,Burnley,Manchester City,18.0,2.0,21944.0,Turf Moor,mar,0.0,2014/15,2014,Burnley,5.0,69.0,21216.0
+481,Queens Park Rangers,Tottenham Hotspur,18.0,6.0,18439.0,Loftus Road,mar,1.0,2014/15,2014,London,8.0,29.8,17992.0
+482,Manchester City,Leicester City,2.0,20.0,53400.0,Etihad Stadium,mar,0.0,2014/15,2014,Manchester,6.0,25.0,45000.0
+483,Newcastle United,Manchester United,11.0,4.0,52305.0,St. James' Park,mar,0.0,2014/15,2014,Newcastle,4.0,106.4,49801.0
+484,Queens Park Rangers,Arsenal,18.0,3.0,18439.0,Loftus Road,mar,1.0,2014/15,2014,London,8.0,29.8,17977.0
+485,Stoke City,Everton,8.0,14.0,30089.0,bet365 Stadium,mar,0.0,2014/15,2014,Stoke,6.0,25.0,26431.0
+486,Tottenham Hotspur,Swansea City,6.0,9.0,36284.0,White Hart Lane,mar,0.0,2014/15,2014,London,8.0,29.8,34008.0
+487,West Ham United,Chelsea,10.0,1.0,35345.0,Boleyn Ground,mar,1.0,2014/15,2014,London,8.0,29.8,34927.0
+488,Liverpool,Burnley,5.0,19.0,54074.0,Anfield,mar,0.0,2014/15,2014,Liverpool,7.0,40.4,44717.0
+489,Aston Villa,West Bromwich Albion,17.0,13.0,42749.0,Villa Park,mar,0.0,2014/15,2014,Birmingham,6.0,19.6,31272.0
+490,Hull City,Sunderland,15.0,16.0,25586.0,KCOM Stadium,mar,0.0,2014/15,2014,Hull,7.0,12.0,23017.0
+491,Southampton,Crystal Palace,7.0,12.0,32384.0,St. Mary's Stadium,mar,0.0,2014/15,2014,Southampton,8.0,17.2,28351.0
+492,Liverpool,Manchester City,5.0,2.0,54074.0,Anfield,mar,0.0,2014/15,2014,Liverpool,7.0,40.4,44590.0
+493,Arsenal,Everton,3.0,14.0,60704.0,Emirates Stadium,mar,0.0,2014/15,2014,London,8.0,29.8,59925.0
+494,West Ham United,Crystal Palace,9.0,12.0,35345.0,Boleyn Ground,feb,1.0,2014/15,2014,London,6.0,47.9,34857.0
+495,Burnley,Swansea City,18.0,8.0,21944.0,Turf Moor,feb,0.0,2014/15,2014,Burnley,3.0,75.9,17388.0
+496,Manchester United,Sunderland,4.0,16.0,75643.0,Old Trafford,feb,0.0,2014/15,2014,Manchester,5.0,28.4,75344.0
+497,Newcastle United,Aston Villa,11.0,19.0,52305.0,St. James' Park,feb,0.0,2014/15,2014,Newcastle,3.0,122.8,51573.0
+498,Stoke City,Hull City,10.0,15.0,30089.0,bet365 Stadium,feb,0.0,2014/15,2014,Stoke,5.0,28.4,26473.0
+499,West Bromwich Albion,Southampton,13.0,6.0,26445.0,The Hawthorns,feb,0.0,2014/15,2014,West Bromwich,5.0,23.4,25303.0
+500,Tottenham Hotspur,West Ham United,7.0,8.0,36284.0,White Hart Lane,feb,1.0,2014/15,2014,London,6.0,47.9,35837.0
+501,Everton,Leicester City,12.0,20.0,39414.0,Goodison Park,feb,0.0,2014/15,2014,Liverpool,6.0,40.6,38904.0
+502,Southampton,Liverpool,5.0,6.0,32384.0,St. Mary's Stadium,feb,0.0,2014/15,2014,Southampton,6.0,23.8,31723.0
+503,Aston Villa,Stoke City,19.0,10.0,42749.0,Villa Park,feb,0.0,2014/15,2014,Birmingham,5.0,23.4,31880.0
+504,Chelsea,Burnley,1.0,18.0,40834.0,Stamford Bridge,feb,0.0,2014/15,2014,London,6.0,47.9,41629.0
+505,Crystal Palace,Arsenal,13.0,3.0,25486.0,Selhurst Park,feb,1.0,2014/15,2014,London,6.0,47.9,24721.0
+506,Hull City,Queens Park Rangers,15.0,17.0,25586.0,KCOM Stadium,feb,0.0,2014/15,2014,Hull,5.0,12.0,24466.0
+507,Sunderland,West Bromwich Albion,16.0,14.0,48707.0,Stadium of Light,feb,0.0,2014/15,2014,Sunderland,4.0,17.8,40943.0
+508,Swansea City,Manchester United,9.0,4.0,20937.0,Liberty Stadium,feb,0.0,2014/15,2014,Swansea,6.0,70.1,20809.0
+509,Manchester City,Newcastle United,2.0,11.0,53400.0,Etihad Stadium,feb,0.0,2014/15,2014,Manchester,5.0,28.4,45602.0
+510,Chelsea,Everton,1.0,12.0,40834.0,Stamford Bridge,feb,0.0,2014/15,2014,London,6.0,47.9,41592.0
+511,Manchester United,Burnley,3.0,19.0,75643.0,Old Trafford,feb,0.0,2014/15,2014,Manchester,5.0,28.4,75356.0
+512,Southampton,West Ham United,4.0,8.0,32384.0,St. Mary's Stadium,feb,0.0,2014/15,2014,Southampton,6.0,23.8,31241.0
+513,Stoke City,Manchester City,10.0,2.0,30089.0,bet365 Stadium,feb,0.0,2014/15,2014,Stoke,5.0,28.4,27011.0
+514,Crystal Palace,Newcastle United,13.0,11.0,25486.0,Selhurst Park,feb,0.0,2014/15,2014,London,6.0,47.9,25118.0
+515,West Bromwich Albion,Swansea City,14.0,9.0,26445.0,The Hawthorns,feb,0.0,2014/15,2014,West Bromwich,5.0,23.4,23516.0
+516,Arsenal,Leicester City,5.0,20.0,60704.0,Emirates Stadium,feb,0.0,2014/15,2014,London,6.0,47.9,60032.0
+517,Hull City,Aston Villa,16.0,18.0,25586.0,KCOM Stadium,feb,0.0,2014/15,2014,Hull,5.0,12.0,21467.0
+518,Sunderland,Queens Park Rangers,15.0,17.0,48707.0,Stadium of Light,feb,0.0,2014/15,2014,Sunderland,4.0,17.8,39077.0
+519,Liverpool,Tottenham Hotspur,7.0,6.0,54074.0,Anfield,feb,0.0,2014/15,2014,Liverpool,6.0,40.6,44577.0
+520,Burnley,West Bromwich Albion,17.0,15.0,21944.0,Turf Moor,feb,0.0,2014/15,2014,Burnley,3.0,75.9,16904.0
+521,Newcastle United,Stoke City,11.0,10.0,52305.0,St. James' Park,feb,0.0,2014/15,2014,Newcastle,3.0,122.8,47763.0
+522,West Ham United,Manchester United,8.0,4.0,35345.0,Boleyn Ground,feb,0.0,2014/15,2014,London,6.0,47.9,34499.0
+523,Tottenham Hotspur,Arsenal,5.0,6.0,36284.0,White Hart Lane,feb,1.0,2014/15,2014,London,6.0,47.9,35659.0
+524,Aston Villa,Chelsea,16.0,1.0,42749.0,Villa Park,feb,0.0,2014/15,2014,Birmingham,5.0,23.4,35969.0
+525,Leicester City,Crystal Palace,20.0,13.0,32261.0,King Power Stadium,feb,0.0,2014/15,2014,Leicester,5.0,23.3,31695.0
+526,Manchester City,Hull City,2.0,18.0,53400.0,Etihad Stadium,feb,0.0,2014/15,2014,Manchester,5.0,28.4,45233.0
+527,Queens Park Rangers,Southampton,19.0,3.0,18439.0,Loftus Road,feb,0.0,2014/15,2014,London,6.0,47.9,18082.0
+528,Swansea City,Sunderland,9.0,14.0,20937.0,Liberty Stadium,feb,0.0,2014/15,2014,Swansea,6.0,70.1,20355.0
+529,Everton,Liverpool,12.0,7.0,39414.0,Goodison Park,feb,1.0,2014/15,2014,Liverpool,6.0,40.6,39621.0
+530,Arsenal,Aston Villa,5.0,16.0,60704.0,Emirates Stadium,feb,0.0,2014/15,2014,London,6.0,47.9,59958.0
+531,Southampton,Swansea City,4.0,9.0,32384.0,St. Mary's Stadium,feb,0.0,2014/15,2014,Southampton,6.0,23.8,30943.0
+532,Hull City,Newcastle United,18.0,11.0,25586.0,KCOM Stadium,jan,0.0,2014/15,2014,Hull,4.0,17.4,23925.0
+533,Crystal Palace,Everton,13.0,12.0,25486.0,Selhurst Park,jan,0.0,2014/15,2014,London,6.0,52.9,25197.0
+534,Liverpool,West Ham United,7.0,8.0,54074.0,Anfield,jan,0.0,2014/15,2014,Liverpool,5.0,58.3,44718.0
+535,Manchester United,Leicester City,3.0,20.0,75643.0,Old Trafford,jan,0.0,2014/15,2014,Manchester,5.0,32.4,75329.0
+536,Stoke City,Queens Park Rangers,10.0,19.0,30089.0,bet365 Stadium,jan,0.0,2014/15,2014,Stoke,5.0,32.4,27512.0
+537,Sunderland,Burnley,14.0,17.0,48707.0,Stadium of Light,jan,0.0,2014/15,2014,Sunderland,4.0,20.8,44022.0
+538,West Bromwich Albion,Tottenham Hotspur,15.0,6.0,26445.0,The Hawthorns,jan,0.0,2014/15,2014,West Bromwich,4.0,34.7,25079.0
+539,Chelsea,Manchester City,1.0,2.0,40834.0,Stamford Bridge,jan,0.0,2014/15,2014,London,6.0,52.9,41620.0
+540,Everton,West Bromwich Albion,12.0,14.0,39414.0,Goodison Park,jan,0.0,2014/15,2014,Liverpool,5.0,58.3,34739.0
+541,West Ham United,Hull City,7.0,18.0,35345.0,Boleyn Ground,jan,0.0,2014/15,2014,London,6.0,52.9,34914.0
+542,Manchester City,Arsenal,2.0,5.0,53400.0,Etihad Stadium,jan,0.0,2014/15,2014,Manchester,5.0,32.4,45596.0
+543,Aston Villa,Liverpool,15.0,8.0,42749.0,Villa Park,jan,0.0,2014/15,2014,Birmingham,4.0,34.7,39758.0
+544,Burnley,Crystal Palace,17.0,13.0,21944.0,Turf Moor,jan,0.0,2014/15,2014,Burnley,3.0,114.5,17782.0
+545,Leicester City,Stoke City,20.0,10.0,32261.0,King Power Stadium,jan,0.0,2014/15,2014,Leicester,4.0,32.3,31772.0
+546,Queens Park Rangers,Manchester United,19.0,4.0,18439.0,Loftus Road,jan,0.0,2014/15,2014,London,6.0,52.9,18098.0
+547,Swansea City,Chelsea,9.0,1.0,20937.0,Liberty Stadium,jan,0.0,2014/15,2014,Swansea,6.0,99.2,20785.0
+548,Tottenham Hotspur,Sunderland,6.0,16.0,36284.0,White Hart Lane,jan,0.0,2014/15,2014,London,6.0,52.9,35973.0
+549,Newcastle United,Southampton,11.0,3.0,52305.0,St. James' Park,jan,0.0,2014/15,2014,Newcastle,3.0,190.9,49307.0
+550,Arsenal,Stoke City,5.0,11.0,60704.0,Emirates Stadium,jan,0.0,2014/15,2014,London,6.0,52.9,59956.0
+551,Manchester United,Southampton,4.0,3.0,75643.0,Old Trafford,jan,0.0,2014/15,2014,Manchester,5.0,32.4,75395.0
+552,Sunderland,Liverpool,16.0,8.0,48707.0,Stadium of Light,jan,0.0,2014/15,2014,Sunderland,4.0,20.8,45369.0
+553,Burnley,Queens Park Rangers,17.0,19.0,21944.0,Turf Moor,jan,0.0,2014/15,2014,Burnley,3.0,114.5,17523.0
+554,Chelsea,Newcastle United,1.0,10.0,40834.0,Stamford Bridge,jan,0.0,2014/15,2014,London,6.0,52.9,41612.0
+555,Everton,Manchester City,12.0,2.0,39414.0,Goodison Park,jan,0.0,2014/15,2014,Liverpool,5.0,58.3,39499.0
+556,Leicester City,Aston Villa,20.0,13.0,32261.0,King Power Stadium,jan,0.0,2014/15,2014,Leicester,4.0,32.3,31728.0
+557,Swansea City,West Ham United,9.0,7.0,20937.0,Liberty Stadium,jan,0.0,2014/15,2014,Swansea,6.0,99.2,20745.0
+558,West Bromwich Albion,Hull City,14.0,18.0,26445.0,The Hawthorns,jan,0.0,2014/15,2014,West Bromwich,4.0,34.7,24818.0
+559,Crystal Palace,Tottenham Hotspur,15.0,6.0,25486.0,Selhurst Park,jan,1.0,2014/15,2014,London,6.0,52.9,24193.0
+560,Stoke City,Manchester United,11.0,3.0,30089.0,bet365 Stadium,jan,0.0,2014/15,2014,Stoke,5.0,32.4,27203.0
+561,Aston Villa,Crystal Palace,12.0,18.0,42749.0,Villa Park,jan,0.0,2014/15,2014,Birmingham,4.0,34.7,29047.0
+562,Hull City,Everton,15.0,13.0,25586.0,KCOM Stadium,jan,0.0,2014/15,2014,Hull,4.0,17.4,23865.0
+563,Liverpool,Leicester City,8.0,20.0,54074.0,Anfield,jan,0.0,2014/15,2014,Liverpool,5.0,58.3,44720.0
+564,Manchester City,Sunderland,2.0,14.0,53400.0,Etihad Stadium,jan,0.0,2014/15,2014,Manchester,5.0,32.4,45367.0
+565,Newcastle United,Burnley,10.0,19.0,52305.0,St. James' Park,jan,0.0,2014/15,2014,Newcastle,3.0,190.9,51761.0
+566,Queens Park Rangers,Swansea City,16.0,9.0,18439.0,Loftus Road,jan,0.0,2014/15,2014,London,6.0,52.9,17729.0
+567,Southampton,Arsenal,4.0,6.0,32384.0,St. Mary's Stadium,jan,0.0,2014/15,2014,Southampton,6.0,35.7,31492.0
+568,West Ham United,West Bromwich Albion,7.0,17.0,35345.0,Boleyn Ground,jan,0.0,2014/15,2014,London,6.0,52.9,34914.0
+569,Tottenham Hotspur,Chelsea,5.0,1.0,36284.0,White Hart Lane,jan,1.0,2014/15,2014,London,6.0,52.9,35903.0
+570,Liverpool,Swansea City,8.0,9.0,54074.0,Anfield,dec,0.0,2014/15,2014,Liverpool,6.0,72.8,44714.0
+571,Tottenham Hotspur,Manchester United,7.0,3.0,36284.0,White Hart Lane,dec,0.0,2014/15,2014,London,6.0,65.1,35711.0
+572,Southampton,Chelsea,4.0,1.0,32384.0,St. Mary's Stadium,dec,0.0,2014/15,2014,Southampton,6.0,31.4,31641.0
+573,Aston Villa,Sunderland,13.0,14.0,42749.0,Villa Park,dec,0.0,2014/15,2014,Birmingham,5.0,27.9,35436.0
+574,Hull City,Leicester City,17.0,20.0,25586.0,KCOM Stadium,dec,0.0,2014/15,2014,Hull,5.0,18.6,23809.0
+575,Manchester City,Burnley,2.0,19.0,53400.0,Etihad Stadium,dec,0.0,2014/15,2014,Manchester,5.0,37.4,45608.0
+576,Queens Park Rangers,Crystal Palace,15.0,18.0,18439.0,Loftus Road,dec,1.0,2014/15,2014,London,6.0,65.1,18011.0
+577,Stoke City,West Bromwich Albion,11.0,16.0,30089.0,bet365 Stadium,dec,0.0,2014/15,2014,Stoke,5.0,37.4,27070.0
+578,West Ham United,Arsenal,6.0,5.0,35345.0,Boleyn Ground,dec,1.0,2014/15,2014,London,6.0,65.1,34977.0
+579,Newcastle United,Everton,10.0,12.0,52305.0,St. James' Park,dec,0.0,2014/15,2014,Newcastle,4.0,230.3,52313.0
+580,Chelsea,West Ham United,1.0,5.0,40834.0,Stamford Bridge,dec,1.0,2014/15,2014,London,6.0,65.1,41589.0
+581,Burnley,Liverpool,19.0,9.0,21944.0,Turf Moor,dec,0.0,2014/15,2014,Burnley,4.0,135.9,21335.0
+582,Crystal Palace,Southampton,18.0,4.0,25486.0,Selhurst Park,dec,0.0,2014/15,2014,London,6.0,65.1,24565.0
+583,Everton,Stoke City,12.0,11.0,39414.0,Goodison Park,dec,0.0,2014/15,2014,Liverpool,6.0,72.8,39166.0
+584,Leicester City,Tottenham Hotspur,20.0,7.0,32261.0,King Power Stadium,dec,0.0,2014/15,2014,Leicester,5.0,29.5,31870.0
+585,Manchester United,Newcastle United,3.0,10.0,75643.0,Old Trafford,dec,0.0,2014/15,2014,Manchester,5.0,37.4,75318.0
+586,Sunderland,Hull City,14.0,17.0,48707.0,Stadium of Light,dec,0.0,2014/15,2014,Sunderland,4.0,22.9,44817.0
+587,Swansea City,Aston Villa,8.0,13.0,20937.0,Liberty Stadium,dec,0.0,2014/15,2014,Swansea,7.0,113.7,20683.0
+588,West Bromwich Albion,Manchester City,15.0,2.0,26445.0,The Hawthorns,dec,0.0,2014/15,2014,West Bromwich,5.0,27.9,26040.0
+589,Arsenal,Queens Park Rangers,6.0,16.0,60704.0,Emirates Stadium,dec,1.0,2014/15,2014,London,6.0,65.1,59947.0
+590,Stoke City,Chelsea,13.0,1.0,30089.0,bet365 Stadium,dec,0.0,2014/15,2014,Stoke,5.0,37.4,27550.0
+591,Newcastle United,Sunderland,9.0,14.0,52305.0,St. James' Park,dec,0.0,2014/15,2014,Newcastle,4.0,230.3,52315.0
+592,Liverpool,Arsenal,10.0,6.0,54074.0,Anfield,dec,0.0,2014/15,2014,Liverpool,6.0,72.8,44703.0
+593,Manchester City,Crystal Palace,2.0,17.0,53400.0,Etihad Stadium,dec,0.0,2014/15,2014,Manchester,5.0,37.4,45302.0
+594,Aston Villa,Manchester United,12.0,3.0,42749.0,Villa Park,dec,0.0,2014/15,2014,Birmingham,5.0,27.9,41273.0
+595,Hull City,Swansea City,19.0,8.0,25586.0,KCOM Stadium,dec,0.0,2014/15,2014,Hull,5.0,18.6,21913.0
+596,Queens Park Rangers,West Bromwich Albion,16.0,15.0,18439.0,Loftus Road,dec,0.0,2014/15,2014,London,6.0,65.1,17560.0
+597,Southampton,Everton,5.0,11.0,32384.0,St. Mary's Stadium,dec,0.0,2014/15,2014,Southampton,6.0,31.4,31475.0
+598,Tottenham Hotspur,Burnley,7.0,18.0,36284.0,White Hart Lane,dec,0.0,2014/15,2014,London,6.0,65.1,35681.0
+599,West Ham United,Leicester City,4.0,20.0,35345.0,Boleyn Ground,dec,0.0,2014/15,2014,London,6.0,65.1,34977.0
+600,Everton,Queens Park Rangers,10.0,18.0,39414.0,Goodison Park,dec,0.0,2014/15,2014,Liverpool,6.0,72.8,34035.0
+601,Manchester United,Liverpool,3.0,11.0,75643.0,Old Trafford,dec,0.0,2014/15,2014,Manchester,5.0,37.4,75331.0
+602,Swansea City,Tottenham Hotspur,9.0,7.0,20937.0,Liberty Stadium,dec,0.0,2014/15,2014,Swansea,7.0,113.7,20650.0
+603,Burnley,Southampton,17.0,5.0,21944.0,Turf Moor,dec,0.0,2014/15,2014,Burnley,4.0,135.9,17287.0
+604,Chelsea,Hull City,1.0,19.0,40834.0,Stamford Bridge,dec,0.0,2014/15,2014,London,6.0,65.1,41626.0
+605,Crystal Palace,Stoke City,16.0,12.0,25486.0,Selhurst Park,dec,0.0,2014/15,2014,London,6.0,65.1,23038.0
+606,Leicester City,Manchester City,20.0,2.0,32261.0,King Power Stadium,dec,0.0,2014/15,2014,Leicester,5.0,29.5,31643.0
+607,Sunderland,West Ham United,15.0,4.0,48707.0,Stadium of Light,dec,0.0,2014/15,2014,Sunderland,4.0,22.9,41694.0
+608,West Bromwich Albion,Aston Villa,14.0,13.0,26445.0,The Hawthorns,dec,0.0,2014/15,2014,West Bromwich,5.0,27.9,24684.0
+609,Arsenal,Newcastle United,6.0,8.0,60704.0,Emirates Stadium,dec,0.0,2014/15,2014,London,6.0,65.1,59949.0
+610,Southampton,Manchester United,5.0,3.0,32384.0,St. Mary's Stadium,dec,0.0,2014/15,2014,Southampton,6.0,31.4,31420.0
+611,West Ham United,Swansea City,4.0,8.0,35345.0,Boleyn Ground,dec,0.0,2014/15,2014,London,6.0,65.1,34125.0
+612,Aston Villa,Leicester City,11.0,20.0,42749.0,Villa Park,dec,0.0,2014/15,2014,Birmingham,5.0,27.9,27692.0
+613,Newcastle United,Chelsea,7.0,1.0,52305.0,St. James' Park,dec,0.0,2014/15,2014,Newcastle,4.0,230.3,52019.0
+614,Hull City,West Bromwich Albion,18.0,16.0,25586.0,KCOM Stadium,dec,0.0,2014/15,2014,Hull,5.0,18.6,23279.0
+615,Liverpool,Sunderland,9.0,14.0,54074.0,Anfield,dec,0.0,2014/15,2014,Liverpool,6.0,72.8,44716.0
+616,Queens Park Rangers,Burnley,17.0,19.0,18439.0,Loftus Road,dec,0.0,2014/15,2014,London,6.0,65.1,17785.0
+617,Stoke City,Arsenal,13.0,6.0,30089.0,bet365 Stadium,dec,0.0,2014/15,2014,Stoke,5.0,37.4,27367.0
+618,Tottenham Hotspur,Crystal Palace,10.0,15.0,36284.0,White Hart Lane,dec,1.0,2014/15,2014,London,6.0,65.1,35860.0
+619,Manchester City,Everton,2.0,12.0,53400.0,Etihad Stadium,dec,0.0,2014/15,2014,Manchester,5.0,37.4,45603.0
+620,Arsenal,Southampton,6.0,3.0,60704.0,Emirates Stadium,dec,0.0,2014/15,2014,London,6.0,65.1,60025.0
+621,Chelsea,Tottenham Hotspur,1.0,10.0,40834.0,Stamford Bridge,dec,1.0,2014/15,2014,London,6.0,65.1,41518.0
+622,Everton,Hull City,11.0,17.0,39414.0,Goodison Park,dec,0.0,2014/15,2014,Liverpool,6.0,72.8,34645.0
+623,Sunderland,Manchester City,14.0,2.0,48707.0,Stadium of Light,dec,0.0,2014/15,2014,Sunderland,4.0,22.9,41152.0
+624,Burnley,Newcastle United,18.0,9.0,21944.0,Turf Moor,dec,0.0,2014/15,2014,Burnley,4.0,135.9,18791.0
+625,Leicester City,Liverpool,20.0,8.0,32261.0,King Power Stadium,dec,0.0,2014/15,2014,Leicester,5.0,29.5,32000.0
+626,Manchester United,Stoke City,4.0,13.0,75643.0,Old Trafford,dec,0.0,2014/15,2014,Manchester,5.0,37.4,75388.0
+627,Swansea City,Queens Park Rangers,7.0,19.0,20937.0,Liberty Stadium,dec,0.0,2014/15,2014,Swansea,7.0,113.7,20145.0
+628,Crystal Palace,Aston Villa,15.0,12.0,25486.0,Selhurst Park,dec,0.0,2014/15,2014,London,6.0,65.1,23935.0
+629,West Bromwich Albion,West Ham United,16.0,5.0,26445.0,The Hawthorns,dec,0.0,2014/15,2014,West Bromwich,5.0,27.9,23975.0
+630,Southampton,Manchester City,3.0,2.0,32384.0,St. Mary's Stadium,nov,0.0,2014/15,2014,Southampton,8.0,28.4,30919.0
+631,Tottenham Hotspur,Everton,7.0,10.0,36284.0,White Hart Lane,nov,0.0,2014/15,2014,London,9.0,72.0,35901.0
+632,West Bromwich Albion,Arsenal,15.0,6.0,26445.0,The Hawthorns,nov,0.0,2014/15,2014,West Bromwich,7.0,31.5,24228.0
+633,Burnley,Aston Villa,19.0,16.0,21944.0,Turf Moor,nov,0.0,2014/15,2014,Burnley,6.0,126.3,19910.0
+634,Liverpool,Stoke City,11.0,12.0,54074.0,Anfield,nov,0.0,2014/15,2014,Liverpool,8.0,67.8,44735.0
+635,Manchester United,Hull City,4.0,17.0,75643.0,Old Trafford,nov,0.0,2014/15,2014,Manchester,7.0,35.8,75345.0
+636,Queens Park Rangers,Leicester City,18.0,20.0,18439.0,Loftus Road,nov,0.0,2014/15,2014,London,9.0,72.0,18054.0
+637,Swansea City,Crystal Palace,8.0,14.0,20937.0,Liberty Stadium,nov,0.0,2014/15,2014,Swansea,10.0,125.4,20240.0
+638,West Ham United,Newcastle United,5.0,9.0,35345.0,Boleyn Ground,nov,0.0,2014/15,2014,London,9.0,72.0,34977.0
+639,Sunderland,Chelsea,13.0,1.0,48707.0,Stadium of Light,nov,0.0,2014/15,2014,Sunderland,6.0,26.6,45232.0
+640,Aston Villa,Southampton,16.0,2.0,42749.0,Villa Park,nov,0.0,2014/15,2014,Birmingham,7.0,31.5,25311.0
+641,Crystal Palace,Liverpool,15.0,12.0,25486.0,Selhurst Park,nov,0.0,2014/15,2014,London,9.0,72.0,24862.0
+642,Hull City,Tottenham Hotspur,17.0,10.0,25586.0,KCOM Stadium,nov,0.0,2014/15,2014,Hull,7.0,18.0,23561.0
+643,Chelsea,West Bromwich Albion,1.0,13.0,40834.0,Stamford Bridge,nov,0.0,2014/15,2014,London,9.0,72.0,41600.0
+644,Everton,West Ham United,9.0,6.0,39414.0,Goodison Park,nov,0.0,2014/15,2014,Liverpool,8.0,67.8,39182.0
+645,Leicester City,Sunderland,18.0,14.0,32261.0,King Power Stadium,nov,0.0,2014/15,2014,Leicester,7.0,29.9,31825.0
+646,Manchester City,Swansea City,3.0,7.0,53400.0,Etihad Stadium,nov,0.0,2014/15,2014,Manchester,7.0,35.8,45448.0
+647,Newcastle United,Queens Park Rangers,5.0,20.0,52305.0,St. James' Park,nov,0.0,2014/15,2014,Newcastle,6.0,202.8,51915.0
+648,Stoke City,Burnley,11.0,19.0,30089.0,bet365 Stadium,nov,0.0,2014/15,2014,Stoke,7.0,35.8,27018.0
+649,Arsenal,Manchester United,8.0,4.0,60704.0,Emirates Stadium,nov,0.0,2014/15,2014,London,9.0,72.0,60074.0
+650,Sunderland,Everton,14.0,10.0,48707.0,Stadium of Light,nov,0.0,2014/15,2014,Sunderland,6.0,26.6,43476.0
+651,Tottenham Hotspur,Stoke City,12.0,9.0,36284.0,White Hart Lane,nov,0.0,2014/15,2014,London,9.0,72.0,35699.0
+652,West Bromwich Albion,Newcastle United,13.0,8.0,26445.0,The Hawthorns,nov,0.0,2014/15,2014,West Bromwich,7.0,31.5,26476.0
+653,Swansea City,Arsenal,5.0,6.0,20937.0,Liberty Stadium,nov,0.0,2014/15,2014,Swansea,10.0,125.4,20812.0
+654,Liverpool,Chelsea,11.0,1.0,54074.0,Anfield,nov,0.0,2014/15,2014,Liverpool,8.0,67.8,44698.0
+655,Burnley,Hull City,20.0,15.0,21944.0,Turf Moor,nov,0.0,2014/15,2014,Burnley,6.0,126.3,16998.0
+656,Manchester United,Crystal Palace,7.0,17.0,75643.0,Old Trafford,nov,0.0,2014/15,2014,Manchester,7.0,35.8,75325.0
+657,Southampton,Leicester City,2.0,18.0,32384.0,St. Mary's Stadium,nov,0.0,2014/15,2014,Southampton,8.0,28.4,31297.0
+658,West Ham United,Aston Villa,4.0,16.0,35345.0,Boleyn Ground,nov,0.0,2014/15,2014,London,9.0,72.0,34857.0
+659,Queens Park Rangers,Manchester City,19.0,3.0,18439.0,Loftus Road,nov,0.0,2014/15,2014,London,9.0,72.0,18005.0
+660,Crystal Palace,Sunderland,17.0,15.0,25486.0,Selhurst Park,nov,0.0,2014/15,2014,London,9.0,72.0,23212.0
+661,Manchester City,Manchester United,3.0,10.0,53400.0,Etihad Stadium,nov,1.0,2014/15,2014,Manchester,7.0,35.8,45358.0
+662,Aston Villa,Tottenham Hotspur,16.0,8.0,42749.0,Villa Park,nov,0.0,2014/15,2014,Birmingham,7.0,31.5,32049.0
+663,Newcastle United,Liverpool,12.0,7.0,52305.0,St. James' Park,nov,0.0,2014/15,2014,Newcastle,6.0,202.8,52166.0
+664,Arsenal,Burnley,4.0,20.0,60704.0,Emirates Stadium,nov,0.0,2014/15,2014,London,9.0,72.0,60012.0
+665,Chelsea,Queens Park Rangers,1.0,19.0,40834.0,Stamford Bridge,nov,1.0,2014/15,2014,London,9.0,72.0,41486.0
+666,Everton,Swansea City,9.0,6.0,39414.0,Goodison Park,nov,0.0,2014/15,2014,Liverpool,8.0,67.8,39149.0
+667,Hull City,Southampton,14.0,2.0,25586.0,KCOM Stadium,nov,0.0,2014/15,2014,Hull,7.0,18.0,22828.0
+668,Leicester City,West Bromwich Albion,18.0,11.0,32261.0,King Power Stadium,nov,0.0,2014/15,2014,Leicester,7.0,29.9,31819.0
+669,Stoke City,West Ham United,13.0,5.0,30089.0,bet365 Stadium,nov,0.0,2014/15,2014,Stoke,7.0,35.8,27174.0
+670,Queens Park Rangers,Aston Villa,19.0,15.0,18439.0,Loftus Road,oct,0.0,2014/15,2014,London,13.0,61.5,18022.0
+671,Burnley,Everton,20.0,9.0,21944.0,Turf Moor,oct,0.0,2014/15,2014,Burnley,10.0,99.3,19927.0
+672,Tottenham Hotspur,Newcastle United,11.0,14.0,36284.0,White Hart Lane,oct,0.0,2014/15,2014,London,13.0,61.5,35650.0
+673,Manchester United,Chelsea,8.0,1.0,75643.0,Old Trafford,oct,0.0,2014/15,2014,Manchester,11.0,46.1,75327.0
+674,West Ham United,Manchester City,4.0,3.0,35345.0,Boleyn Ground,oct,0.0,2014/15,2014,London,13.0,61.5,34977.0
+675,Liverpool,Hull City,7.0,10.0,54074.0,Anfield,oct,0.0,2014/15,2014,Liverpool,12.0,58.2,44591.0
+676,Southampton,Stoke City,2.0,12.0,32384.0,St. Mary's Stadium,oct,0.0,2014/15,2014,Southampton,12.0,29.2,30017.0
+677,Sunderland,Arsenal,18.0,5.0,48707.0,Stadium of Light,oct,0.0,2014/15,2014,Sunderland,10.0,33.2,44449.0
+678,West Bromwich Albion,Crystal Palace,13.0,16.0,26445.0,The Hawthorns,oct,0.0,2014/15,2014,West Bromwich,11.0,31.9,24738.0
+679,Swansea City,Leicester City,6.0,17.0,20937.0,Liberty Stadium,oct,0.0,2014/15,2014,Swansea,13.0,103.1,20259.0
+680,West Bromwich Albion,Manchester United,14.0,6.0,26445.0,The Hawthorns,oct,0.0,2014/15,2014,West Bromwich,11.0,31.9,25794.0
+681,Queens Park Rangers,Liverpool,20.0,5.0,18439.0,Loftus Road,oct,0.0,2014/15,2014,London,13.0,61.5,18069.0
+682,Stoke City,Swansea City,10.0,8.0,30089.0,bet365 Stadium,oct,0.0,2014/15,2014,Stoke,11.0,46.1,27017.0
+683,Manchester City,Tottenham Hotspur,2.0,9.0,53400.0,Etihad Stadium,oct,0.0,2014/15,2014,Manchester,11.0,46.1,45549.0
+684,Arsenal,Hull City,7.0,11.0,60704.0,Emirates Stadium,oct,0.0,2014/15,2014,London,13.0,61.5,60004.0
+685,Burnley,West Ham United,19.0,4.0,21944.0,Turf Moor,oct,0.0,2014/15,2014,Burnley,10.0,99.3,18936.0
+686,Crystal Palace,Chelsea,16.0,1.0,25486.0,Selhurst Park,oct,1.0,2014/15,2014,London,13.0,61.5,24451.0
+687,Everton,Aston Villa,13.0,12.0,39414.0,Goodison Park,oct,0.0,2014/15,2014,Liverpool,12.0,58.2,39505.0
+688,Newcastle United,Leicester City,18.0,15.0,52305.0,St. James' Park,oct,0.0,2014/15,2014,Newcastle,9.0,161.3,51886.0
+689,Southampton,Sunderland,3.0,17.0,32384.0,St. Mary's Stadium,oct,0.0,2014/15,2014,Southampton,12.0,29.2,29615.0
+690,Manchester United,Everton,4.0,17.0,75643.0,Old Trafford,oct,0.0,2014/15,2014,Manchester,11.0,46.1,75294.0
+691,Chelsea,Arsenal,1.0,8.0,40834.0,Stamford Bridge,oct,1.0,2014/15,2014,London,13.0,61.5,41607.0
+692,Tottenham Hotspur,Southampton,6.0,3.0,36284.0,White Hart Lane,oct,0.0,2014/15,2014,London,13.0,61.5,35564.0
+693,West Ham United,Queens Park Rangers,7.0,20.0,35345.0,Boleyn Ground,oct,1.0,2014/15,2014,London,13.0,61.5,34907.0
+694,Hull City,Crystal Palace,11.0,15.0,25586.0,KCOM Stadium,oct,0.0,2014/15,2014,Hull,11.0,15.6,24281.0
+695,Leicester City,Burnley,12.0,19.0,32261.0,King Power Stadium,oct,0.0,2014/15,2014,Leicester,11.0,36.5,31448.0
+696,Liverpool,West Bromwich Albion,9.0,14.0,54074.0,Anfield,oct,0.0,2014/15,2014,Liverpool,12.0,58.2,44708.0
+697,Sunderland,Stoke City,13.0,16.0,48707.0,Stadium of Light,oct,0.0,2014/15,2014,Sunderland,10.0,33.2,42713.0
+698,Swansea City,Newcastle United,5.0,18.0,20937.0,Liberty Stadium,oct,0.0,2014/15,2014,Swansea,13.0,103.1,20622.0
+699,Aston Villa,Manchester City,10.0,2.0,42749.0,Villa Park,oct,0.0,2014/15,2014,Birmingham,11.0,31.9,32964.0
+700,Stoke City,Newcastle United,11.0,19.0,30089.0,bet365 Stadium,sep,0.0,2014/15,2014,Stoke,14.0,26.5,26332.0
+701,West Bromwich Albion,Burnley,10.0,20.0,26445.0,The Hawthorns,sep,0.0,2014/15,2014,West Bromwich,14.0,17.8,24286.0
+702,Liverpool,Everton,14.0,15.0,54074.0,Anfield,sep,1.0,2014/15,2014,Liverpool,15.0,49.0,44511.0
+703,Chelsea,Aston Villa,1.0,6.0,40834.0,Stamford Bridge,sep,0.0,2014/15,2014,London,16.0,41.2,41616.0
+704,Crystal Palace,Leicester City,9.0,12.0,25486.0,Selhurst Park,sep,0.0,2014/15,2014,London,16.0,41.2,24311.0
+705,Hull City,Manchester City,16.0,3.0,25586.0,KCOM Stadium,sep,0.0,2014/15,2014,Hull,14.0,10.0,22859.0
+706,Manchester United,West Ham United,7.0,13.0,75643.0,Old Trafford,sep,0.0,2014/15,2014,Manchester,14.0,26.5,75317.0
+707,Southampton,Queens Park Rangers,2.0,18.0,32384.0,St. Mary's Stadium,sep,0.0,2014/15,2014,Southampton,15.0,15.7,30504.0
+708,Sunderland,Swansea City,17.0,5.0,48707.0,Stadium of Light,sep,0.0,2014/15,2014,Sunderland,13.0,19.0,41325.0
+709,Arsenal,Tottenham Hotspur,4.0,8.0,60704.0,Emirates Stadium,sep,1.0,2014/15,2014,London,16.0,41.2,59900.0
+710,Leicester City,Manchester United,7.0,12.0,32261.0,King Power Stadium,sep,0.0,2014/15,2014,Leicester,14.0,21.4,31784.0
+711,Tottenham Hotspur,West Bromwich Albion,9.0,16.0,36284.0,White Hart Lane,sep,0.0,2014/15,2014,London,16.0,41.2,35861.0
+712,Everton,Crystal Palace,14.0,15.0,39414.0,Goodison Park,sep,0.0,2014/15,2014,Liverpool,15.0,49.0,37574.0
+713,Manchester City,Chelsea,6.0,1.0,53400.0,Etihad Stadium,sep,0.0,2014/15,2014,Manchester,14.0,26.5,45602.0
+714,Queens Park Rangers,Stoke City,18.0,13.0,18439.0,Loftus Road,sep,0.0,2014/15,2014,London,16.0,41.2,16163.0
+715,Aston Villa,Arsenal,3.0,4.0,42749.0,Villa Park,sep,0.0,2014/15,2014,Birmingham,14.0,17.8,40013.0
+716,Burnley,Sunderland,19.0,17.0,21944.0,Turf Moor,sep,0.0,2014/15,2014,Burnley,13.0,66.3,20026.0
+717,Newcastle United,Hull City,20.0,10.0,52305.0,St. James' Park,sep,0.0,2014/15,2014,Newcastle,12.0,101.9,49119.0
+718,Swansea City,Southampton,5.0,2.0,20937.0,Liberty Stadium,sep,0.0,2014/15,2014,Swansea,15.0,58.2,20596.0
+719,West Ham United,Liverpool,8.0,11.0,35345.0,Boleyn Ground,sep,0.0,2014/15,2014,London,16.0,41.2,34977.0
+720,Hull City,West Ham United,10.0,13.0,25586.0,KCOM Stadium,sep,0.0,2014/15,2014,Hull,14.0,10.0,21275.0
+721,Manchester United,Queens Park Rangers,9.0,16.0,75643.0,Old Trafford,sep,0.0,2014/15,2014,Manchester,14.0,26.5,75355.0
+722,Arsenal,Manchester City,7.0,5.0,60704.0,Emirates Stadium,sep,0.0,2014/15,2014,London,16.0,41.2,60003.0
+723,Chelsea,Swansea City,1.0,3.0,40834.0,Stamford Bridge,sep,0.0,2014/15,2014,London,16.0,41.2,41400.0
+724,Crystal Palace,Burnley,17.0,18.0,25486.0,Selhurst Park,sep,0.0,2014/15,2014,London,16.0,41.2,23829.0
+725,Southampton,Newcastle United,4.0,20.0,32384.0,St. Mary's Stadium,sep,0.0,2014/15,2014,Southampton,15.0,15.7,29678.0
+726,Stoke City,Leicester City,14.0,12.0,30089.0,bet365 Stadium,sep,0.0,2014/15,2014,Stoke,14.0,26.5,27500.0
+727,Sunderland,Tottenham Hotspur,15.0,6.0,48707.0,Stadium of Light,sep,0.0,2014/15,2014,Sunderland,13.0,19.0,40799.0
+728,West Bromwich Albion,Everton,19.0,11.0,26445.0,The Hawthorns,sep,0.0,2014/15,2014,West Bromwich,14.0,17.8,23567.0
+729,Liverpool,Aston Villa,8.0,2.0,54074.0,Anfield,sep,0.0,2014/15,2014,Liverpool,15.0,49.0,44689.0
+730,Aston Villa,Hull City,3.0,9.0,42749.0,Villa Park,aug,0.0,2014/15,2014,Birmingham,16.0,27.0,28336.0
+731,Tottenham Hotspur,Liverpool,6.0,5.0,36284.0,White Hart Lane,aug,0.0,2014/15,2014,London,18.0,57.5,36130.0
+732,Leicester City,Arsenal,15.0,7.0,32261.0,King Power Stadium,aug,0.0,2014/15,2014,Leicester,16.0,24.1,31535.0
+733,Burnley,Manchester United,20.0,14.0,21944.0,Turf Moor,aug,0.0,2014/15,2014,Burnley,15.0,99.0,21099.0
+734,Manchester City,Stoke City,4.0,10.0,53400.0,Etihad Stadium,aug,0.0,2014/15,2014,Manchester,16.0,31.4,45622.0
+735,Newcastle United,Crystal Palace,16.0,19.0,52305.0,St. James' Park,aug,0.0,2014/15,2014,Newcastle,13.0,104.9,49226.0
+736,Queens Park Rangers,Sunderland,12.0,13.0,18439.0,Loftus Road,aug,0.0,2014/15,2014,London,18.0,57.5,17930.0
+737,Swansea City,West Bromwich Albion,2.0,18.0,20937.0,Liberty Stadium,aug,0.0,2014/15,2014,Swansea,16.0,95.2,20318.0
+738,West Ham United,Southampton,11.0,8.0,35345.0,Boleyn Ground,aug,0.0,2014/15,2014,London,18.0,57.5,34907.0
+739,Everton,Chelsea,17.0,1.0,39414.0,Goodison Park,aug,0.0,2014/15,2014,Liverpool,16.0,66.6,39402.0
+740,Manchester City,Liverpool,3.0,9.0,53400.0,Etihad Stadium,aug,0.0,2014/15,2014,Manchester,16.0,31.4,45471.0
+741,Hull City,Stoke City,6.0,15.0,25586.0,KCOM Stadium,aug,0.0,2014/15,2014,Hull,17.0,14.3,24348.0
+742,Tottenham Hotspur,Queens Park Rangers,1.0,20.0,36284.0,White Hart Lane,aug,1.0,2014/15,2014,London,18.0,57.5,36109.0
+743,Sunderland,Manchester United,11.0,13.0,48707.0,Stadium of Light,aug,0.0,2014/15,2014,Sunderland,15.0,31.6,43217.0
+744,Aston Villa,Newcastle United,7.0,17.0,42749.0,Villa Park,aug,0.0,2014/15,2014,Birmingham,16.0,27.0,30267.0
+745,Chelsea,Leicester City,2.0,16.0,40834.0,Stamford Bridge,aug,0.0,2014/15,2014,London,18.0,57.5,41604.0
+746,Crystal Palace,West Ham United,18.0,8.0,25486.0,Selhurst Park,aug,1.0,2014/15,2014,London,18.0,57.5,24242.0
+747,Southampton,West Bromwich Albion,14.0,12.0,32384.0,St. Mary's Stadium,aug,0.0,2014/15,2014,Southampton,17.0,10.9,27598.0
+748,Swansea City,Burnley,4.0,19.0,20937.0,Liberty Stadium,aug,0.0,2014/15,2014,Swansea,16.0,95.2,20565.0
+749,Everton,Arsenal,10.0,5.0,39414.0,Goodison Park,aug,0.0,2014/15,2014,Liverpool,16.0,66.6,39490.0
+750,Burnley,Chelsea,19.0,1.0,21944.0,Turf Moor,aug,0.0,2014/15,2014,Burnley,15.0,99.0,20699.0
+751,Liverpool,Southampton,4.0,15.0,54074.0,Anfield,aug,0.0,2014/15,2014,Liverpool,16.0,66.6,44736.0
+752,Newcastle United,Manchester City,20.0,2.0,52305.0,St. James' Park,aug,0.0,2014/15,2014,Newcastle,13.0,104.9,50816.0
+753,Manchester United,Swansea City,14.0,5.0,75643.0,Old Trafford,aug,0.0,2014/15,2014,Manchester,16.0,31.4,75339.0
+754,Leicester City,Everton,10.0,9.0,32261.0,King Power Stadium,aug,0.0,2014/15,2014,Leicester,16.0,24.1,31603.0
+755,Queens Park Rangers,Hull City,16.0,7.0,18439.0,Loftus Road,aug,0.0,2014/15,2014,London,18.0,57.5,17603.0
+756,Stoke City,Aston Villa,17.0,6.0,30089.0,bet365 Stadium,aug,0.0,2014/15,2014,Stoke,16.0,31.4,27478.0
+757,West Bromwich Albion,Sunderland,12.0,11.0,26445.0,The Hawthorns,aug,0.0,2014/15,2014,West Bromwich,16.0,27.0,25468.0
+758,West Ham United,Tottenham Hotspur,18.0,8.0,35345.0,Boleyn Ground,aug,1.0,2014/15,2014,London,18.0,57.5,34977.0
+759,Arsenal,Crystal Palace,3.0,13.0,60704.0,Emirates Stadium,aug,1.0,2014/15,2014,London,18.0,57.5,59962.0

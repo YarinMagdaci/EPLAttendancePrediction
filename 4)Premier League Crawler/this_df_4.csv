@@ -1,0 +1,761 @@
+,team_1,team_2,team_1_rating,team_2_rating,capacity,stadium,month,derby,current_season,year,city,temprature,precipitation,attendance
+0,Arsenal,Leicester City,1.0,18.0,38419.0,Highbury,may,0.0,2003/04,2003,London,14.0,52.1,38419.0
+1,Aston Villa,Manchester United,6.0,3.0,42749.0,Villa Park,may,0.0,2003/04,2003,Birmingham,12.0,26.6,42573.0
+2,Blackburn Rovers,Birmingham City,15.0,10.0,31367.0,Ewood Park,may,0.0,2003/04,2003,Blackburn,12.0,32.0,26070.0
+3,Bolton Wanderers,Fulham,8.0,9.0,28723.0,Macron Stadium,may,0.0,2003/04,2003,Bolton,12.0,21.2,27383.0
+4,Liverpool,Newcastle United,4.0,5.0,54074.0,Anfield,may,0.0,2003/04,2003,Liverpool,12.0,53.6,44172.0
+5,Portsmouth,Middlesbrough,13.0,11.0,20978.0,Fratton Park,may,0.0,2003/04,2003,Portsmouth,13.0,16.5,20134.0
+6,Wolverhampton Wanderers,Tottenham Hotspur,20.0,14.0,32050.0,Molineux,may,0.0,2003/04,2003,Wolverhampton,12.0,38.6,29389.0
+7,Charlton Athletic,Southampton,7.0,12.0,27111.0,The Valley,may,0.0,2003/04,2003,London,14.0,52.1,26598.0
+8,Chelsea,Leeds United,2.0,19.0,40834.0,Stamford Bridge,may,0.0,2003/04,2003,London,14.0,52.1,41281.0
+9,Manchester City,Everton,16.0,17.0,53400.0,Etihad Stadium,may,0.0,2003/04,2003,Manchester,12.0,21.2,47152.0
+10,Southampton,Newcastle United,12.0,6.0,32384.0,The Friends Provident St Mary's Stadium,may,0.0,2003/04,2003,Southampton,13.0,16.5,31815.0
+11,Fulham,Arsenal,9.0,1.0,18439.0,Loftus Road,may,1.0,2003/04,2003,London,14.0,52.1,18102.0
+12,Newcastle United,Wolverhampton Wanderers,6.0,19.0,52305.0,Sports Direct Arena,may,0.0,2003/04,2003,Newcastle,9.0,116.4,52139.0
+13,Birmingham City,Liverpool,10.0,4.0,30079.0,St Andrews,may,0.0,2003/04,2003,Birmingham,12.0,26.6,29553.0
+14,Everton,Bolton Wanderers,16.0,7.0,39414.0,Goodison Park,may,0.0,2003/04,2003,Liverpool,12.0,53.6,40190.0
+15,Leicester City,Portsmouth,18.0,14.0,32261.0,King Power Stadium,may,0.0,2003/04,2003,Leicester,12.0,24.0,31536.0
+16,Manchester United,Chelsea,3.0,2.0,75643.0,Old Trafford,may,0.0,2003/04,2003,Manchester,12.0,21.2,67609.0
+17,Tottenham Hotspur,Blackburn Rovers,15.0,13.0,36284.0,White Hart Lane,may,0.0,2003/04,2003,London,14.0,52.1,35687.0
+18,Leeds United,Charlton Athletic,20.0,8.0,37792.0,Elland Road,may,0.0,2003/04,2003,Leeds,10.0,26.0,38986.0
+19,Middlesbrough,Manchester City,11.0,17.0,33746.0,Riverside Stadium,may,0.0,2003/04,2003,Middlesbrough,11.0,19.9,34734.0
+20,Southampton,Aston Villa,12.0,5.0,32384.0,The Friends Provident St Mary's Stadium,may,0.0,2003/04,2003,Southampton,13.0,16.5,32054.0
+21,Portsmouth,Arsenal,14.0,1.0,20978.0,Fratton Park,may,0.0,2003/04,2003,Portsmouth,13.0,16.5,20140.0
+22,Aston Villa,Tottenham Hotspur,5.0,16.0,42749.0,Villa Park,may,0.0,2003/04,2003,Birmingham,12.0,26.6,42573.0
+23,Liverpool,Middlesbrough,4.0,12.0,54074.0,Anfield,may,0.0,2003/04,2003,Liverpool,12.0,53.6,42031.0
+24,Bolton Wanderers,Leeds United,7.0,19.0,28723.0,Macron Stadium,may,0.0,2003/04,2003,Bolton,12.0,21.2,27420.0
+25,Arsenal,Birmingham City,1.0,10.0,38419.0,Highbury,may,0.0,2003/04,2003,London,14.0,52.1,38061.0
+26,Blackburn Rovers,Manchester United,13.0,3.0,31367.0,Ewood Park,may,0.0,2003/04,2003,Blackburn,12.0,32.0,29616.0
+27,Charlton Athletic,Leicester City,9.0,20.0,27111.0,The Valley,may,0.0,2003/04,2003,London,14.0,52.1,26043.0
+28,Portsmouth,Fulham,14.0,8.0,20978.0,Fratton Park,may,0.0,2003/04,2003,Portsmouth,13.0,16.5,20056.0
+29,Wolverhampton Wanderers,Everton,18.0,15.0,32050.0,Molineux,may,0.0,2003/04,2003,Wolverhampton,12.0,38.6,29395.0
+30,Chelsea,Southampton,2.0,11.0,40834.0,Stamford Bridge,may,0.0,2003/04,2003,London,14.0,52.1,41321.0
+31,Manchester City,Newcastle United,17.0,6.0,53400.0,Etihad Stadium,may,0.0,2003/04,2003,Manchester,12.0,21.2,47266.0
+32,Birmingham City,Wolverhampton Wanderers,9.0,20.0,30079.0,St Andrews,apr,0.0,2003/04,2003,Birmingham,8.0,23.8,29494.0
+33,Newcastle United,Chelsea,5.0,2.0,52305.0,Sports Direct Arena,apr,0.0,2003/04,2003,Newcastle,7.0,70.0,52016.0
+34,Leeds United,Portsmouth,18.0,14.0,37792.0,Elland Road,apr,0.0,2003/04,2003,Leeds,7.0,25.8,39273.0
+35,Tottenham Hotspur,Arsenal,16.0,1.0,36284.0,White Hart Lane,apr,1.0,2003/04,2003,London,11.0,30.6,36097.0
+36,Everton,Blackburn Rovers,15.0,13.0,39414.0,Goodison Park,apr,0.0,2003/04,2003,Liverpool,10.0,36.7,38884.0
+37,Fulham,Charlton Athletic,7.0,8.0,18439.0,Loftus Road,apr,1.0,2003/04,2003,London,11.0,30.6,16585.0
+38,Leicester City,Manchester City,19.0,17.0,32261.0,King Power Stadium,apr,0.0,2003/04,2003,Leicester,9.0,26.4,31457.0
+39,Southampton,Bolton Wanderers,11.0,10.0,32384.0,The Friends Provident St Mary's Stadium,apr,0.0,2003/04,2003,Southampton,9.0,19.2,31712.0
+40,Manchester United,Liverpool,3.0,4.0,75643.0,Old Trafford,apr,0.0,2003/04,2003,Manchester,9.0,27.0,67647.0
+41,Middlesbrough,Aston Villa,12.0,6.0,33746.0,Riverside Stadium,apr,0.0,2003/04,2003,Middlesbrough,8.0,22.4,31243.0
+42,Manchester United,Charlton Athletic,3.0,7.0,75643.0,Old Trafford,apr,0.0,2003/04,2003,Manchester,9.0,27.0,67477.0
+43,Aston Villa,Newcastle United,6.0,5.0,42749.0,Villa Park,apr,0.0,2003/04,2003,Birmingham,8.0,23.8,40786.0
+44,Blackburn Rovers,Leicester City,15.0,19.0,31367.0,Ewood Park,apr,0.0,2003/04,2003,Blackburn,9.0,26.4,22749.0
+45,Bolton Wanderers,Tottenham Hotspur,12.0,14.0,28723.0,Macron Stadium,apr,0.0,2003/04,2003,Bolton,9.0,27.0,26440.0
+46,Charlton Athletic,Birmingham City,7.0,8.0,27111.0,The Valley,apr,0.0,2003/04,2003,London,11.0,30.6,25184.0
+47,Chelsea,Everton,2.0,13.0,40834.0,Stamford Bridge,apr,0.0,2003/04,2003,London,11.0,30.6,41169.0
+48,Liverpool,Fulham,4.0,10.0,54074.0,Anfield,apr,0.0,2003/04,2003,Liverpool,10.0,36.7,42042.0
+49,Portsmouth,Manchester United,16.0,3.0,20978.0,Fratton Park,apr,0.0,2003/04,2003,Portsmouth,9.0,19.2,20125.0
+50,Wolverhampton Wanderers,Middlesbrough,20.0,11.0,32050.0,Molineux,apr,0.0,2003/04,2003,Wolverhampton,9.0,33.9,27975.0
+51,Manchester City,Southampton,17.0,9.0,35150.0,Maine Road,apr,0.0,2003/04,2003,Manchester,9.0,27.0,47152.0
+52,Arsenal,Leeds United,1.0,18.0,38419.0,Highbury,apr,0.0,2003/04,2003,London,11.0,30.6,38094.0
+53,Manchester United,Leicester City,3.0,19.0,75643.0,Old Trafford,apr,0.0,2003/04,2003,Manchester,9.0,27.0,67749.0
+54,Leeds United,Everton,18.0,13.0,37792.0,Elland Road,apr,0.0,2003/04,2003,Leeds,7.0,25.8,39835.0
+55,Aston Villa,Chelsea,6.0,2.0,42749.0,Villa Park,apr,0.0,2003/04,2003,Birmingham,8.0,23.8,41112.0
+56,Fulham,Blackburn Rovers,10.0,16.0,18439.0,Loftus Road,apr,0.0,2003/04,2003,London,11.0,30.6,13981.0
+57,Liverpool,Charlton Athletic,4.0,7.0,54074.0,Anfield,apr,0.0,2003/04,2003,Liverpool,10.0,36.7,40003.0
+58,Portsmouth,Birmingham City,17.0,8.0,20978.0,Fratton Park,apr,0.0,2003/04,2003,Portsmouth,9.0,19.2,20079.0
+59,Wolverhampton Wanderers,Bolton Wanderers,20.0,12.0,32050.0,Molineux,apr,0.0,2003/04,2003,Wolverhampton,9.0,33.9,28695.0
+60,Middlesbrough,Southampton,9.0,11.0,33746.0,Riverside Stadium,apr,0.0,2003/04,2003,Middlesbrough,8.0,22.4,30768.0
+61,Tottenham Hotspur,Manchester City,14.0,15.0,36284.0,White Hart Lane,apr,0.0,2003/04,2003,London,11.0,30.6,35282.0
+62,Newcastle United,Arsenal,5.0,1.0,52305.0,Sports Direct Arena,apr,0.0,2003/04,2003,Newcastle,7.0,70.0,52141.0
+63,Birmingham City,Manchester United,8.0,3.0,30079.0,St Andrews,apr,0.0,2003/04,2003,Birmingham,8.0,23.8,29548.0
+64,Bolton Wanderers,Aston Villa,12.0,6.0,28723.0,Macron Stadium,apr,0.0,2003/04,2003,Bolton,9.0,27.0,26374.0
+65,Charlton Athletic,Portsmouth,7.0,17.0,27111.0,The Valley,apr,0.0,2003/04,2003,London,11.0,30.6,26369.0
+66,Chelsea,Middlesbrough,2.0,9.0,40834.0,Stamford Bridge,apr,0.0,2003/04,2003,London,11.0,30.6,41011.0
+67,Leicester City,Fulham,19.0,10.0,32261.0,King Power Stadium,apr,0.0,2003/04,2003,Leicester,9.0,26.4,28392.0
+68,Blackburn Rovers,Leeds United,16.0,18.0,31367.0,Ewood Park,apr,0.0,2003/04,2003,Blackburn,9.0,26.4,26611.0
+69,Manchester City,Wolverhampton Wanderers,15.0,20.0,53400.0,Etihad Stadium,apr,0.0,2003/04,2003,Manchester,9.0,27.0,47248.0
+70,Arsenal,Liverpool,1.0,4.0,38419.0,Highbury,apr,0.0,2003/04,2003,London,11.0,30.6,38119.0
+71,Everton,Tottenham Hotspur,13.0,14.0,39414.0,Goodison Park,apr,0.0,2003/04,2003,Liverpool,10.0,36.7,38086.0
+72,Leeds United,Leicester City,19.0,18.0,37792.0,Elland Road,apr,0.0,2003/04,2003,Leeds,7.0,25.8,34036.0
+73,Aston Villa,Manchester City,7.0,15.0,42749.0,Villa Park,apr,0.0,2003/04,2003,Birmingham,8.0,23.8,37602.0
+74,Liverpool,Blackburn Rovers,4.0,16.0,54074.0,Anfield,apr,0.0,2003/04,2003,Liverpool,10.0,36.7,41559.0
+75,Fulham,Birmingham City,10.0,6.0,18439.0,Loftus Road,apr,0.0,2003/04,2003,London,11.0,30.6,14667.0
+76,Middlesbrough,Bolton Wanderers,11.0,13.0,33746.0,Riverside Stadium,apr,0.0,2003/04,2003,Middlesbrough,8.0,22.4,30104.0
+77,Newcastle United,Everton,5.0,14.0,52305.0,Sports Direct Arena,apr,0.0,2003/04,2003,Newcastle,7.0,70.0,52155.0
+78,Tottenham Hotspur,Chelsea,12.0,2.0,36284.0,White Hart Lane,apr,1.0,2003/04,2003,London,11.0,30.6,36101.0
+79,Wolverhampton Wanderers,Southampton,20.0,9.0,32050.0,Molineux,apr,0.0,2003/04,2003,Wolverhampton,9.0,33.9,29106.0
+80,Arsenal,Manchester United,1.0,3.0,38419.0,Highbury,mar,0.0,2003/04,2003,London,8.0,29.8,38184.0
+81,Bolton Wanderers,Newcastle United,13.0,5.0,28723.0,Macron Stadium,mar,0.0,2003/04,2003,Bolton,6.0,25.0,27360.0
+82,Leicester City,Liverpool,18.0,4.0,32261.0,King Power Stadium,mar,0.0,2003/04,2003,Leicester,6.0,21.3,32013.0
+83,Blackburn Rovers,Portsmouth,16.0,17.0,31367.0,Ewood Park,mar,0.0,2003/04,2003,Blackburn,7.0,25.2,22855.0
+84,Charlton Athletic,Aston Villa,8.0,7.0,27111.0,The Valley,mar,0.0,2003/04,2003,London,8.0,29.8,26238.0
+85,Chelsea,Wolverhampton Wanderers,2.0,20.0,40834.0,Stamford Bridge,mar,0.0,2003/04,2003,London,8.0,29.8,41215.0
+86,Everton,Middlesbrough,14.0,11.0,39414.0,Goodison Park,mar,0.0,2003/04,2003,Liverpool,7.0,40.4,38210.0
+87,Birmingham City,Leeds United,6.0,19.0,30079.0,St Andrews,mar,0.0,2003/04,2003,Birmingham,6.0,19.6,29069.0
+88,Manchester City,Fulham,15.0,9.0,53400.0,Etihad Stadium,mar,0.0,2003/04,2003,Manchester,6.0,25.0,46522.0
+89,Southampton,Tottenham Hotspur,10.0,12.0,32384.0,The Friends Provident St Mary's Stadium,mar,0.0,2003/04,2003,Southampton,8.0,17.2,31973.0
+90,Leeds United,Manchester City,19.0,16.0,37792.0,Elland Road,mar,0.0,2003/04,2003,Leeds,5.0,27.5,36998.0
+91,Portsmouth,Southampton,18.0,12.0,20978.0,Fratton Park,mar,0.0,2003/04,2003,Portsmouth,8.0,17.2,20140.0
+92,Arsenal,Bolton Wanderers,1.0,13.0,38419.0,Highbury,mar,0.0,2003/04,2003,London,8.0,29.8,38053.0
+93,Aston Villa,Blackburn Rovers,8.0,15.0,42749.0,Villa Park,mar,0.0,2003/04,2003,Birmingham,6.0,19.6,37532.0
+94,Chelsea,Fulham,2.0,9.0,40834.0,Stamford Bridge,mar,1.0,2003/04,2003,London,8.0,29.8,41459.0
+95,Leicester City,Everton,17.0,14.0,32261.0,King Power Stadium,mar,0.0,2003/04,2003,Leicester,6.0,21.3,31650.0
+96,Liverpool,Wolverhampton Wanderers,4.0,20.0,54074.0,Anfield,mar,0.0,2003/04,2003,Liverpool,7.0,40.4,43795.0
+97,Manchester United,Tottenham Hotspur,3.0,11.0,75643.0,Old Trafford,mar,0.0,2003/04,2003,Manchester,6.0,25.0,67644.0
+98,Middlesbrough,Birmingham City,10.0,7.0,33746.0,Riverside Stadium,mar,0.0,2003/04,2003,Middlesbrough,6.0,18.4,30231.0
+99,Newcastle United,Charlton Athletic,5.0,6.0,52305.0,Sports Direct Arena,mar,0.0,2003/04,2003,Newcastle,4.0,106.4,51847.0
+100,Liverpool,Portsmouth,5.0,18.0,54074.0,Anfield,mar,0.0,2003/04,2003,Liverpool,7.0,40.4,34663.0
+101,Tottenham Hotspur,Newcastle United,10.0,6.0,36284.0,White Hart Lane,mar,0.0,2003/04,2003,London,8.0,29.8,36088.0
+102,Wolverhampton Wanderers,Aston Villa,19.0,8.0,32050.0,Molineux,mar,0.0,2003/04,2003,Wolverhampton,6.0,36.9,29386.0
+103,Manchester City,Manchester United,15.0,3.0,53400.0,Etihad Stadium,mar,1.0,2003/04,2003,Manchester,6.0,25.0,47284.0
+104,Southampton,Liverpool,11.0,5.0,32384.0,The Friends Provident St Mary's Stadium,mar,0.0,2003/04,2003,Southampton,8.0,17.2,32056.0
+105,Birmingham City,Leicester City,7.0,17.0,30079.0,St Andrews,mar,0.0,2003/04,2003,Birmingham,6.0,19.6,29491.0
+106,Blackburn Rovers,Arsenal,16.0,1.0,31367.0,Ewood Park,mar,0.0,2003/04,2003,Blackburn,7.0,25.2,28627.0
+107,Bolton Wanderers,Chelsea,13.0,2.0,28723.0,Macron Stadium,mar,0.0,2003/04,2003,Bolton,6.0,25.0,26717.0
+108,Charlton Athletic,Middlesbrough,4.0,12.0,27111.0,The Valley,mar,0.0,2003/04,2003,London,8.0,29.8,26229.0
+109,Everton,Portsmouth,14.0,18.0,39414.0,Goodison Park,mar,0.0,2003/04,2003,Liverpool,7.0,40.4,40105.0
+110,Fulham,Leeds United,9.0,20.0,18439.0,Loftus Road,mar,0.0,2003/04,2003,London,8.0,29.8,17104.0
+111,Middlesbrough,Tottenham Hotspur,11.0,10.0,33746.0,Riverside Stadium,mar,0.0,2003/04,2003,Middlesbrough,6.0,18.4,31789.0
+112,Birmingham City,Bolton Wanderers,5.0,12.0,30079.0,St Andrews,mar,0.0,2003/04,2003,Birmingham,6.0,19.6,28003.0
+113,Birmingham City,Middlesbrough,5.0,11.0,30079.0,St Andrews,mar,0.0,2003/04,2003,Birmingham,6.0,19.6,29369.0
+114,Portsmouth,Newcastle United,17.0,4.0,20978.0,Fratton Park,feb,0.0,2003/04,2003,Portsmouth,6.0,23.8,20134.0
+115,Leeds United,Liverpool,20.0,7.0,37792.0,Elland Road,feb,0.0,2003/04,2003,Leeds,4.0,29.4,39932.0
+116,Arsenal,Charlton Athletic,1.0,6.0,38419.0,Highbury,feb,1.0,2003/04,2003,London,6.0,47.9,38137.0
+117,Everton,Aston Villa,14.0,8.0,39414.0,Goodison Park,feb,0.0,2003/04,2003,Liverpool,6.0,40.6,39353.0
+118,Blackburn Rovers,Southampton,15.0,13.0,31367.0,Ewood Park,feb,0.0,2003/04,2003,Blackburn,5.0,28.7,21970.0
+119,Manchester City,Chelsea,16.0,2.0,53400.0,Etihad Stadium,feb,0.0,2003/04,2003,Manchester,5.0,28.4,47304.0
+120,Fulham,Manchester United,9.0,3.0,18439.0,Loftus Road,feb,0.0,2003/04,2003,London,6.0,47.9,18306.0
+121,Leicester City,Wolverhampton Wanderers,19.0,18.0,32261.0,King Power Stadium,feb,0.0,2003/04,2003,Leicester,5.0,23.3,31768.0
+122,Aston Villa,Birmingham City,7.0,8.0,42749.0,Villa Park,feb,1.0,2003/04,2003,Birmingham,5.0,23.4,40061.0
+123,Tottenham Hotspur,Leicester City,10.0,19.0,36284.0,White Hart Lane,feb,0.0,2003/04,2003,London,6.0,47.9,35218.0
+124,Charlton Athletic,Blackburn Rovers,5.0,15.0,27111.0,The Valley,feb,0.0,2003/04,2003,London,6.0,47.9,26322.0
+125,Chelsea,Arsenal,3.0,1.0,40834.0,Stamford Bridge,feb,1.0,2003/04,2003,London,6.0,47.9,41926.0
+126,Newcastle United,Middlesbrough,4.0,13.0,52305.0,Sports Direct Arena,feb,0.0,2003/04,2003,Newcastle,3.0,122.8,52156.0
+127,Wolverhampton Wanderers,Fulham,18.0,9.0,32050.0,Molineux,feb,0.0,2003/04,2003,Wolverhampton,5.0,29.8,28424.0
+128,Bolton Wanderers,Manchester City,11.0,14.0,28723.0,Macron Stadium,feb,0.0,2003/04,2003,Bolton,5.0,28.4,27301.0
+129,Manchester United,Leeds United,2.0,20.0,75643.0,Old Trafford,feb,0.0,2003/04,2003,Manchester,5.0,28.4,67744.0
+130,Southampton,Everton,12.0,16.0,32384.0,The Friends Provident St Mary's Stadium,feb,0.0,2003/04,2003,Southampton,6.0,23.8,31875.0
+131,Birmingham City,Everton,9.0,15.0,30079.0,St Andrews,feb,0.0,2003/04,2003,Birmingham,5.0,23.4,29004.0
+132,Blackburn Rovers,Newcastle United,14.0,5.0,31367.0,Ewood Park,feb,0.0,2003/04,2003,Blackburn,5.0,28.7,23459.0
+133,Charlton Athletic,Tottenham Hotspur,6.0,11.0,27111.0,The Valley,feb,1.0,2003/04,2003,London,6.0,47.9,26645.0
+134,Fulham,Aston Villa,8.0,7.0,18439.0,Loftus Road,feb,0.0,2003/04,2003,London,6.0,47.9,16153.0
+135,Manchester United,Middlesbrough,2.0,13.0,75643.0,Old Trafford,feb,0.0,2003/04,2003,Manchester,5.0,28.4,67346.0
+136,Portsmouth,Chelsea,17.0,3.0,20978.0,Fratton Park,feb,0.0,2003/04,2003,Portsmouth,6.0,23.8,20110.0
+137,Liverpool,Manchester City,4.0,16.0,54074.0,Anfield,feb,0.0,2003/04,2003,Liverpool,6.0,40.6,43257.0
+138,Leicester City,Bolton Wanderers,18.0,10.0,32261.0,King Power Stadium,feb,0.0,2003/04,2003,Leicester,5.0,23.3,26674.0
+139,Arsenal,Southampton,1.0,12.0,38419.0,Highbury,feb,0.0,2003/04,2003,London,6.0,47.9,38007.0
+140,Leeds United,Wolverhampton Wanderers,19.0,20.0,37792.0,Elland Road,feb,0.0,2003/04,2003,Leeds,4.0,29.4,36867.0
+141,Chelsea,Charlton Athletic,3.0,5.0,40834.0,Stamford Bridge,feb,1.0,2003/04,2003,London,6.0,47.9,41255.0
+142,Manchester City,Birmingham City,16.0,10.0,53400.0,Etihad Stadium,feb,0.0,2003/04,2003,Manchester,5.0,28.4,46967.0
+143,Bolton Wanderers,Liverpool,9.0,6.0,28723.0,Macron Stadium,feb,0.0,2003/04,2003,Bolton,5.0,28.4,27552.0
+144,Everton,Manchester United,15.0,2.0,39414.0,Goodison Park,feb,0.0,2003/04,2003,Liverpool,6.0,40.6,40190.0
+145,Middlesbrough,Blackburn Rovers,13.0,14.0,33746.0,Riverside Stadium,feb,0.0,2003/04,2003,Middlesbrough,5.0,21.8,28307.0
+146,Newcastle United,Leicester City,4.0,18.0,52305.0,Sports Direct Arena,feb,0.0,2003/04,2003,Newcastle,3.0,122.8,52125.0
+147,Tottenham Hotspur,Portsmouth,12.0,17.0,36284.0,White Hart Lane,feb,0.0,2003/04,2003,London,6.0,47.9,36107.0
+148,Wolverhampton Wanderers,Arsenal,19.0,1.0,32050.0,Molineux,feb,0.0,2003/04,2003,Wolverhampton,5.0,29.8,29392.0
+149,Aston Villa,Leeds United,8.0,20.0,42749.0,Villa Park,feb,0.0,2003/04,2003,Birmingham,5.0,23.4,39171.0
+150,Southampton,Fulham,11.0,7.0,32384.0,The Friends Provident St Mary's Stadium,feb,0.0,2003/04,2003,Southampton,6.0,23.8,31820.0
+151,Blackburn Rovers,Chelsea,16.0,3.0,31367.0,Ewood Park,feb,0.0,2003/04,2003,Blackburn,5.0,28.7,24867.0
+152,Arsenal,Manchester City,1.0,15.0,38419.0,Highbury,feb,0.0,2003/04,2003,London,6.0,47.9,38103.0
+153,Birmingham City,Newcastle United,9.0,6.0,30079.0,St Andrews,jan,0.0,2003/04,2003,Birmingham,4.0,34.7,29513.0
+154,Charlton Athletic,Bolton Wanderers,4.0,8.0,27111.0,The Valley,jan,0.0,2003/04,2003,London,6.0,52.9,26220.0
+155,Fulham,Tottenham Hotspur,7.0,13.0,18439.0,Loftus Road,jan,1.0,2003/04,2003,London,6.0,52.9,17024.0
+156,Leicester City,Aston Villa,18.0,11.0,32261.0,King Power Stadium,jan,0.0,2003/04,2003,Leicester,4.0,32.3,31056.0
+157,Liverpool,Everton,5.0,14.0,54074.0,Anfield,jan,1.0,2003/04,2003,Liverpool,5.0,58.3,44056.0
+158,Leeds United,Middlesbrough,20.0,12.0,37792.0,Elland Road,jan,0.0,2003/04,2003,Leeds,4.0,39.1,35970.0
+159,Manchester United,Southampton,2.0,10.0,75643.0,Old Trafford,jan,0.0,2003/04,2003,Manchester,5.0,32.4,67758.0
+160,Portsmouth,Wolverhampton Wanderers,17.0,19.0,20978.0,Fratton Park,jan,0.0,2003/04,2003,Portsmouth,6.0,35.7,20116.0
+161,Wolverhampton Wanderers,Liverpool,19.0,5.0,32050.0,Molineux,jan,0.0,2003/04,2003,Wolverhampton,4.0,46.8,29380.0
+162,Newcastle United,Fulham,6.0,7.0,52305.0,Sports Direct Arena,jan,0.0,2003/04,2003,Newcastle,3.0,190.9,50104.0
+163,Aston Villa,Arsenal,12.0,1.0,42749.0,Villa Park,jan,0.0,2003/04,2003,Birmingham,4.0,34.7,39380.0
+164,Chelsea,Birmingham City,3.0,9.0,40834.0,Stamford Bridge,jan,0.0,2003/04,2003,London,6.0,52.9,41073.0
+165,Bolton Wanderers,Portsmouth,10.0,17.0,28723.0,Macron Stadium,jan,0.0,2003/04,2003,Bolton,5.0,32.4,26558.0
+166,Everton,Charlton Athletic,14.0,4.0,39414.0,Goodison Park,jan,0.0,2003/04,2003,Liverpool,5.0,58.3,36322.0
+167,Middlesbrough,Leicester City,13.0,18.0,33746.0,Riverside Stadium,jan,0.0,2003/04,2003,Middlesbrough,4.0,29.4,27124.0
+168,Tottenham Hotspur,Liverpool,11.0,5.0,36284.0,White Hart Lane,jan,0.0,2003/04,2003,London,6.0,52.9,36104.0
+169,Wolverhampton Wanderers,Manchester United,19.0,2.0,32050.0,Molineux,jan,0.0,2003/04,2003,Wolverhampton,4.0,46.8,29396.0
+170,Manchester City,Blackburn Rovers,15.0,16.0,53400.0,Etihad Stadium,jan,0.0,2003/04,2003,Manchester,5.0,32.4,47090.0
+171,Southampton,Leeds United,8.0,20.0,32384.0,The Friends Provident St Mary's Stadium,jan,0.0,2003/04,2003,Southampton,6.0,35.7,31976.0
+172,Leicester City,Chelsea,18.0,3.0,32261.0,King Power Stadium,jan,0.0,2003/04,2003,Leicester,4.0,32.3,31547.0
+173,Manchester United,Newcastle United,1.0,7.0,75643.0,Old Trafford,jan,0.0,2003/04,2003,Manchester,5.0,32.4,67622.0
+174,Arsenal,Middlesbrough,2.0,14.0,38419.0,Highbury,jan,0.0,2003/04,2003,London,6.0,52.9,38117.0
+175,Blackburn Rovers,Bolton Wanderers,16.0,11.0,31367.0,Ewood Park,jan,0.0,2003/04,2003,Blackburn,5.0,32.5,23538.0
+176,Charlton Athletic,Wolverhampton Wanderers,4.0,20.0,27111.0,The Valley,jan,0.0,2003/04,2003,London,6.0,52.9,26123.0
+177,Fulham,Everton,6.0,12.0,18439.0,Loftus Road,jan,0.0,2003/04,2003,London,6.0,52.9,17308.0
+178,Liverpool,Aston Villa,5.0,10.0,54074.0,Anfield,jan,0.0,2003/04,2003,Liverpool,5.0,58.3,43771.0
+179,Birmingham City,Southampton,8.0,9.0,30079.0,St Andrews,jan,0.0,2003/04,2003,Birmingham,4.0,34.7,29071.0
+180,Leeds United,Tottenham Hotspur,19.0,13.0,37792.0,Elland Road,jan,0.0,2003/04,2003,Leeds,4.0,39.1,35365.0
+181,Portsmouth,Manchester City,17.0,15.0,20978.0,Fratton Park,jan,0.0,2003/04,2003,Portsmouth,6.0,35.7,20120.0
+182,Bolton Wanderers,Manchester United,13.0,1.0,28723.0,Macron Stadium,jan,0.0,2003/04,2003,Bolton,5.0,32.4,27668.0
+183,Chelsea,Liverpool,3.0,5.0,40834.0,Stamford Bridge,jan,0.0,2003/04,2003,London,6.0,52.9,41533.0
+184,Everton,Arsenal,11.0,2.0,39414.0,Goodison Park,jan,0.0,2003/04,2003,Liverpool,5.0,58.3,38726.0
+185,Middlesbrough,Fulham,12.0,7.0,33746.0,Riverside Stadium,jan,0.0,2003/04,2003,Middlesbrough,4.0,29.4,27869.0
+186,Tottenham Hotspur,Birmingham City,16.0,10.0,36284.0,White Hart Lane,jan,0.0,2003/04,2003,London,6.0,52.9,30025.0
+187,Wolverhampton Wanderers,Blackburn Rovers,20.0,15.0,32050.0,Molineux,jan,0.0,2003/04,2003,Wolverhampton,4.0,46.8,27393.0
+188,Manchester City,Charlton Athletic,14.0,4.0,53400.0,Etihad Stadium,jan,0.0,2003/04,2003,Manchester,5.0,32.4,44307.0
+189,Newcastle United,Leeds United,6.0,19.0,52305.0,Sports Direct Arena,jan,0.0,2003/04,2003,Newcastle,3.0,190.9,52130.0
+190,Southampton,Leicester City,8.0,17.0,32384.0,The Friends Provident St Mary's Stadium,jan,0.0,2003/04,2003,Southampton,6.0,35.7,31053.0
+191,Aston Villa,Portsmouth,9.0,18.0,42749.0,Villa Park,jan,0.0,2003/04,2003,Birmingham,4.0,34.7,28625.0
+192,Southampton,Arsenal,8.0,2.0,32384.0,The Friends Provident St Mary's Stadium,dec,0.0,2003/04,2003,Southampton,6.0,31.4,32151.0
+193,Aston Villa,Fulham,10.0,5.0,42749.0,Villa Park,dec,0.0,2003/04,2003,Birmingham,5.0,27.9,35617.0
+194,Bolton Wanderers,Leicester City,12.0,17.0,28723.0,Macron Stadium,dec,0.0,2003/04,2003,Bolton,5.0,37.4,27407.0
+195,Chelsea,Portsmouth,3.0,16.0,40834.0,Stamford Bridge,dec,0.0,2003/04,2003,London,6.0,65.1,41552.0
+196,Everton,Birmingham City,11.0,9.0,39414.0,Goodison Park,dec,0.0,2003/04,2003,Liverpool,6.0,72.8,39631.0
+197,Middlesbrough,Manchester United,15.0,1.0,33746.0,Riverside Stadium,dec,0.0,2003/04,2003,Middlesbrough,5.0,28.7,34738.0
+198,Manchester City,Liverpool,13.0,6.0,53400.0,Etihad Stadium,dec,0.0,2003/04,2003,Manchester,5.0,37.4,47201.0
+199,Wolverhampton Wanderers,Leeds United,20.0,19.0,32050.0,Molineux,dec,0.0,2003/04,2003,Wolverhampton,5.0,54.2,29139.0
+200,Newcastle United,Blackburn Rovers,7.0,14.0,52305.0,Sports Direct Arena,dec,0.0,2003/04,2003,Newcastle,4.0,230.3,51648.0
+201,Tottenham Hotspur,Charlton Athletic,18.0,4.0,36284.0,White Hart Lane,dec,1.0,2003/04,2003,London,6.0,65.1,34534.0
+202,Arsenal,Wolverhampton Wanderers,2.0,20.0,38419.0,Highbury,dec,0.0,2003/04,2003,London,6.0,65.1,38003.0
+203,Blackburn Rovers,Middlesbrough,16.0,11.0,31367.0,Ewood Park,dec,0.0,2003/04,2003,Blackburn,6.0,45.0,25452.0
+204,Charlton Athletic,Chelsea,5.0,3.0,27111.0,The Valley,dec,1.0,2003/04,2003,London,6.0,65.1,26752.0
+205,Fulham,Southampton,4.0,7.0,18439.0,Loftus Road,dec,0.0,2003/04,2003,London,6.0,65.1,15640.0
+206,Leicester City,Newcastle United,18.0,6.0,32261.0,King Power Stadium,dec,0.0,2003/04,2003,Leicester,5.0,29.5,32148.0
+207,Liverpool,Bolton Wanderers,9.0,10.0,54074.0,Anfield,dec,0.0,2003/04,2003,Liverpool,6.0,72.8,42987.0
+208,Manchester United,Everton,1.0,14.0,75643.0,Old Trafford,dec,0.0,2003/04,2003,Manchester,5.0,37.4,67642.0
+209,Portsmouth,Tottenham Hotspur,15.0,17.0,20978.0,Fratton Park,dec,0.0,2003/04,2003,Portsmouth,6.0,31.4,20010.0
+210,Birmingham City,Manchester City,8.0,13.0,30079.0,St Andrews,dec,0.0,2003/04,2003,Birmingham,5.0,27.9,29520.0
+211,Leeds United,Aston Villa,19.0,12.0,37792.0,Elland Road,dec,0.0,2003/04,2003,Leeds,4.0,43.8,38513.0
+212,Manchester City,Leeds United,11.0,19.0,53400.0,Etihad Stadium,dec,0.0,2003/04,2003,Manchester,5.0,37.4,47126.0
+213,Southampton,Portsmouth,4.0,18.0,32384.0,The Friends Provident St Mary's Stadium,dec,0.0,2003/04,2003,Southampton,6.0,31.4,31697.0
+214,Tottenham Hotspur,Manchester United,15.0,1.0,36284.0,White Hart Lane,dec,0.0,2003/04,2003,London,6.0,65.1,35910.0
+215,Blackburn Rovers,Aston Villa,16.0,14.0,31367.0,Ewood Park,dec,0.0,2003/04,2003,Blackburn,6.0,45.0,20722.0
+216,Bolton Wanderers,Arsenal,10.0,2.0,28723.0,Macron Stadium,dec,0.0,2003/04,2003,Bolton,5.0,37.4,27492.0
+217,Charlton Athletic,Newcastle United,7.0,6.0,27111.0,The Valley,dec,0.0,2003/04,2003,London,6.0,65.1,26469.0
+218,Everton,Leicester City,12.0,17.0,39414.0,Goodison Park,dec,0.0,2003/04,2003,Liverpool,6.0,72.8,37007.0
+219,Fulham,Chelsea,5.0,3.0,18439.0,Loftus Road,dec,1.0,2003/04,2003,London,6.0,65.1,18431.0
+220,Arsenal,Blackburn Rovers,1.0,14.0,38419.0,Highbury,dec,0.0,2003/04,2003,London,6.0,65.1,37677.0
+221,Aston Villa,Wolverhampton Wanderers,16.0,20.0,42749.0,Villa Park,dec,0.0,2003/04,2003,Birmingham,5.0,27.9,36964.0
+222,Leeds United,Fulham,19.0,4.0,37792.0,Elland Road,dec,0.0,2003/04,2003,Leeds,4.0,43.8,30544.0
+223,Chelsea,Bolton Wanderers,3.0,10.0,40834.0,Stamford Bridge,dec,0.0,2003/04,2003,London,6.0,65.1,40491.0
+224,Leicester City,Birmingham City,17.0,8.0,32261.0,King Power Stadium,dec,0.0,2003/04,2003,Leicester,5.0,29.5,30639.0
+225,Middlesbrough,Charlton Athletic,11.0,7.0,33746.0,Riverside Stadium,dec,0.0,2003/04,2003,Middlesbrough,5.0,28.7,26721.0
+226,Newcastle United,Tottenham Hotspur,5.0,13.0,52305.0,Sports Direct Arena,dec,0.0,2003/04,2003,Newcastle,4.0,230.3,52138.0
+227,Portsmouth,Everton,18.0,15.0,20978.0,Fratton Park,dec,0.0,2003/04,2003,Portsmouth,6.0,31.4,20099.0
+228,Manchester United,Manchester City,2.0,12.0,75643.0,Old Trafford,dec,1.0,2003/04,2003,Manchester,5.0,37.4,67643.0
+229,Liverpool,Southampton,9.0,6.0,54074.0,Anfield,dec,0.0,2003/04,2003,Liverpool,6.0,72.8,41762.0
+230,Everton,Manchester City,17.0,10.0,39414.0,Goodison Park,dec,0.0,2003/04,2003,Liverpool,6.0,72.8,37871.0
+231,Southampton,Charlton Athletic,8.0,6.0,32384.0,The Friends Provident St Mary's Stadium,dec,0.0,2003/04,2003,Southampton,6.0,31.4,30513.0
+232,Birmingham City,Blackburn Rovers,9.0,14.0,30079.0,St Andrews,dec,0.0,2003/04,2003,Birmingham,5.0,27.9,29359.0
+233,Fulham,Bolton Wanderers,4.0,13.0,18439.0,Loftus Road,dec,0.0,2003/04,2003,London,6.0,65.1,14393.0
+234,Leicester City,Arsenal,15.0,2.0,32261.0,King Power Stadium,dec,0.0,2003/04,2003,Leicester,5.0,29.5,32108.0
+235,Manchester United,Aston Villa,3.0,18.0,75643.0,Old Trafford,dec,0.0,2003/04,2003,Manchester,5.0,37.4,67621.0
+236,Middlesbrough,Portsmouth,11.0,16.0,33746.0,Riverside Stadium,dec,0.0,2003/04,2003,Middlesbrough,5.0,28.7,28083.0
+237,Tottenham Hotspur,Wolverhampton Wanderers,12.0,20.0,36284.0,White Hart Lane,dec,0.0,2003/04,2003,London,6.0,65.1,34820.0
+238,Newcastle United,Liverpool,7.0,5.0,52305.0,Sports Direct Arena,dec,0.0,2003/04,2003,Newcastle,4.0,230.3,52151.0
+239,Leeds United,Chelsea,19.0,1.0,37792.0,Elland Road,dec,0.0,2003/04,2003,Leeds,4.0,43.8,36305.0
+240,Arsenal,Fulham,2.0,4.0,38419.0,Highbury,nov,1.0,2003/04,2003,London,9.0,72.0,38063.0
+241,Liverpool,Birmingham City,6.0,8.0,54074.0,Anfield,nov,0.0,2003/04,2003,Liverpool,8.0,67.8,42683.0
+242,Manchester City,Middlesbrough,9.0,10.0,53400.0,Etihad Stadium,nov,0.0,2003/04,2003,Manchester,7.0,35.8,46824.0
+243,Chelsea,Manchester United,1.0,3.0,40834.0,Stamford Bridge,nov,0.0,2003/04,2003,London,9.0,72.0,41932.0
+244,Blackburn Rovers,Tottenham Hotspur,16.0,15.0,31367.0,Ewood Park,nov,0.0,2003/04,2003,Blackburn,8.0,43.7,22802.0
+245,Bolton Wanderers,Everton,11.0,18.0,28723.0,Macron Stadium,nov,0.0,2003/04,2003,Bolton,7.0,35.8,27350.0
+246,Portsmouth,Leicester City,14.0,13.0,20978.0,Fratton Park,nov,0.0,2003/04,2003,Portsmouth,8.0,28.4,20140.0
+247,Wolverhampton Wanderers,Newcastle United,19.0,7.0,32050.0,Molineux,nov,0.0,2003/04,2003,Wolverhampton,8.0,51.1,29344.0
+248,Aston Villa,Southampton,17.0,12.0,42749.0,Villa Park,nov,0.0,2003/04,2003,Birmingham,7.0,31.5,31285.0
+249,Charlton Athletic,Leeds United,5.0,20.0,27111.0,The Valley,nov,0.0,2003/04,2003,London,9.0,72.0,26425.0
+250,Fulham,Portsmouth,5.0,11.0,18439.0,Loftus Road,nov,0.0,2003/04,2003,London,9.0,72.0,15624.0
+251,Tottenham Hotspur,Aston Villa,12.0,18.0,36284.0,White Hart Lane,nov,0.0,2003/04,2003,London,9.0,72.0,33140.0
+252,Birmingham City,Arsenal,6.0,1.0,30079.0,St Andrews,nov,0.0,2003/04,2003,Birmingham,7.0,31.5,29588.0
+253,Everton,Wolverhampton Wanderers,15.0,19.0,39414.0,Goodison Park,nov,0.0,2003/04,2003,Liverpool,8.0,67.8,40190.0
+254,Leicester City,Charlton Athletic,16.0,4.0,32261.0,King Power Stadium,nov,0.0,2003/04,2003,Leicester,7.0,29.9,30242.0
+255,Manchester United,Blackburn Rovers,3.0,17.0,75643.0,Old Trafford,nov,0.0,2003/04,2003,Manchester,7.0,35.8,67748.0
+256,Middlesbrough,Liverpool,13.0,9.0,33746.0,Riverside Stadium,nov,0.0,2003/04,2003,Middlesbrough,7.0,29.1,34268.0
+257,Leeds United,Bolton Wanderers,20.0,14.0,37792.0,Elland Road,nov,0.0,2003/04,2003,Leeds,6.0,43.0,36558.0
+258,Newcastle United,Manchester City,7.0,8.0,52305.0,Sports Direct Arena,nov,0.0,2003/04,2003,Newcastle,6.0,202.8,52159.0
+259,Southampton,Chelsea,10.0,2.0,32384.0,The Friends Provident St Mary's Stadium,nov,0.0,2003/04,2003,Southampton,8.0,28.4,32149.0
+260,Blackburn Rovers,Everton,16.0,18.0,31367.0,Ewood Park,nov,0.0,2003/04,2003,Blackburn,8.0,43.7,22179.0
+261,Liverpool,Manchester United,8.0,3.0,54074.0,Anfield,nov,0.0,2003/04,2003,Liverpool,8.0,67.8,44159.0
+262,Manchester City,Leicester City,6.0,15.0,53400.0,Etihad Stadium,nov,0.0,2003/04,2003,Manchester,7.0,35.8,46966.0
+263,Chelsea,Newcastle United,2.0,10.0,40834.0,Stamford Bridge,nov,0.0,2003/04,2003,London,9.0,72.0,41322.0
+264,Arsenal,Tottenham Hotspur,1.0,13.0,38419.0,Highbury,nov,1.0,2003/04,2003,London,9.0,72.0,38101.0
+265,Aston Villa,Middlesbrough,17.0,12.0,42749.0,Villa Park,nov,0.0,2003/04,2003,Birmingham,7.0,31.5,29898.0
+266,Charlton Athletic,Fulham,4.0,7.0,27111.0,The Valley,nov,1.0,2003/04,2003,London,9.0,72.0,26285.0
+267,Wolverhampton Wanderers,Birmingham City,19.0,5.0,32050.0,Molineux,nov,0.0,2003/04,2003,Wolverhampton,8.0,51.1,28831.0
+268,Bolton Wanderers,Southampton,14.0,9.0,28723.0,Macron Stadium,nov,0.0,2003/04,2003,Bolton,7.0,35.8,25619.0
+269,Portsmouth,Leeds United,11.0,20.0,20978.0,Fratton Park,nov,0.0,2003/04,2003,Portsmouth,8.0,28.4,20122.0
+270,Birmingham City,Charlton Athletic,4.0,7.0,30079.0,St Andrews,nov,0.0,2003/04,2003,Birmingham,7.0,31.5,27225.0
+271,Fulham,Liverpool,6.0,8.0,18439.0,Loftus Road,nov,0.0,2003/04,2003,London,9.0,72.0,17682.0
+272,Leicester City,Blackburn Rovers,18.0,19.0,32261.0,King Power Stadium,nov,0.0,2003/04,2003,Leicester,7.0,29.9,30975.0
+273,Everton,Chelsea,16.0,2.0,39414.0,Goodison Park,nov,0.0,2003/04,2003,Liverpool,8.0,67.8,40189.0
+274,Manchester United,Portsmouth,3.0,11.0,75643.0,Old Trafford,nov,0.0,2003/04,2003,Manchester,7.0,35.8,67639.0
+275,Middlesbrough,Wolverhampton Wanderers,14.0,17.0,33746.0,Riverside Stadium,nov,0.0,2003/04,2003,Middlesbrough,7.0,29.1,30303.0
+276,Newcastle United,Aston Villa,9.0,13.0,52305.0,Sports Direct Arena,nov,0.0,2003/04,2003,Newcastle,6.0,202.8,51975.0
+277,Tottenham Hotspur,Bolton Wanderers,12.0,15.0,36284.0,White Hart Lane,nov,0.0,2003/04,2003,London,9.0,72.0,35191.0
+278,Leeds United,Arsenal,20.0,1.0,37792.0,Elland Road,nov,0.0,2003/04,2003,Leeds,6.0,43.0,36491.0
+279,Southampton,Manchester City,10.0,5.0,32384.0,The Friends Provident St Mary's Stadium,nov,0.0,2003/04,2003,Southampton,8.0,28.4,31952.0
+280,Charlton Athletic,Arsenal,9.0,1.0,27111.0,The Valley,oct,1.0,2003/04,2003,London,13.0,61.5,26639.0
+281,Tottenham Hotspur,Middlesbrough,12.0,17.0,36284.0,White Hart Lane,oct,0.0,2003/04,2003,London,13.0,61.5,32641.0
+282,Aston Villa,Everton,14.0,13.0,42749.0,Villa Park,oct,0.0,2003/04,2003,Birmingham,11.0,31.9,36146.0
+283,Manchester United,Fulham,3.0,5.0,75643.0,Old Trafford,oct,0.0,2003/04,2003,Manchester,11.0,46.1,67727.0
+284,Newcastle United,Portsmouth,8.0,11.0,52305.0,Sports Direct Arena,oct,0.0,2003/04,2003,Newcastle,9.0,161.3,52161.0
+285,Wolverhampton Wanderers,Leicester City,15.0,20.0,32050.0,Molineux,oct,0.0,2003/04,2003,Wolverhampton,11.0,43.4,28578.0
+286,Bolton Wanderers,Birmingham City,18.0,4.0,28723.0,Macron Stadium,oct,0.0,2003/04,2003,Bolton,11.0,46.1,25023.0
+287,Chelsea,Manchester City,2.0,7.0,40834.0,Stamford Bridge,oct,0.0,2003/04,2003,London,13.0,61.5,41143.0
+288,Liverpool,Leeds United,10.0,19.0,54074.0,Anfield,oct,0.0,2003/04,2003,Liverpool,12.0,58.2,43599.0
+289,Southampton,Blackburn Rovers,6.0,16.0,32384.0,The Friends Provident St Mary's Stadium,oct,0.0,2003/04,2003,Southampton,12.0,29.2,31620.0
+290,Fulham,Newcastle United,6.0,10.0,18439.0,Loftus Road,oct,0.0,2003/04,2003,London,13.0,61.5,15241.0
+291,Blackburn Rovers,Charlton Athletic,15.0,7.0,31367.0,Ewood Park,oct,0.0,2003/04,2003,Blackburn,11.0,54.6,19939.0
+292,Birmingham City,Aston Villa,4.0,14.0,30079.0,St Andrews,oct,1.0,2003/04,2003,Birmingham,11.0,31.9,29546.0
+293,Leicester City,Tottenham Hotspur,20.0,12.0,32261.0,King Power Stadium,oct,0.0,2003/04,2003,Leicester,11.0,36.5,31521.0
+294,Everton,Southampton,13.0,8.0,39414.0,Goodison Park,oct,0.0,2003/04,2003,Liverpool,12.0,58.2,35775.0
+295,Arsenal,Chelsea,1.0,3.0,38419.0,Highbury,oct,1.0,2003/04,2003,London,13.0,61.5,38172.0
+296,Fulham,Wolverhampton Wanderers,6.0,19.0,18439.0,Loftus Road,oct,0.0,2003/04,2003,London,13.0,61.5,17031.0
+297,Middlesbrough,Newcastle United,18.0,10.0,33746.0,Riverside Stadium,oct,0.0,2003/04,2003,Middlesbrough,10.0,32.0,34081.0
+298,Portsmouth,Liverpool,9.0,11.0,20978.0,Fratton Park,oct,0.0,2003/04,2003,Portsmouth,12.0,29.2,19126.0
+299,Leeds United,Manchester United,17.0,2.0,37792.0,Elland Road,oct,0.0,2003/04,2003,Leeds,9.0,40.4,40153.0
+300,Manchester City,Bolton Wanderers,5.0,16.0,53400.0,Etihad Stadium,oct,0.0,2003/04,2003,Manchester,11.0,46.1,47101.0
+301,Birmingham City,Chelsea,4.0,1.0,30079.0,St Andrews,oct,0.0,2003/04,2003,Birmingham,11.0,31.9,29460.0
+302,Middlesbrough,Chelsea,17.0,1.0,33746.0,Riverside Stadium,oct,0.0,2003/04,2003,Middlesbrough,10.0,32.0,29170.0
+303,Aston Villa,Bolton Wanderers,13.0,15.0,42749.0,Villa Park,oct,0.0,2003/04,2003,Birmingham,11.0,31.9,30229.0
+304,Fulham,Leicester City,5.0,19.0,18439.0,Loftus Road,oct,0.0,2003/04,2003,London,13.0,61.5,14612.0
+305,Manchester United,Birmingham City,3.0,4.0,75643.0,Old Trafford,oct,0.0,2003/04,2003,Manchester,11.0,46.1,67633.0
+306,Portsmouth,Charlton Athletic,10.0,9.0,20978.0,Fratton Park,oct,0.0,2003/04,2003,Portsmouth,12.0,29.2,20122.0
+307,Liverpool,Arsenal,8.0,2.0,54074.0,Anfield,oct,0.0,2003/04,2003,Liverpool,12.0,58.2,44374.0
+308,Leeds United,Blackburn Rovers,16.0,11.0,37792.0,Elland Road,oct,0.0,2003/04,2003,Leeds,9.0,40.4,35039.0
+309,Newcastle United,Southampton,18.0,7.0,52305.0,Sports Direct Arena,oct,0.0,2003/04,2003,Newcastle,9.0,161.3,52127.0
+310,Tottenham Hotspur,Everton,14.0,12.0,36284.0,White Hart Lane,oct,0.0,2003/04,2003,London,13.0,61.5,36103.0
+311,Wolverhampton Wanderers,Manchester City,20.0,6.0,32050.0,Molineux,oct,0.0,2003/04,2003,Wolverhampton,11.0,43.4,29386.0
+312,Blackburn Rovers,Fulham,11.0,7.0,31367.0,Ewood Park,sep,0.0,2003/04,2003,Blackburn,14.0,30.9,21985.0
+313,Charlton Athletic,Liverpool,12.0,8.0,27111.0,The Valley,sep,0.0,2003/04,2003,London,16.0,41.2,26530.0
+314,Everton,Leeds United,10.0,18.0,39414.0,Goodison Park,sep,0.0,2003/04,2003,Liverpool,15.0,49.0,39151.0
+315,Manchester City,Tottenham Hotspur,5.0,17.0,53400.0,Etihad Stadium,sep,0.0,2003/04,2003,Manchester,14.0,26.5,46842.0
+316,Birmingham City,Portsmouth,4.0,9.0,30079.0,St Andrews,sep,0.0,2003/04,2003,Birmingham,14.0,17.8,29057.0
+317,Bolton Wanderers,Wolverhampton Wanderers,15.0,20.0,28723.0,Macron Stadium,sep,0.0,2003/04,2003,Bolton,14.0,26.5,27043.0
+318,Chelsea,Aston Villa,2.0,13.0,40834.0,Stamford Bridge,sep,0.0,2003/04,2003,London,16.0,41.2,41182.0
+319,Southampton,Middlesbrough,6.0,14.0,32384.0,The Friends Provident St Mary's Stadium,sep,0.0,2003/04,2003,Southampton,15.0,15.7,30772.0
+320,Leicester City,Manchester United,16.0,3.0,32261.0,King Power Stadium,sep,0.0,2003/04,2003,Leicester,14.0,21.4,32044.0
+321,Arsenal,Newcastle United,1.0,19.0,38419.0,Highbury,sep,0.0,2003/04,2003,London,16.0,41.2,38112.0
+322,Middlesbrough,Everton,17.0,15.0,33746.0,Riverside Stadium,sep,0.0,2003/04,2003,Middlesbrough,14.0,18.7,28113.0
+323,Manchester United,Arsenal,3.0,1.0,75643.0,Old Trafford,sep,0.0,2003/04,2003,Manchester,14.0,26.5,67639.0
+324,Aston Villa,Charlton Athletic,11.0,14.0,42749.0,Villa Park,sep,0.0,2003/04,2003,Birmingham,14.0,17.8,31410.0
+325,Liverpool,Leicester City,6.0,13.0,54074.0,Anfield,sep,0.0,2003/04,2003,Liverpool,15.0,49.0,44094.0
+326,Newcastle United,Bolton Wanderers,19.0,12.0,52305.0,Sports Direct Arena,sep,0.0,2003/04,2003,Newcastle,12.0,101.9,52014.0
+327,Portsmouth,Blackburn Rovers,8.0,9.0,20978.0,Fratton Park,sep,0.0,2003/04,2003,Portsmouth,15.0,15.7,20029.0
+328,Wolverhampton Wanderers,Chelsea,20.0,2.0,32050.0,Molineux,sep,0.0,2003/04,2003,Wolverhampton,14.0,45.0,29208.0
+329,Fulham,Manchester City,10.0,5.0,18439.0,Loftus Road,sep,0.0,2003/04,2003,London,16.0,41.2,16124.0
+330,Leeds United,Birmingham City,16.0,7.0,37792.0,Elland Road,sep,0.0,2003/04,2003,Leeds,12.0,21.5,34305.0
+331,Tottenham Hotspur,Southampton,18.0,4.0,36284.0,White Hart Lane,sep,0.0,2003/04,2003,London,16.0,41.2,35758.0
+332,Leicester City,Leeds United,11.0,14.0,32261.0,King Power Stadium,sep,0.0,2003/04,2003,Leicester,14.0,21.4,30460.0
+333,Manchester City,Aston Villa,3.0,16.0,53400.0,Etihad Stadium,sep,0.0,2003/04,2003,Manchester,14.0,26.5,46687.0
+334,Birmingham City,Fulham,8.0,9.0,30079.0,St Andrews,sep,0.0,2003/04,2003,Birmingham,14.0,17.8,27250.0
+335,Arsenal,Portsmouth,1.0,5.0,38419.0,Highbury,sep,0.0,2003/04,2003,London,16.0,41.2,38052.0
+336,Blackburn Rovers,Liverpool,10.0,7.0,31367.0,Ewood Park,sep,0.0,2003/04,2003,Blackburn,14.0,30.9,30074.0
+337,Bolton Wanderers,Middlesbrough,15.0,19.0,28723.0,Macron Stadium,sep,0.0,2003/04,2003,Bolton,14.0,26.5,26419.0
+338,Charlton Athletic,Manchester United,12.0,2.0,27111.0,The Valley,sep,0.0,2003/04,2003,London,16.0,41.2,26046.0
+339,Everton,Newcastle United,13.0,18.0,39414.0,Goodison Park,sep,0.0,2003/04,2003,Liverpool,15.0,49.0,40228.0
+340,Chelsea,Tottenham Hotspur,4.0,17.0,40834.0,Stamford Bridge,sep,1.0,2003/04,2003,London,16.0,41.2,41165.0
+341,Southampton,Wolverhampton Wanderers,6.0,20.0,32384.0,The Friends Provident St Mary's Stadium,sep,0.0,2003/04,2003,Southampton,15.0,15.7,31711.0
+342,Southampton,Manchester United,8.0,2.0,32384.0,The Friends Provident St Mary's Stadium,aug,0.0,2003/04,2003,Southampton,17.0,10.9,32066.0
+343,Manchester City,Arsenal,4.0,1.0,53400.0,Etihad Stadium,aug,0.0,2003/04,2003,Manchester,16.0,31.4,46436.0
+344,Everton,Liverpool,14.0,10.0,39414.0,Goodison Park,aug,1.0,2003/04,2003,Liverpool,16.0,66.6,40200.0
+345,Aston Villa,Leicester City,13.0,16.0,42749.0,Villa Park,aug,0.0,2003/04,2003,Birmingham,16.0,27.0,32274.0
+346,Bolton Wanderers,Charlton Athletic,17.0,11.0,28723.0,Macron Stadium,aug,0.0,2003/04,2003,Bolton,16.0,31.4,23098.0
+347,Chelsea,Blackburn Rovers,5.0,9.0,40834.0,Stamford Bridge,aug,0.0,2003/04,2003,London,18.0,57.5,41066.0
+348,Middlesbrough,Leeds United,19.0,12.0,33746.0,Riverside Stadium,aug,0.0,2003/04,2003,Middlesbrough,16.0,24.6,30414.0
+349,Newcastle United,Birmingham City,18.0,6.0,52305.0,Sports Direct Arena,aug,0.0,2003/04,2003,Newcastle,13.0,104.9,52003.0
+350,Tottenham Hotspur,Fulham,15.0,7.0,36284.0,White Hart Lane,aug,1.0,2003/04,2003,London,18.0,57.5,33421.0
+351,Wolverhampton Wanderers,Portsmouth,20.0,3.0,32050.0,Molineux,aug,0.0,2003/04,2003,Wolverhampton,16.0,54.5,28680.0
+352,Arsenal,Aston Villa,1.0,17.0,38419.0,Highbury,aug,0.0,2003/04,2003,London,18.0,57.5,38010.0
+353,Liverpool,Tottenham Hotspur,15.0,10.0,54074.0,Anfield,aug,0.0,2003/04,2003,Liverpool,16.0,66.6,43778.0
+354,Manchester United,Wolverhampton Wanderers,2.0,20.0,75643.0,Old Trafford,aug,0.0,2003/04,2003,Manchester,16.0,31.4,67648.0
+355,Leeds United,Southampton,13.0,11.0,37792.0,Elland Road,aug,0.0,2003/04,2003,Leeds,15.0,31.8,34721.0
+356,Leicester City,Middlesbrough,14.0,18.0,32261.0,King Power Stadium,aug,0.0,2003/04,2003,Leicester,16.0,24.1,30823.0
+357,Portsmouth,Bolton Wanderers,3.0,19.0,20978.0,Fratton Park,aug,0.0,2003/04,2003,Portsmouth,17.0,10.9,20118.0
+358,Charlton Athletic,Everton,7.0,8.0,27111.0,The Valley,aug,0.0,2003/04,2003,London,18.0,57.5,26314.0
+359,Blackburn Rovers,Manchester City,6.0,4.0,31367.0,Ewood Park,aug,0.0,2003/04,2003,Blackburn,16.0,35.9,23353.0
+360,Aston Villa,Liverpool,17.0,15.0,42749.0,Villa Park,aug,0.0,2003/04,2003,Birmingham,16.0,27.0,42573.0
+361,Middlesbrough,Arsenal,18.0,1.0,33746.0,Riverside Stadium,aug,0.0,2003/04,2003,Middlesbrough,16.0,24.6,29450.0
+362,Newcastle United,Manchester United,16.0,2.0,52305.0,Sports Direct Arena,aug,0.0,2003/04,2003,Newcastle,13.0,104.9,52165.0
+363,Bolton Wanderers,Blackburn Rovers,19.0,6.0,28723.0,Macron Stadium,aug,0.0,2003/04,2003,Bolton,16.0,31.4,27423.0
+364,Chelsea,Leicester City,5.0,14.0,40834.0,Stamford Bridge,aug,0.0,2003/04,2003,London,18.0,57.5,41074.0
+365,Everton,Fulham,8.0,12.0,39414.0,Goodison Park,aug,0.0,2003/04,2003,Liverpool,16.0,66.6,37604.0
+366,Manchester City,Portsmouth,4.0,3.0,53400.0,Etihad Stadium,aug,0.0,2003/04,2003,Manchester,16.0,31.4,46287.0
+367,Southampton,Birmingham City,11.0,9.0,32384.0,The Friends Provident St Mary's Stadium,aug,0.0,2003/04,2003,Southampton,17.0,10.9,31656.0
+368,Tottenham Hotspur,Leeds United,10.0,13.0,36284.0,White Hart Lane,aug,0.0,2003/04,2003,London,18.0,57.5,34350.0
+369,Wolverhampton Wanderers,Charlton Athletic,20.0,7.0,32050.0,Molineux,aug,0.0,2003/04,2003,Wolverhampton,16.0,54.5,27327.0
+370,Charlton Athletic,Manchester City,18.0,3.0,27111.0,The Valley,aug,0.0,2003/04,2003,London,18.0,57.5,25846.0
+371,Leeds United,Newcastle United,9.0,11.0,37792.0,Elland Road,aug,0.0,2003/04,2003,Leeds,15.0,31.8,36766.0
+372,Liverpool,Chelsea,16.0,6.0,54074.0,Anfield,aug,0.0,2003/04,2003,Liverpool,16.0,66.6,44080.0
+373,Birmingham City,Tottenham Hotspur,8.0,17.0,30079.0,St Andrews,aug,0.0,2003/04,2003,Birmingham,16.0,27.0,29358.0
+374,Portsmouth,Aston Villa,7.0,14.0,20978.0,Fratton Park,aug,0.0,2003/04,2003,Portsmouth,17.0,10.9,20101.0
+375,Arsenal,Everton,5.0,15.0,38419.0,Highbury,aug,0.0,2003/04,2003,London,18.0,57.5,38014.0
+376,Blackburn Rovers,Wolverhampton Wanderers,1.0,19.0,31367.0,Ewood Park,aug,0.0,2003/04,2003,Blackburn,16.0,35.9,26270.0
+377,Fulham,Middlesbrough,4.0,13.0,18439.0,Loftus Road,aug,0.0,2003/04,2003,London,18.0,57.5,14546.0
+378,Leicester City,Southampton,10.0,12.0,32261.0,King Power Stadium,aug,0.0,2003/04,2003,Leicester,16.0,24.1,31621.0
+379,Manchester United,Bolton Wanderers,2.0,20.0,75643.0,Old Trafford,aug,0.0,2003/04,2003,Manchester,16.0,31.4,67647.0
+380,Birmingham City,Arsenal,12.0,2.0,30079.0,St Andrews,may,0.0,2004/05,2004,Birmingham,12.0,26.6,29302.0
+381,Bolton Wanderers,Everton,6.0,4.0,28723.0,Macron Stadium,may,0.0,2004/05,2004,Bolton,12.0,21.2,27701.0
+382,Charlton Athletic,Crystal Palace,11.0,18.0,27111.0,The Valley,may,1.0,2004/05,2004,London,14.0,52.1,26870.0
+383,Fulham,Norwich City,13.0,19.0,25700.0,Craven Cottage,may,0.0,2004/05,2004,London,14.0,52.1,21927.0
+384,Liverpool,Aston Villa,5.0,10.0,54074.0,Anfield,may,0.0,2004/05,2004,Liverpool,12.0,53.6,43406.0
+385,Manchester City,Middlesbrough,8.0,7.0,53400.0,Etihad Stadium,may,0.0,2004/05,2004,Manchester,12.0,21.2,47221.0
+386,Newcastle United,Chelsea,14.0,1.0,52305.0,Sports Direct Arena,may,0.0,2004/05,2004,Newcastle,9.0,116.4,52356.0
+387,Southampton,Manchester United,20.0,3.0,32384.0,The Friends Provident St Mary's Stadium,may,0.0,2004/05,2004,Southampton,13.0,16.5,32066.0
+388,Tottenham Hotspur,Blackburn Rovers,9.0,15.0,36284.0,White Hart Lane,may,0.0,2004/05,2004,London,14.0,52.1,35797.0
+389,West Bromwich Albion,Portsmouth,17.0,16.0,26445.0,The Hawthorns,may,0.0,2004/05,2004,West Bromwich,12.0,26.6,27751.0
+390,Arsenal,Everton,2.0,4.0,38419.0,Highbury,may,0.0,2004/05,2004,London,14.0,52.1,38073.0
+391,Manchester United,Chelsea,3.0,1.0,75643.0,Old Trafford,may,0.0,2004/05,2004,Manchester,12.0,21.2,67832.0
+392,Arsenal,Liverpool,2.0,5.0,38419.0,Highbury,may,0.0,2004/05,2004,London,14.0,52.1,38119.0
+393,Chelsea,Charlton Athletic,1.0,11.0,40834.0,Stamford Bridge,may,1.0,2004/05,2004,London,14.0,52.1,42065.0
+394,Aston Villa,Manchester City,10.0,8.0,42749.0,Villa Park,may,0.0,2004/05,2004,Birmingham,12.0,26.6,39645.0
+395,Blackburn Rovers,Fulham,14.0,15.0,31367.0,Ewood Park,may,0.0,2004/05,2004,Blackburn,12.0,32.0,18990.0
+396,Crystal Palace,Southampton,19.0,18.0,25486.0,Selhurst Park,may,0.0,2004/05,2004,London,14.0,52.1,26066.0
+397,Everton,Newcastle United,4.0,12.0,39414.0,Goodison Park,may,0.0,2004/05,2004,Liverpool,12.0,53.6,40438.0
+398,Middlesbrough,Tottenham Hotspur,7.0,9.0,33746.0,Riverside Stadium,may,0.0,2004/05,2004,Middlesbrough,11.0,19.9,34766.0
+399,Norwich City,Birmingham City,17.0,13.0,27359.0,Carrow Road,may,0.0,2004/05,2004,Norwich,12.0,21.5,25477.0
+400,Portsmouth,Bolton Wanderers,16.0,6.0,20978.0,Fratton Park,may,0.0,2004/05,2004,Portsmouth,13.0,16.5,20188.0
+401,Manchester United,West Bromwich Albion,3.0,20.0,75643.0,Old Trafford,may,0.0,2004/05,2004,Manchester,12.0,21.2,67827.0
+402,Fulham,Newcastle United,16.0,12.0,25700.0,Craven Cottage,may,0.0,2004/05,2004,London,14.0,52.1,19003.0
+403,West Bromwich Albion,Arsenal,19.0,2.0,26445.0,The Hawthorns,may,0.0,2004/05,2004,West Bromwich,12.0,26.6,27249.0
+404,Tottenham Hotspur,Aston Villa,7.0,10.0,36284.0,White Hart Lane,may,0.0,2004/05,2004,London,14.0,52.1,36101.0
+405,Charlton Athletic,Manchester United,11.0,3.0,27111.0,The Valley,may,0.0,2004/05,2004,London,14.0,52.1,26768.0
+406,Birmingham City,Blackburn Rovers,13.0,14.0,30079.0,St Andrews,apr,0.0,2004/05,2004,Birmingham,8.0,23.8,28621.0
+407,Fulham,Everton,16.0,4.0,25700.0,Craven Cottage,apr,0.0,2004/05,2004,London,11.0,30.6,21881.0
+408,Liverpool,Middlesbrough,5.0,8.0,54074.0,Anfield,apr,0.0,2004/05,2004,Liverpool,10.0,36.7,43250.0
+409,Manchester City,Portsmouth,9.0,15.0,53400.0,Etihad Stadium,apr,0.0,2004/05,2004,Manchester,9.0,27.0,46454.0
+410,Newcastle United,Crystal Palace,12.0,18.0,52305.0,Sports Direct Arena,apr,0.0,2004/05,2004,Newcastle,7.0,70.0,52123.0
+411,Southampton,Norwich City,17.0,20.0,32384.0,The Friends Provident St Mary's Stadium,apr,0.0,2004/05,2004,Southampton,9.0,19.2,31944.0
+412,Bolton Wanderers,Chelsea,6.0,1.0,28723.0,Macron Stadium,apr,0.0,2004/05,2004,Bolton,9.0,27.0,27653.0
+413,Newcastle United,Middlesbrough,14.0,7.0,52305.0,Sports Direct Arena,apr,0.0,2004/05,2004,Newcastle,7.0,70.0,52047.0
+414,West Bromwich Albion,Blackburn Rovers,18.0,12.0,26445.0,The Hawthorns,apr,0.0,2004/05,2004,West Bromwich,8.0,23.8,25048.0
+415,Arsenal,Tottenham Hotspur,2.0,8.0,38419.0,Highbury,apr,1.0,2004/05,2004,London,11.0,30.6,38147.0
+416,Portsmouth,Southampton,15.0,20.0,20978.0,Fratton Park,apr,0.0,2004/05,2004,Portsmouth,9.0,19.2,20210.0
+417,Manchester United,Newcastle United,3.0,14.0,75643.0,Old Trafford,apr,0.0,2004/05,2004,Manchester,9.0,27.0,67845.0
+418,Aston Villa,Bolton Wanderers,9.0,6.0,42749.0,Villa Park,apr,0.0,2004/05,2004,Birmingham,8.0,23.8,36053.0
+419,Blackburn Rovers,Manchester City,12.0,10.0,31367.0,Ewood Park,apr,0.0,2004/05,2004,Blackburn,9.0,26.4,24646.0
+420,Everton,Birmingham City,4.0,13.0,39414.0,Goodison Park,apr,0.0,2004/05,2004,Liverpool,10.0,36.7,36828.0
+421,Chelsea,Fulham,1.0,16.0,40834.0,Stamford Bridge,apr,1.0,2004/05,2004,London,11.0,30.6,42081.0
+422,Crystal Palace,Liverpool,17.0,5.0,25486.0,Selhurst Park,apr,0.0,2004/05,2004,London,11.0,30.6,26043.0
+423,Middlesbrough,West Bromwich Albion,7.0,18.0,33746.0,Riverside Stadium,apr,0.0,2004/05,2004,Middlesbrough,8.0,22.4,30951.0
+424,Norwich City,Charlton Athletic,19.0,11.0,27359.0,Carrow Road,apr,0.0,2004/05,2004,Norwich,9.0,22.0,25459.0
+425,Aston Villa,Charlton Athletic,9.0,10.0,42749.0,Villa Park,apr,0.0,2004/05,2004,Birmingham,8.0,23.8,31312.0
+426,Manchester City,Birmingham City,11.0,13.0,53400.0,Etihad Stadium,apr,0.0,2004/05,2004,Manchester,9.0,27.0,42453.0
+427,Norwich City,Newcastle United,20.0,14.0,27359.0,Carrow Road,apr,0.0,2004/05,2004,Norwich,9.0,22.0,25503.0
+428,Portsmouth,Liverpool,16.0,5.0,20978.0,Fratton Park,apr,0.0,2004/05,2004,Portsmouth,9.0,19.2,20205.0
+429,Tottenham Hotspur,West Bromwich Albion,7.0,17.0,36284.0,White Hart Lane,apr,0.0,2004/05,2004,London,11.0,30.6,35885.0
+430,Blackburn Rovers,Crystal Palace,12.0,19.0,31367.0,Ewood Park,apr,0.0,2004/05,2004,Blackburn,9.0,26.4,18006.0
+431,Chelsea,Arsenal,1.0,2.0,40834.0,Stamford Bridge,apr,1.0,2004/05,2004,London,11.0,30.6,41621.0
+432,Everton,Manchester United,4.0,3.0,39414.0,Goodison Park,apr,0.0,2004/05,2004,Liverpool,10.0,36.7,37160.0
+433,Bolton Wanderers,Southampton,6.0,18.0,28723.0,Macron Stadium,apr,0.0,2004/05,2004,Bolton,9.0,27.0,25125.0
+434,Middlesbrough,Fulham,8.0,15.0,33746.0,Riverside Stadium,apr,0.0,2004/05,2004,Middlesbrough,8.0,22.4,30650.0
+435,Charlton Athletic,Bolton Wanderers,10.0,5.0,27111.0,The Valley,apr,0.0,2004/05,2004,London,11.0,30.6,26660.0
+436,Crystal Palace,Norwich City,19.0,20.0,25486.0,Selhurst Park,apr,0.0,2004/05,2004,London,11.0,30.6,25754.0
+437,Fulham,Manchester City,16.0,11.0,25700.0,Craven Cottage,apr,0.0,2004/05,2004,London,11.0,30.6,21796.0
+438,Liverpool,Tottenham Hotspur,6.0,7.0,54074.0,Anfield,apr,0.0,2004/05,2004,Liverpool,10.0,36.7,44029.0
+439,Southampton,Aston Villa,18.0,9.0,32384.0,The Friends Provident St Mary's Stadium,apr,0.0,2004/05,2004,Southampton,9.0,19.2,31926.0
+440,Birmingham City,Portsmouth,12.0,15.0,30079.0,St Andrews,apr,0.0,2004/05,2004,Birmingham,8.0,23.8,28883.0
+441,Aston Villa,West Bromwich Albion,10.0,17.0,42749.0,Villa Park,apr,0.0,2004/05,2004,Birmingham,8.0,23.8,39402.0
+442,Everton,Crystal Palace,4.0,19.0,39414.0,Goodison Park,apr,0.0,2004/05,2004,Liverpool,10.0,36.7,36519.0
+443,Tottenham Hotspur,Newcastle United,7.0,12.0,36284.0,White Hart Lane,apr,0.0,2004/05,2004,London,11.0,30.6,35885.0
+444,Blackburn Rovers,Southampton,14.0,18.0,31367.0,Ewood Park,apr,0.0,2004/05,2004,Blackburn,9.0,26.4,20726.0
+445,Bolton Wanderers,Fulham,6.0,16.0,28723.0,Macron Stadium,apr,0.0,2004/05,2004,Bolton,9.0,27.0,25493.0
+446,Chelsea,Birmingham City,1.0,13.0,40834.0,Stamford Bridge,apr,0.0,2004/05,2004,London,11.0,30.6,42126.0
+447,Manchester City,Liverpool,11.0,5.0,53400.0,Etihad Stadium,apr,0.0,2004/05,2004,Manchester,9.0,27.0,47203.0
+448,Middlesbrough,Arsenal,8.0,2.0,33746.0,Riverside Stadium,apr,0.0,2004/05,2004,Middlesbrough,8.0,22.4,33874.0
+449,Portsmouth,Charlton Athletic,15.0,9.0,20978.0,Fratton Park,apr,0.0,2004/05,2004,Portsmouth,9.0,19.2,20108.0
+450,Norwich City,Manchester United,20.0,3.0,27359.0,Carrow Road,apr,0.0,2004/05,2004,Norwich,9.0,22.0,25522.0
+451,Fulham,Portsmouth,14.0,16.0,25700.0,Craven Cottage,apr,0.0,2004/05,2004,London,11.0,30.6,20502.0
+452,West Bromwich Albion,Everton,18.0,4.0,26445.0,The Hawthorns,apr,0.0,2004/05,2004,West Bromwich,8.0,23.8,26681.0
+453,Arsenal,Norwich City,2.0,20.0,38419.0,Highbury,apr,0.0,2004/05,2004,London,11.0,30.6,38066.0
+454,Birmingham City,Tottenham Hotspur,13.0,9.0,30079.0,St Andrews,apr,0.0,2004/05,2004,Birmingham,8.0,23.8,29304.0
+455,Crystal Palace,Middlesbrough,19.0,7.0,25486.0,Selhurst Park,apr,0.0,2004/05,2004,London,11.0,30.6,24274.0
+456,Liverpool,Bolton Wanderers,5.0,6.0,54074.0,Anfield,apr,0.0,2004/05,2004,Liverpool,10.0,36.7,43755.0
+457,Manchester United,Blackburn Rovers,3.0,15.0,75643.0,Old Trafford,apr,0.0,2004/05,2004,Manchester,9.0,27.0,67939.0
+458,Newcastle United,Aston Villa,11.0,10.0,52305.0,Sports Direct Arena,apr,0.0,2004/05,2004,Newcastle,7.0,70.0,52306.0
+459,Southampton,Chelsea,17.0,1.0,32384.0,The Friends Provident St Mary's Stadium,apr,0.0,2004/05,2004,Southampton,9.0,19.2,31949.0
+460,Charlton Athletic,Manchester City,8.0,12.0,27111.0,The Valley,apr,0.0,2004/05,2004,London,11.0,30.6,26443.0
+461,Birmingham City,Aston Villa,13.0,11.0,30079.0,St Andrews,mar,1.0,2004/05,2004,Birmingham,6.0,19.6,29382.0
+462,Middlesbrough,Southampton,9.0,17.0,33746.0,Riverside Stadium,mar,0.0,2004/05,2004,Middlesbrough,6.0,18.4,30082.0
+463,Liverpool,Everton,5.0,4.0,54074.0,Anfield,mar,1.0,2004/05,2004,Liverpool,7.0,40.4,44224.0
+464,Blackburn Rovers,Arsenal,14.0,3.0,31367.0,Ewood Park,mar,0.0,2004/05,2004,Blackburn,7.0,25.2,22992.0
+465,Charlton Athletic,West Bromwich Albion,7.0,19.0,27111.0,The Valley,mar,0.0,2004/05,2004,London,8.0,29.8,27104.0
+466,Chelsea,Crystal Palace,1.0,18.0,40834.0,Stamford Bridge,mar,1.0,2004/05,2004,London,8.0,29.8,41678.0
+467,Manchester United,Fulham,2.0,16.0,75643.0,Old Trafford,mar,0.0,2004/05,2004,Manchester,6.0,25.0,67959.0
+468,Portsmouth,Newcastle United,15.0,10.0,20978.0,Fratton Park,mar,0.0,2004/05,2004,Portsmouth,8.0,17.2,20165.0
+469,Tottenham Hotspur,Manchester City,8.0,12.0,36284.0,White Hart Lane,mar,0.0,2004/05,2004,London,8.0,29.8,35861.0
+470,Bolton Wanderers,Norwich City,6.0,20.0,28723.0,Macron Stadium,mar,0.0,2004/05,2004,Bolton,6.0,25.0,25081.0
+471,Charlton Athletic,Tottenham Hotspur,7.0,9.0,27111.0,The Valley,mar,1.0,2004/05,2004,London,8.0,29.8,26832.0
+472,Liverpool,Blackburn Rovers,5.0,14.0,54074.0,Anfield,mar,0.0,2004/05,2004,Liverpool,7.0,40.4,37763.0
+473,Chelsea,West Bromwich Albion,1.0,19.0,40834.0,Stamford Bridge,mar,0.0,2004/05,2004,London,8.0,29.8,41699.0
+474,Manchester City,Bolton Wanderers,12.0,6.0,53400.0,Etihad Stadium,mar,0.0,2004/05,2004,Manchester,6.0,25.0,43050.0
+475,West Bromwich Albion,Birmingham City,19.0,13.0,26445.0,The Hawthorns,mar,0.0,2004/05,2004,West Bromwich,6.0,19.6,25631.0
+476,Everton,Blackburn Rovers,4.0,14.0,39414.0,Goodison Park,mar,0.0,2004/05,2004,Liverpool,7.0,40.4,32406.0
+477,Aston Villa,Middlesbrough,10.0,7.0,42749.0,Villa Park,mar,0.0,2004/05,2004,Birmingham,6.0,19.6,34201.0
+478,Arsenal,Portsmouth,3.0,16.0,38419.0,Highbury,mar,0.0,2004/05,2004,London,8.0,29.8,38079.0
+479,Crystal Palace,Manchester United,17.0,2.0,25486.0,Selhurst Park,mar,0.0,2004/05,2004,London,8.0,29.8,26021.0
+480,Fulham,Charlton Athletic,15.0,8.0,25700.0,Craven Cottage,mar,1.0,2004/05,2004,London,8.0,29.8,18290.0
+481,Newcastle United,Liverpool,11.0,5.0,52305.0,Sports Direct Arena,mar,0.0,2004/05,2004,Newcastle,4.0,106.4,52323.0
+482,Southampton,Tottenham Hotspur,18.0,9.0,32384.0,The Friends Provident St Mary's Stadium,mar,0.0,2004/05,2004,Southampton,8.0,17.2,31903.0
+483,Norwich City,Chelsea,20.0,1.0,27359.0,Carrow Road,mar,0.0,2004/05,2004,Norwich,7.0,23.3,24506.0
+484,Norwich City,Manchester City,19.0,10.0,27359.0,Carrow Road,feb,0.0,2004/05,2004,Norwich,5.0,25.8,24302.0
+485,Newcastle United,Bolton Wanderers,12.0,7.0,52305.0,Sports Direct Arena,feb,0.0,2004/05,2004,Newcastle,3.0,122.8,50430.0
+486,Middlesbrough,Charlton Athletic,6.0,9.0,33746.0,Riverside Stadium,feb,0.0,2004/05,2004,Middlesbrough,5.0,21.8,29603.0
+487,Southampton,Arsenal,18.0,3.0,32384.0,The Friends Provident St Mary's Stadium,feb,0.0,2004/05,2004,Southampton,6.0,23.8,31815.0
+488,Aston Villa,Everton,11.0,4.0,42749.0,Villa Park,feb,0.0,2004/05,2004,Birmingham,5.0,23.4,40248.0
+489,Crystal Palace,Birmingham City,17.0,13.0,25486.0,Selhurst Park,feb,0.0,2004/05,2004,London,6.0,47.9,23376.0
+490,Tottenham Hotspur,Fulham,8.0,15.0,36284.0,White Hart Lane,feb,1.0,2004/05,2004,London,6.0,47.9,35885.0
+491,Manchester United,Portsmouth,2.0,14.0,75643.0,Old Trafford,feb,0.0,2004/05,2004,Manchester,5.0,28.4,67989.0
+492,West Bromwich Albion,Southampton,20.0,18.0,26445.0,The Hawthorns,feb,0.0,2004/05,2004,West Bromwich,5.0,23.4,25788.0
+493,Arsenal,Crystal Palace,3.0,17.0,38419.0,Highbury,feb,1.0,2004/05,2004,London,6.0,47.9,38056.0
+494,Manchester City,Manchester United,11.0,2.0,53400.0,Etihad Stadium,feb,1.0,2004/05,2004,Manchester,5.0,28.4,47111.0
+495,Everton,Chelsea,4.0,1.0,39414.0,Goodison Park,feb,0.0,2004/05,2004,Liverpool,6.0,40.6,40270.0
+496,Birmingham City,Liverpool,12.0,5.0,30079.0,St Andrews,feb,0.0,2004/05,2004,Birmingham,5.0,23.4,29318.0
+497,Blackburn Rovers,Norwich City,16.0,19.0,31367.0,Ewood Park,feb,0.0,2004/05,2004,Blackburn,5.0,28.7,20923.0
+498,Portsmouth,Aston Villa,14.0,10.0,20978.0,Fratton Park,feb,0.0,2004/05,2004,Portsmouth,6.0,23.8,20160.0
+499,Bolton Wanderers,Middlesbrough,7.0,6.0,28723.0,Macron Stadium,feb,0.0,2004/05,2004,Bolton,5.0,28.4,24322.0
+500,Southampton,Everton,19.0,4.0,32384.0,The Friends Provident St Mary's Stadium,feb,0.0,2004/05,2004,Southampton,6.0,23.8,31509.0
+501,Chelsea,Manchester City,1.0,10.0,40834.0,Stamford Bridge,feb,0.0,2004/05,2004,London,6.0,47.9,42093.0
+502,Crystal Palace,Bolton Wanderers,17.0,7.0,25486.0,Selhurst Park,feb,0.0,2004/05,2004,London,6.0,47.9,23163.0
+503,Liverpool,Fulham,5.0,15.0,54074.0,Anfield,feb,0.0,2004/05,2004,Liverpool,6.0,40.6,43534.0
+504,Manchester United,Birmingham City,2.0,14.0,75643.0,Old Trafford,feb,0.0,2004/05,2004,Manchester,5.0,28.4,67838.0
+505,Middlesbrough,Blackburn Rovers,6.0,16.0,33746.0,Riverside Stadium,feb,0.0,2004/05,2004,Middlesbrough,5.0,21.8,30654.0
+506,Newcastle United,Charlton Athletic,12.0,8.0,52305.0,Sports Direct Arena,feb,0.0,2004/05,2004,Newcastle,3.0,122.8,51114.0
+507,Norwich City,West Bromwich Albion,18.0,20.0,27359.0,Carrow Road,feb,0.0,2004/05,2004,Norwich,5.0,25.8,24292.0
+508,Tottenham Hotspur,Portsmouth,9.0,13.0,36284.0,White Hart Lane,feb,0.0,2004/05,2004,London,6.0,47.9,36105.0
+509,Aston Villa,Arsenal,11.0,3.0,42749.0,Villa Park,feb,0.0,2004/05,2004,Birmingham,5.0,23.4,42593.0
+510,Birmingham City,Southampton,14.0,18.0,30079.0,St Andrews,feb,0.0,2004/05,2004,Birmingham,5.0,23.4,28797.0
+511,Fulham,Aston Villa,15.0,11.0,25700.0,Craven Cottage,feb,0.0,2004/05,2004,London,6.0,47.9,17624.0
+512,Manchester City,Newcastle United,10.0,12.0,53400.0,Etihad Stadium,feb,0.0,2004/05,2004,Manchester,5.0,28.4,45752.0
+513,Blackburn Rovers,Chelsea,16.0,1.0,31367.0,Ewood Park,feb,0.0,2004/05,2004,Blackburn,5.0,28.7,23414.0
+514,Everton,Norwich City,4.0,19.0,39414.0,Goodison Park,feb,0.0,2004/05,2004,Liverpool,6.0,40.6,37485.0
+515,Portsmouth,Middlesbrough,13.0,6.0,20978.0,Fratton Park,feb,0.0,2004/05,2004,Portsmouth,6.0,23.8,19610.0
+516,West Bromwich Albion,Crystal Palace,20.0,17.0,26445.0,The Hawthorns,feb,0.0,2004/05,2004,West Bromwich,5.0,23.4,27997.0
+517,Arsenal,Manchester United,3.0,2.0,38419.0,Highbury,feb,0.0,2004/05,2004,London,6.0,47.9,38154.0
+518,Bolton Wanderers,Tottenham Hotspur,8.0,9.0,28723.0,Macron Stadium,feb,0.0,2004/05,2004,Bolton,5.0,28.4,24780.0
+519,Charlton Athletic,Liverpool,7.0,5.0,27111.0,The Valley,feb,0.0,2004/05,2004,London,6.0,47.9,27102.0
+520,Blackburn Rovers,Bolton Wanderers,16.0,9.0,31367.0,Ewood Park,jan,0.0,2004/05,2004,Blackburn,5.0,32.5,20056.0
+521,Arsenal,Newcastle United,2.0,12.0,38419.0,Highbury,jan,0.0,2004/05,2004,London,6.0,52.9,38137.0
+522,Southampton,Liverpool,18.0,5.0,32384.0,The Friends Provident St Mary's Stadium,jan,0.0,2004/05,2004,Southampton,6.0,35.7,32017.0
+523,Birmingham City,Fulham,15.0,13.0,30079.0,St Andrews,jan,0.0,2004/05,2004,Birmingham,4.0,34.7,28512.0
+524,Chelsea,Portsmouth,1.0,14.0,40834.0,Stamford Bridge,jan,0.0,2004/05,2004,London,6.0,52.9,42288.0
+525,Crystal Palace,Tottenham Hotspur,17.0,8.0,25486.0,Selhurst Park,jan,1.0,2004/05,2004,London,6.0,52.9,23723.0
+526,Everton,Charlton Athletic,4.0,7.0,39414.0,Goodison Park,jan,0.0,2004/05,2004,Liverpool,5.0,58.3,36041.0
+527,Manchester United,Aston Villa,3.0,11.0,75643.0,Old Trafford,jan,0.0,2004/05,2004,Manchester,5.0,32.4,67859.0
+528,Norwich City,Middlesbrough,19.0,6.0,27359.0,Carrow Road,jan,0.0,2004/05,2004,Norwich,5.0,27.9,24547.0
+529,West Bromwich Albion,Manchester City,20.0,10.0,26445.0,The Hawthorns,jan,0.0,2004/05,2004,West Bromwich,4.0,34.7,25210.0
+530,Middlesbrough,Everton,6.0,4.0,33746.0,Riverside Stadium,jan,0.0,2004/05,2004,Middlesbrough,4.0,29.4,31794.0
+531,Fulham,West Bromwich Albion,15.0,20.0,25700.0,Craven Cottage,jan,0.0,2004/05,2004,London,6.0,52.9,16180.0
+532,Liverpool,Manchester United,5.0,3.0,54074.0,Anfield,jan,0.0,2004/05,2004,Liverpool,5.0,58.3,44183.0
+533,Aston Villa,Norwich City,10.0,18.0,42749.0,Villa Park,jan,0.0,2004/05,2004,Birmingham,4.0,34.7,38172.0
+534,Charlton Athletic,Birmingham City,7.0,14.0,27111.0,The Valley,jan,0.0,2004/05,2004,London,6.0,52.9,26083.0
+535,Manchester City,Crystal Palace,9.0,17.0,53400.0,Etihad Stadium,jan,0.0,2004/05,2004,Manchester,5.0,32.4,44010.0
+536,Newcastle United,Southampton,12.0,19.0,52305.0,Sports Direct Arena,jan,0.0,2004/05,2004,Newcastle,3.0,190.9,51266.0
+537,Portsmouth,Blackburn Rovers,13.0,16.0,20978.0,Fratton Park,jan,0.0,2004/05,2004,Portsmouth,6.0,35.7,19904.0
+538,Tottenham Hotspur,Chelsea,8.0,1.0,36284.0,White Hart Lane,jan,1.0,2004/05,2004,London,6.0,52.9,36105.0
+539,Bolton Wanderers,Arsenal,11.0,2.0,28723.0,Macron Stadium,jan,0.0,2004/05,2004,Bolton,5.0,32.4,27514.0
+540,Southampton,Fulham,19.0,15.0,32384.0,The Friends Provident St Mary's Stadium,jan,0.0,2004/05,2004,Southampton,6.0,35.7,27343.0
+541,Arsenal,Manchester City,2.0,9.0,38419.0,Highbury,jan,0.0,2004/05,2004,London,6.0,52.9,38086.0
+542,Birmingham City,Bolton Wanderers,13.0,11.0,30079.0,St Andrews,jan,0.0,2004/05,2004,Birmingham,4.0,34.7,27177.0
+543,Chelsea,Middlesbrough,1.0,6.0,40834.0,Stamford Bridge,jan,0.0,2004/05,2004,London,6.0,52.9,40978.0
+544,Everton,Portsmouth,4.0,12.0,39414.0,Goodison Park,jan,0.0,2004/05,2004,Liverpool,5.0,58.3,35480.0
+545,Manchester United,Tottenham Hotspur,3.0,7.0,75643.0,Old Trafford,jan,0.0,2004/05,2004,Manchester,5.0,32.4,67962.0
+546,Norwich City,Liverpool,18.0,5.0,27359.0,Carrow Road,jan,0.0,2004/05,2004,Norwich,5.0,27.9,24503.0
+547,Blackburn Rovers,Charlton Athletic,16.0,8.0,31367.0,Ewood Park,jan,0.0,2004/05,2004,Blackburn,5.0,32.5,19819.0
+548,Crystal Palace,Aston Villa,17.0,10.0,25486.0,Selhurst Park,jan,0.0,2004/05,2004,London,6.0,52.9,24140.0
+549,West Bromwich Albion,Newcastle United,20.0,14.0,26445.0,The Hawthorns,jan,0.0,2004/05,2004,West Bromwich,4.0,34.7,25149.0
+550,Liverpool,Chelsea,6.0,1.0,54074.0,Anfield,jan,0.0,2004/05,2004,Liverpool,5.0,58.3,43976.0
+551,Fulham,Crystal Palace,15.0,18.0,25700.0,Craven Cottage,jan,1.0,2004/05,2004,London,6.0,52.9,18680.0
+552,Aston Villa,Blackburn Rovers,9.0,16.0,42749.0,Villa Park,jan,0.0,2004/05,2004,Birmingham,4.0,34.7,34265.0
+553,Bolton Wanderers,West Bromwich Albion,14.0,20.0,28723.0,Macron Stadium,jan,0.0,2004/05,2004,Bolton,5.0,32.4,25205.0
+554,Charlton Athletic,Arsenal,8.0,2.0,27111.0,The Valley,jan,1.0,2004/05,2004,London,6.0,52.9,26694.0
+555,Manchester City,Southampton,10.0,19.0,53400.0,Etihad Stadium,jan,0.0,2004/05,2004,Manchester,5.0,32.4,42895.0
+556,Newcastle United,Birmingham City,13.0,12.0,52305.0,Sports Direct Arena,jan,0.0,2004/05,2004,Newcastle,3.0,190.9,52222.0
+557,Portsmouth,Norwich City,11.0,17.0,20978.0,Fratton Park,jan,0.0,2004/05,2004,Portsmouth,6.0,35.7,20015.0
+558,Tottenham Hotspur,Everton,7.0,4.0,36284.0,White Hart Lane,jan,0.0,2004/05,2004,London,6.0,52.9,36102.0
+559,Middlesbrough,Manchester United,5.0,3.0,33746.0,Riverside Stadium,jan,0.0,2004/05,2004,Middlesbrough,4.0,29.4,34199.0
+560,Newcastle United,Arsenal,14.0,2.0,52305.0,Sports Direct Arena,dec,0.0,2004/05,2004,Newcastle,4.0,230.3,52320.0
+561,Bolton Wanderers,Blackburn Rovers,13.0,15.0,28723.0,Macron Stadium,dec,0.0,2004/05,2004,Bolton,5.0,37.4,27038.0
+562,Charlton Athletic,Everton,7.0,4.0,27111.0,The Valley,dec,0.0,2004/05,2004,London,6.0,65.1,26968.0
+563,Fulham,Birmingham City,16.0,9.0,25700.0,Craven Cottage,dec,0.0,2004/05,2004,London,6.0,65.1,18706.0
+564,Manchester City,West Bromwich Albion,12.0,20.0,53400.0,Etihad Stadium,dec,0.0,2004/05,2004,Manchester,5.0,37.4,47177.0
+565,Middlesbrough,Norwich City,5.0,18.0,33746.0,Riverside Stadium,dec,0.0,2004/05,2004,Middlesbrough,5.0,28.7,34836.0
+566,Portsmouth,Chelsea,10.0,1.0,20978.0,Fratton Park,dec,0.0,2004/05,2004,Portsmouth,6.0,31.4,20210.0
+567,Tottenham Hotspur,Crystal Palace,8.0,17.0,36284.0,White Hart Lane,dec,1.0,2004/05,2004,London,6.0,65.1,36106.0
+568,Liverpool,Southampton,6.0,19.0,54074.0,Anfield,dec,0.0,2004/05,2004,Liverpool,6.0,72.8,42382.0
+569,Aston Villa,Manchester United,11.0,3.0,42749.0,Villa Park,dec,0.0,2004/05,2004,Birmingham,5.0,27.9,42593.0
+570,Southampton,Charlton Athletic,19.0,8.0,32384.0,The Friends Provident St Mary's Stadium,dec,0.0,2004/05,2004,Southampton,6.0,31.4,31195.0
+571,Arsenal,Fulham,2.0,15.0,38419.0,Highbury,dec,1.0,2004/05,2004,London,6.0,65.1,38047.0
+572,Chelsea,Aston Villa,1.0,10.0,40834.0,Stamford Bridge,dec,0.0,2004/05,2004,London,6.0,65.1,41988.0
+573,Crystal Palace,Portsmouth,18.0,9.0,25486.0,Selhurst Park,dec,0.0,2004/05,2004,London,6.0,65.1,25238.0
+574,Birmingham City,Middlesbrough,12.0,5.0,30079.0,St Andrews,dec,0.0,2004/05,2004,Birmingham,5.0,27.9,29082.0
+575,Blackburn Rovers,Newcastle United,16.0,14.0,31367.0,Ewood Park,dec,0.0,2004/05,2004,Blackburn,6.0,45.0,29271.0
+576,Everton,Manchester City,3.0,11.0,39414.0,Goodison Park,dec,0.0,2004/05,2004,Liverpool,6.0,72.8,40530.0
+577,Manchester United,Bolton Wanderers,4.0,13.0,75643.0,Old Trafford,dec,0.0,2004/05,2004,Manchester,5.0,37.4,67867.0
+578,Norwich City,Tottenham Hotspur,17.0,7.0,27359.0,Carrow Road,dec,0.0,2004/05,2004,Norwich,5.0,31.7,24508.0
+579,West Bromwich Albion,Liverpool,20.0,6.0,26445.0,The Hawthorns,dec,0.0,2004/05,2004,West Bromwich,5.0,27.9,27533.0
+580,Charlton Athletic,Fulham,7.0,15.0,27111.0,The Valley,dec,1.0,2004/05,2004,London,6.0,65.1,26111.0
+581,Liverpool,Newcastle United,6.0,13.0,54074.0,Anfield,dec,0.0,2004/05,2004,Liverpool,6.0,72.8,43856.0
+582,Portsmouth,Arsenal,12.0,2.0,20978.0,Fratton Park,dec,0.0,2004/05,2004,Portsmouth,6.0,31.4,20170.0
+583,Birmingham City,West Bromwich Albion,14.0,20.0,30079.0,St Andrews,dec,0.0,2004/05,2004,Birmingham,5.0,27.9,28880.0
+584,Blackburn Rovers,Everton,16.0,3.0,31367.0,Ewood Park,dec,0.0,2004/05,2004,Blackburn,6.0,45.0,25191.0
+585,Bolton Wanderers,Manchester City,11.0,10.0,28723.0,Macron Stadium,dec,0.0,2004/05,2004,Bolton,5.0,37.4,27274.0
+586,Chelsea,Norwich City,1.0,17.0,40834.0,Stamford Bridge,dec,0.0,2004/05,2004,London,6.0,65.1,42060.0
+587,Middlesbrough,Aston Villa,5.0,9.0,33746.0,Riverside Stadium,dec,0.0,2004/05,2004,Middlesbrough,5.0,28.7,31338.0
+588,Tottenham Hotspur,Southampton,8.0,19.0,36284.0,White Hart Lane,dec,0.0,2004/05,2004,London,6.0,65.1,36040.0
+589,Manchester United,Crystal Palace,4.0,18.0,75643.0,Old Trafford,dec,0.0,2004/05,2004,Manchester,5.0,37.4,67814.0
+590,Liverpool,Portsmouth,6.0,10.0,54074.0,Anfield,dec,0.0,2004/05,2004,Liverpool,6.0,72.8,35064.0
+591,Fulham,Manchester United,14.0,4.0,25700.0,Craven Cottage,dec,0.0,2004/05,2004,London,6.0,65.1,21940.0
+592,Aston Villa,Birmingham City,7.0,15.0,42749.0,Villa Park,dec,1.0,2004/05,2004,Birmingham,5.0,27.9,41329.0
+593,Arsenal,Chelsea,3.0,1.0,38419.0,Highbury,dec,1.0,2004/05,2004,London,6.0,65.1,38153.0
+594,Everton,Liverpool,2.0,6.0,39414.0,Goodison Park,dec,1.0,2004/05,2004,Liverpool,6.0,72.8,40552.0
+595,Crystal Palace,Blackburn Rovers,17.0,18.0,25486.0,Selhurst Park,dec,0.0,2004/05,2004,London,6.0,65.1,22010.0
+596,Manchester City,Tottenham Hotspur,13.0,11.0,53400.0,Etihad Stadium,dec,0.0,2004/05,2004,Manchester,5.0,37.4,45805.0
+597,Newcastle United,Portsmouth,12.0,10.0,52305.0,Sports Direct Arena,dec,0.0,2004/05,2004,Newcastle,4.0,230.3,51480.0
+598,Norwich City,Bolton Wanderers,16.0,9.0,27359.0,Carrow Road,dec,0.0,2004/05,2004,Norwich,5.0,31.7,23549.0
+599,Southampton,Middlesbrough,19.0,5.0,32384.0,The Friends Provident St Mary's Stadium,dec,0.0,2004/05,2004,Southampton,6.0,31.4,29018.0
+600,West Bromwich Albion,Charlton Athletic,20.0,8.0,26445.0,The Hawthorns,dec,0.0,2004/05,2004,West Bromwich,5.0,27.9,24581.0
+601,Middlesbrough,Manchester City,5.0,11.0,33746.0,Riverside Stadium,dec,0.0,2004/05,2004,Middlesbrough,5.0,28.7,29787.0
+602,Crystal Palace,Charlton Athletic,16.0,10.0,25486.0,Selhurst Park,dec,1.0,2004/05,2004,London,6.0,65.1,20705.0
+603,Chelsea,Newcastle United,1.0,12.0,40834.0,Stamford Bridge,dec,0.0,2004/05,2004,London,6.0,65.1,42331.0
+604,Arsenal,Birmingham City,2.0,15.0,38419.0,Highbury,dec,0.0,2004/05,2004,London,6.0,65.1,38064.0
+605,Aston Villa,Liverpool,6.0,7.0,42749.0,Villa Park,dec,0.0,2004/05,2004,Birmingham,5.0,27.9,42593.0
+606,Everton,Bolton Wanderers,3.0,8.0,39414.0,Goodison Park,dec,0.0,2004/05,2004,Liverpool,6.0,72.8,35929.0
+607,Manchester United,Southampton,4.0,18.0,75643.0,Old Trafford,dec,0.0,2004/05,2004,Manchester,5.0,37.4,67921.0
+608,Norwich City,Fulham,19.0,14.0,27359.0,Carrow Road,dec,0.0,2004/05,2004,Norwich,5.0,31.7,23755.0
+609,Portsmouth,West Bromwich Albion,9.0,20.0,20978.0,Fratton Park,dec,0.0,2004/05,2004,Portsmouth,6.0,31.4,20110.0
+610,Blackburn Rovers,Tottenham Hotspur,17.0,13.0,31367.0,Ewood Park,dec,0.0,2004/05,2004,Blackburn,6.0,45.0,22182.0
+611,Newcastle United,Everton,10.0,3.0,52305.0,Sports Direct Arena,nov,0.0,2004/05,2004,Newcastle,6.0,202.8,51247.0
+612,Tottenham Hotspur,Middlesbrough,13.0,5.0,36284.0,White Hart Lane,nov,0.0,2004/05,2004,London,9.0,72.0,35772.0
+613,Liverpool,Arsenal,7.0,2.0,54074.0,Anfield,nov,0.0,2004/05,2004,Liverpool,8.0,67.8,43730.0
+614,Birmingham City,Norwich City,14.0,19.0,30079.0,St Andrews,nov,0.0,2004/05,2004,Birmingham,7.0,31.5,29120.0
+615,Bolton Wanderers,Portsmouth,8.0,11.0,28723.0,Macron Stadium,nov,0.0,2004/05,2004,Bolton,7.0,35.8,25008.0
+616,Charlton Athletic,Chelsea,12.0,1.0,27111.0,The Valley,nov,1.0,2004/05,2004,London,9.0,72.0,26327.0
+617,Southampton,Crystal Palace,18.0,16.0,32384.0,The Friends Provident St Mary's Stadium,nov,0.0,2004/05,2004,Southampton,8.0,28.4,31833.0
+618,West Bromwich Albion,Manchester United,20.0,4.0,26445.0,The Hawthorns,nov,0.0,2004/05,2004,West Bromwich,7.0,31.5,27402.0
+619,Manchester City,Aston Villa,9.0,6.0,53400.0,Etihad Stadium,nov,0.0,2004/05,2004,Manchester,7.0,35.8,45805.0
+620,Fulham,Blackburn Rovers,15.0,17.0,25700.0,Craven Cottage,nov,0.0,2004/05,2004,London,9.0,72.0,19103.0
+621,Aston Villa,Tottenham Hotspur,5.0,15.0,42749.0,Villa Park,nov,0.0,2004/05,2004,Birmingham,7.0,31.5,35702.0
+622,Blackburn Rovers,Birmingham City,20.0,14.0,31367.0,Ewood Park,nov,0.0,2004/05,2004,Blackburn,8.0,43.7,20290.0
+623,Manchester United,Charlton Athletic,6.0,10.0,75643.0,Old Trafford,nov,0.0,2004/05,2004,Manchester,7.0,35.8,67704.0
+624,Arsenal,West Bromwich Albion,2.0,19.0,38419.0,Highbury,nov,0.0,2004/05,2004,London,9.0,72.0,38109.0
+625,Chelsea,Bolton Wanderers,1.0,7.0,40834.0,Stamford Bridge,nov,0.0,2004/05,2004,London,9.0,72.0,42257.0
+626,Crystal Palace,Newcastle United,16.0,9.0,25486.0,Selhurst Park,nov,0.0,2004/05,2004,London,9.0,72.0,22937.0
+627,Everton,Fulham,3.0,13.0,39414.0,Goodison Park,nov,0.0,2004/05,2004,Liverpool,8.0,67.8,34763.0
+628,Middlesbrough,Liverpool,4.0,8.0,33746.0,Riverside Stadium,nov,0.0,2004/05,2004,Middlesbrough,7.0,29.1,34751.0
+629,Norwich City,Southampton,18.0,17.0,27359.0,Carrow Road,nov,0.0,2004/05,2004,Norwich,8.0,32.6,23706.0
+630,Portsmouth,Manchester City,12.0,11.0,20978.0,Fratton Park,nov,0.0,2004/05,2004,Portsmouth,8.0,28.4,20101.0
+631,West Bromwich Albion,Middlesbrough,18.0,4.0,26445.0,The Hawthorns,nov,0.0,2004/05,2004,West Bromwich,7.0,31.5,23864.0
+632,Newcastle United,Manchester United,10.0,7.0,52305.0,Sports Direct Arena,nov,0.0,2004/05,2004,Newcastle,6.0,202.8,52320.0
+633,Southampton,Portsmouth,17.0,11.0,32384.0,The Friends Provident St Mary's Stadium,nov,0.0,2004/05,2004,Southampton,8.0,28.4,30921.0
+634,Tottenham Hotspur,Arsenal,14.0,2.0,36284.0,White Hart Lane,nov,1.0,2004/05,2004,London,9.0,72.0,36096.0
+635,Bolton Wanderers,Aston Villa,5.0,6.0,28723.0,Macron Stadium,nov,0.0,2004/05,2004,Bolton,7.0,35.8,25779.0
+636,Charlton Athletic,Norwich City,9.0,20.0,27111.0,The Valley,nov,0.0,2004/05,2004,London,9.0,72.0,27048.0
+637,Fulham,Chelsea,13.0,1.0,25700.0,Craven Cottage,nov,1.0,2004/05,2004,London,9.0,72.0,21887.0
+638,Liverpool,Crystal Palace,8.0,16.0,54074.0,Anfield,nov,0.0,2004/05,2004,Liverpool,8.0,67.8,42862.0
+639,Manchester City,Blackburn Rovers,12.0,19.0,53400.0,Etihad Stadium,nov,0.0,2004/05,2004,Manchester,7.0,35.8,45504.0
+640,Birmingham City,Everton,15.0,3.0,30079.0,St Andrews,nov,0.0,2004/05,2004,Birmingham,7.0,31.5,28388.0
+641,Middlesbrough,Bolton Wanderers,5.0,4.0,33746.0,Riverside Stadium,nov,0.0,2004/05,2004,Middlesbrough,7.0,29.1,29656.0
+642,Newcastle United,Fulham,9.0,12.0,52305.0,Sports Direct Arena,nov,0.0,2004/05,2004,Newcastle,6.0,202.8,51118.0
+643,Manchester United,Manchester City,7.0,13.0,75643.0,Old Trafford,nov,1.0,2004/05,2004,Manchester,7.0,35.8,67863.0
+644,Aston Villa,Portsmouth,6.0,10.0,42749.0,Villa Park,nov,0.0,2004/05,2004,Birmingham,7.0,31.5,32633.0
+645,Chelsea,Everton,1.0,3.0,40834.0,Stamford Bridge,nov,0.0,2004/05,2004,London,9.0,72.0,41999.0
+646,Liverpool,Birmingham City,8.0,15.0,54074.0,Anfield,nov,0.0,2004/05,2004,Liverpool,8.0,67.8,42669.0
+647,Norwich City,Blackburn Rovers,19.0,20.0,27359.0,Carrow Road,nov,0.0,2004/05,2004,Norwich,8.0,32.6,23834.0
+648,Southampton,West Bromwich Albion,18.0,17.0,32384.0,The Friends Provident St Mary's Stadium,nov,0.0,2004/05,2004,Southampton,8.0,28.4,31057.0
+649,Tottenham Hotspur,Charlton Athletic,14.0,11.0,36284.0,White Hart Lane,nov,1.0,2004/05,2004,London,9.0,72.0,35347.0
+650,Crystal Palace,Arsenal,16.0,2.0,25486.0,Selhurst Park,nov,1.0,2004/05,2004,London,9.0,72.0,26193.0
+651,Manchester City,Norwich City,12.0,19.0,53400.0,Etihad Stadium,nov,0.0,2004/05,2004,Manchester,7.0,35.8,42803.0
+652,Bolton Wanderers,Newcastle United,4.0,8.0,28723.0,Macron Stadium,oct,0.0,2004/05,2004,Bolton,11.0,46.1,27196.0
+653,Arsenal,Southampton,1.0,18.0,38419.0,Highbury,oct,0.0,2004/05,2004,London,13.0,61.5,38141.0
+654,Charlton Athletic,Middlesbrough,13.0,5.0,27111.0,The Valley,oct,0.0,2004/05,2004,London,13.0,61.5,26033.0
+655,Everton,Aston Villa,3.0,10.0,39414.0,Goodison Park,oct,0.0,2004/05,2004,Liverpool,12.0,58.2,37816.0
+656,Fulham,Tottenham Hotspur,15.0,11.0,25700.0,Craven Cottage,oct,1.0,2004/05,2004,London,13.0,61.5,21317.0
+657,Portsmouth,Manchester United,9.0,7.0,20978.0,Fratton Park,oct,0.0,2004/05,2004,Portsmouth,12.0,29.2,20190.0
+658,West Bromwich Albion,Chelsea,17.0,2.0,26445.0,The Hawthorns,oct,0.0,2004/05,2004,West Bromwich,11.0,31.9,27260.0
+659,Blackburn Rovers,Liverpool,20.0,6.0,31367.0,Ewood Park,oct,0.0,2004/05,2004,Blackburn,11.0,54.6,26314.0
+660,Birmingham City,Crystal Palace,16.0,14.0,30079.0,St Andrews,oct,0.0,2004/05,2004,Birmingham,11.0,31.9,28916.0
+661,Southampton,Birmingham City,18.0,14.0,32384.0,The Friends Provident St Mary's Stadium,oct,0.0,2004/05,2004,Southampton,12.0,29.2,27568.0
+662,Middlesbrough,Portsmouth,8.0,11.0,33746.0,Riverside Stadium,oct,0.0,2004/05,2004,Middlesbrough,10.0,32.0,30964.0
+663,Newcastle United,Manchester City,7.0,13.0,52305.0,Sports Direct Arena,oct,0.0,2004/05,2004,Newcastle,9.0,161.3,52316.0
+664,Manchester United,Arsenal,5.0,1.0,75643.0,Old Trafford,oct,0.0,2004/05,2004,Manchester,11.0,46.1,67862.0
+665,Norwich City,Everton,19.0,3.0,27359.0,Carrow Road,oct,0.0,2004/05,2004,Norwich,12.0,30.6,23871.0
+666,Aston Villa,Fulham,9.0,17.0,42749.0,Villa Park,oct,0.0,2004/05,2004,Birmingham,11.0,31.9,34460.0
+667,Chelsea,Blackburn Rovers,2.0,20.0,40834.0,Stamford Bridge,oct,0.0,2004/05,2004,London,13.0,61.5,41546.0
+668,Crystal Palace,West Bromwich Albion,15.0,16.0,25486.0,Selhurst Park,oct,0.0,2004/05,2004,London,13.0,61.5,22922.0
+669,Tottenham Hotspur,Bolton Wanderers,10.0,4.0,36284.0,White Hart Lane,oct,0.0,2004/05,2004,London,13.0,61.5,36025.0
+670,Liverpool,Charlton Athletic,6.0,12.0,54074.0,Anfield,oct,0.0,2004/05,2004,Liverpool,12.0,58.2,41625.0
+671,Portsmouth,Tottenham Hotspur,12.0,9.0,20978.0,Fratton Park,oct,0.0,2004/05,2004,Portsmouth,12.0,29.2,20121.0
+672,Charlton Athletic,Newcastle United,10.0,8.0,27111.0,The Valley,oct,0.0,2004/05,2004,London,13.0,61.5,26553.0
+673,Birmingham City,Manchester United,14.0,6.0,30079.0,St Andrews,oct,0.0,2004/05,2004,Birmingham,11.0,31.9,29221.0
+674,Arsenal,Aston Villa,1.0,13.0,38419.0,Highbury,oct,0.0,2004/05,2004,London,13.0,61.5,38137.0
+675,Blackburn Rovers,Middlesbrough,18.0,5.0,31367.0,Ewood Park,oct,0.0,2004/05,2004,Blackburn,11.0,54.6,20385.0
+676,Bolton Wanderers,Crystal Palace,4.0,20.0,28723.0,Macron Stadium,oct,0.0,2004/05,2004,Bolton,11.0,46.1,25501.0
+677,Everton,Southampton,3.0,19.0,39414.0,Goodison Park,oct,0.0,2004/05,2004,Liverpool,12.0,58.2,35256.0
+678,Fulham,Liverpool,16.0,7.0,25700.0,Craven Cottage,oct,0.0,2004/05,2004,London,13.0,61.5,21884.0
+679,West Bromwich Albion,Norwich City,15.0,17.0,26445.0,The Hawthorns,oct,0.0,2004/05,2004,West Bromwich,11.0,31.9,26257.0
+680,Manchester City,Chelsea,11.0,2.0,53400.0,Etihad Stadium,oct,0.0,2004/05,2004,Manchester,11.0,46.1,45047.0
+681,Crystal Palace,Fulham,19.0,14.0,25486.0,Selhurst Park,oct,1.0,2004/05,2004,London,13.0,61.5,21825.0
+682,Birmingham City,Newcastle United,15.0,6.0,30079.0,St Andrews,oct,0.0,2004/05,2004,Birmingham,11.0,31.9,29021.0
+683,Manchester United,Middlesbrough,4.0,9.0,75643.0,Old Trafford,oct,0.0,2004/05,2004,Manchester,11.0,46.1,67988.0
+684,Chelsea,Liverpool,2.0,11.0,40834.0,Stamford Bridge,oct,0.0,2004/05,2004,London,13.0,61.5,42028.0
+685,Southampton,Manchester City,18.0,12.0,32384.0,The Friends Provident St Mary's Stadium,oct,0.0,2004/05,2004,Southampton,12.0,29.2,28605.0
+686,Arsenal,Charlton Athletic,1.0,10.0,38419.0,Highbury,oct,1.0,2004/05,2004,London,13.0,61.5,38103.0
+687,Blackburn Rovers,Aston Villa,17.0,8.0,31367.0,Ewood Park,oct,0.0,2004/05,2004,Blackburn,11.0,54.6,20502.0
+688,Everton,Tottenham Hotspur,3.0,5.0,39414.0,Goodison Park,oct,0.0,2004/05,2004,Liverpool,12.0,58.2,38264.0
+689,Norwich City,Portsmouth,20.0,13.0,27359.0,Carrow Road,oct,0.0,2004/05,2004,Norwich,12.0,30.6,23853.0
+690,West Bromwich Albion,Bolton Wanderers,16.0,7.0,26445.0,The Hawthorns,oct,0.0,2004/05,2004,West Bromwich,11.0,31.9,23849.0
+691,Charlton Athletic,Blackburn Rovers,7.0,16.0,27111.0,The Valley,sep,0.0,2004/05,2004,London,16.0,41.2,26161.0
+692,Portsmouth,Everton,14.0,3.0,20978.0,Fratton Park,sep,0.0,2004/05,2004,Portsmouth,15.0,15.7,20125.0
+693,Aston Villa,Crystal Palace,9.0,20.0,42749.0,Villa Park,sep,0.0,2004/05,2004,Birmingham,14.0,17.8,34843.0
+694,Fulham,Southampton,12.0,17.0,25700.0,Craven Cottage,sep,0.0,2004/05,2004,London,16.0,41.2,19237.0
+695,Liverpool,Norwich City,8.0,19.0,54074.0,Anfield,sep,0.0,2004/05,2004,Liverpool,15.0,49.0,43152.0
+696,Manchester City,Arsenal,13.0,1.0,53400.0,Etihad Stadium,sep,0.0,2004/05,2004,Manchester,14.0,26.5,47015.0
+697,Newcastle United,West Bromwich Albion,6.0,18.0,52305.0,Sports Direct Arena,sep,0.0,2004/05,2004,Newcastle,12.0,101.9,52308.0
+698,Tottenham Hotspur,Manchester United,10.0,5.0,36284.0,White Hart Lane,sep,0.0,2004/05,2004,London,16.0,41.2,36103.0
+699,Bolton Wanderers,Birmingham City,4.0,15.0,28723.0,Macron Stadium,sep,0.0,2004/05,2004,Bolton,14.0,26.5,23692.0
+700,Middlesbrough,Chelsea,11.0,2.0,33746.0,Riverside Stadium,sep,0.0,2004/05,2004,Middlesbrough,14.0,18.7,32341.0
+701,Manchester United,Liverpool,8.0,12.0,75643.0,Old Trafford,sep,0.0,2004/05,2004,Manchester,14.0,26.5,67857.0
+702,Southampton,Newcastle United,17.0,9.0,32384.0,The Friends Provident St Mary's Stadium,sep,0.0,2004/05,2004,Southampton,15.0,15.7,30709.0
+703,Everton,Middlesbrough,3.0,6.0,39414.0,Goodison Park,sep,0.0,2004/05,2004,Liverpool,15.0,49.0,34078.0
+704,Chelsea,Tottenham Hotspur,2.0,5.0,40834.0,Stamford Bridge,sep,1.0,2004/05,2004,London,16.0,41.2,42267.0
+705,Arsenal,Bolton Wanderers,1.0,4.0,38419.0,Highbury,sep,0.0,2004/05,2004,London,16.0,41.2,37010.0
+706,Birmingham City,Charlton Athletic,14.0,10.0,30079.0,St Andrews,sep,0.0,2004/05,2004,Birmingham,14.0,17.8,27400.0
+707,Blackburn Rovers,Portsmouth,16.0,13.0,31367.0,Ewood Park,sep,0.0,2004/05,2004,Blackburn,14.0,30.9,20647.0
+708,Crystal Palace,Manchester City,20.0,11.0,25486.0,Selhurst Park,sep,0.0,2004/05,2004,London,16.0,41.2,25052.0
+709,Norwich City,Aston Villa,18.0,7.0,27359.0,Carrow Road,sep,0.0,2004/05,2004,Norwich,15.0,24.0,23805.0
+710,West Bromwich Albion,Fulham,19.0,15.0,26445.0,The Hawthorns,sep,0.0,2004/05,2004,West Bromwich,14.0,17.8,24054.0
+711,Charlton Athletic,Southampton,10.0,15.0,27111.0,The Valley,sep,0.0,2004/05,2004,London,16.0,41.2,24237.0
+712,Tottenham Hotspur,Norwich City,6.0,17.0,36284.0,White Hart Lane,sep,0.0,2004/05,2004,London,16.0,41.2,36095.0
+713,Aston Villa,Chelsea,7.0,2.0,42749.0,Villa Park,sep,0.0,2004/05,2004,Birmingham,14.0,17.8,36691.0
+714,Bolton Wanderers,Manchester United,3.0,11.0,28723.0,Macron Stadium,sep,0.0,2004/05,2004,Bolton,14.0,26.5,27766.0
+715,Fulham,Arsenal,16.0,1.0,25700.0,Craven Cottage,sep,1.0,2004/05,2004,London,16.0,41.2,21681.0
+716,Liverpool,West Bromwich Albion,8.0,18.0,54074.0,Anfield,sep,0.0,2004/05,2004,Liverpool,15.0,49.0,42947.0
+717,Manchester City,Everton,13.0,5.0,53400.0,Etihad Stadium,sep,0.0,2004/05,2004,Manchester,14.0,26.5,47006.0
+718,Middlesbrough,Birmingham City,4.0,14.0,33746.0,Riverside Stadium,sep,0.0,2004/05,2004,Middlesbrough,14.0,18.7,30752.0
+719,Newcastle United,Blackburn Rovers,12.0,19.0,52305.0,Sports Direct Arena,sep,0.0,2004/05,2004,Newcastle,12.0,101.9,52015.0
+720,Portsmouth,Crystal Palace,9.0,20.0,20978.0,Fratton Park,sep,0.0,2004/05,2004,Portsmouth,15.0,15.7,20019.0
+721,Manchester United,Everton,9.0,7.0,75643.0,Old Trafford,aug,0.0,2004/05,2004,Manchester,16.0,31.4,67803.0
+722,Portsmouth,Fulham,11.0,13.0,20978.0,Fratton Park,aug,0.0,2004/05,2004,Portsmouth,17.0,10.9,20021.0
+723,Bolton Wanderers,Liverpool,3.0,12.0,28723.0,Macron Stadium,aug,0.0,2004/05,2004,Bolton,16.0,31.4,26880.0
+724,Blackburn Rovers,Manchester United,19.0,9.0,31367.0,Ewood Park,aug,0.0,2004/05,2004,Blackburn,16.0,35.9,26155.0
+725,Aston Villa,Newcastle United,6.0,17.0,42749.0,Villa Park,aug,0.0,2004/05,2004,Birmingham,16.0,27.0,36305.0
+726,Chelsea,Southampton,2.0,16.0,40834.0,Stamford Bridge,aug,0.0,2004/05,2004,London,18.0,57.5,40864.0
+727,Everton,West Bromwich Albion,7.0,15.0,39414.0,Goodison Park,aug,0.0,2004/05,2004,Liverpool,16.0,66.6,34510.0
+728,Manchester City,Charlton Athletic,10.0,8.0,53400.0,Etihad Stadium,aug,0.0,2004/05,2004,Manchester,16.0,31.4,43593.0
+729,Middlesbrough,Crystal Palace,5.0,20.0,33746.0,Riverside Stadium,aug,0.0,2004/05,2004,Middlesbrough,16.0,24.6,31560.0
+730,Tottenham Hotspur,Birmingham City,4.0,14.0,36284.0,White Hart Lane,aug,0.0,2004/05,2004,London,18.0,57.5,35284.0
+731,Norwich City,Arsenal,18.0,1.0,27359.0,Carrow Road,aug,0.0,2004/05,2004,Norwich,17.0,27.7,23944.0
+732,Arsenal,Blackburn Rovers,1.0,19.0,38419.0,Highbury,aug,0.0,2004/05,2004,London,18.0,57.5,37496.0
+733,Fulham,Middlesbrough,8.0,7.0,25700.0,Craven Cottage,aug,0.0,2004/05,2004,London,18.0,57.5,17759.0
+734,Southampton,Bolton Wanderers,14.0,3.0,32384.0,The Friends Provident St Mary's Stadium,aug,0.0,2004/05,2004,Southampton,17.0,10.9,30713.0
+735,West Bromwich Albion,Tottenham Hotspur,11.0,5.0,26445.0,The Hawthorns,aug,0.0,2004/05,2004,West Bromwich,16.0,27.0,27048.0
+736,Charlton Athletic,Aston Villa,4.0,10.0,27111.0,The Valley,aug,0.0,2004/05,2004,London,18.0,57.5,26161.0
+737,Newcastle United,Norwich City,15.0,16.0,52305.0,Sports Direct Arena,aug,0.0,2004/05,2004,Newcastle,13.0,104.9,51574.0
+738,Birmingham City,Manchester City,9.0,18.0,30079.0,St Andrews,aug,0.0,2004/05,2004,Birmingham,16.0,27.0,28551.0
+739,Crystal Palace,Chelsea,20.0,2.0,25486.0,Selhurst Park,aug,1.0,2004/05,2004,London,18.0,57.5,24493.0
+740,West Bromwich Albion,Aston Villa,12.0,3.0,26445.0,The Hawthorns,aug,0.0,2004/05,2004,West Bromwich,16.0,27.0,26485.0
+741,Arsenal,Middlesbrough,1.0,19.0,38419.0,Highbury,aug,0.0,2004/05,2004,London,18.0,57.5,37415.0
+742,Southampton,Blackburn Rovers,10.0,13.0,32384.0,The Friends Provident St Mary's Stadium,aug,0.0,2004/05,2004,Southampton,17.0,10.9,27492.0
+743,Birmingham City,Chelsea,18.0,2.0,30079.0,St Andrews,aug,0.0,2004/05,2004,Birmingham,16.0,27.0,28559.0
+744,Charlton Athletic,Portsmouth,11.0,17.0,27111.0,The Valley,aug,0.0,2004/05,2004,London,18.0,57.5,25144.0
+745,Crystal Palace,Everton,20.0,9.0,25486.0,Selhurst Park,aug,0.0,2004/05,2004,London,18.0,57.5,25708.0
+746,Fulham,Bolton Wanderers,4.0,7.0,25700.0,Craven Cottage,aug,0.0,2004/05,2004,London,18.0,57.5,17541.0
+747,Liverpool,Manchester City,5.0,14.0,54074.0,Anfield,aug,0.0,2004/05,2004,Liverpool,16.0,66.6,42042.0
+748,Newcastle United,Tottenham Hotspur,15.0,6.0,52305.0,Sports Direct Arena,aug,0.0,2004/05,2004,Newcastle,13.0,104.9,52185.0
+749,Manchester United,Norwich City,8.0,16.0,75643.0,Old Trafford,aug,0.0,2004/05,2004,Manchester,16.0,31.4,67812.0
+750,Everton,Arsenal,20.0,1.0,39414.0,Goodison Park,aug,0.0,2004/05,2004,Liverpool,16.0,66.6,35241.0
+751,Chelsea,Manchester United,4.0,17.0,40834.0,Stamford Bridge,aug,0.0,2004/05,2004,London,18.0,57.5,42267.0
+752,Tottenham Hotspur,Liverpool,15.0,11.0,36284.0,White Hart Lane,aug,0.0,2004/05,2004,London,18.0,57.5,36104.0
+753,Aston Villa,Southampton,3.0,18.0,42749.0,Villa Park,aug,0.0,2004/05,2004,Birmingham,16.0,27.0,36690.0
+754,Blackburn Rovers,West Bromwich Albion,8.0,16.0,31367.0,Ewood Park,aug,0.0,2004/05,2004,Blackburn,16.0,35.9,23475.0
+755,Bolton Wanderers,Charlton Athletic,2.0,19.0,28723.0,Macron Stadium,aug,0.0,2004/05,2004,Bolton,16.0,31.4,24100.0
+756,Manchester City,Fulham,12.0,10.0,53400.0,Etihad Stadium,aug,0.0,2004/05,2004,Manchester,16.0,31.4,44026.0
+757,Norwich City,Crystal Palace,13.0,9.0,27359.0,Carrow Road,aug,0.0,2004/05,2004,Norwich,17.0,27.7,23717.0
+758,Portsmouth,Birmingham City,14.0,7.0,20978.0,Fratton Park,aug,0.0,2004/05,2004,Portsmouth,17.0,10.9,20021.0
+759,Middlesbrough,Newcastle United,5.0,6.0,33746.0,Riverside Stadium,aug,0.0,2004/05,2004,Middlesbrough,16.0,24.6,34265.0
